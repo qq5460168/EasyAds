@@ -1,15 +1,9 @@
 import os
 from pathlib import Path
-import datetime  # 需要导入datetime模块
+import datetime
 
 def filter_adblock_rules(input_path, output_path):
-    """
-    Filter AdBlock rules and write DNS rules format.
-    
-    Args:
-        input_path (str/Path): Path to input AdBlock rules file
-        output_path (str/Path): Path to output DNS rules file
-    """
+    """Filter AdBlock rules and write DNS rules format"""
     input_path = Path(input_path)
     output_path = Path(output_path)
     
@@ -37,11 +31,11 @@ def filter_adblock_rules(input_path, output_path):
         print(f"Error processing files: {e}")
 
 if __name__ == "__main__":
-    base_dir = Path(__file__).parent.parent
-    input_file = base_dir / "rules" / "adblock.txt"  # 移除了重复的data目录
-    output_file = base_dir / "rules" / "dns.txt"     # 移除了重复的data目录
+    # 输入输出路径改为根目录
+    input_file = Path("./adblock.txt")  # 根目录的adblock.txt
+    output_file = Path("./dns.txt")     # 输出到根目录
     
-    # 确保输出目录存在
+    # 确保输出目录存在（根目录已存在）
     output_file.parent.mkdir(parents=True, exist_ok=True)
     
     filter_adblock_rules(input_file, output_file)
