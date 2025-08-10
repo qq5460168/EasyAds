@@ -1,28 +1,46 @@
 # -*- coding: utf-8 -*-
 import re
 from pathlib import Path
-from typing import List
+from typing import List, Set
 
 def merge_files(pattern: str, output_file: Path):
-    """ºÏ²¢ÎÄ¼ş²¢´¦Àí¶àÖÖ±àÂë"""
+    """åˆå¹¶æ–‡ä»¶å¹¶å¤„ç†å¤šç§ç¼–ç ï¼ŒåŒæ—¶è¿›è¡Œå»é‡"""
     files = sorted(Path('tmp').glob(pattern))
+    seen_lines: Set[str] = set()  # ç”¨äºè·Ÿè¸ªå·²å‡ºç°çš„è¡Œå†…å®¹
+    
     with open(output_file, 'w', encoding='utf-8') as out:
         for file in files:
-            for encoding in ['utf-8', 'gbk', 'latin-1']:  # Ôö¼Ó±àÂë³¢ÊÔË³Ğò
+            file_processed = False
+            for encoding in ['utf-8', 'gbk', 'latin-1']:  # å¢åŠ ç¼–ç å°è¯•é¡ºåº
                 try:
                     with open(file, 'r', encoding=encoding) as f:
-                        out.write(f.read())
-                    break
+                        for line in f:
+                            # æ ‡å‡†åŒ–è¡Œï¼šç§»é™¤ä¸¤ç«¯ç©ºç™½ï¼Œä½†ä¿ç•™ä¸­é—´ç©ºæ ¼
+                            normalized = line.strip()
+                            
+                            # è·³è¿‡ç©ºè¡Œå’Œæ³¨é‡Šè¡Œï¼ˆä»¥#æˆ–!å¼€å¤´çš„è¡Œï¼‰
+                            if not normalized or normalized.startswith(('#', '!')):
+                                out.write(line)  # ä¿ç•™åŸå§‹æ ¼å¼çš„æ³¨é‡Šå’Œç©ºè¡Œ
+                                continue
+                                
+                            # æ£€æŸ¥æ˜¯å¦é‡å¤
+                            if normalized not in seen_lines:
+                                seen_lines.add(normalized)
+                                out.write(line)  # å†™å…¥åŸå§‹è¡Œï¼ˆä¿ç•™åŸå§‹æ ¼å¼ï¼‰
+                    file_processed = True
+                    break  # æˆåŠŸå¤„ç†æ–‡ä»¶åè·³å‡ºç¼–ç å°è¯•å¾ªç¯
                 except UnicodeDecodeError:
                     continue
-            else:
-                print(f"¾¯¸æ: {file} ÎŞ·¨½âÎö£¬Ìø¹ı")
+            
+            if not file_processed:
+                print(f"è­¦å‘Š: {file} æ— æ³•è§£æï¼Œè·³è¿‡")
+            # æ–‡ä»¶ä¹‹é—´æ·»åŠ ç©ºè¡Œåˆ†éš”
             out.write('\n')
 
 def clean_rules(input_file: Path, output_file: Path):
-    """ÇåÀí×¢ÊÍºÍÎŞĞ§ĞĞ"""
+    """æ¸…ç†æ³¨é‡Šå’Œæ— æ•ˆè¡Œï¼ˆä¿æŒä¸å˜ï¼‰"""
     content = ""
-    # ³¢ÊÔ¶àÖÖ±àÂë¶ÁÈ¡
+    # å°è¯•å¤šç§ç¼–ç è¯»å–
     for encoding in ['utf-8', 'gbk', 'latin-1']:
         try:
             with open(input_file, 'r', encoding=encoding) as f:
@@ -31,16 +49,16 @@ def clean_rules(input_file: Path, output_file: Path):
         except UnicodeDecodeError:
             continue
 
-    # ÒÆ³ı×¢ÊÍ£¨±£Áô!¿ªÍ·µÄÔªĞÅÏ¢µ«ÒÆ³ıÆÕÍ¨×¢ÊÍ£©
-    content = re.sub(r'^#(?!\s*#).*$\n?', '', content, flags=re.MULTILINE)  # ÒÆ³ı#¿ªÍ·µÄ×¢ÊÍ
-    content = re.sub(r'^![^Tt].*$\n', '', content, flags=re.MULTILINE)  # ±£Áô! Title/TotalµÈÔªĞÅÏ¢
+    # ç§»é™¤æ³¨é‡Šï¼ˆä¿ç•™!å¼€å¤´çš„å…ƒä¿¡æ¯ä½†ç§»é™¤æ™®é€šæ³¨é‡Šï¼‰
+    content = re.sub(r'^#(?!\s*#).*$\n?', '', content, flags=re.MULTILINE)  # ç§»é™¤#å¼€å¤´çš„æ³¨é‡Š
+    content = re.sub(r'^![^Tt].*$\n', '', content, flags=re.MULTILINE)  # ä¿ç•™! Title/Totalç­‰å…ƒä¿¡æ¯
 
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(content)
 
 def extract_allow_lines(allow_file: Path, adblock_combined_file: Path, allow_output_file: Path):
-    """ÌáÈ¡°×Ãûµ¥¹æÔò²¢È¥ÖØ"""
-    # ¶ÁÈ¡°×Ãûµ¥
+    """æå–ç™½åå•è§„åˆ™å¹¶å»é‡ï¼ˆä¿æŒä¸å˜ï¼‰"""
+    # è¯»å–ç™½åå•
     allow_lines = []
     for encoding in ['utf-8', 'gbk', 'latin-1']:
         try:
@@ -50,11 +68,11 @@ def extract_allow_lines(allow_file: Path, adblock_combined_file: Path, allow_out
         except UnicodeDecodeError:
             continue
 
-    # ºÏ²¢µ½¹ã¸æ¹æÔò£¨ÓÃÓÚÌáÈ¡£©
+    # åˆå¹¶åˆ°å¹¿å‘Šè§„åˆ™ï¼ˆç”¨äºæå–ï¼‰
     with open(adblock_combined_file, 'a', encoding='utf-8') as out:
         out.writelines(allow_lines)
 
-    # ÌáÈ¡@¿ªÍ·µÄ°×Ãûµ¥¹æÔò²¢È¥ÖØ£¨±£³ÖË³Ğò£©
+    # æå–@å¼€å¤´çš„ç™½åå•è§„åˆ™å¹¶å»é‡ï¼ˆä¿æŒé¡ºåºï¼‰
     seen = set()
     unique_allow: List[str] = []
     for encoding in ['utf-8', 'gbk', 'latin-1']:
@@ -73,13 +91,13 @@ def extract_allow_lines(allow_file: Path, adblock_combined_file: Path, allow_out
         f.writelines(unique_allow)
 
 def move_files_to_target(adblock_file: Path, allow_file: Path, target_dir: Path):
-    """ÒÆ¶¯ÎÄ¼şµ½Ä¿±êÄ¿Â¼"""
+    """ç§»åŠ¨æ–‡ä»¶åˆ°ç›®æ ‡ç›®å½•ï¼ˆä¿æŒä¸å˜ï¼‰"""
     target_dir.mkdir(parents=True, exist_ok=True)
     adblock_file.rename(target_dir / 'adblock.txt')
     allow_file.rename(target_dir / 'allow.txt')
 
 def deduplicate_txt_files(target_dir: Path):
-    """È¥ÖØ²¢±£³ÖÊ×´Î³öÏÖË³Ğò"""
+    """å»é‡å¹¶ä¿æŒé¦–æ¬¡å‡ºç°é¡ºåºï¼ˆä¿æŒä¸å˜ï¼‰"""
     for file in target_dir.glob('*.txt'):
         seen = set()
         unique_lines: List[str] = []
@@ -97,7 +115,7 @@ def deduplicate_txt_files(target_dir: Path):
 
         with open(file, 'w', encoding='utf-8') as f:
             f.writelines(unique_lines)
-        print(f"È¥ÖØÍê³É: {file}, ±£Áô {len(unique_lines)} ĞĞ")
+        print(f"å»é‡å®Œæˆ: {file}, ä¿ç•™ {len(unique_lines)} è¡Œ")
 
 def main():
     tmp_dir = Path('tmp')
@@ -105,31 +123,31 @@ def main():
     tmp_dir.mkdir(parents=True, exist_ok=True)
     rules_dir.mkdir(parents=True, exist_ok=True)
 
-    print("ºÏ²¢¹ã¸æ¹æÔò...")
+    print("åˆå¹¶å¹¿å‘Šè§„åˆ™...")
     merge_files('adblock*.txt', tmp_dir / 'combined_adblock.txt')
     clean_rules(tmp_dir / 'combined_adblock.txt', tmp_dir / 'cleaned_adblock.txt')
 
-    print("ºÏ²¢°×Ãûµ¥¹æÔò...")
+    print("åˆå¹¶ç™½åå•è§„åˆ™...")
     merge_files('allow*.txt', tmp_dir / 'combined_allow.txt')
     clean_rules(tmp_dir / 'combined_allow.txt', tmp_dir / 'cleaned_allow.txt')
 
-    print("ÌáÈ¡°×Ãûµ¥¹æÔò...")
+    print("æå–ç™½åå•è§„åˆ™...")
     extract_allow_lines(
         tmp_dir / 'cleaned_allow.txt',
         tmp_dir / 'combined_adblock.txt',
         tmp_dir / 'allow.txt'
     )
 
-    print("ÒÆ¶¯ÎÄ¼şµ½Ä¿±êÄ¿Â¼...")
+    print("ç§»åŠ¨æ–‡ä»¶åˆ°ç›®æ ‡ç›®å½•...")
     move_files_to_target(
         tmp_dir / 'cleaned_adblock.txt',
         tmp_dir / 'allow.txt',
         rules_dir
     )
 
-    print("È¥ÖØ´¦Àí...")
+    print("å»é‡å¤„ç†...")
     deduplicate_txt_files(rules_dir)
-    print("´¦ÀíÍê³É")
+    print("å¤„ç†å®Œæˆ")
 
 if __name__ == '__main__':
     main()
