@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-¹æÔòºÏ²¢¹¤¾ß£ººÏ²¢¡¢ÇåÏ´²¢´¦Àí¹ã¸æÀ¹½Ø¹æÔòºÍ°×Ãûµ¥¹æÔò
+è§„åˆ™åˆå¹¶å·¥å…·ï¼šåˆå¹¶ã€æ¸…æ´—å¹¶å¤„ç†å¹¿å‘Šæ‹¦æˆªè§„åˆ™å’Œç™½åå•è§„åˆ™
 """
 import re
 import logging
 from pathlib import Path
 from typing import List, Optional
 
-# ÅäÖÃÈÕÖ¾
+# é…ç½®æ—¥å¿—ç³»ç»Ÿ
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
@@ -16,82 +16,86 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-def merge_files(pattern: str, output_file: Path, input_dir: Path = Path('tmp')) -> None:
+def read_file_with_encoding_fallback(file_path: Path) -> Optional[str]:
     """
-    ºÏ²¢Æ¥ÅäÄ£Ê½µÄÎÄ¼şµ½Êä³öÎÄ¼ş£¬Ö§³Ö±àÂë×Ô¶¯¼ì²â
+    è¯»å–æ–‡ä»¶å¹¶å¤„ç†ç¼–ç é—®é¢˜ï¼Œæ”¯æŒå¤šç§ç¼–ç è‡ªåŠ¨å°è¯•
     
     Args:
-        pattern: ÎÄ¼şÃûÆ¥ÅäÄ£Ê½
-        output_file: Êä³öÎÄ¼şÂ·¾¶
-        input_dir: ÊäÈëÎÄ¼şËùÔÚÄ¿Â¼
+        file_path: è¦è¯»å–çš„æ–‡ä»¶è·¯å¾„
+        
+    Returns:
+        æ–‡ä»¶å†…å®¹å­—ç¬¦ä¸²ï¼ˆå·²è½¬æ¢ä¸ºUTF-8ï¼‰ï¼Œå¤±è´¥æ—¶è¿”å›None
+    """
+    # ä¼˜å…ˆå°è¯•GB18030ï¼ˆæ ¹æ®æ£€æµ‹ç»“æœï¼‰ï¼Œå†å°è¯•å…¶ä»–å¸¸è§ç¼–ç 
+    encodings = ['gb18030', 'utf-8', 'latin-1', 'gbk', 'gb2312']
+    for encoding in encodings:
+        try:
+            with open(file_path, 'r', encoding=encoding) as f:
+                content = f.read()
+                # ç¡®ä¿å†…å®¹ä»¥UTF-8ç¼–ç è¿”å›
+                return content.encode('utf-8').decode('utf-8')
+        except UnicodeDecodeError:
+            continue
+        except Exception as e:
+            logger.warning(f"è¯»å–æ–‡ä»¶ {file_path} æ—¶å‡ºé”™: {str(e)}")
+            return None
+    logger.error(f"æ‰€æœ‰ç¼–ç å‡æ— æ³•è§£ææ–‡ä»¶ {file_path}")
+    return None
+
+def merge_files(pattern: str, output_file: Path, input_dir: Path = Path('tmp')) -> None:
+    """
+    åˆå¹¶åŒ¹é…æŒ‡å®šæ¨¡å¼çš„æ–‡ä»¶åˆ°è¾“å‡ºæ–‡ä»¶
+    
+    Args:
+        pattern: æ–‡ä»¶ååŒ¹é…æ¨¡å¼ï¼ˆå¦‚ 'adblock*.txt'ï¼‰
+        output_file: åˆå¹¶åçš„è¾“å‡ºæ–‡ä»¶è·¯å¾„
+        input_dir: è¾“å…¥æ–‡ä»¶æ‰€åœ¨ç›®å½•ï¼Œé»˜è®¤æ˜¯'tmp'ç›®å½•
     """
     try:
+        # è·å–æ‰€æœ‰åŒ¹é…çš„æ–‡ä»¶å¹¶æŒ‰åç§°æ’åº
         files = sorted(input_dir.glob(pattern))
         if not files:
-            logger.warning(f"Î´ÕÒµ½Æ¥Åä {pattern} µÄÎÄ¼ş")
+            logger.warning(f"æœªæ‰¾åˆ°åŒ¹é…æ¨¡å¼ '{pattern}' çš„æ–‡ä»¶")
             return
 
         with open(output_file, 'w', encoding='utf-8') as out_f:
             for file in files:
-                content = read_file_with_fallback(file)
-                if content is not None:
+                content = read_file_with_encoding_fallback(file)
+                if content:
                     out_f.write(content)
-                    out_f.write('\n')  # È·±£ÎÄ¼ş¼äÓĞ·Ö¸ô
-            logger.info(f"ÒÑºÏ²¢ {len(files)} ¸öÎÄ¼şµ½ {output_file}")
+                    out_f.write('\n')  # ç¡®ä¿æ–‡ä»¶é—´æœ‰æ¢è¡Œåˆ†éš”
+            logger.info(f"å·²æˆåŠŸåˆå¹¶ {len(files)} ä¸ªæ–‡ä»¶åˆ° {output_file}")
     except Exception as e:
-        logger.error(f"ºÏ²¢ÎÄ¼şÊ§°Ü: {str(e)}", exc_info=True)
+        logger.error(f"åˆå¹¶æ–‡ä»¶å¤±è´¥: {str(e)}", exc_info=True)
         raise
-
-def read_file_with_fallback(file_path: Path) -> Optional[str]:
-    """
-    ¶ÁÈ¡ÎÄ¼ş£¬Ö§³Ö±àÂë×Ô¶¯ fallback
-    
-    Args:
-        file_path: ÎÄ¼şÂ·¾¶
-        
-    Returns:
-        ÎÄ¼şÄÚÈİ×Ö·û´®£¬Ê§°ÜÊ±·µ»Ø None
-    """
-    encodings = ['utf-8', 'latin-1', 'gbk', 'gb2312']
-    for encoding in encodings:
-        try:
-            with open(file_path, 'r', encoding=encoding) as f:
-                return f.read()
-        except UnicodeDecodeError:
-            continue
-        except Exception as e:
-            logger.warning(f"¶ÁÈ¡ÎÄ¼ş {file_path} Ê§°Ü: {str(e)}")
-            return None
-    logger.error(f"ËùÓĞ±àÂë¾ùÎŞ·¨½âÎöÎÄ¼ş {file_path}")
-    return None
 
 def clean_rules(input_file: Path, output_file: Path) -> None:
     """
-    ÇåÏ´¹æÔò£ºÒÆ³ı×¢ÊÍºÍÎŞĞ§ĞĞ
+    æ¸…æ´—è§„åˆ™æ–‡ä»¶ï¼šç§»é™¤æ³¨é‡Šå’Œæ— æ•ˆè¡Œ
     
     Args:
-        input_file: ÊäÈëÎÄ¼şÂ·¾¶
-        output_file: Êä³öÎÄ¼şÂ·¾¶
+        input_file: åŸå§‹è§„åˆ™æ–‡ä»¶è·¯å¾„
+        output_file: æ¸…æ´—åçš„è¾“å‡ºæ–‡ä»¶è·¯å¾„
     """
     try:
-        content = read_file_with_fallback(input_file)
-        if content is None:
-            logger.error(f"ÎŞ·¨¶ÁÈ¡¹æÔòÎÄ¼ş {input_file}")
+        content = read_file_with_encoding_fallback(input_file)
+        if not content:
+            logger.error(f"æ— æ³•è¯»å–è§„åˆ™æ–‡ä»¶ {input_file}ï¼Œæ¸…æ´—å¤±è´¥")
             return
 
-        # ÒÆ³ı×¢ÊÍĞĞ£¨!¿ªÍ·»ò#¿ªÍ·µÄ·Ç##ĞĞ£©
+        # ç§»é™¤æ³¨é‡Šè¡Œï¼ˆ!å¼€å¤´æˆ–é##å¼€å¤´çš„#è¡Œï¼‰
         content = re.sub(r'^[!].*$\n?', '', content, flags=re.MULTILINE)
         content = re.sub(r'^#(?!\s*#).*$\n?', '', content, flags=re.MULTILINE)
         
-        # ÒÆ³ı¿ÕĞĞºÍ¶àÓà¿Õ°×
+        # ç§»é™¤è¿ç»­ç©ºè¡Œï¼Œåªä¿ç•™å•ä¸ªç©ºè¡Œ
         content = re.sub(r'\n+', '\n', content).strip()
         
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(content)
-            f.write('\n')  # È·±£ÎÄ¼şÄ©Î²ÓĞ»»ĞĞ
-        logger.info(f"ÒÑÇåÏ´¹æÔòµ½ {output_file}")
+            f.write('\n')  # ç¡®ä¿æ–‡ä»¶æœ«å°¾æœ‰æ¢è¡Œ
+        logger.info(f"è§„åˆ™æ¸…æ´—å®Œæˆï¼Œè¾“å‡ºåˆ° {output_file}")
     except Exception as e:
-        logger.error(f"ÇåÏ´¹æÔòÊ§°Ü: {str(e)}", exc_info=True)
+        logger.error(f"æ¸…æ´—è§„åˆ™å¤±è´¥: {str(e)}", exc_info=True)
         raise
 
 def extract_allow_lines(
@@ -100,86 +104,92 @@ def extract_allow_lines(
     allow_output_file: Path
 ) -> None:
     """
-    ÌáÈ¡ÔÊĞí¹æÔò£¨@¿ªÍ·µÄĞĞ£©²¢´¦Àí
+    æå–å…è®¸è§„åˆ™ï¼ˆ@å¼€å¤´çš„è¡Œï¼‰å¹¶å»é‡å¤„ç†
     
     Args:
-        allow_file: ÔÊĞí¹æÔòÎÄ¼ş
-        adblock_combined_file: ºÏ²¢µÄ¹ã¸æ¹æÔòÎÄ¼ş
-        allow_output_file: Êä³öµÄÔÊĞí¹æÔòÎÄ¼ş
+        allow_file: åŸå§‹å…è®¸è§„åˆ™æ–‡ä»¶
+        adblock_combined_file: åˆå¹¶åçš„å¹¿å‘Šè§„åˆ™æ–‡ä»¶
+        allow_output_file: æå–åçš„å…è®¸è§„åˆ™è¾“å‡ºæ–‡ä»¶
     """
     try:
-        # ¶ÁÈ¡ÔÊĞí¹æÔò
-        allow_lines = read_file_with_fallback(allow_file)
-        if allow_lines is None:
-            logger.error(f"ÎŞ·¨¶ÁÈ¡ÔÊĞí¹æÔòÎÄ¼ş {allow_file}")
+        # è¯»å–å…è®¸è§„åˆ™å¹¶è¿½åŠ åˆ°åˆå¹¶çš„å¹¿å‘Šè§„åˆ™
+        allow_content = read_file_with_encoding_fallback(allow_file)
+        if not allow_content:
+            logger.error(f"æ— æ³•è¯»å–å…è®¸è§„åˆ™æ–‡ä»¶ {allow_file}")
             return
-        allow_lines = allow_lines.splitlines()
 
-        # ×·¼Óµ½ºÏ²¢µÄ¹ã¸æ¹æÔò
         with open(adblock_combined_file, 'a', encoding='utf-8') as out_f:
-            out_f.write('\n'.join(allow_lines))
+            out_f.write(allow_content)
             out_f.write('\n')
 
-        # ÌáÈ¡@¿ªÍ·µÄĞĞ
-        combined_content = read_file_with_fallback(adblock_combined_file)
-        if combined_content is None:
-            logger.error(f"ÎŞ·¨¶ÁÈ¡ºÏ²¢µÄ¹ã¸æ¹æÔò {adblock_combined_file}")
+        # æå–æ‰€æœ‰@å¼€å¤´çš„è§„åˆ™è¡Œ
+        combined_content = read_file_with_encoding_fallback(adblock_combined_file)
+        if not combined_content:
+            logger.error(f"æ— æ³•è¯»å–åˆå¹¶çš„å¹¿å‘Šè§„åˆ™æ–‡ä»¶ {adblock_combined_file}")
             return
         
-        # È¥ÖØ²¢ÅÅĞò
+        # å»é‡å¹¶æ’åº
         allow_rules = sorted(
             {line.strip() for line in combined_content.splitlines() 
              if line.strip().startswith('@')}
         )
 
-        # Ğ´Èë½á¹û
+        # å†™å…¥ç»“æœ
         with open(allow_output_file, 'w', encoding='utf-8') as f:
             f.write('\n'.join(allow_rules))
             f.write('\n')
-        logger.info(f"ÒÑÌáÈ¡ {len(allow_rules)} ÌõÔÊĞí¹æÔòµ½ {allow_output_file}")
+        logger.info(f"å·²æå– {len(allow_rules)} æ¡å…è®¸è§„åˆ™åˆ° {allow_output_file}")
     except Exception as e:
-        logger.error(f"ÌáÈ¡ÔÊĞí¹æÔòÊ§°Ü: {str(e)}", exc_info=True)
+        logger.error(f"æå–å…è®¸è§„åˆ™å¤±è´¥: {str(e)}", exc_info=True)
         raise
 
 def move_files_to_target(adblock_file: Path, allow_file: Path, target_dir: Path) -> None:
     """
-    ÒÆ¶¯´¦ÀíºóµÄÎÄ¼şµ½Ä¿±êÄ¿Â¼
+    å°†å¤„ç†åçš„è§„åˆ™æ–‡ä»¶ç§»åŠ¨åˆ°ç›®æ ‡ç›®å½•
     
     Args:
-        adblock_file: ¹ã¸æ¹æÔòÎÄ¼ş
-        allow_file: ÔÊĞí¹æÔòÎÄ¼ş
-        target_dir: Ä¿±êÄ¿Â¼
+        adblock_file: å¹¿å‘Šæ‹¦æˆªè§„åˆ™æ–‡ä»¶
+        allow_file: å…è®¸è§„åˆ™æ–‡ä»¶
+        target_dir: ç›®æ ‡ç›®å½•è·¯å¾„
     """
     try:
+        # ç¡®ä¿ç›®æ ‡ç›®å½•å­˜åœ¨
         target_dir.mkdir(parents=True, exist_ok=True)
         
+        # å®šä¹‰ç›®æ ‡æ–‡ä»¶è·¯å¾„
         adblock_target = target_dir / 'adblock.txt'
         allow_target = target_dir / 'allow.txt'
         
+        # ç§»åŠ¨æ–‡ä»¶ï¼ˆè‹¥ç›®æ ‡æ–‡ä»¶å·²å­˜åœ¨åˆ™è¦†ç›–ï¼‰
+        if adblock_target.exists():
+            adblock_target.unlink()
         adblock_file.rename(adblock_target)
+        
+        if allow_target.exists():
+            allow_target.unlink()
         allow_file.rename(allow_target)
         
-        logger.info(f"ÒÑÒÆ¶¯ÎÄ¼şµ½ {target_dir}")
-        logger.info(f"¹ã¸æ¹æÔò: {adblock_target}")
-        logger.info(f"ÔÊĞí¹æÔò: {allow_target}")
+        logger.info(f"æ–‡ä»¶å·²ç§»åŠ¨åˆ°ç›®æ ‡ç›®å½•: {target_dir}")
+        logger.info(f"å¹¿å‘Šæ‹¦æˆªè§„åˆ™: {adblock_target}")
+        logger.info(f"å…è®¸è§„åˆ™: {allow_target}")
     except Exception as e:
-        logger.error(f"ÒÆ¶¯ÎÄ¼şÊ§°Ü: {str(e)}", exc_info=True)
+        logger.error(f"ç§»åŠ¨æ–‡ä»¶å¤±è´¥: {str(e)}", exc_info=True)
         raise
 
 def deduplicate_txt_files(target_dir: Path) -> None:
     """
-    ÒÆ³ıÄ¿±êÄ¿Â¼ÖĞËùÓĞtxtÎÄ¼şµÄÖØ¸´ĞĞ
+    ç§»é™¤ç›®æ ‡ç›®å½•ä¸­æ‰€æœ‰TXTæ–‡ä»¶çš„é‡å¤è¡Œï¼Œä¿æŒåŸå§‹é¡ºåº
     
     Args:
-        target_dir: Ä¿±êÄ¿Â¼
+        target_dir: ç›®æ ‡ç›®å½•è·¯å¾„
     """
     try:
         for file in target_dir.glob('*.txt'):
-            content = read_file_with_fallback(file)
-            if content is None:
+            content = read_file_with_encoding_fallback(file)
+            if not content:
                 continue
                 
-            # È¥ÖØ²¢±£³ÖË³Ğò
+            # å»é‡å¹¶ä¿æŒé¡ºåº
             seen = set()
             unique_lines: List[str] = []
             for line in content.splitlines():
@@ -188,61 +198,61 @@ def deduplicate_txt_files(target_dir: Path) -> None:
                     seen.add(stripped)
                     unique_lines.append(line)
             
-            # Ğ´»ØÎÄ¼ş
+            # å†™å›æ–‡ä»¶
             with open(file, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(unique_lines))
                 f.write('\n')
             
-            logger.info(f"ÒÑÈ¥ÖØ {file}£¬Ô­ĞĞÊı: {len(content.splitlines())}, ĞÂĞĞÊı: {len(unique_lines)}")
+            logger.info(f"å·²å»é‡ {file.name}ï¼ŒåŸè¡Œæ•°: {len(content.splitlines())}, æ–°è¡Œæ•°: {len(unique_lines)}")
     except Exception as e:
-        logger.error(f"È¥ÖØÎÄ¼şÊ§°Ü: {str(e)}", exc_info=True)
+        logger.error(f"å»é‡æ–‡ä»¶å¤±è´¥: {str(e)}", exc_info=True)
         raise
 
 def main() -> None:
-    """Ö÷º¯Êı£ºÖ´ĞĞ¹æÔòºÏ²¢Á÷³Ì"""
+    """ä¸»å‡½æ•°ï¼šæ‰§è¡Œè§„åˆ™åˆå¹¶çš„å®Œæ•´æµç¨‹"""
     try:
-        # ³õÊ¼»¯Ä¿Â¼
+        # åˆå§‹åŒ–ç›®å½•
         tmp_dir = Path('tmp')
         rules_dir = Path('data/rules')
         tmp_dir.mkdir(parents=True, exist_ok=True)
         rules_dir.mkdir(parents=True, exist_ok=True)
-        logger.info("³õÊ¼»¯Ä¿Â¼Íê³É")
+        logger.info("ç›®å½•åˆå§‹åŒ–å®Œæˆ")
 
-        # ºÏ²¢¹ã¸æ¹æÔò
-        logger.info("¿ªÊ¼ºÏ²¢¹ã¸æ¹æÔò...")
+        # åˆå¹¶å¹¿å‘Šè§„åˆ™
+        logger.info("å¼€å§‹åˆå¹¶å¹¿å‘Šè§„åˆ™...")
         merge_files('adblock*.txt', tmp_dir / 'combined_adblock.txt')
         clean_rules(tmp_dir / 'combined_adblock.txt', tmp_dir / 'cleaned_adblock.txt')
-        logger.info("¹ã¸æ¹æÔòºÏ²¢Íê³É")
+        logger.info("å¹¿å‘Šè§„åˆ™åˆå¹¶å®Œæˆ")
 
-        # ºÏ²¢ÔÊĞí¹æÔò
-        logger.info("¿ªÊ¼ºÏ²¢ÔÊĞí¹æÔò...")
+        # åˆå¹¶å…è®¸è§„åˆ™
+        logger.info("å¼€å§‹åˆå¹¶å…è®¸è§„åˆ™...")
         merge_files('allow*.txt', tmp_dir / 'combined_allow.txt')
         clean_rules(tmp_dir / 'combined_allow.txt', tmp_dir / 'cleaned_allow.txt')
-        logger.info("ÔÊĞí¹æÔòºÏ²¢Íê³É")
+        logger.info("å…è®¸è§„åˆ™åˆå¹¶å®Œæˆ")
 
-        # ÌáÈ¡ÔÊĞí¹æÔò
-        logger.info("¿ªÊ¼ÌáÈ¡ÔÊĞí¹æÔò...")
+        # æå–å…è®¸è§„åˆ™
+        logger.info("å¼€å§‹æå–å…è®¸è§„åˆ™...")
         extract_allow_lines(
             tmp_dir / 'cleaned_allow.txt',
             tmp_dir / 'combined_adblock.txt',
             tmp_dir / 'allow.txt'
         )
 
-        # ÒÆ¶¯ÎÄ¼şµ½Ä¿±êÄ¿Â¼
-        logger.info("¿ªÊ¼ÒÆ¶¯ÎÄ¼şµ½Ä¿±êÄ¿Â¼...")
+        # ç§»åŠ¨æ–‡ä»¶åˆ°ç›®æ ‡ç›®å½•
+        logger.info("å¼€å§‹ç§»åŠ¨æ–‡ä»¶åˆ°ç›®æ ‡ç›®å½•...")
         move_files_to_target(
             tmp_dir / 'cleaned_adblock.txt',
             tmp_dir / 'allow.txt',
             rules_dir
         )
 
-        # È¥ÖØ´¦Àí
-        logger.info("¿ªÊ¼È¥ÖØ´¦Àí...")
+        # å»é‡å¤„ç†
+        logger.info("å¼€å§‹å»é‡å¤„ç†...")
         deduplicate_txt_files(rules_dir)
         
-        logger.info("ËùÓĞÁ÷³ÌÖ´ĞĞÍê³É")
+        logger.info("æ‰€æœ‰æµç¨‹æ‰§è¡Œå®Œæˆ")
     except Exception as e:
-        logger.critical(f"Ö´ĞĞÊ§°Ü: {str(e)}", exc_info=True)
+        logger.critical(f"æ‰§è¡Œå¤±è´¥: {str(e)}", exc_info=True)
         raise SystemExit(1)
 
 if __name__ == '__main__':
