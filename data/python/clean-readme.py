@@ -1,15 +1,16 @@
 import subprocess
+import re
+from pathlib import Path
 import datetime
 import pytz
-from pathlib import Path
 
 def update_readme():
     try:
-        # 定义文件路径
+        # 规则文件路径改为根目录
         rule_files = {
-            'adblock': Path('./data/rules/adblock.txt'),
-            'dns': Path('./data/rules/dns.txt'),
-            'allow': Path('./data/rules/allow.txt')
+            'adblock': Path('./adblock.txt'),    # 根目录
+            'dns': Path('./dns.txt'),            # 根目录
+            'allow': Path('./allow.txt')         # 根目录
         }
         
         # 验证文件存在
@@ -63,7 +64,3 @@ def update_readme():
     except Exception as e:
         print(f"更新失败: {str(e)}")
         return False
-
-if __name__ == "__main__":
-    import re
-    update_readme()
