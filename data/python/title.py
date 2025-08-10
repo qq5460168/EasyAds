@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import datetime
 import pytz
 from pathlib import Path
@@ -15,11 +14,17 @@ HEADER_TEMPLATE = """[Adblock Plus 2.0]
 
 def get_beijing_time() -> str:
     """获取当前北京时间"""
-    beijing_tz = pytz.timezone('Asia/Shanghai')
-    return datetime.datetime.now(beijing_tz).strftime('%Y-%m-%d %H:%M:%S')
+    utc_time = datetime.datetime.now(pytz.timezone('UTC'))
+    return utc_time.astimezone(pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
 
 def process_rule_files(target_files: Set[str], rules_dir: Path) -> None:
-    """处理规则文件，添加标准头信息"""
+    """
+    处理规则文件，添加标准头信息
+    
+    Args:
+        target_files: 需要处理的目标文件名集合
+        rules_dir: 规则文件目录路径
+    """
     beijing_time = get_beijing_time()
     
     for file_path in rules_dir.glob('*.txt'):
@@ -27,47 +32,40 @@ def process_rule_files(target_files: Set[str], rules_dir: Path) -> None:
             continue
             
         try:
-            # 读取文件内容并计算有效行数（非空、非注释）
-            lines = []
-            for encoding in ['utf-8', 'gbk', 'latin-1']:
-                try:
-                    with file_path.open('r', encoding=encoding) as file:
-                        lines = file.readlines()
-                    break
-                except UnicodeDecodeError:
-                    continue
-
-            # 过滤注释和空行
-            valid_lines = [line for line in lines if line.strip() and not line.startswith('!')]
-            line_count = len(valid_lines)
+            # 读取文件内容并计算行数
+            with file_path.open('r', encoding='utf-8') as file:
+                lines = file.readlines()
+                line_count = len([line for line in lines if line.strip() and not line.startswith('!')])
+                content = ''.join(lines)
             
-            # 生成新内容（移除旧头信息）
+            # 生成新内容
             new_content = HEADER_TEMPLATE.format(
                 timestamp=beijing_time,
                 line_count=line_count
-            )
-            # 跳过旧头信息（以!开头的行）
-            for line in lines:
-                if not line.strip().startswith('!') and line.strip():
-                    new_content += line
+            ) + content
             
             # 写回文件
             with file_path.open('w', encoding='utf-8') as file:
                 file.write(new_content)
                 
-            print(f"处理完成: {file_path.name}，有效规则 {line_count} 条")
+            print(f"Processed {file_path.name} with {line_count} rules")
                 
         except IOError as e:
-            print(f"处理 {file_path.name} 失败: {e}")
+            print(f"Error processing {file_path.name}: {e}")
 
 if __name__ == "__main__":
     target_files = {'adblock.txt', 'allow.txt', 'dns.txt'}
     
-    # 精确计算路径（避免相对路径问题）
-    script_dir = Path(__file__).resolve().parent  # 当前脚本目录
-    rules_dir = script_dir.parent / "rules"  # data/rules/
+    # 修正路径构造
+    script_dir = Path(__file__).parent
+    base_dir = script_dir.parent  # 假设脚本在data/python/目录下
+    rules_dir = base_dir / "rules"  # 规则目录在data/rules/
+    
+    # 调试输出
+    print(f"Looking for rules directory at: {rules_dir}")
+    print(f"Absolute rules directory path: {rules_dir.absolute()}")
     
     if not rules_dir.exists():
-        raise FileNotFoundError(f"规则目录不存在: {rules_dir}")
+        raise FileNotFoundError(f"Rules directory not found: {rules_dir}")
     
     process_rule_files(target_files, rules_dir)
