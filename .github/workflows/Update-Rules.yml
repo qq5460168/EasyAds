@@ -1,105 +1,92 @@
 name: Update Rules
-on: 
-  workflow_dispatch:
-  schedule:
-    - cron: '0 */12 * * *'
+
+on:
   push:
+    branches: [ "master" ]
     paths:
-      - 'data/python/**'
-      - 'data/source/**'
       - 'data/mod/**'
-    
+      - '.github/workflows/**'
+  schedule:
+    - cron: '0 16 * * *'  # 北京时间0点执行
+  workflow_dispatch:
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      SHOULD_RUN: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'schedule' || steps.changes.outputs.any_changed == 'true' }}
+    
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          
-      - name: Check for file changes
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Detect changes
         id: changes
-        uses: tj-actions/changed-files@v42
+        uses: dorny/paths-filter@v3
         with:
-          files: |
-            data/python/**
-            data/source/**
-            data/mod/**
-            
+          filters: |
+            any_changed:
+              - 'data/mod/**'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pytz
+
       - name: Download Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        continue-on-error: true
+        if: env.SHOULD_RUN
         run: |
           python ./data/python/dl.py
-          
+
       - name: Merge Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        if: env.SHOULD_RUN
         run: |
           python ./data/python/merge.py
-          
-      - name: Generate dns Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        run: |
-          python ./data/python/filter-dns.py
 
-      - name: Generate qx Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        run: |
-          python ./data/python/qx.py
-       
       - name: Generate filter Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        working-directory: ${{ github.workspace }}
+        if: env.SHOULD_RUN
         run: |
           python ./data/python/filter-ad.py
    
       - name: Generate mihomo Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        working-directory: ${{ github.workspace }}
+        if: env.SHOULD_RUN
         run: |
           python ./data/python/mihomo.py
 
       - name: Generate loon Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        if: env.SHOULD_RUN
         run: |
           python ./data/python/loon.py
 
       - name: Generate Domain List
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        if: env.SHOULD_RUN
         run: |
           python ./data/python/domain_list.py
 
       - name: Update Title&ReadMe
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        if: env.SHOULD_RUN
         run: |
           python ./data/python/title.py
           python ./data/python/clean-readme.py
 
-      - name: Configure Git
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git branch -m master
-
       - name: Commit Changes
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        run: |
-          git add --all
-          git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" || echo "No changes to commit"
-      
-      - name: Sync and Push Changes
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        run: |
-          for i in 1 2 3; do
-            git pull --rebase origin master
-            git push origin master && break || sleep 5
-          done
+        if: env.SHOULD_RUN
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
+          branch: master
+          push_options: --force-with-lease
 
-      - name: Delete workflow runs 
+      - name: Delete old workflow runs
         uses: Mattraks/delete-workflow-runs@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
-          retain_days: 0
-          keep_minimum_runs: 0
+          retain_days: 3
+          keep_minimum_runs: 5
