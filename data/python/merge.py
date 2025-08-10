@@ -7,11 +7,9 @@ def merge_files(pattern, output_file):
     with open(output_file, 'w', encoding='utf-8') as out:
         for file in files:
             try:
-                # First try UTF-8
                 with open(file, 'r', encoding='utf-8') as f:
                     out.write(f.read())
             except UnicodeDecodeError:
-                # Fallback to latin-1 if UTF-8 fails
                 with open(file, 'r', encoding='latin-1') as f:
                     out.write(f.read())
             out.write('\n')
@@ -34,7 +32,6 @@ def clean_rules(input_file, output_file):
 
 def extract_allow_lines(allow_file, adblock_combined_file, allow_output_file):
     """Extract allow rules (@ lines) from combined files."""
-    # Read allow file with encoding fallback
     try:
         with open(allow_file, 'r', encoding='utf-8') as f:
             allow_lines = f.readlines()
@@ -42,11 +39,9 @@ def extract_allow_lines(allow_file, adblock_combined_file, allow_output_file):
         with open(allow_file, 'r', encoding='latin-1') as f:
             allow_lines = f.readlines()
     
-    # Append to combined file
     with open(adblock_combined_file, 'a', encoding='utf-8') as out:
         out.writelines(allow_lines)
     
-    # Extract @ lines
     try:
         with open(adblock_combined_file, 'r', encoding='utf-8') as f:
             lines = [line for line in f if line.startswith('@')]
@@ -54,12 +49,11 @@ def extract_allow_lines(allow_file, adblock_combined_file, allow_output_file):
         with open(adblock_combined_file, 'r', encoding='latin-1') as f:
             lines = [line for line in f if line.startswith('@')]
     
-    # Write unique allow rules
     with open(allow_output_file, 'w', encoding='utf-8') as f:
         f.writelines(sorted(set(lines)))
 
 def move_files_to_target(adblock_file, allow_file, target_dir):
-    """Move processed files to target directory."""
+    """Move processed files to target directory (根目录)"""
     target_dir = Path(target_dir)
     target_dir.mkdir(parents=True, exist_ok=True)
     
@@ -70,7 +64,7 @@ def move_files_to_target(adblock_file, allow_file, target_dir):
     Path(allow_file).rename(allow_target)
 
 def deduplicate_txt_files(target_dir):
-    """Remove duplicate lines from all txt files in target directory."""
+    """Remove duplicate lines from all txt files in target directory"""
     target_dir = Path(target_dir)
     for file in target_dir.glob('*.txt'):
         try:
@@ -91,9 +85,9 @@ def deduplicate_txt_files(target_dir):
             f.writelines(unique_lines)
 
 def main():
-    # Create directories if they don't exist
+    # 临时目录不变，目标目录改为根目录
     tmp_dir = Path('tmp')
-    rules_dir = Path('data/rules')
+    rules_dir = Path('./')  # 根目录
     tmp_dir.mkdir(parents=True, exist_ok=True)
     rules_dir.mkdir(parents=True, exist_ok=True)
 
@@ -118,11 +112,11 @@ def main():
     move_files_to_target(
         tmp_dir / 'cleaned_adblock.txt',
         tmp_dir / 'allow.txt',
-        rules_dir
+        rules_dir  # 根目录
     )
 
     print("Deduplicating files...")
-    deduplicate_txt_files(rules_dir)
+    deduplicate_txt_files(rules_dir)  # 根目录去重
     print("Process completed successfully")
 
 if __name__ == '__main__':
