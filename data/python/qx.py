@@ -2,16 +2,7 @@ import os
 from pathlib import Path
 
 def replace_content_in_file(input_file: str, output_file: str) -> int:
-    """
-    Convert DNS rules to Quantumult X format and filter unwanted patterns.
-    
-    Args:
-        input_file: Path to input DNS rules file
-        output_file: Path to output Quantumult X rules file
-    
-    Returns:
-        Number of rules processed
-    """
+    """Convert DNS rules to Quantumult X format"""
     input_path = Path(input_file)
     output_path = Path(output_file)
     
@@ -27,7 +18,6 @@ def replace_content_in_file(input_file: str, output_file: str) -> int:
             for line in infile:
                 line = line.strip()
                 if not line or line.startswith('#'):
-                    # Skip empty lines and comments
                     continue
                     
                 if (':' not in line and '.js' not in line and '/' not in line and
@@ -43,16 +33,7 @@ def replace_content_in_file(input_file: str, output_file: str) -> int:
         return 0
 
 def remove_whitelist_domains(input_file: str, whitelist_file: str) -> int:
-    """
-    Remove whitelisted domains from the rules file.
-    
-    Args:
-        input_file: Path to rules file to filter
-        whitelist_file: Path to whitelist file
-    
-    Returns:
-        Number of rules removed
-    """
+    """Remove whitelisted domains from the rules file"""
     input_path = Path(input_file)
     whitelist_path = Path(whitelist_file)
     
@@ -62,14 +43,12 @@ def remove_whitelist_domains(input_file: str, whitelist_file: str) -> int:
     removed_count = 0
     
     try:
-        # Read whitelist domains
         with whitelist_path.open('r', encoding='utf-8') as wfile:
             whitelist = {entry.strip()[4:-1] 
                         for entry in wfile 
                         if entry.strip().startswith('@@||') 
                         and entry.strip().endswith('^')}
         
-        # Filter input file
         with input_path.open('r', encoding='utf-8') as infile:
             lines = infile.readlines()
         
@@ -88,20 +67,13 @@ def remove_whitelist_domains(input_file: str, whitelist_file: str) -> int:
         return 0
 
 if __name__ == "__main__":
-    # 获取当前脚本所在目录的父目录
-    script_dir = Path(__file__).parent
-    base_dir = script_dir.parent  # 假设脚本在data/python/目录下
-    
-    # 构造正确的文件路径
-    input_file = base_dir / "rules" / "dns.txt"
-    output_file = base_dir / "rules" / "qx.list"
-    whitelist_file = base_dir / "mod" / "whitelist.txt"
+    # 路径改为根目录
+    input_file = Path("./dns.txt")               # 根目录的dns.txt
+    output_file = Path("./qx.list")              # 输出到根目录
+    whitelist_file = Path("./data/mod/whitelist.txt")  # 白名单路径不变
     
     # 确保输出目录存在
     output_file.parent.mkdir(parents=True, exist_ok=True)
-    
-    print(f"Looking for input file at: {input_file}")
-    print(f"Absolute input path: {input_file.absolute()}")
     
     processed = replace_content_in_file(input_file, output_file)
     removed = remove_whitelist_domains(output_file, whitelist_file)
