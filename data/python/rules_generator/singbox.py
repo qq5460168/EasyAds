@@ -1,64 +1,31 @@
-import os
-import time
-import json
+import re
 from pathlib import Path
-from typing import List, Dict
+from datetime import datetime
 
-def extract_domains_from_dns(input_file: Path) -> List[str]:
-    """从 dns.txt 提取域名"""
-    domains = []
-    if not input_file.exists():
-        raise FileNotFoundError(f"DNS 规则文件不存在: {input_file}")
+def generate_singbox_rules():
+    """生成Singbox规则（domain: 域名, policy: reject）"""
+    input_path = Path("./adblock.txt")
+    output_path = Path("./singbox.txt")
     
-    with input_file.open('r', encoding='utf-8', errors='ignore') as f:
-        for line in f:
-            line = line.strip()
-            if line.startswith("||") and line.endswith("^"):
-                domain = line[2:-1]
-                if "." in domain:
-                    domains.append(domain)
-    return list(set(domains))
-
-def generate_singbox_rules(domains: List[str], output_file: Path) -> None:
-    """生成 SingBox 格式规则（JSON）"""
-    output_file.parent.mkdir(parents=True, exist_ok=True)
+    if not input_path.exists():
+        raise FileNotFoundError(f"源文件不存在: {input_path}")
     
-    # 构建 SingBox 路由配置
-    singbox_config: Dict = {
-        "version": "1.0.0",
-        "route": {
-            "rules": [
-                {
-                    "domain_set": ["ads"],
-                    "outbound": "block"
-                }
-            ],
-            "domain_set": {
-                "ads": sorted(domains)  # 广告域名集合
-            },
-            "outbounds": [
-                {
-                    "type": "block",
-                    "tag": "block"
-                }
-            ]
-        },
-        "log": {
-            "level": "info"
-        }
-    }
+    domain_pattern = re.compile(r'^\|\|([a-zA-Z0-9.-]+)\^.*$', re.MULTILINE)
     
-    with output_file.open('w', encoding='utf-8') as f:
-        json.dump(singbox_config, f, indent=2, ensure_ascii=False)
+    with input_path.open('r', encoding='utf-8', errors='ignore') as f:
+        content = f.read()
+    
+    domains = set(domain_pattern.findall(content))
+    total = len(domains)
+    
+    with output_path.open('w', encoding='utf-8') as f:
+        f.write(f"# Singbox规则 - 自动生成\n")
+        f.write(f"# 更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write(f"# 规则总数: {total}\n\n")
+        for domain in sorted(domains):
+            f.write(f"domain: {domain}, policy: reject\n")  # Singbox标准格式
+    
+    print(f"Singbox规则生成完成，输出到 {output_path}，共 {total} 条")
 
 if __name__ == "__main__":
-    root_dir = Path(__file__).parent.parent.parent
-    input_file = root_dir / "dns.txt"
-    output_file = root_dir / "singbox_rules.json"
-    
-    try:
-        domains = extract_domains_from_dns(input_file)
-        generate_singbox_rules(domains, output_file)
-        print(f"成功生成 SingBox 规则: {output_file}，共 {len(domains)} 条域名")
-    except Exception as e:
-        print(f"生成失败: {str(e)}")
+    generate_singbox_rules()
