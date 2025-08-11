@@ -60,10 +60,17 @@ jobs:
             exit 1
           fi
 
-      - name: Generate DNS Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        run: |
-          python data/python/filter-dns.py  # 若该文件也在utils下，需同步修正为data/python/utils/filter-dns.py
+     - name: Generate DNS Rules
+  if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+  run: |
+    # 验证文件存在性
+    DNS_SCRIPT="data/python/utils/filter-dns.py"
+    if [ -f "$DNS_SCRIPT" ]; then
+      python "$DNS_SCRIPT"
+    else
+      echo "Error: filter-dns.py not found at $DNS_SCRIPT"
+      exit 1
+    fi
 
       - name: Generate Quantumult X Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
