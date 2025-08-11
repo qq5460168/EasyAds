@@ -1,28 +1,27 @@
 name: Update Rules
 on: 
-  workflow_dispatch:  # 手动触发
+  workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'  # 每6小时自动执行
+    - cron: '0 */12 * * *'
   push:
     paths:
-      - 'data/python/utils/**'
-      - 'data/python/rules_generator/**'
+      - 'data/python/**'
       - 'data/source/**'
       - 'data/mod/**'
-      - 'requirements.txt'  # 监测依赖文件变更
-
+    
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # 拉取完整历史
-
+          fetch-depth: 0
+          
       - name: Detect default branch
         id: branch
         run: |
           DEFAULT_BRANCH=$(git remote show origin | awk '/HEAD branch/ {print $NF}')
+          echo "Default branch is $DEFAULT_BRANCH"
           echo "branch=$DEFAULT_BRANCH" >> $GITHUB_OUTPUT
 
       - name: Check for file changes
@@ -30,90 +29,111 @@ jobs:
         uses: tj-actions/changed-files@v42
         with:
           files: |
-            data/python/utils/**
-            data/python/rules_generator/**
+            data/python/**
             data/source/**
             data/mod/**
-            requirements.txt
-
-      - name: Set up Python
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-          cache: 'pip'
-          cache-dependency-path: 'requirements.txt'  # 显式指定依赖文件路径
-
-      - name: Install dependencies
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt  # 从文件安装依赖
-
-      - name: Debug file structure
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        run: |
-          echo "Current directory: $(pwd)"
-          ls -la data/python/utils/
-          ls -la data/python/rules_generator/
-          cat requirements.txt  # 验证依赖文件存在
-
+            
       - name: Download Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        continue-on-error: true
         run: |
-          python data/python/utils/dl.py
-
+          python ./data/python/dl.py
+          
       - name: Merge Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          if [ -f "data/python/utils/merge.py" ]; then
-            python data/python/utils/merge.py
-          else
-            echo "Error: merge.py not found"
-            exit 1
-          fi
-
-      - name: Generate DNS Rules
+          python ./data/python/merge.py
+          
+      - name: Generate dns Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          DNS_SCRIPT="data/python/rules_generator/filter-dns.py"
-          if [ -f "$DNS_SCRIPT" ]; then
-            python "$DNS_SCRIPT"
-          else
-            echo "Error: filter-dns.py not found"
-            exit 1
-          fi
+          python ./data/python/filter-dns.py
 
-      - name: Generate Loon Rules
+      - name: Generate qx Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          LOON_SCRIPT="data/python/rules_generator/loon.py"
-          if [ -f "$LOON_SCRIPT" ]; then
-            python "$LOON_SCRIPT"
-          else
-            echo "Error: loon.py not found"
-            exit 1
-          fi
+          python ./data/python/qx.py
 
-      # 其他规则生成步骤（省略，保持原有逻辑）
-
-      - name: Update Title & README
+      - name: Generate filter Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python data/python/utils/title.py
-          python data/python/utils/clean-readme.py
+          python ./data/python/filter-ad.py
 
-      - name: Commit and Push Changes
+      - name: Generate mihomo Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/mihomo.py
+
+      - name: Generate loon Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/loon.py
+
+      - name: Generate Domain List
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/domain_list.py
+
+      # 添加新的规则生成脚本步骤
+      - name: Generate adclose Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/rules_generator/adclose.py
+
+      - name: Generate clash Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/rules_generator/clash.py
+
+      - name: Generate hosts Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/rules_generator/hosts.py
+
+      - name: Generate invizible Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/rules_generator/invizible.py
+
+      - name: Generate shadowrocket Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/rules_generator/shadowrocket.py
+
+      - name: Generate singbox Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/rules_generator/singbox.py
+
+      - name: Update Title & ReadMe
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/title.py
+          python ./data/python/clean-readme.py
+
+      - name: Configure Git
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+
+      - name: Commit Changes
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
           git add --all
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" || echo "No changes to commit"
-          git pull --rebase origin ${{ steps.branch.outputs.branch }}
-          git push origin ${{ steps.branch.outputs.branch }}
+      
+      - name: Sync and Push Changes
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        env:
+          DEFAULT_BRANCH: ${{ steps.branch.outputs.branch }}
+        run: |
+          for i in 1 2 3; do
+            git pull --rebase origin "$DEFAULT_BRANCH"
+            git push origin "$DEFAULT_BRANCH" && break || sleep 5
+          done
 
-      - name: Cleanup workflow runs
+      - name: Delete workflow runs 
         uses: Mattraks/delete-workflow-runs@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
