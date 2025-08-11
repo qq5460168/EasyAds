@@ -7,7 +7,7 @@ AdGuard Home 规则处理器 - 生产版
 
 import re
 from pathlib import Path
-from typing import Set, Dict
+from typing import Set
 import sys
 import resource
 import os
@@ -41,7 +41,12 @@ class AdGuardProcessor:
             raise MemoryError(f"内存使用超过安全阈值: {current_mem:.1f}MB")
 
     def load_whitelist(self, path: Path) -> Set[str]:
+        """加载白名单，若文件不存在则返回空集合"""
         whitelist = set()
+        if not path.exists():
+            print(f"警告: 白名单文件不存在 - {path}，将跳过白名单过滤")
+            return whitelist
+            
         with open(path, 'r', encoding='utf-8') as f:
             for line in f:
                 line = line.strip()
@@ -62,6 +67,10 @@ class AdGuardProcessor:
         return domain.strip('.') if domain else ""
 
     def process_blacklist(self, black_path: Path, white_path: Path, output_path: Path):
+        # 验证黑名单文件是否存在
+        if not black_path.exists():
+            raise FileNotFoundError(f"黑名单文件不存在: {black_path}")
+            
         whitelist = self.load_whitelist(white_path)
         
         with open(black_path, 'r', encoding='utf-8') as infile, \
@@ -106,16 +115,19 @@ def main():
     try:
         processor = AdGuardProcessor()
         
-        # 路径修改为项目根目录（关键调整）
-        script_dir = Path(__file__).parent  # 当前脚本所在目录：/data/python
-        root_dir = script_dir.parent.parent  # 项目根目录：/EasyAds
+        # 修正路径计算：从utils目录定位到项目根目录
+        # 当前脚本路径: data/python/utils/filter-ad.py
+        script_path = Path(__file__).resolve()  # 获取绝对路径
+        utils_dir = script_path.parent         # data/python/utils
+        python_dir = utils_dir.parent          # data/python
+        data_dir = python_dir.parent           # data
+        root_dir = data_dir.parent             # 项目根目录 (EasyAds)
         
-        # 调试输出路径信息，确认根目录位置
-        print(f"::debug::脚本目录: {script_dir}")
-        print(f"::debug::根目录路径: {root_dir}")
+        # 调试输出路径信息，帮助确认路径是否正确
+        print(f"::debug::脚本绝对路径: {script_path}")
+        print(f"::debug::项目根目录: {root_dir}")
         print(f"::debug::白名单路径: {root_dir / 'allow.txt'}")
         print(f"::debug::黑名单路径: {root_dir / 'dns.txt'}")
-        print(f"::debug::输出路径: {root_dir / 'adblock-filtered.txt'}")
         
         # 验证根目录存在
         if not root_dir.exists():
