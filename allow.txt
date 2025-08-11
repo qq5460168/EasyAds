@@ -6773,7 +6773,7 @@
 @@||res.zonecointernationl.com^
 @@||research.hchs.hc.edu.tw/*/banner.php$domain=research.hchs.hc.edu.tw
 @@||researchintel.com^*/feedback.asp$xmlhttprequest,domain=intel.com
-@@||reseguiden.se^*.siteCatalyst.js! url: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
+@@||reseguiden.se^*.siteCatalyst.js
 @@||resfile.lixincsb.com^
 @@||resmedi.lixincsb.com^
 @@||resolver*mi.com^
