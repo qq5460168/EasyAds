@@ -5,7 +5,8 @@ on:
     - cron: '0 */12 * * *'
   push:
     paths:
-      - 'data/python/**'
+      - 'data/python/rules_generator/**'
+      - 'data/python/utils/**'
       - 'data/source/**'
       - 'data/mod/**'
     
@@ -29,7 +30,8 @@ jobs:
         uses: tj-actions/changed-files@v42
         with:
           files: |
-            data/python/**
+            data/python/rules_generator/**
+            data/python/utils/**
             data/source/**
             data/mod/**
             
@@ -37,48 +39,79 @@ jobs:
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         continue-on-error: true
         run: |
-          python ./data/python/dl.py
+          python ./data/python/utils/dl.py  # 辅助脚本在utils目录
           
       - name: Merge Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/merge.py
+          python ./data/python/utils/merge.py  # 辅助脚本在utils目录
           
       - name: Generate dns Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/filter-dns.py
+          python ./data/python/rules_generator/filter-dns.py  # 规则生成脚本在rules_generator目录
 
       - name: Generate qx Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/qx.py
+          python ./data/python/rules_generator/qx.py  # 规则生成脚本在rules_generator目录
 
       - name: Generate filter Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/filter-ad.py
+          python ./data/python/utils/filter-ad.py  # 辅助脚本在utils目录
 
       - name: Generate mihomo Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/mihomo.py
+          python ./data/python/rules_generator/mihomo.py  # 规则生成脚本在rules_generator目录
 
       - name: Generate loon Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/loon.py
+          python ./data/python/rules_generator/loon.py  # 规则生成脚本在rules_generator目录
+
+      # 新增的6个规则生成步骤
+      - name: Generate Hosts Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/rules_generator/hosts_generator.py
+
+      - name: Generate Clash Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/rules_generator/clash_generator.py
+
+      - name: Generate SingBox Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/rules_generator/singbox_generator.py
+
+      - name: Generate Shadowrocket Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/rules_generator/shadowrocket_generator.py
+
+      - name: Generate Invizible Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/rules_generator/invizible_generator.py
+
+      - name: Generate AdClose Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python ./data/python/rules_generator/adclose_generator.py
 
       - name: Generate Domain List
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/domain_list.py
+          python ./data/python/rules_generator/domain_list.py  # 规则生成脚本在rules_generator目录
 
       - name: Update Title & ReadMe
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/title.py
-          python ./data/python/clean-readme.py
+          python ./data/python/utils/title.py  # 辅助脚本在utils目录
+          python ./data/python/utils/clean-readme.py  # 辅助脚本在utils目录
 
       - name: Configure Git
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
