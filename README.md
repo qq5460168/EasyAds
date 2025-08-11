@@ -1,136 +1,124 @@
 <div align="center">
-<h1 align="center">EasyAds</h1>
-<h3 align="center">一个强力去广告的规则集合</h3>
-
-<p align="center">
-  <a href="https://github.com/045200/EasyAds">
-    <img src="https://img.shields.io/github/last-commit/045200/EasyAds?style=flat-square&color=blue" alt="last update" />
+<h1 align="center"><br>一个强力去广告的规则</h1>
+<p>
+  <a href="https://github.com/qq5460168/666">
+    <img src="https://img.shields.io/github/last-commit/qq5460168/666?style=flat-square" alt="last update" />
   </a>
-  <a href="https://github.com/045200/EasyAds">
-    <img src="https://img.shields.io/github/forks/045200/EasyAds?style=flat-square&color=brightgreen" alt="forks" />
+  <a href="https://github.com/qq5460168/666">
+    <img src="https://img.shields.io/github/forks/qq5460168/666?style=flat-square" alt="forks" />
   </a>
-  <a href="https://github.com/045200/EasyAds">
-    <img src="https://img.shields.io/github/stars/045200/EasyAds?style=flat-square&color=yellow" alt="stars" />
+  <a href="https://github.com/qq5460168/666">
+    <img src="https://img.shields.io/github/stars/qq5460168/666?style=flat-square" alt="stars" />
   </a>
-  <a href="https://github.com/045200/EasyAds/issues/">
-    <img src="https://img.shields.io/github/issues/045200/EasyAds?style=flat-square&color=red" alt="open issues" />
+  <a href="https://github.com/qq5460168/666/issues/">
+    <img src="https://img.shields.io/github/issues/qq5460168/666?style=flat-square" alt="open issues" />
   </a>
-  <a href="https://github.com/045200/EasyAds">
-    <img src="https://img.shields.io/github/license/045200/EasyAds?style=flat-square&color=9cf" alt="license" />
+  <a href="https://github.com/qq5460168/666">
+    <img src="https://img.shields.io/github/license/qq5460168/666?style=flat-square" alt="license" />
   </a>
 </p>
 
-<p align="center">
-  <b>🚫 强力去广告 | 🔄 定时更新 | 🛡️ 多种格式</b>
-</p>
-
-<p align="center">
-  <a href="#-规则订阅">规则订阅</a> •
-  <a href="#-拦截效果">拦截效果</a> •
-  <a href="#-完善项目">完善项目</a>
-</p>
-
----
+<h4>
+    <a href="#a">规则订阅</a>
+  <span> · </span>
+    <a href="#b">上游列表</a>
+  <span> · </span>
+    <a href="#c">拦截效果</a>
+  <span> · </span>
+    <a href="#d">完善项目</a>
+  </h4>
 
 </div>
-
-## 📊 项目统计
-
-```
-更新时间: 2025-08-10 21:55:18 （北京时间）
-
-📈 拦截规则数量: 260712
-🛡️ DNS拦截规则数量: 164866
-✅ 白名单规则数量: 8852
-```
-
-## 📥 规则订阅
-
-<details open>
-<summary><b>🚫 广告拦截规则</b></summary>
-<br>
-
-| 规则类型 | 📥 GitHub直链 | 🚀 国内加速链接 |
-| :---- | :---- | :---- |
-| AdGuard 拦截规则 | [adblock.txt](https://raw.githubusercontent.com/045200/EasyAds/master/data/rules/adblock.txt) | [adblock.txt](https://ghfast.top/raw.githubusercontent.com/045200/EasyAds/master/data/rules/adblock.txt) |
-| AdGuard Home DNS拦截规则 | [dns.txt](https://raw.githubusercontent.com/045200/EasyAds/master/data/rules/dns.txt) | [dns.txt](https://ghfast.top/raw.githubusercontent.com/045200/EasyAds/master/data/rules/dns.txt) |
-
-</details>
-
-<details>
-<summary><b>📋 仅域名规则</b></summary>
-<br>
-
-| 规则类型 | 📥 GitHub直链 | 🚀 国内加速链接 |
-| :---- | :---- | :---- |
-| 黑名单域名列表 | [ad-domain.txt](https://raw.githubusercontent.com/045200/EasyAds/master/data/rules/ad-domain.txt) | [ad-domain.txt](https://ghfast.top/raw.githubusercontent.com/045200/EasyAds/master/data/rules/ad-domain.txt) |
-
-</details>
-
-<details>
-<summary><b>📱 Quantumult X规则</b></summary>
-<br>
-
-| 规则类型 | 📥 GitHub直链 | 🚀 国内加速链接 |
-| :---- | :---- | :---- |
-| Quantumult X规则 | [qx.list](https://raw.githubusercontent.com/045200/EasyAds/master/data/rules/qx.list) | [qx.list](https://ghfast.top/raw.githubusercontent.com/045200/EasyAds/master/data/rules/qx.list) |
-
-</details>
-
-<details>
-<summary><b>🛩️ Clash Mihomo规则</b></summary>
-<br>
-
-| 规则类型 | 📥 GitHub直链 | 🚀 国内加速链接 |
-| :---- | :---- | :---- |
-| Clash Mihomo规则 | [mihomo.mrs](https://raw.githubusercontent.com/045200/EasyAds/master/data/rules/mihomo.mrs) | [mihomo.mrs](https://ghfast.top/raw.githubusercontent.com/045200/EasyAds/master/data/rules/mihomo.mrs) |
-
-</details>
-
-<details>
-<summary><b>✅ 白名单规则</b></summary>
-<br>
-
-| 规则类型 | 📥 GitHub直链 | 🚀 国内加速链接 |
-| :---- | :---- | :---- |
-| 白名单规则 | [allow.txt](https://raw.githubusercontent.com/045200/EasyAds/master/data/rules/allow.txt) | [allow.txt](https://ghfast.top/raw.githubusercontent.com/045200/EasyAds/master/data/rules/allow.txt) |
-</details>
-
-## 🚫 拦截效果
 
 <div align="center">
-  <p><b>点击以下链接测试广告拦截效果：</b></p>
-  
-  <a href="https://adblock-tester.com">
-    <img src="https://img.shields.io/badge/AdBlock%20Tester-测试链接-blue?style=for-the-badge" alt="AdBlock Tester"/>
-  </a>
-  
-  <a href="https://blockads.fivefilters.org/">
-    <img src="https://img.shields.io/badge/Block%20Ads!-测试链接-green?style=for-the-badge" alt="Block Ads!"/>
-  </a>
-  
-  <a href="https://adblock.turtlecute.org/">
-    <img src="https://img.shields.io/badge/Ad%20Blocker%20Test-测试链接-orange?style=for-the-badge" alt="Ad Blocker Test"/>
-  </a>
+  <!-- 访客计数，点击跳转到仓库主页 -->
+你是第 <img src="https://profile-counter.glitch.me/qq5460168-666/count.svg" alt="访客计数" /> 位访客
 </div>
+<h2 id="a">🎯 规则订阅</h2>
 
-## 💬 完善项目
+```
+更新时间: 2025-08-11 22:16:05 （北京时间） 
 
-希望大家可以提交 Issue 或者 Request 来帮助我完善规则，我审核之后会加入到规则，如果规则有误杀我会尽快处理。
+拦截规则数量: 27421 
+DNS拦截规则数量: 16679 
+白名单规则数量: 3047 
+Hosts规则数量: 16677 
+Quantumult X规则数量:  
+Clash规则数量: 16672 
+Clash Meta规则数量: 16672 
+Shadowrocket规则数量: 16672 
+Singbox规则数量: 16672 
+Invizible Pro规则数量: 16677 
+AdClose规则数量: 16676 
+```
+
+<details open>
+## 规则类型及用途
+
+| 类型             | 主要用途                       | 下载链接                                                                            |
+|------------------|------------------------------|-------------------------------------------------------------------------------------|
+| AdGuard通用黑名单       | 拦截大部分广告域名             | [rules.txt](https://raw.githubusercontent.com/qq5460168/666/refs/heads/master/rules.txt)     |
+| AdGuard通用白名单       | 允许误拦截的正常域名           | [white.txt](https://raw.githubusercontent.com/qq5460168/666/refs/heads/master/allow.txt)     |
+| DNS 规则         | AdGuard Home/支持 DNS 的工具   | [dnslist.txt](https://raw.githubusercontent.com/qq5460168/666/master/dns.txt)   |
+| Hosts 规则       | 系统 Hosts 文件专用            | [hosts.txt](https://raw.githubusercontent.com/qq5460168/666/master/hosts.txt)       |
+| Clash 规则       | Clash Premium 配置             | [Clash.yaml](https://raw.githubusercontent.com/qq5460168/666/master/clash.yaml) |
+| Clash Meta 规则  | Clash Meta/Mihomo 配置         | [clash_meta.yaml](https://raw.githubusercontent.com/qq5460168/666/master/clash_meta.yaml) |
+| Quantumult X     | Quantumult X 配置              | [qx.list](https://raw.githubusercontent.com/qq5460168/666/master/qx.list)           |
+| SingBox          | SingBox 配置                   | [singbox.srs](https://raw.githubusercontent.com/qq5460168/666/master/singbox.srs)   |
+| Shadowrocket     | Shadowrocket 配置              | [Shadowrocket.list](https://raw.githubusercontent.com/qq5460168/666/master/Shadowrocket.list) |
+| Invizible Pro    | Invizible Pro 配置             | [invizible.txt](https://raw.githubusercontent.com/qq5460168/666/master/invizible.txt) |
+| AdClose          | AdClose 配置                   | [AdClose.txt](https://raw.githubusercontent.com/qq5460168/666/master/AdClose.txt)   |
+
+
+## 规则列表（含加速与备用下载）
+
+<details open>
+<summary>点击展开/收起</summary>
+
+- 广告拦截规则  
+  - [规则（GitHub）](https://raw.githubusercontent.com/qq5460168/666/master/rules.txt)
+  - [规则（国内加速）](https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/666/master/rules.txt)
+- DNS 拦截规则  
+  - [DNS 规则（GitHub）](https://raw.githubusercontent.com/qq5460168/666/master/dns.txt)
+  - [DNS 规则（国内加速）](https://ghp.ci/https://raw.githubusercontent.com/qq5460168/666/master/dns.txt)
+- 白名单  
+  - [白名单（GitHub）](https://raw.githubusercontent.com/qq5460168/666/master/allow.txt)
+  - [白名单（国内加速）](https://ghp.ci/https://raw.githubusercontent.com/qq5460168/666/master/allow.txt)
+- Hosts 规则  
+  - [Hosts（GitHub）](https://raw.githubusercontent.com/qq5460168/666/master/hosts.txt)
+  - [Hosts（国内加速）](https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/666/master/hosts.txt)
+- 专用客户端规则  
+  - [Quantumult X（qx.list）](https://raw.githubusercontent.com/qq5460168/666/master/qx.list)
+  - [Shadowrocket（Shadowrocket.list）](https://raw.githubusercontent.com/qq5460168/666/master/Shadowrocket.list)
+  - [AdClose（AdClose.txt）](https://raw.githubusercontent.com/qq5460168/666/master/AdClose.txt)
+  - [Singbox SRS（singbox.srs）](https://raw.githubusercontent.com/qq5460168/666/master/singbox.srs)
+  - [Singbox JSON（Singbox.json）](https://raw.githubusercontent.com/qq5460168/666/master/Singbox.json)
+  - [Invizible Pro（invizible.txt）](https://raw.githubusercontent.com/qq5460168/666/master/invizible.txt)
+  - [Clash（clash.yaml）](https://raw.githubusercontent.com/qq5460168/666/master/clash.yaml)
+  - [Clash Meta（clash_meta.yaml）](https://raw.githubusercontent.com/qq5460168/666/master/clash_meta.yaml)
+
+</details>
+
+
+
+<h2 id="c">🚫 拦截效果</h2>
+
+[AdBlock Tester](https://adblock-tester.com)
+
+[Block Ads! Adblock test](https://blockads.fivefilters.org/)
+
+[Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
+
+<h2 id="d">💬 完善项目</h2>
+
+希望大家可以提交 Issue 或者 Request 来帮助我完善规则 我审核之后会加入到规则，如果规则有误杀我会尽快处理
 
 **提交范围**
 
-- 🚫 漏拦截的广告
-- ✅ 误杀的网站
+- 漏拦截的广告
+- 误杀的网站
 
 ## ⭐ 感谢支持
 
-<p align='center'>
-  <a href="https://github.com/045200/EasyAds/stargazers">
-    <img src="https://api.star-history.com/svg?repos=045200/EasyAds&type=Date" alt="Star History Chart">
-  </a>
-</p>
 
-<div align="center">
-  <b>如果觉得有用，请点个⭐支持一下！</b>
-</div>
+
