@@ -2,7 +2,7 @@ name: Update Rules
 on: 
   workflow_dispatch:  # 手动触发
   schedule:
-    - cron: '0 */12 * * *'  # 每12小时自动执行
+    - cron: '0 */6 * * *'  # 每6小时自动执行
   push:
     paths:
       - 'data/python/utils/**'  # 监测utils目录下的脚本变更
@@ -60,22 +60,29 @@ jobs:
             exit 1
           fi
 
-     - name: Generate DNS Rules
-  if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-  run: |
-    # 验证文件存在性
-    DNS_SCRIPT="data/python/utils/filter-dns.py"
-    if [ -f "$DNS_SCRIPT" ]; then
-      python "$DNS_SCRIPT"
-    else
-      echo "Error: filter-dns.py not found at $DNS_SCRIPT"
-      exit 1
-    fi
+      - name: Generate DNS Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          # 验证文件存在性
+          DNS_SCRIPT="data/python/utils/filter-dns.py"
+          if [ -f "$DNS_SCRIPT" ]; then
+            python "$DNS_SCRIPT"
+          else
+            echo "Error: filter-dns.py not found at $DNS_SCRIPT"
+            exit 1
+          fi
 
       - name: Generate Quantumult X Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python data/python/qx.py  # 若在utils下，修正为data/python/utils/qx.py
+          # 修正路径为utils目录
+          QX_SCRIPT="data/python/utils/qx.py"
+          if [ -f "$QX_SCRIPT" ]; then
+            python "$QX_SCRIPT"
+          else
+            echo "Error: qx.py not found at $QX_SCRIPT"
+            exit 1
+          fi
 
       - name: Generate AdGuard Filter Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
@@ -85,17 +92,38 @@ jobs:
       - name: Generate Mihomo Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python data/python/mihomo.py  # 若在utils下，修正为data/python/utils/mihomo.py
+          # 修正路径为utils目录
+          MIHOMO_SCRIPT="data/python/utils/mihomo.py"
+          if [ -f "$MIHOMO_SCRIPT" ]; then
+            python "$MIHOMO_SCRIPT"
+          else
+            echo "Error: mihomo.py not found at $MIHOMO_SCRIPT"
+            exit 1
+          fi
 
       - name: Generate Loon Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python data/python/loon.py  # 若在utils下，修正为data/python/utils/loon.py
+          # 修正路径为utils目录
+          LOON_SCRIPT="data/python/utils/loon.py"
+          if [ -f "$LOON_SCRIPT" ]; then
+            python "$LOON_SCRIPT"
+          else
+            echo "Error: loon.py not found at $LOON_SCRIPT"
+            exit 1
+          fi
 
       - name: Generate Domain List
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python data/python/domain_list.py  # 若在utils下，修正为data/python/utils/domain_list.py
+          # 修正路径为utils目录
+          DOMAIN_SCRIPT="data/python/utils/domain_list.py"
+          if [ -f "$DOMAIN_SCRIPT" ]; then
+            python "$DOMAIN_SCRIPT"
+          else
+            echo "Error: domain_list.py not found at $DOMAIN_SCRIPT"
+            exit 1
+          fi
 
       - name: Update Title & README
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
