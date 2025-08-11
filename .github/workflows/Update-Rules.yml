@@ -1,27 +1,28 @@
 name: Update Rules
 on: 
-  workflow_dispatch:
+  workflow_dispatch:  # 手动触发
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 */6 * * *'  # 每6小时自动执行
   push:
     paths:
-      - 'data/python/**'
+      - 'data/python/utils/**'
+      - 'data/python/rules_generator/**'
       - 'data/source/**'
       - 'data/mod/**'
-    
+      - 'requirements.txt'  # 监测依赖文件变更
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-          
+          fetch-depth: 0  # 拉取完整历史
+
       - name: Detect default branch
         id: branch
         run: |
           DEFAULT_BRANCH=$(git remote show origin | awk '/HEAD branch/ {print $NF}')
-          echo "Default branch is $DEFAULT_BRANCH"
           echo "branch=$DEFAULT_BRANCH" >> $GITHUB_OUTPUT
 
       - name: Check for file changes
@@ -29,119 +30,229 @@ jobs:
         uses: tj-actions/changed-files@v42
         with:
           files: |
-            data/python/**
+            data/python/utils/**
+            data/python/rules_generator/**
             data/source/**
             data/mod/**
-            
-      # 基础工具脚本（数据准备阶段）
+            requirements.txt
+
+      - name: Set up Python
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+          cache-dependency-path: 'requirements.txt'  # 显式指定依赖文件路径
+
+      - name: Install dependencies
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # 从文件安装依赖
+
+      - name: Debug file structure
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          echo "Current directory: $(pwd)"
+          ls -la data/python/utils/
+          ls -la data/python/rules_generator/
+          cat requirements.txt  # 验证依赖文件存在
+
+      # 数据准备阶段
       - name: Download Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        continue-on-error: true
         run: |
-          python ./data/python/utils/dl.py
-          
+          DL_SCRIPT="data/python/utils/dl.py"
+          if [ -f "$DL_SCRIPT" ]; then
+            python "$DL_SCRIPT"
+          else
+            echo "Error: $DL_SCRIPT not found"
+            exit 1
+          fi
+
       - name: Merge Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/utils/merge.py
-          
+          MERGE_SCRIPT="data/python/utils/merge.py"
+          if [ -f "$MERGE_SCRIPT" ]; then
+            python "$MERGE_SCRIPT"
+          else
+            echo "Error: $MERGE_SCRIPT not found"
+            exit 1
+          fi
+
       - name: Filter Ad Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/utils/filter-ad.py
+          FILTER_AD_SCRIPT="data/python/utils/filter-ad.py"
+          if [ -f "$FILTER_AD_SCRIPT" ]; then
+            python "$FILTER_AD_SCRIPT"
+          else
+            echo "Error: $FILTER_AD_SCRIPT not found"
+            exit 1
+          fi
 
-      # 核心规则生成（基础规则）
+      # 基础规则生成
       - name: Generate DNS Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/rules_generator/filter-dns.py
+          DNS_SCRIPT="data/python/rules_generator/filter-dns.py"
+          if [ -f "$DNS_SCRIPT" ]; then
+            python "$DNS_SCRIPT"
+          else
+            echo "Error: $DNS_SCRIPT not found"
+            exit 1
+          fi
 
       - name: Generate Domain List
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/rules_generator/domain_list.py
+          DOMAIN_SCRIPT="data/python/rules_generator/domain_list.py"
+          if [ -f "$DOMAIN_SCRIPT" ]; then
+            python "$DOMAIN_SCRIPT"
+          else
+            echo "Error: $DOMAIN_SCRIPT not found"
+            exit 1
+          fi
 
-      # 客户端专用规则生成
+      # 客户端规则生成
       - name: Generate Quantumult X Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/rules_generator/qx.py
+          QX_SCRIPT="data/python/rules_generator/qx.py"
+          if [ -f "$QX_SCRIPT" ]; then
+            python "$QX_SCRIPT"
+          else
+            echo "Error: $QX_SCRIPT not found"
+            exit 1
+          fi
 
       - name: Generate Loon Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/rules_generator/loon.py
+          LOON_SCRIPT="data/python/rules_generator/loon.py"
+          if [ -f "$LOON_SCRIPT" ]; then
+            python "$LOON_SCRIPT"
+          else
+            echo "Error: $LOON_SCRIPT not found"
+            exit 1
+          fi
 
       - name: Generate Mihomo Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/rules_generator/mihomo.py
+          MIHOMO_SCRIPT="data/python/rules_generator/mihomo.py"
+          if [ -f "$MIHOMO_SCRIPT" ]; then
+            python "$MIHOMO_SCRIPT"
+          else
+            echo "Error: $MIHOMO_SCRIPT not found"
+            exit 1
+          fi
 
       - name: Generate Clash Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/rules_generator/clash.py
+          CLASH_SCRIPT="data/python/rules_generator/clash.py"
+          if [ -f "$CLASH_SCRIPT" ]; then
+            python "$CLASH_SCRIPT"
+          else
+            echo "Error: $CLASH_SCRIPT not found"
+            exit 1
+          fi
 
       - name: Generate Shadowrocket Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/rules_generator/shadowrocket.py
+          SR_SCRIPT="data/python/rules_generator/shadowrocket.py"
+          if [ -f "$SR_SCRIPT" ]; then
+            python "$SR_SCRIPT"
+          else
+            echo "Error: $SR_SCRIPT not found"
+            exit 1
+          fi
 
       - name: Generate Singbox Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/rules_generator/singbox.py
+          SINGBOX_SCRIPT="data/python/rules_generator/singbox.py"
+          if [ -f "$SINGBOX_SCRIPT" ]; then
+            python "$SINGBOX_SCRIPT"
+          else
+            echo "Error: $SINGBOX_SCRIPT not found"
+            exit 1
+          fi
 
       - name: Generate Invizible Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/rules_generator/invizible.py
+          INVISIBLE_SCRIPT="data/python/rules_generator/invizible.py"
+          if [ -f "$INVISIBLE_SCRIPT" ]; then
+            python "$INVISIBLE_SCRIPT"
+          else
+            echo "Error: $INVISIBLE_SCRIPT not found"
+            exit 1
+          fi
 
       - name: Generate Hosts Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/rules_generator/hosts.py
+          HOSTS_SCRIPT="data/python/rules_generator/hosts.py"
+          if [ -f "$HOSTS_SCRIPT" ]; then
+            python "$HOSTS_SCRIPT"
+          else
+            echo "Error: $HOSTS_SCRIPT not found"
+            exit 1
+          fi
 
       - name: Generate Adclose Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/rules_generator/adclose.py
+          ADCLOSE_SCRIPT="data/python/rules_generator/adclose.py"
+          if [ -f "$ADCLOSE_SCRIPT" ]; then
+            python "$ADCLOSE_SCRIPT"
+          else
+            echo "Error: $ADCLOSE_SCRIPT not found"
+            exit 1
+          fi
 
-      # 收尾处理脚本
-      - name: Update Title & Metadata
+      # 元数据更新
+      - name: Update Title & README
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/utils/title.py
+          TITLE_SCRIPT="data/python/utils/title.py"
+          README_SCRIPT="data/python/utils/clean-readme.py"
+          
+          if [ -f "$TITLE_SCRIPT" ]; then
+            python "$TITLE_SCRIPT"
+          else
+            echo "Error: $TITLE_SCRIPT not found"
+            exit 1
+          fi
+          
+          if [ -f "$README_SCRIPT" ]; then
+            python "$README_SCRIPT"
+          else
+            echo "Error: $README_SCRIPT not found"
+            exit 1
+          fi
 
-      - name: Clean README
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        run: |
-          python ./data/python/utils/clean-readme.py
-
-      # 版本控制
-      - name: Configure Git
+      # 代码提交与推送
+      - name: Commit and Push Changes
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-
-      - name: Commit Changes
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        run: |
           git add --all
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" || echo "No changes to commit"
-      
-      - name: Sync and Push Changes
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        env:
-          DEFAULT_BRANCH: ${{ steps.branch.outputs.branch }}
-        run: |
+          
+          # 增加重试逻辑，避免推送冲突
           for i in 1 2 3; do
-            git pull --rebase origin "$DEFAULT_BRANCH"
-            git push origin "$DEFAULT_BRANCH" && break || sleep 5
+            git pull --rebase origin ${{ steps.branch.outputs.branch }}
+            git push origin ${{ steps.branch.outputs.branch }} && break || sleep 5
           done
 
-      - name: Delete workflow runs 
+      # 清理工作流记录
+      - name: Cleanup workflow runs
         uses: Mattraks/delete-workflow-runs@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
