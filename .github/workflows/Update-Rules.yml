@@ -44,10 +44,20 @@ jobs:
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           python -m pip install --upgrade pip
-          pip install pytz requests
+          pip install pytz requests  # 项目中loon.py和title.py依赖pytz
           echo "Python dependencies installed"
             
-      - name: Download Rules
+      - name: Clean previous rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          # 确保临时目录存在并清理
+          mkdir -p ./tmp
+          rm -f ./tmp/*.txt
+          # 清理根目录规则文件（与dl.py保持一致）
+          rm -f adblock.txt allow.txt dns.txt qx.list loon-rules.list adb.mrs
+          echo "Cleaned previous rules"
+          
+      - name: Download source rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           echo "Starting rule download..."
@@ -55,15 +65,15 @@ jobs:
           echo "Rule download completed"
         continue-on-error: false
         
-      - name: Merge Rules
+      - name: Merge and clean rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          echo "Starting rule merging..."
+          echo "Merging rules..."
           python ./data/python/merge.py
-          echo "Rule merging completed"
+          echo "Rules merged and cleaned"
         continue-on-error: false
         
-      - name: Generate DNS Rules
+      - name: Generate DNS rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           echo "Generating DNS rules..."
@@ -71,44 +81,38 @@ jobs:
           echo "DNS rules generated"
         continue-on-error: false
         
-      - name: Generate Filter Rules
+      - name: Generate AdGuard filtered rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          echo "Generating ad filter rules..."
+          echo "Generating filtered ad rules..."
           python ./data/python/filter-ad.py
-          echo "Ad filter rules generated"
+          echo "Filtered ad rules generated"
         continue-on-error: false
         
-      - name: Generate Client Rules
+      - name: Generate client-specific rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           echo "Generating Quantumult X rules..."
           python ./data/python/qx.py
-          echo "Quantumult X rules generated"
           
           echo "Generating Loon rules..."
           python ./data/python/loon.py
-          echo "Loon rules generated"
           
           echo "Generating Mihomo rules..."
           python ./data/python/mihomo.py
-          echo "Mihomo rules generated"
           
           echo "Generating Domain List..."
           python ./data/python/domain_list.py
-          echo "Domain List generated"
         continue-on-error: false
         
-      - name: Update Metadata
+      - name: Update metadata and documentation
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          echo "Updating rule titles..."
+          echo "Updating rule headers..."
           python ./data/python/title.py
-          echo "Rule titles updated"
           
           echo "Updating README..."
           python ./data/python/clean-readme.py
-          echo "README updated"
         continue-on-error: false
         
       - name: Configure Git
@@ -117,13 +121,13 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-      - name: Commit Changes
+      - name: Commit changes
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           git add --all
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" || echo "No changes to commit"
       
-      - name: Sync and Push Changes
+      - name: Sync and push changes
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         env:
           DEFAULT_BRANCH: ${{ steps.branch.outputs.branch }}
@@ -133,7 +137,7 @@ jobs:
             git push origin "$DEFAULT_BRANCH" && break || sleep 5
           done
 
-      - name: Cleanup Workflow Runs
+      - name: Cleanup workflow runs
         uses: Mattraks/delete-workflow-runs@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
