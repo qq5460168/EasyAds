@@ -5,9 +5,10 @@ on:
     - cron: '0 */6 * * *'  # 每6小时自动执行
   push:
     paths:
-      - 'data/python/utils/**'  # 监测utils目录下的脚本变更
-      - 'data/source/**'       # 监测源规则变更
-      - 'data/mod/**'          # 监测修改规则变更
+      - 'data/python/utils/**'        # 监测工具脚本变更
+      - 'data/python/rules_generator/**'  # 新增：监测规则生成脚本变更
+      - 'data/source/**'              # 监测源规则变更
+      - 'data/mod/**'                 # 监测修改规则变更
 
 jobs:
   update:
@@ -29,6 +30,7 @@ jobs:
         with:
           files: |
             data/python/utils/**
+            data/python/rules_generator/**  # 新增：监测规则生成脚本变更
             data/source/**
             data/mod/**
 
@@ -42,17 +44,18 @@ jobs:
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           echo "Current directory: $(pwd)"
-          ls -la data/python/utils/  # 查看utils目录下的脚本
+          ls -la data/python/utils/
+          ls -la data/python/rules_generator/  # 新增：查看规则生成脚本目录
 
+      # 工具脚本（utils目录，路径正确）
       - name: Download Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python data/python/utils/dl.py  # 修正路径
+          python data/python/utils/dl.py
 
       - name: Merge Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          # 验证merge.py是否存在于utils目录
           if [ -f "data/python/utils/merge.py" ]; then
             python data/python/utils/merge.py
           else
@@ -60,11 +63,11 @@ jobs:
             exit 1
           fi
 
+      # 规则生成脚本（rules_generator目录，修正路径）
       - name: Generate DNS Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          # 验证文件存在性
-          DNS_SCRIPT="data/python/utils/filter-dns.py"
+          DNS_SCRIPT="data/python/rules_generator/filter-dns.py"  # 修正路径
           if [ -f "$DNS_SCRIPT" ]; then
             python "$DNS_SCRIPT"
           else
@@ -75,8 +78,7 @@ jobs:
       - name: Generate Quantumult X Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          # 修正路径为utils目录
-          QX_SCRIPT="data/python/utils/qx.py"
+          QX_SCRIPT="data/python/rules_generator/qx.py"  # 修正路径
           if [ -f "$QX_SCRIPT" ]; then
             python "$QX_SCRIPT"
           else
@@ -87,13 +89,12 @@ jobs:
       - name: Generate AdGuard Filter Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python data/python/utils/filter-ad.py  # 修正路径
+          python data/python/utils/filter-ad.py  # 工具脚本，路径正确
 
       - name: Generate Mihomo Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          # 修正路径为utils目录
-          MIHOMO_SCRIPT="data/python/utils/mihomo.py"
+          MIHOMO_SCRIPT="data/python/rules_generator/mihomo.py"  # 修正路径
           if [ -f "$MIHOMO_SCRIPT" ]; then
             python "$MIHOMO_SCRIPT"
           else
@@ -104,8 +105,7 @@ jobs:
       - name: Generate Loon Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          # 修正路径为utils目录
-          LOON_SCRIPT="data/python/utils/loon.py"
+          LOON_SCRIPT="data/python/rules_generator/loon.py"  # 修正路径
           if [ -f "$LOON_SCRIPT" ]; then
             python "$LOON_SCRIPT"
           else
@@ -116,8 +116,7 @@ jobs:
       - name: Generate Domain List
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          # 修正路径为utils目录
-          DOMAIN_SCRIPT="data/python/utils/domain_list.py"
+          DOMAIN_SCRIPT="data/python/rules_generator/domain_list.py"  # 修正路径
           if [ -f "$DOMAIN_SCRIPT" ]; then
             python "$DOMAIN_SCRIPT"
           else
@@ -125,11 +124,12 @@ jobs:
             exit 1
           fi
 
+      # 工具脚本（utils目录，路径正确）
       - name: Update Title & README
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python data/python/utils/title.py  # 修正路径
-          python data/python/utils/clean-readme.py  # 修正路径
+          python data/python/utils/title.py
+          python data/python/utils/clean-readme.py
 
       - name: Configure Git
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
