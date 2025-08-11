@@ -1,27 +1,27 @@
 name: Update Rules
 on: 
-  workflow_dispatch:
+  workflow_dispatch:  # 手动触发
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 */6 * * *'  # 每6小时自动执行
   push:
     paths:
-      - 'data/python/**'
-      - 'data/source/**'
-      - 'data/mod/**'
-    
+      - 'data/python/utils/**'        # 监测工具脚本变更
+      - 'data/python/rules_generator/**'  # 新增：监测规则生成脚本变更
+      - 'data/source/**'              # 监测源规则变更
+      - 'data/mod/**'                 # 监测修改规则变更
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-          
+          fetch-depth: 0  # 拉取完整历史
+
       - name: Detect default branch
         id: branch
         run: |
           DEFAULT_BRANCH=$(git remote show origin | awk '/HEAD branch/ {print $NF}')
-          echo "Default branch is $DEFAULT_BRANCH"
           echo "branch=$DEFAULT_BRANCH" >> $GITHUB_OUTPUT
 
       - name: Check for file changes
@@ -29,71 +29,107 @@ jobs:
         uses: tj-actions/changed-files@v42
         with:
           files: |
-            data/python/**
+            data/python/utils/**
+            data/python/rules_generator/**  # 新增：监测规则生成脚本变更
             data/source/**
             data/mod/**
-            
-      # 新增 Python 环境配置（解决依赖检测警告）
+
       - name: Set up Python
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'  # 显式指定Python版本
-          cache: 'pip'  # 启用pip缓存加速依赖安装
-          
-      # 新增依赖安装步骤（根据代码依赖显式安装）
-      - name: Install Python dependencies
+          python-version: '3.10'
+
+      - name: Debug file structure
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python -m pip install --upgrade pip
-          pip install pytz requests  # 项目中loon.py/title.py等依赖pytz，下载逻辑可能依赖requests
-          
+          echo "Current directory: $(pwd)"
+          ls -la data/python/utils/
+          ls -la data/python/rules_generator/  # 新增：查看规则生成脚本目录
+
+      # 工具脚本（utils目录，路径正确）
       - name: Download Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        continue-on-error: true
         run: |
-          python ./data/python/dl.py
-          
+          python data/python/utils/dl.py
+
       - name: Merge Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/merge.py
-          
-      - name: Generate dns Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        run: |
-          python ./data/python/filter-dns.py
+          if [ -f "data/python/utils/merge.py" ]; then
+            python data/python/utils/merge.py
+          else
+            echo "Error: merge.py not found at data/python/utils/merge.py"
+            exit 1
+          fi
 
-      - name: Generate qx Rules
+      # 规则生成脚本（rules_generator目录，修正路径）
+      - name: Generate DNS Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/qx.py
+          DNS_SCRIPT="data/python/rules_generator/filter-dns.py"  # 修正路径
+          if [ -f "$DNS_SCRIPT" ]; then
+            python "$DNS_SCRIPT"
+          else
+            echo "Error: filter-dns.py not found at $DNS_SCRIPT"
+            exit 1
+          fi
 
-      - name: Generate filter Rules
+      - name: Generate Quantumult X Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/filter-ad.py
+          QX_SCRIPT="data/python/rules_generator/qx.py"  # 修正路径
+          if [ -f "$QX_SCRIPT" ]; then
+            python "$QX_SCRIPT"
+          else
+            echo "Error: qx.py not found at $QX_SCRIPT"
+            exit 1
+          fi
 
-      - name: Generate mihomo Rules
+      - name: Generate AdGuard Filter Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/mihomo.py
+          python data/python/utils/filter-ad.py  # 工具脚本，路径正确
 
-      - name: Generate loon Rules
+      - name: Generate Mihomo Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/loon.py
+          MIHOMO_SCRIPT="data/python/rules_generator/mihomo.py"  # 修正路径
+          if [ -f "$MIHOMO_SCRIPT" ]; then
+            python "$MIHOMO_SCRIPT"
+          else
+            echo "Error: mihomo.py not found at $MIHOMO_SCRIPT"
+            exit 1
+          fi
+
+      - name: Generate Loon Rules
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          LOON_SCRIPT="data/python/rules_generator/loon.py"  # 修正路径
+          if [ -f "$LOON_SCRIPT" ]; then
+            python "$LOON_SCRIPT"
+          else
+            echo "Error: loon.py not found at $LOON_SCRIPT"
+            exit 1
+          fi
 
       - name: Generate Domain List
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/domain_list.py
+          DOMAIN_SCRIPT="data/python/rules_generator/domain_list.py"  # 修正路径
+          if [ -f "$DOMAIN_SCRIPT" ]; then
+            python "$DOMAIN_SCRIPT"
+          else
+            echo "Error: domain_list.py not found at $DOMAIN_SCRIPT"
+            exit 1
+          fi
 
-      - name: Update Title & ReadMe
+      # 工具脚本（utils目录，路径正确）
+      - name: Update Title & README
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
-          python ./data/python/title.py
-          python ./data/python/clean-readme.py
+          python data/python/utils/title.py
+          python data/python/utils/clean-readme.py
 
       - name: Configure Git
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
@@ -106,7 +142,7 @@ jobs:
         run: |
           git add --all
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" || echo "No changes to commit"
-      
+
       - name: Sync and Push Changes
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         env:
@@ -117,7 +153,7 @@ jobs:
             git push origin "$DEFAULT_BRANCH" && break || sleep 5
           done
 
-      - name: Delete workflow runs 
+      - name: Cleanup workflow runs
         uses: Mattraks/delete-workflow-runs@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
