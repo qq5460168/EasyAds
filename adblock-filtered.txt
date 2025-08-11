@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-08-11 12:24:28.376305
+# Generated on 2025-08-11 12:52:31.769273
 
 ||ad.weixin.qq.com^
 ||adn.weixin.qq.com^
