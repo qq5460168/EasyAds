@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-08-12 01:41:32（北京时间）
-# 共 165430 个域名
+# 生成时间: 2025-08-12 06:32:07（北京时间）
+# 共 165445 个域名
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -21741,6 +21741,7 @@ atarget.csu.edu.au
 atarget.firstrepublic.com
 atarget.harley-davidson.com
 atarget.openbank.us
+atarrean.com
 atax.teamxbox.com
 atb-stats-api.imolive.tv
 atb.mlb.com
@@ -41486,6 +41487,7 @@ dztatn.soulberry.jp
 dzu7dslzgkd8g.cloudfront.net
 dzuabban.pro
 dzuthv.fahrrad-xxl.de
+dzv56b1o0y.com
 dzvwsv.lampade.it
 dzwqfq.alpitour.it
 dzzdspiu.icu
@@ -41712,6 +41714,7 @@ ea.voyage-prive.it
 ea.warnerbros.fr
 ea.youmaker.com
 ea07da7e.lalcsafeip.com.cname.byteshieldcdn.com
+ea5s00h6oo.com
 eabids.com
 eacdf119.cn
 eacod.tienda.com
@@ -45608,6 +45611,7 @@ faithrowold.com
 faiwax.golfhouse.de
 fajdhuhdh.com
 fajkhr.icu
+fakedisguise.com
 fakexa-post.mno.link
 fakjkwp.cn
 fakrul.mouribd.com
@@ -55324,6 +55328,7 @@ histats.com
 histbuggo.pro
 histoire.global.communications.bnpparibas
 historicalbeam.com
+historytrade.com
 histospuzz.pro
 hit.acstat.com
 hit.api.useinsider.com
@@ -70208,6 +70213,7 @@ ltqsl.liplab.com
 ltqvk.joydraveckyjewelry.com
 ltqzpz.kenayhome.com
 ltripg.marti.mx
+ltrs8bv54p.com
 ltsmt.italic.com
 ltsubzgmw.xyz
 ltsveh.wetteronline.at
@@ -76710,6 +76716,7 @@ mhmzhc.trysnow.com
 mhnpec.nimaxi-online.com
 mhoiia.icu
 mholland.net.anwalt.de
+mhqcyar.icu
 mhrkxi.thetrybe.com.au
 mhrman.45th.co.kr
 mhslbgk.cn
@@ -76890,6 +76897,7 @@ mindsinmotion.pro
 mindsonthemove.pro
 mindsparkadvertising.com
 mine.nahnoji.cz
+mineinvoice.com
 minerad.com
 minerva.devices.a2z.com
 minerva.healthcentral.com
@@ -81110,6 +81118,7 @@ odskoingra.pro
 odswzz.tadaaz.be
 odtrtadl.com
 odxh.cn
+odxupm909y.com
 odz12g5ag.com
 odzcakey.com
 oebarc.ekosport.at
@@ -82612,6 +82621,7 @@ otisxx.sullyn.com
 otkhyc.bueromarkt-ag.de
 otlczucn-aoplqapcip.cn-chengdu.fcapp.run
 otlhn.fentybeauty.com
+otoieku.icu
 otolasopra.pro
 otomacotelugu.com
 otomuprint.pro
@@ -100879,6 +100889,7 @@ shengminsy.com
 shenhl.top
 shenlinlive.cn
 shentongjiakao.ren
+shenxianmaomao.com
 sheoil.newyorkandcompany.com
 sherbarric.pro
 sheregesh-io.traveler.today
@@ -130287,6 +130298,8 @@ vbc08100op.com
 vbc08101op.com
 vbc08110op.com
 vbc08111op.com
+vbc08120op.com
+vbc08121op.com
 vbcqr.luminskin.com
 vbdbmqzu.com
 vbe.voyage-prive.be
@@ -133579,6 +133592,7 @@ wihejz.nolleys-mall.jp
 wihiwv.repetto.jp
 wiixqm.xyz
 wiiytwd.icu
+wiiytwd.top
 wijafyy4.pro
 wiki.ero-advertising.com
 wikia-ads.wikia.com
@@ -134124,6 +134138,7 @@ wpgobx.hamnen.se
 wpgobx.marcusoscarsson.se
 wph2.destinia.us
 wphlvzycf5.execute-api.eu-west-2.amazonaws.com
+wpizqi.icu
 wpkfti.1300k.com
 wpmdeo.xyz
 wpnwax.oberbayerischer-jobanzeiger.de
