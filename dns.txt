@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-08-12 06:32:06.917745
+# Generated on 2025-08-12 12:42:22.538335
 
 ||ad.weixin.qq.com^
 ||adn.weixin.qq.com^
@@ -6265,6 +6265,7 @@
 ||a.visme.co^
 ||a.vturb.net^
 ||a.wanzhuang.com^
+||a.wb.ru^
 ||a.weareknitters.ch^
 ||a.weareknitters.co.uk^
 ||a.weareknitters.com^
@@ -16976,6 +16977,7 @@
 ||bee.shelveholidays.co.uk^
 ||bee.tc.easebar.com^
 ||beedigital.padigital.es^
+||beehiiv-adnetwork-production.s*.amazonaws.com^
 ||beeline.beeline-tire.co.jp^
 ||beenedsl.com^
 ||beer2s.millerbrewing.com^
@@ -20625,6 +20627,7 @@
 ||consent.online.paodeacucar.com^
 ||console-telemetry.oci.oraclecloud.com^
 ||console.uxlens.com^
+||consolidata.ai^
 ||consultantchow.com^
 ||consulting.guidehouse.com^
 ||consulting.icmi.com^
@@ -77879,6 +77882,7 @@
 ||stats.vdsnow.ru^
 ||stats.vegamuze.be^
 ||stats.vican.me^
+||stats.vidalytics.com^
 ||stats.vidbinge.com^
 ||stats.viddler.com^
 ||stats.videasy.net^
