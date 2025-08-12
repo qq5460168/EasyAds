@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-08-11 18:32:02.629381
+# Generated on 2025-08-12 01:41:32.227462
 
 ||ad.weixin.qq.com^
 ||adn.weixin.qq.com^
@@ -19759,6 +19759,7 @@
 ||cloisteredcurve.com^
 ||clorso.icu^
 ||closefriction.com^
+||closishcool.com^
 ||clothing.blue-industry.com^
 ||cloud-miner.eu^
 ||cloud.beauty.avon.com^
@@ -26504,6 +26505,7 @@
 ||dialogue.mazda.sk^
 ||dialogue.nl.mazda.be^
 ||diamages.carte-gr.total.fr^
+||diamberproetid.com^
 ||diav.cn^
 ||diboji.class101.net^
 ||dibtk.medtronic.com^
@@ -36054,6 +36056,7 @@
 ||guardian-app.hotdoc.com.au^
 ||guardiancu.actonservice.com^
 ||gucx.cn^
+||guddledberith.com^
 ||gudme.lokai.com^
 ||gudvs.millennialmagazine.com^
 ||guekoe.icu^
@@ -36080,6 +36083,7 @@
 ||gulgultamarix.com^
 ||gull.mayansmithgobat.com^
 ||gulliblegrip.com^
+||gulsachbevil.com^
 ||gumnus.com^
 ||guppy.ausowned.com.au^
 ||guppy.ironmic.fm^
@@ -37196,6 +37200,7 @@
 ||hypnoticwound.com^
 ||hyrankhit.meldingcloud.com^
 ||hyretuu.top^
+||hyssopswany.com^
 ||hystericalcloth.com^
 ||hystericalfinger.com^
 ||hyth74.fun^
@@ -56605,6 +56610,7 @@
 ||performantcorp.actonservice.com^
 ||perfsight.wetest.net^
 ||pergeroni.openapp.link^
+||perksburian.com^
 ||perkyjade.com^
 ||permission.au.actonservice.com^
 ||permutive.app^
@@ -62475,6 +62481,7 @@
 ||separatesort.com^
 ||sephora-qa.branch.rocks^
 ||sephora-qa.branchstaging.com^
+||septbajri.com^
 ||sepvbm.fromyouflowers.com^
 ||ser.craftwithmetoday.com^
 ||ser.subjectit.online^
@@ -80570,6 +80577,7 @@
 ||tatpek.com^
 ||tatrack.thinkyeah.com^
 ||tattle.api.osano.com^
+||tattvaballute.com^
 ||tatu.advatx.com.br^
 ||tatu.aluguefoco.com.br^
 ||tatu.arrombatattoo.com.br^
@@ -88580,6 +88588,7 @@
 ||vewbab.entertainmentearth.com^
 ||vexclean-ss.checkoutera.com^
 ||vexclean-ss.olladeals.com^
+||vextslows.com^
 ||veyrkf.4510arte.jp^
 ||vezeqzyb.com^
 ||vezsyr.bxblue.com.br^

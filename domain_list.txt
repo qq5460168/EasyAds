@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-08-11 18:32:02（北京时间）
-# 共 165421 个域名
+# 生成时间: 2025-08-12 01:41:32（北京时间）
+# 共 165430 个域名
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -29679,6 +29679,7 @@ cloriantif.pro
 clorso.icu
 closefriction.com
 closegiall.pro
+closishcool.com
 clothing.blue-industry.com
 cloud-emea.analytics-egain.com
 cloud-log.yy.com
@@ -39051,6 +39052,7 @@ dialogue.nl.mazda.be
 dialoripug.pro
 dialospeck.pro
 diamages.carte-gr.total.fr
+diamberproetid.com
 diameredif.pro
 diamofarra.pro
 diamondbee.pro
@@ -54040,6 +54042,7 @@ guce.advertising.com
 gucx.cn
 gudabyu8.pro
 gudarigua.pro
+guddledberith.com
 gudja.iad-02.braze.com
 gudme.lokai.com
 guduxui0.pro
@@ -54097,6 +54100,7 @@ gulgultamarix.com
 gull.mayansmithgobat.com
 gulliblegrip.com
 gulogasolon.pro
+gulsachbevil.com
 gulurye7.pro
 gummosmile.pro
 gummosott.pro
@@ -56319,6 +56323,7 @@ hyqagyo6.pro
 hyrankhit.meldingcloud.com
 hyretuu.top
 hysdkservice.g.mi.com
+hyssopswany.com
 hystericalbuffalo.pro
 hystericalbuzzard.pro
 hystericalcloth.com
@@ -85007,6 +85012,7 @@ periserbor.pro
 peritcostu.pro
 peritrivol.pro
 perivtyler.pro
+perksburian.com
 perkybarracuda.pro
 perkybuffalo.pro
 perkycheetah.pro
@@ -97260,6 +97266,7 @@ sepolniell.pro
 sepolscaps.pro
 seppiimpar.pro
 sepsiritap.pro
+septbajri.com
 september.cityads.com
 septicanna.pro
 septivorti.pro
@@ -119243,6 +119250,7 @@ tatrack.thinkyeah.com
 tattecyber.pro
 tattitener.pro
 tattle.api.osano.com
+tattvaballute.com
 tatu.advatx.com.br
 tatu.aluguefoco.com.br
 tatu.arrombatattoo.com.br
@@ -130628,6 +130636,7 @@ vewbab.entertainmentearth.com
 vexclean-ss.checkoutera.com
 vexclean-ss.olladeals.com
 vexilorath.com
+vextslows.com
 veyrkf.4510arte.jp
 vezeqzyb.com
 vezsyr.bxblue.com.br
