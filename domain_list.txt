@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-08-12 12:42:22（北京时间）
-# 共 165449 个域名
+# 生成时间: 2025-08-12 18:31:26（北京时间）
+# 共 165454 个域名
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -9114,6 +9114,7 @@ adaptablepeccary.pro
 adapter.shouji.360.cn
 adaptunbea.pro
 adaptv.advertising.com
+adash-emas.cn-hangzhou.aliyuncs.com
 adash.m.taobao.com
 adash.man.aliyuncs.com
 adashbc.m.taobao.com
@@ -41080,6 +41081,7 @@ dsp.cityads.com
 dsp.fcbox.com
 dsp.hot-mob.com
 dsp.myads.telkomsel.com
+dsp.newsbreak.com
 dsp.pro.cn
 dsp.samsungads.com
 dsp.simba.taobao.com
@@ -41267,6 +41269,7 @@ dustuwhipg.pro
 dustydime.com
 dustyhammer.com
 dutaciy0.pro
+dutils.com
 duu8lzqdm8tsz.cloudfront.net
 duuddots.com
 duxingangtiaoban.com
@@ -82120,6 +82123,7 @@ opencollective.com
 openfpcdn.io
 openjmacs.m.taobao.com
 openlog.cashcatads.com
+openlog.tapapis.cn
 openmonitor.alipay-eco.com
 openmonitor.alipay.com
 openmsf.3g.qq.com
@@ -122851,6 +122855,7 @@ tr.sort.espmp-nifr.net
 tr.souscription.floa.fr
 tr.spain.plimsoll.es
 tr.sportswear.np6.com
+tr.ssp.bance.jp
 tr.staff-start.com
 tr.standardadmin.org
 tr.stellamgmt.com.au

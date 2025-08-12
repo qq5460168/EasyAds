@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-08-12 12:42:22.538335
+# Generated on 2025-08-12 18:31:25.757777
 
 ||ad.weixin.qq.com^
 ||adn.weixin.qq.com^
@@ -10831,6 +10831,7 @@
 ||adadmin.house365.com^
 ||adaied.vegas.com^
 ||adamantsnail.com^
+||adash-emas.cn-hangzhou.aliyuncs.com^
 ||adash.m.taobao.com^
 ||adashx.ut.alibaba.com^
 ||adashx4ae.ut.taobao.com^
@@ -26346,6 +26347,7 @@
 ||dfan4.icu^
 ||dfanalytics.dealerfire.com^
 ||dfapvmql-q.global.ssl.fastly.net^
+||dfe.mic.mob.com^
 ||dfehddia.moller-mammen.dk^
 ||dfevpkzy6u.com^
 ||dffpxg.targus.com^
@@ -27348,6 +27350,7 @@
 ||dsoxjxin5jji.controlconceptsusa.com^
 ||dsp-adcreative.mobshark.net^
 ||dsp.ali213.net^
+||dsp.newsbreak.com^
 ||dsptrack.mobshark.net^
 ||dspx.tv^
 ||dsrvt.mytinyhomehub.com^
@@ -27460,6 +27463,7 @@
 ||dustaclean-ss.olladeals.com^
 ||dustydime.com^
 ||dustyhammer.com^
+||dutils.com^
 ||duu8lzqdm8tsz.cloudfront.net^
 ||duuddots.com^
 ||duyhlct.icu^
@@ -41680,6 +41684,7 @@
 ||lackadaisicalkite.com^
 ||ladepeche.fr/taffrail^
 ||ladghy.jcb.co.jp^
+||ladsp.com^
 ||ladxxr.sonovente.com^
 ||ladybug.ficabo.com^
 ||ladybug.paulstovell.com^
@@ -46243,6 +46248,7 @@
 ||log.ahamo.com^
 ||log.aimtell.com^
 ||log.ajunews.com^
+||log.aliyuncs.com^
 ||log.api.useinsider.com^
 ||log.api.zaloapp.com^
 ||log.apk.v-mate.mobi^
@@ -55156,6 +55162,7 @@
 ||open.uzitapp.com^
 ||open.wynk.in^
 ||openfpcdn.io^
+||openlog.tapapis.cn^
 ||openmonitor.alipay-eco.com^
 ||openmonitor.alipay.com^
 ||openrate.aweber.com^
@@ -83234,6 +83241,7 @@
 ||tr.souscription.floa.fr^
 ||tr.spain.plimsoll.es^
 ||tr.sportswear.np6.com^
+||tr.ssp.bance.jp^
 ||tr.staff-start.com^
 ||tr.standardadmin.org^
 ||tr.stellamgmt.com.au^
@@ -107897,7 +107905,6 @@
 ||df-thumbnail.smartnews-ads.com^
 ||df.mic.mob.com^
 ||df.mob.com^
-||dfe.mic.mob.com^
 ||dfnb-ads.com^
 ||dfp.doubleclick.net^
 ||dg9w4mgjy9ro.l.adsco.re^
@@ -116042,7 +116049,6 @@
 ||lacykumedag.pro^
 ||ladrowater.pro^
 ||ladsblue.com^
-||ladsp.com^
 ||ladsp.jp^
 ||ladsup.com^
 ||ladtiinvis.pro^
@@ -165301,7 +165307,6 @@
 ||1rtb.com^
 ||adintl.cn^
 ||data.hicloud.com^
-||log.aliyuncs.com^
 ||ubixioe.com^
 ||vlion.cn^
 ||zhangyuyidong.cn^
