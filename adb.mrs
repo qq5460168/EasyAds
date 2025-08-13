@@ -1,45 +1,14 @@
-[Adblock Plus 2.0]
-! 规则更新时间: 2025-08-14 02:00:29
-! 有效规则数量: 772 条
-! 项目地址: https://github.com/qq5460168/EasyAds
-! 请不要删除此头部，用于规则识别和更新
-
-*.chat.bilibili.com
-dmzj.com##div[class*="float_code"]
-sina.com.cn##div[class*="stock-finapp-box"]
-smartapps.cn##swan-nest-banner-ad[class*="ad-expose"]
-smartapps.cn##swan-template[data-origin-name*="adRecommendation"]
-smartapps.cn##swan-view[class*="sw-26__bdad-wrap"]
-v.qq.com##div[class*="mod_row_box mod_row_box_special"]
-wen.baidu.com##aside[class*="grid-r qb-side"]
-www.baidu.com##div[class*="cr-offset"]
-www.baidu.com##div[class*="result c-container new-pmd"]
-www.baidu.com##div[class*="result-op c-container xpath-log new-pmd"]
-www.baidu.com##div[class*="result-op c-container"]
-www.baidu.com##div[class*="result-op xpath-log new-pmd"]
-www.baidu.com##div[class*="s-isindex-wrap s-hotsearch-wrapper"]
-www.mysteel.com##div[class*="ad-flash-abort"]
-www.mysteel.com##div[class*="ad05"]
-www.mysteel.com##div[class*="ad14"]
-www.mysteel.com##div[class*="adtop"]
-www.mysteel.com##div[class*="adtop2 swiper-container"]
-www.mysteel.com##div[class*="tmLink ADload"]
-www.mysteel.com##div[class*="topAD"]
-zhidao.baidu.com##button[class*="task-list-button"]
+# 转换自 /tmp/mihomo_temp.txt（2025-08-13）
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
-||*/ad-*.jpg^$image
-||*/ads/*.mp4^$media
 ||*/adx/*.js^
 ||*/log?ad=^
 ||*/stats?type=ad^
 ||*/tracking/ad^
 ||2052.flash2-http.qq.com^
-||360.cn/adx/
 ||3gsoftfile.tc.qq.com^
 ||3gsoftfile.tcdn.qq.com^
-||a*.qq.com/tws*
 ||a.ac.qq.com^
 ||a.ssl.msdk.qq.com^
 ||aaid.umeng.com^
@@ -61,7 +30,6 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||ad.toutiao.com^
 ||ad.weixin.qq.com^
 ||adashx.ut.taobao.com^
-||adblock-tester.com/banners/$domain=adblock-tester.com
 ||adcdn.weixin.qq.com^
 ||adfilter.imtt.qq.com^
 ||adn.weixin.qq.com^
@@ -109,13 +77,10 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||agstat.html5.qq.com^
 ||ahf.bugly.qq.com^
 ||aid.video.qq.com^
-||alimama.com^$domain=~alimama.com
 ||alpha.telemetry.microsoft.com^
 ||amazonaax.com^
-||amdc.alipay.com/ad/
 ||analy.qq.com^
 ||analytics.map.qq.com^
-||analytics.qq.com^  # 腾讯分析
 ||analytics.s3.amazonaws.com^
 ||analytics.snssdk.com^
 ||analyticsengine.s3.amazonaws.com^
@@ -153,10 +118,6 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||astrategy.beacon.qq.com^
 ||b269.photo.store.qq.com^
 ||badjs.qq.com^
-||baidu.com/adx/
-||baidu.com/als/ad
-||baidu.com/cpro/
-||baidu.com/pos/
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 ||bds.snssdk.com^
@@ -175,8 +136,6 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||buluo.qq.com^
 ||business-qnpcdn.msstatic.com^
 ||business.msstatic.com^
-||bytedance.com/adx/
-||bytedance.com/pangle/
 ||c-nfa.jd.com^
 ||c.fa.jd.com^
 ||c.gdt.qq.com^
@@ -212,16 +171,6 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||commdata6.v.qq.com^
 ||community.xw.qq.com^
 ||cookie-law-enforcement-qq.xyz^
-||coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
-||coolapk.com/v6/feed/detail?$replace=/extra_entities//
-||coolapk.com/v6/feed/detail?$replace=/extra_title//
-||coolapk.com/v6/feed/detail?$replace=/include_goods//
-||coolapk.com/v6/main/indexV8?$replace=/\,\{.*?"entityType": "card"\,"entityTemplate":"apkImageCard".*?\}\,\{"id"/,{"id"/
-||coolapk.com/v6/main/indexV8?$replace=/\{"entityType":"card"\,"entityTemplate":"listCard".*?\}\,\{"id/{"id/
-||coolapk.com/v6/main/indexV?$replace=/extra_entities//
-||coolapk.com/v6/main/init?$replace=/\{"data":\[\{"entityType":"card"\,"entityTemplate":"textCard"\,"title":"\\u70ed\\u95e8\\u641c\\u7d22".*?\}\,\{"entityType":"card"\,"entityTemplate":"configCard"/\{"data":[\{"entityType":"card"\,"entityTemplate":"configCard"/
-||coolapk.com/v6/page/dataList?$replace=/extra_entities//
-||coolapk.com/v6/search?type=hotSearch$replace=/\{"data":\[.*\]/{"data":[]/
 ||cooperation.html5.qq.com^
 ||cp.discuz.qq.com^
 ||cpro.baidu.com^
@@ -251,18 +200,15 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||dm.toutiao.com^
 ||dmd.metaservices.microsoft.com^
 ||dmtrack.buy.qq.com^
-||douyin.com/adx/
 ||download-juui-plugin.hismarttv.com^
 ||download-upgrade.hismarttv.com^
 ||download.sj.qq.com^
 ||dp3.qq.com^
 ||dp3.qq.comqq^
-||dpfile.com/adx/
 ||dsp-x.jd.com^
 ||dsp.toutiao.com^
 ||du.jd.com^
 ||dup.baidustatic.com/js/du^
-||e.qq.com/ylh/
 ||e.qq.com^
 ||eaus2watcab01.blob.core.windows.net^
 ||eaus2watcab02.blob.core.windows.net^
@@ -274,7 +220,6 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||ex.qq.com^
 ||extlog.snssdk.com^
 ||extsdk-msstatic.cdn.huya.com^
-||finder*.weixin.qq.com^  # 通配符覆盖子域名
 ||finder.weixin.qq.com^
 ||firevent.jd.com^
 ||fm.qzone.qq.com^
@@ -291,7 +236,6 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||geo.settings-win.data.microsoft.com.akadns.net^
 ||geo.vortex.data.microsoft.com.akadns.net^
 ||gia.jd.com^
-||gifshow.com/adx/
 ||gouwu.qq.com^
 ||growthpic.weishi.qq.com^
 ||grs.hicloud.com^
@@ -330,13 +274,10 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||is.snssdk.com^
 ||isdspeed.qq.com^
 ||isee.weishi.qq.com^
-||isnssdk.com/adx/
-||isnssdk.com/pangle/
 ||isub.snssdk.com.bytedns.net^
 ||isub.snssdk.com^
 ||it.snssdk.com.edgekey.net^
 ||iu.snssdk.com.edgekey.net^
-||ixigua.com/adx/
 ||j.wit.qq.com^
 ||jcm.jd.com^
 ||jd-mail.co.uk^
@@ -370,8 +311,6 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||l2.l.qq.com^
 ||lb.l.qq.com^
 ||lcsdk.3g.qq.com^
-||lf1-ttcdn-tos.pstatp.com/ad/
-||lf1-ttcdn-tos.pstatp.com/adx/
 ||lianmengapi.snssdk.com^
 ||life.html5.qq.com^
 ||livec.l.qq.com^
@@ -409,21 +348,17 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||masdkv6.3g.qq.com^
 ||masterconn.qq.com^
 ||mazu.3g.qq.com^
-||mbd.baidu.com/ad/
 ||mcgi.v.qq.com^
 ||mcs.snssdk.com^
 ||mdevstat.qqlive.qq.com^
 ||mdt.qq.com^
-||meituan.com/adx/
 ||mercury-sdk.snssdk.com^
 ||mercury.jd.com^
 ||metrika.yandex.ru^
-||mi.gdt.qq.com/ylh/
 ||mi.gdt.qq.com^
 ||mig.str.mdt.qq.com^
 ||mini-program-ads.qq.com^
 ||mini2015.qq.com^
-||miniprogram.qq.com/recommend^  # 小程序推荐
 ||minisite2012.qq.com^
 ||minorshort.weixin.qq.com^
 ||misc.wcd.qq.com^
@@ -434,9 +369,6 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||monitor.uu.qq.com^
 ||moviets.tc.qq.com^
 ||mp.weixin.qq.com/api/recommend^
-||mp.weixin.qq.com/mp/ad*
-||mp.weixin.qq.com/mp/advertisement*
-||mp.weixin.qq.com/wxopen/ad*
 ||mqqad.cs0309.html5.qq.com^
 ||mqqad.html5.qq.com^
 ||mqqadr.reader.qq.com^
@@ -514,24 +446,17 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||ptlogin2.bugly.qq.com^
 ||push-ads-cn.heytapmobi.com^
 ||push.pgl.qq.com^
-||push.weread.qq.com^  # 微信读书推荐
 ||pvstat.html5.qq.com^
 ||q.i.gdt.qq.com^
 ||qappcenterv6.3g.qq.com^
 ||qautodl.qq.com^
 ||qbreport.html5.qq.com^
-||qhres.com/ad/
 ||qn-livewebbs2pcdn.msstatic.com^
 ||qos.report.qq.com^
-||qpic.cn/ylh/
 ||qq.5glyqw.com^
 ||qq.8368661.com^
 ||qq.85180405062.top^
 ||qq.com.5q69n.cn^
-||qq.com/ad-material/
-||qq.com/adjs/
-||qq.com/adx/
-||qq.com/ylh/
 ||qq.guansenff.cn^
 ||qq.hixili.top^
 ||qq.irs01.com^
@@ -604,11 +529,9 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||smr.snssdk.com^
 ||sngapm.qq.com^
 ||sngmta.qq.com^
-||snssdk.com/adx/
 ||soft.tbs.imtt.qq.com^
 ||soup.v.qq.com^
 ||sqsh.3g.qq.com^
-||ssl.gdt.qq.com/ylh/
 ||ssp.qq.com^
 ||stat.gamedl.qq.com^
 ||stat.m.jd.com^
@@ -627,13 +550,10 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||ta.qq.com^
 ||tajs.qq.com^
 ||tangram.e.qq.com^
-||taobao.com/adx/
 ||taobao.qq.com^
-||tbcdn.cn/adx/
 ||tbm.snssdk.com^
 ||tbskip.qq.com^
 ||tcss.qq.com^
-||tcss.qq.com^  # 腾讯统计服务
 ||tdc.qq.com^
 ||tdid.m.qq.com^
 ||telemetry.microsoft.com^
@@ -654,8 +574,6 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||tools.3g.qq.com^
 ||toutiao-frontier.snssdk.com^
 ||toutiao.2haha.com^
-||toutiao.com/adx/
-||toutiao.com/pangle/
 ||toutiao.jxnews.com.cn^
 ||toutiao.social^
 ||toutiao.xn--fiqs8s^
@@ -690,7 +608,6 @@ zhidao.baidu.com##button[class*="task-list-button"]
 ||user1.game.qq.com^
 ||uu.qq.com^
 ||v*-be-pack.pglstatp-toutiao.com^
-||v.gdt.qq.com/ylh/
 ||v.gdt.qq.com^
 ||v1-be-pack.pglstatp-toutiao.com^
 ||v1-fe-pack.pglstatp-toutiao.com^

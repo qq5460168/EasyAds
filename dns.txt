@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-08-13 14:11:02.470769
+# Generated on 2025-08-13 18:00:29.286619
 
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
