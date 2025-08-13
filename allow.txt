@@ -1,6 +1,54 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-08-14 02:00:29
-! 有效规则数量: 0 条
+! 规则更新时间: 2025-08-14 02:12:07
+! 有效规则数量: 46 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
+# 自动生成的白名单规则
+# 生成时间: 2025-08-13 18:12:06
+@@||dns.weixin.qq.com.cn^
+@@||frontier100-toutiao-hl.fqnovel.com^
+@@||v5-hl-hw-reading-video.fqnovelvod.com^
+@@||fourier.alibaba.com^
+@@||umini.shujupie.com^
+@@||doh.pub^
+@@||astrategy.beacon.qq.com^
+@@||c-oneid.getui.net^
+@@||apmplus.volces.com^
+@@||insight.soulapp.cn^
+@@||gateway-mobile-gray.soulapp.cn^
+@@||data-collector.soulapp.cn^
+@@||media-service.soulapp.cn^
+@@||api-chat.soulapp.cn^
+@@||v5-hl-ali-reading-video.fqnovelvod.com^
+@@||lf3-reading.fqnovelpic.com^
+@@||dot.360.cn^
+@@||cstaticdun.126.net^
+@@||dl.reg.163.com^
+@@||webzjcaptcha.reg.163.com^
+@@||c.y.qq.com^
+@@||tracker.ai.xiaomi.com^
+@@||acs.m.taobao.com^
+@@||gma.alicdn.com^
+@@||zhuti.xiaomi.com^
+@@||puui.qpic.cn^
+@@||inews.gtimg.com^
+@@||fp-it.fengkongcloud.com^
+@@||cnlogin.cainiao.com^
+@@||console.bce.baidu.com^$domain=console.bce.baidu.com
+@@||login.bce.baidu.com^$domain=login.bce.baidu.com
+@@||qlogo.cn^
+@@||broadcastlv.chat.bilibili.com^
+@@||wl.jd.com^
+@@||shminorshort.weixin.qq.com^
+@@||support.weixin.qq.com^
+@@||minorshort.weixin.qq.com^
+@@||cdn.bootcdn.net^
+@@||waimai-guide.ele.me^
+@@||data.sec.miui.com^
+@@||ap6.ssl.msdk.qq.com^
+@@||cdi.ofiii.com^
+@@||fino.svc.litv.tv^
+@@||m.ctrip.com^
+@@||oauth-login-drcn.platform.dbankcloud.com^
+@@||img.zbt.com*/market-$script
