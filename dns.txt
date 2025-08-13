@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-08-12 18:31:25.757777
+# Generated on 2025-08-13 01:43:07.483231
 
 ||ad.weixin.qq.com^
 ||adn.weixin.qq.com^
@@ -18945,6 +18945,7 @@
 ||cattle.weiss-bregenz.at^
 ||cattlecommittee.com^
 ||catventions.com^
+||caudexintrine.com^
 ||cauldronfest.com^
 ||causecherry.com^
 ||causeyexonian.com^
@@ -55841,6 +55842,7 @@
 ||panda.unpublished.app^
 ||pandg.tapad.com^
 ||panel-cn.com^
+||pangaeainfima.com^
 ||pangle-b.io^
 ||panickypancake.com^
 ||panorama.wixapps.net^
@@ -80260,6 +80262,7 @@
 ||talentsprint.epoise.com^
 ||talk-test.stitch.cam^
 ||talk.stitch.cam^
+||talliedpurring.com^
 ||talltouch.com^
 ||tally.bizanalyst.in^
 ||talog-eu.rebxgame.com^
@@ -87596,6 +87599,7 @@
 ||undurs.1md.org^
 ||unequalbrake.com^
 ||unequaltrail.com^
+||unfumedvamoses.com^
 ||ungreeninwrit.com^
 ||unhangignore.com^
 ||uni.okane-reco-plus.com^
