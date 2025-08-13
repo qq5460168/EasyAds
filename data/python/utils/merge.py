@@ -1,173 +1,169 @@
 import re
-import shutil
-import sys
+import os
 from pathlib import Path
 from datetime import datetime
 
-# 关键修复：正确计算项目根目录（向上四级）
-# 脚本路径：data/python/utils/merge.py → 向上四级为项目根目录
-PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent.parent  # 修正为四级
-TMP_DIR = PROJECT_ROOT / "tmp"  # 项目根目录下的tmp（如：/EasyAds/tmp）
-WHITELIST_OUTPUT = PROJECT_ROOT / "allow.txt"  # 根目录白名单
-ADBLOCK_OUTPUT = PROJECT_ROOT / "adblock.txt"  # 根目录广告规则
+# 保持原有路径逻辑：在tmp目录内操作，目标目录为../data/rules/
+TMP_DIR = Path("tmp")
+TARGET_DIR = Path("../data/rules/")
+
+# 规则匹配模式（沿用参考代码的核心正则）
+ALLOW_PATTERN = re.compile(
+    r'^@@\|\|[\w.-]+\^?(\$~?[\w,=-]+)?|'  # 域名白名单规则
+    r'^@@##.+|'                           # 元素隐藏白名单
+    r'^@@/[^/]+/|'                        # 正则白名单
+    r'^@@\d+\.\d+\.\d+\.\d+'              # IP白名单
+)
+
+BLOCK_PATTERN = re.compile(
+    r'^\|\|[\w.-]+\^(\$~?[\w,=-]+)?|'     # 域名拦截规则
+    r'^/[\w/-]+/|'                        # 正则拦截规则
+    r'^##.+|'                             # 元素隐藏规则
+    r'^\d+\.\d+\.\d+\.\d+\s+[\w.-]+'      # Hosts格式规则
+)
 
 def log(message: str):
     """带时间戳的日志输出"""
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    print(f"[{timestamp}] [MERGE] {message}")
+    print(f"[{timestamp}] [PROCESS] {message}")
 
-def error(message: str):
-    """错误日志输出"""
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    print(f"[{timestamp}] [MERGE ERROR] {message}", file=sys.stderr)
+def clean_rules(content: str, pattern: re.Pattern) -> str:
+    """清理规则内容，保留匹配模式的有效规则（移除注释和无效行）"""
+    # 移除注释行（!或#开头）
+    content = re.sub(r'^[!#].*$\n?', '', content, flags=re.MULTILINE)
+    # 过滤出符合模式的有效规则
+    valid_lines = [
+        line for line in content.splitlines()
+        if line.strip() and pattern.search(line.strip())
+    ]
+    return '\n'.join(valid_lines)
 
-def merge_files(pattern: str, output_path: Path) -> bool:
-    """合并tmp目录下的匹配文件（确保路径正确）"""
-    TMP_DIR.mkdir(parents=True, exist_ok=True)  # 确保根目录下的tmp存在
-    files = sorted(TMP_DIR.glob(pattern))  # 查找根目录tmp下的文件
+def extract_allow_rules_from_block(content: str) -> str:
+    """从黑名单内容中提取白名单规则（@@开头的例外规则）"""
+    allow_lines = [
+        line.strip() for line in content.splitlines()
+        if line.strip().startswith('@@') and ALLOW_PATTERN.search(line.strip())
+    ]
+    return '\n'.join(allow_lines)
 
-    if not files:
-        error(f"未找到匹配 {pattern} 的文件（路径：{TMP_DIR}）")
-        return False  # 找不到文件时返回失败，避免生成空文件
-
-    try:
-        with open(output_path, 'w', encoding='utf-8') as out_f:
-            for file in files:
-                content = ""
-                # 尝试多种编码读取
-                for encoding in ['utf-8', 'latin-1', 'gbk']:
-                    try:
-                        with open(file, 'r', encoding=encoding) as in_f:
-                            content = in_f.read()
-                        break
-                    except UnicodeDecodeError:
-                        continue
-                else:
-                    log(f"跳过无法解析的文件：{file}")
-                    continue
-
-                content = re.sub(r'\n{3,}', '\n\n', content.strip()) + '\n'
-                out_f.write(f"# 合并自 {file.name}\n")
-                out_f.write(content)
-        log(f"合并完成：{len(files)} 个文件 → {output_path}")
-        return True
-    except Exception as e:
-        error(f"合并失败：{str(e)}")
-        return False
-
-def clean_rules(input_path: Path, output_path: Path) -> bool:
-    """清洗规则并保留有效内容"""
-    if not input_path.exists():
-        error(f"清洗失败：输入文件不存在 {input_path}")
-        return False
-
-    try:
-        with open(input_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-    except UnicodeDecodeError:
-        with open(input_path, 'r', encoding='latin-1') as f:
-            content = f.read()
-    except Exception as e:
-        error(f"读取文件失败：{str(e)}")
-        return False
-
-    valid_lines = []
-    for line in content.splitlines():
-        line_strip = line.strip()
-        # 保留有效规则和关键注释
-        if (line_strip.startswith(('@@', '||', '|http', '|https', '/', '^', '##')) or
-            (line_strip.startswith(('!', '#')) and 
-             any(k in line_strip for k in ['白名单', '规则', '说明']))):
-            valid_lines.append(line_strip)
-
-    if not valid_lines:
-        error(f"清洗后无有效规则：{input_path}")
-        return False
-
-    unique_lines = list(dict.fromkeys(valid_lines))  # 去重并保留顺序
-    with open(output_path, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(unique_lines) + '\n')
-    log(f"清洗完成：{len(unique_lines)} 条规则 → {output_path}")
-    return True
-
-def extract_whitelist(cleaned_allow: Path, cleaned_adblock: Path) -> bool:
-    """提取白名单并写入根目录allow.txt"""
-    allow_lines = []
-    # 从白名单文件提取
-    if cleaned_allow.exists():
-        with open(cleaned_allow, 'r', encoding='utf-8') as f:
-            allow_lines = [line.strip() for line in f if line.strip().startswith('@@')]
-
-    # 从广告规则中补充白名单
-    if cleaned_adblock.exists():
-        with open(cleaned_adblock, 'r', encoding='utf-8') as f:
-            adblock_allow = [line.strip() for line in f if line.strip().startswith('@@')]
-            allow_lines.extend(adblock_allow)
-
-    if not allow_lines:
-        error("未提取到任何白名单规则")
-        return False
-
-    unique_allow = list(dict.fromkeys(allow_lines))
-    with open(WHITELIST_OUTPUT, 'w', encoding='utf-8') as f:
-        f.write("# 自动生成的白名单规则\n")
-        f.write(f"# 生成时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write('\n'.join(unique_allow) + '\n')
-    log(f"白名单生成：{len(unique_allow)} 条规则 → {WHITELIST_OUTPUT}")
-    return True
+def deduplicate_file(filepath: Path):
+    """去重文件内容（保留顺序，不区分大小写）"""
+    if not filepath.exists():
+        log(f"去重失败：文件不存在 {filepath}")
+        return
+    
+    with open(filepath, 'r+', encoding='utf-8') as f:
+        seen = set()
+        unique_lines = []
+        for line in f:
+            # 忽略空行
+            if not line.strip():
+                continue
+            # 大小写不敏感去重
+            lower_line = line.lower()
+            if lower_line not in seen:
+                seen.add(lower_line)
+                unique_lines.append(line)
+        # 写入去重后内容
+        f.seek(0)
+        f.writelines(unique_lines)
+        f.truncate()
+    log(f"已去重：{filepath}（保留 {len(unique_lines)} 条规则）")
 
 def main():
-    log(f"开始合并流程，项目根目录：{PROJECT_ROOT}")
-    log(f"tmp目录：{TMP_DIR}")
-    log(f"白名单输出路径：{WHITELIST_OUTPUT}")
-    log(f"广告规则输出路径：{ADBLOCK_OUTPUT}")
-
-    # 1. 合并广告规则（根目录tmp下的adblock*.txt）
-    merged_adblock = TMP_DIR / "combined_adblock.txt"
-    if not merge_files("adblock*.txt", merged_adblock):
-        error("广告规则合并失败，终止流程")
-        sys.exit(1)
-
-    # 2. 清洗广告规则
-    cleaned_adblock = TMP_DIR / "cleaned_adblock.txt"
-    if not clean_rules(merged_adblock, cleaned_adblock):
-        error("广告规则清洗失败，终止流程")
-        sys.exit(1)
-
-    # 3. 合并白名单规则（根目录tmp下的allow*.txt）
-    merged_allow = TMP_DIR / "combined_allow.txt"
-    if not merge_files("allow*.txt", merged_allow):
-        error("白名单合并失败，终止流程")
-        sys.exit(1)
-
-    # 4. 清洗白名单规则
-    cleaned_allow = TMP_DIR / "cleaned_allow.txt"
-    if not clean_rules(merged_allow, cleaned_allow):
-        error("白名单清洗失败，终止流程")
-        sys.exit(1)
-
-    # 5. 提取白名单到根目录
-    if not extract_whitelist(cleaned_allow, cleaned_adblock):
-        error("白名单生成失败，终止流程")
-        sys.exit(1)
-
-    # 6. 移动广告规则到根目录
     try:
-        shutil.move(cleaned_adblock, ADBLOCK_OUTPUT)
-        log(f"广告规则已移动到根目录 → {ADBLOCK_OUTPUT}")
+        # 确保目录存在
+        TMP_DIR.mkdir(exist_ok=True)
+        TARGET_DIR.mkdir(exist_ok=True)
+        log(f"工作目录：{os.getcwd()}/tmp")
+        log(f"目标目录：{TARGET_DIR.resolve()}")
+
+        # 1. 合并所有adblock规则文件
+        adblock_files = list(TMP_DIR.glob("adblock*.txt"))
+        if not adblock_files:
+            log("警告：未找到adblock*.txt文件，跳过黑名单合并")
+            return
+        
+        log(f"合并 {len(adblock_files)} 个黑名单文件...")
+        combined_adblock_path = TMP_DIR / "combined_adblock.txt"
+        with open(combined_adblock_path, 'w', encoding='utf-8', errors='ignore') as out_f:
+            for file in adblock_files:
+                with open(file, 'r', encoding='utf-8', errors='ignore') as in_f:
+                    out_f.write(in_f.read() + '\n')
+                log(f"已合并：{file.name}")
+
+        # 2. 处理黑名单：清理规则 + 提取白名单规则
+        log("处理黑名单规则...")
+        with open(combined_adblock_path, 'r', encoding='utf-8', errors='ignore') as f:
+            block_content = f.read()
+        
+        # 提取黑名单中的白名单规则
+        extracted_allow = extract_allow_rules_from_block(block_content)
+        log(f"从黑名单中提取 {len(extracted_allow.splitlines())} 条白名单规则")
+        
+        # 清理黑名单规则
+        cleaned_block = clean_rules(block_content, BLOCK_PATTERN)
+        cleaned_block_path = TMP_DIR / "cleaned_adblock.txt"
+        with open(cleaned_block_path, 'w', encoding='utf-8') as f:
+            f.write(cleaned_block)
+        log(f"清理后黑名单规则：{len(cleaned_block.splitlines())} 条")
+
+        # 3. 合并所有白名单规则文件
+        allow_files = list(TMP_DIR.glob("allow*.txt"))
+        if not allow_files:
+            log("警告：未找到allow*.txt文件，仅使用从黑名单提取的白名单规则")
+            combined_allow_content = extracted_allow
+        else:
+            log(f"合并 {len(allow_files)} 个白名单文件...")
+            combined_allow_path = TMP_DIR / "combined_allow.txt"
+            with open(combined_allow_path, 'w', encoding='utf-8', errors='ignore') as out_f:
+                for file in allow_files:
+                    with open(file, 'r', encoding='utf-8', errors='ignore') as in_f:
+                        out_f.write(in_f.read() + '\n')
+                    log(f"已合并：{file.name}")
+            # 读取合并后的白名单内容
+            with open(combined_allow_path, 'r', encoding='utf-8', errors='ignore') as f:
+                combined_allow_content = f.read() + '\n' + extracted_allow  # 合并提取的规则
+
+        # 4. 清理白名单规则
+        log("处理白名单规则...")
+        cleaned_allow = clean_rules(combined_allow_content, ALLOW_PATTERN)
+        cleaned_allow_path = TMP_DIR / "cleaned_allow.txt"
+        with open(cleaned_allow_path, 'w', encoding='utf-8') as f:
+            f.write(cleaned_allow)
+        log(f"清理后白名单规则：{len(cleaned_allow.splitlines())} 条")
+
+        # 5. 生成最终规则（黑名单 + 白名单）
+        log("生成最终规则文件...")
+        with open(cleaned_block_path, 'a', encoding='utf-8') as f:
+            f.write('\n' + cleaned_allow)  # 追加白名单到黑名单
+
+        # 6. 生成独立白名单文件
+        allow_final_path = TMP_DIR / "allow.txt"
+        with open(allow_final_path, 'w', encoding='utf-8') as f:
+            f.write(cleaned_allow)
+
+        # 7. 移动文件到目标目录
+        log("移动文件到目标目录...")
+        adblock_target = TARGET_DIR / "adblock.txt"
+        allow_target = TARGET_DIR / "allow.txt"
+        
+        # 覆盖目标文件（若存在）
+        if cleaned_block_path.exists():
+            cleaned_block_path.rename(adblock_target)
+        if allow_final_path.exists():
+            allow_final_path.rename(allow_target)
+
+        # 8. 去重处理
+        log("开始去重...")
+        deduplicate_file(adblock_target)
+        deduplicate_file(allow_target)
+
+        log("所有规则处理完成！")
+
     except Exception as e:
-        error(f"移动广告规则失败：{str(e)}")
-        sys.exit(1)
+        log(f"处理失败：{str(e)}")
+        raise  # 抛出异常便于调试
 
-    # 7. 最终验证（确保文件在根目录）
-    if not WHITELIST_OUTPUT.exists():
-        error(f"根目录未找到白名单：{WHITELIST_OUTPUT}")
-        sys.exit(1)
-    if not ADBLOCK_OUTPUT.exists():
-        error(f"根目录未找到广告规则：{ADBLOCK_OUTPUT}")
-        sys.exit(1)
-
-    log("所有流程完成，文件验证通过")
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
