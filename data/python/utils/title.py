@@ -1,9 +1,19 @@
 import datetime
 import pytz
+import shutil
 from pathlib import Path
 from typing import Set
-import shutil
+import logging
 
+# 配置日志系统
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S"
+)
+logger = logging.getLogger(__name__)
+
+# 常量定义
 HEADER_TEMPLATE = """[Adblock Plus 2.0]
 ! Title: EasyAds
 ! Homepage: https://github.com/045200/EasyAds
@@ -14,20 +24,26 @@ HEADER_TEMPLATE = """[Adblock Plus 2.0]
 """
 
 def get_beijing_time() -> str:
-    """获取当前北京时间（简化实现）"""
+    """获取当前北京时间，精确到秒"""
     return datetime.datetime.now(
         pytz.timezone('Asia/Shanghai')
     ).strftime('%Y-%m-%d %H:%M:%S')
 
 def process_rule_files(target_files: Set[str], rules_dir: Path) -> None:
-    """处理规则文件，添加标准头信息（优化版）"""
+    """
+    处理规则文件，添加标准头信息并更新计数
+    
+    :param target_files: 需要处理的文件名集合
+    :param rules_dir: 规则文件所在目录
+    """
     beijing_time = get_beijing_time()
+    logger.info(f"开始处理规则文件，当前北京时间: {beijing_time}")
     
     # 显式遍历目标文件而非全局匹配，避免处理无关文件
-    for file_name in target_files:
+    for file_name in sorted(target_files):
         file_path = rules_dir / file_name
         if not file_path.exists():
-            print(f"警告: 跳过不存在的文件 - {file_path.name}")
+            logger.warning(f"跳过不存在的文件 - {file_path.name}")
             continue
             
         try:
@@ -42,6 +58,7 @@ def process_rule_files(target_files: Set[str], rules_dir: Path) -> None:
                 and not line.lstrip().startswith(('!', '#'))  # 允许行首有空格的规则
             ]
             line_count = len(valid_lines)
+            logger.debug(f"{file_name} 有效规则计数: {line_count} 条")
             
             # 过滤原文件中的旧头部（避免重复添加）
             content_lines = []
@@ -58,7 +75,9 @@ def process_rule_files(target_files: Set[str], rules_dir: Path) -> None:
                     # 头部结束，保留剩余内容
                     header_started = False
                 content_lines.append(line)
-            content = ''.join(content_lines).lstrip()  # 移除头部后的多余空行
+            
+            # 移除头部后的多余空行
+            content = ''.join(content_lines).lstrip()
             
             # 生成新内容
             new_content = HEADER_TEMPLATE.format(
@@ -70,28 +89,40 @@ def process_rule_files(target_files: Set[str], rules_dir: Path) -> None:
             temp_path = file_path.with_suffix('.tmp')
             with temp_path.open('w', encoding='utf-8') as file:
                 file.write(new_content)
+            
             # 原子操作替换原文件
             shutil.move(temp_path, file_path)
                 
-            print(f"已处理 {file_path.name}，有效规则: {line_count} 条")
+            logger.info(f"已处理 {file_path.name}，有效规则: {line_count} 条")
                 
         except IOError as e:
-            print(f"处理 {file_path.name} 出错: {e}")
+            logger.error(f"处理 {file_path.name} 时发生IO错误: {e}")
         except Exception as e:
-            print(f"意外错误（{file_path.name}）: {str(e)}")
+            logger.error(f"处理 {file_path.name} 时发生意外错误: {str(e)}", exc_info=True)
+
+def main() -> None:
+    """主函数：配置路径并执行规则文件处理"""
+    try:
+        # 目标文件集合
+        target_files = {'adblock.txt', 'allow.txt', 'dns.txt', 'adblock-filtered.txt'}
+        
+        # 统一路径计算方式（与其他脚本保持一致）
+        script_dir = Path(__file__).parent
+        rules_dir = script_dir.parent.parent  # 确保指向项目根目录（EasyAds/）
+        
+        # 路径验证与日志
+        logger.info(f"规则处理目录: {rules_dir.resolve()}")
+        logger.info(f"目标文件列表: {sorted(target_files)}")
+        
+        if not rules_dir.exists():
+            raise FileNotFoundError(f"规则目录不存在: {rules_dir}")
+        
+        process_rule_files(target_files, rules_dir)
+        logger.info("所有规则文件处理完成")
+        
+    except Exception as e:
+        logger.critical(f"主流程执行失败: {str(e)}", exc_info=True)
+        exit(1)
 
 if __name__ == "__main__":
-    target_files = {'adblock.txt', 'allow.txt', 'dns.txt', 'adblock-filtered.txt'}
-    
-    # 统一路径计算方式（与其他脚本保持一致）
-    script_dir = Path(__file__).parent
-    rules_dir = script_dir.parent.parent  # 确保指向项目根目录（EasyAds/）
-    
-    # 路径验证与日志
-    print(f"规则处理目录: {rules_dir.resolve()}")
-    print(f"目标文件列表: {sorted(target_files)}")
-    
-    if not rules_dir.exists():
-        raise FileNotFoundError(f"规则目录不存在: {rules_dir}")
-    
-    process_rule_files(target_files, rules_dir)
+    main()
