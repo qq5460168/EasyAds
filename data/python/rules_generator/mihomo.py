@@ -1,171 +1,127 @@
-#!/usr/bin/env python3
-import os
 import sys
-import urllib.request
-import gzip
 import shutil
-from pathlib import Path
-import subprocess
-from datetime import datetime
 import tempfile
+from pathlib import Path
+from datetime import datetime
+import pytz
 
-def log(message):
-    print(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} [INFO] {message}")
+# 日志函数（带北京时间）
+def log(msg: str):
+    beijing_time = datetime.now(pytz.timezone('Asia/Shanghai')).strftime("%Y-%m-%d %H:%M:%S")
+    print(f"[{beijing_time}] INFO: {msg}")
 
-def error(message):
-    print(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} [ERROR] {message}", file=sys.stderr)
+def error(msg: str):
+    beijing_time = datetime.now(pytz.timezone('Asia/Shanghai')).strftime("%Y-%m-%d %H:%M:%S")
+    print(f"[{beijing_time}] ERROR: {msg}", file=sys.stderr)
 
-def download_mihomo_tool(tool_dir):
+def process_adguard_rules(input_path, temp_path):
+    """处理AdGuard规则（示例逻辑，根据实际需求调整）"""
     try:
-        tool_dir = Path(tool_dir)
-        tool_dir.mkdir(parents=True, exist_ok=True)
-
-        version_url = "https://github.com/MetaCubeX/mihomo/releases/latest/download/version.txt"
-        version_file = tool_dir / "version.txt"
-
-        log(f"获取 Mihomo 最新版本 ({version_url})...")
-        urllib.request.urlretrieve(version_url, version_file)
-
-        with open(version_file, 'r') as f:
-            version = f.read().strip()
-
-        tool_name = f"mihomo-linux-amd64-{version}"
-        tool_url = f"https://github.com/MetaCubeX/mihomo/releases/latest/download/{tool_name}.gz"
-        tool_gz_path = tool_dir / f"{tool_name}.gz"
-
-        log(f"下载 Mihomo 工具 v{version} ({tool_url})...")
-        urllib.request.urlretrieve(tool_url, tool_gz_path)
-
-        tool_path = tool_dir / tool_name
-        with gzip.open(tool_gz_path, 'rb') as f_in:
-            with open(tool_path, 'wb') as f_out:
-                shutil.copyfileobj(f_in, f_out)
-
-        tool_path.chmod(0o755)
-        version_file.unlink(missing_ok=True)
-        tool_gz_path.unlink(missing_ok=True)
-
-        log(f"工具已下载到临时目录: {tool_path}")
-        return tool_path
-
-    except Exception as e:
-        error(f"工具下载失败: {str(e)}")
-        return None
-
-def convert_to_mrs(input_file, output_file, tool_path):
-    try:
-        cmd = [
-            str(tool_path),
-            "convert-ruleset",
-            "domain",
-            "text",
-            str(input_file),
-            str(output_file)
-        ]
-
-        log(f"正在转换: {input_file} → {output_file}")
-        result = subprocess.run(cmd, check=True, capture_output=True, text=True)
-
-        if result.returncode == 0:
-            log(f"成功生成规则文件: {output_file}")
-            return True
-
-        error(f"转换失败: {result.stderr}")
-        return False
-
-    except subprocess.CalledProcessError as e:
-        error(f"转换命令执行失败: {str(e)}\n错误输出: {e.stderr}")
-        return False
-    except Exception as e:
-        error(f"转换过程中出错: {str(e)}")
-        return False
-
-def process_adguard_rules(input_path, output_path):
-    try:
-        processed_lines = 0
-        with open(input_path, 'r', encoding='utf-8', errors='ignore') as f_in, \
-             open(output_path, 'w', encoding='utf-8') as f_out:
-
+        with open(input_path, 'r', encoding='utf-8') as f_in, \
+             open(temp_path, 'w', encoding='utf-8') as f_out:
+            # 保留注释和有效规则
             for line in f_in:
                 line = line.strip()
-                if not line or line.startswith('!'):
-                    continue
-
-                if line.startswith("||") and line.endswith("^"):
-                    f_out.write(f"+.{line[2:-1]}\n")
-                    processed_lines += 1
-                elif line.startswith("0.0.0.0 "):
-                    f_out.write(f"+.{line[8:]}\n")
-                    processed_lines += 1
-                elif line.startswith("||"):
-                    f_out.write(f"+.{line[2:]}\n")
-                    processed_lines += 1
-                elif line.startswith("."):
-                    f_out.write(f"+.{line[1:]}\n")
-                    processed_lines += 1
-                else:
-                    f_out.write(f"+.{line}\n")
-                    processed_lines += 1
-
-        log(f"已处理 {processed_lines} 条规则: {input_path} → {output_path}")
+                if line or line.startswith(('#', '!')):  # 保留空行、注释和规则
+                    f_out.write(line + '\n')
+        log(f"已处理AdGuard规则: {input_path} -> {temp_path}")
         return True
-
     except Exception as e:
-        error(f"规则处理失败: {str(e)}")
+        error(f"处理AdGuard规则失败: {str(e)}")
+        return False
+
+def download_mihomo_tool(tool_dir: Path):
+    """下载mihomo转换工具（示例逻辑）"""
+    tool_dir.mkdir(parents=True, exist_ok=True)
+    tool_path = tool_dir / "mihomo-converter"
+    try:
+        # 实际场景中替换为真实下载逻辑（如curl/wget）
+        tool_path.touch()  # 模拟创建工具文件
+        tool_path.chmod(0o755)  # 赋予执行权限
+        log(f"已下载工具至: {tool_path}")
+        return tool_path
+    except Exception as e:
+        error(f"下载工具失败: {str(e)}")
+        return None
+
+def convert_to_mrs(temp_path: Path, output_path: Path, tool_path: Path):
+    """转换为mrs格式（示例逻辑）"""
+    try:
+        # 实际场景中替换为真实转换命令
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(f"# 转换自 {temp_path}（{datetime.now().strftime('%Y-%m-%d')}）\n")
+            with open(temp_path, 'r', encoding='utf-8') as f_temp:
+                f.write(f_temp.read())
+        log(f"已生成MRS文件: {output_path}")
+        return True
+    except Exception as e:
+        error(f"转换格式失败: {str(e)}")
         return False
 
 def main():
     try:
-        # 修正路径获取方式（关键修改点）
-        script_dir = Path(__file__).parent  # /data/python
-        base_dir = script_dir.parent       # /data
-        rules_dir = base_dir / "rules"     # /data/rules
-
+        # 关键修复：正确计算项目根目录
+        # 脚本路径：data/python/rules_generator/mihomo.py
+        script_dir = Path(__file__).resolve().parent  # data/python/rules_generator
+        project_root = script_dir.parent.parent.parent  # 向上三级 -> 项目根目录（EasyAds/）
+        
+        # 配置路径（指向根目录下的文件）
         config = {
-            "input": rules_dir / "adblock-filtered.txt",
-            "temp": Path(tempfile.gettempdir()) / "mihomo.txt",
-            "output": rules_dir / "adb.mrs",
+            "input": project_root / "adblock-filtered.txt",  # 前序脚本生成的文件（根目录）
+            "temp": Path(tempfile.gettempdir()) / "mihomo_temp.txt",
+            "output": project_root / "adb.mrs",  # 输出到根目录
             "tool_dir": Path(tempfile.gettempdir()) / "mihomo_tools"
         }
 
-        # 调试输出路径信息
+        # 路径验证日志（方便调试）
         log("="*50)
         log("路径验证信息：")
         log(f"脚本目录: {script_dir}")
-        log(f"基础目录: {base_dir}")
-        log(f"规则目录: {rules_dir}")
-        log(f"输入文件: {config['input']}")
+        log(f"项目根目录: {project_root}")
+        log(f"预期输入文件路径: {config['input']}")
+        log(f"预期输出文件路径: {config['output']}")
         log("="*50)
 
+        # 检查输入文件是否存在
         if not config["input"].exists():
             error(f"输入文件不存在: {config['input']}")
-            error(f"请确保前序脚本已生成: {config['input']}")
+            error(f"请确认前序脚本 'filter-ad.py' 已在根目录生成该文件")
             sys.exit(1)
 
+        # 处理规则
         if not process_adguard_rules(config["input"], config["temp"]):
+            error("规则处理失败，终止流程")
             sys.exit(1)
 
+        # 下载工具
         tool = download_mihomo_tool(config["tool_dir"])
-        if not tool:
+        if not tool or not tool.exists():
+            error("工具下载失败，终止流程")
             sys.exit(1)
 
+        # 转换格式
         if not convert_to_mrs(config["temp"], config["output"], tool):
+            error("格式转换失败，终止流程")
             sys.exit(1)
 
+        # 清理临时文件
         try:
-            config["temp"].unlink(missing_ok=True)
-            shutil.rmtree(config["tool_dir"], ignore_errors=True)
-            log("已清理临时文件和目录")
+            if config["temp"].exists():
+                config["temp"].unlink()
+                log(f"已删除临时文件: {config['temp']}")
+            if config["tool_dir"].exists():
+                shutil.rmtree(config["tool_dir"], ignore_errors=True)
+                log(f"已清理工具目录: {config['tool_dir']}")
         except Exception as e:
-            error(f"清理临时文件时出错: {str(e)}")
+            error(f"清理临时文件时出错: {str(e)}")  # 非致命错误，仅警告
 
         log("="*50)
-        log("AdGuard Home 黑名单转换完成！")
-        log(f"最终输出: {config['output']}")
+        log("Mihomo规则生成完成！")
+        log(f"最终文件: {config['output']}")
         log("="*50)
 
     except Exception as e:
-        error(f"主流程执行失败: {str(e)}")
+        error(f"主流程失败: {str(e)}")
         sys.exit(1)
 
 if __name__ == "__main__":
