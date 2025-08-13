@@ -29,30 +29,42 @@ subprocess.run("cp ./data/mod/whitelist.txt ./tmp/allow01.txt", shell=True)
 
 # 规则源列表（不变）
 adblock = [
-    "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
-    "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
-    "https://raw.hellogithub.com/hosts",
-    "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt",
-    "https://raw.githubusercontent.com/qq5460168/dangchu/main/adhosts.txt",
-    "https://lingeringsound.github.io/10007_auto/adb.txt",
-    "https://raw.githubusercontent.com/790953214/qy-Ads-Rule/main/black.txt",
-    "https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt",
-    "https://github.com/entr0pia/fcm-hosts/raw/fcm/fcm-hosts",
-    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
-    "https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts",
-    "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/main/FuLingRules/FuLingBlockList.txt"
+    "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt",  #5460
+    "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",  #大萌主
+    "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",  #DD
+    "https://raw.githubusercontent.com/Cats-Team/dns-filter/main/abp.txt",  #AdRules DNS Filter
+    "https://raw.hellogithub.com/hosts",  #GitHub加速
+    "https://raw.githubusercontent.com/qq5460168/dangchu/main/adhosts.txt",  #测试hosts
+    "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",  #白名单
+    "https://raw.githubusercontent.com/qq5460168/Who520/refs/heads/main/Other%20rules/Replenish.txt",  #补充
+    "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Blacklist.txt",  #mphin
+    "https://gitee.com/zjqz/ad-guard-home-dns/raw/master/black-list",  #周木木
+    "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/black.txt",  #liwenjie119
+    "https://github.com/entr0pia/fcm-hosts/raw/fcm/fcm-hosts",  #FCM Hosts
+    "https://raw.githubusercontent.com/790953214/qy-Ads-Rule/refs/heads/main/black.txt",  #晴雅
+    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",  #秋风规则
+    "https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/refs/heads/master/SMAdHosts",  #下一个ID见
+    "https://raw.githubusercontent.com/tongxin0520/AdFilterForAdGuard/refs/heads/main/KR_DNS_Filter.txt",  #tongxin0520
+    "https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/refs/heads/main/Rules/blacklist.txt",  #Zisbusy
+    "",  #
+    "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingBlockList.txt",  #茯苓
+    "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingAllowList.txt",  #茯苓白名单
+    ""  #
 ]
 
 allow = [
     "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
     "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt",
-    "https://file-git.trli.club/file-hosts/allow/Domains",
-    "https://raw.githubusercontent.com/jhsvip/ADRuls/main/white.txt",
-    "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt",
-    "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt",
-    "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/main/FuLingRules/FuLingAllowList.txt",
-    "https://raw.githubusercontent.com/Cats-Team/AdRules/script/allowlist.txt",
-    "https://anti-ad.net/easylist.txt"
+    "https://file-git.trli.club/file-hosts/allow/Domains",  # 冷漠
+    "https://raw.githubusercontent.com/user001235/112/main/white.txt",  # 浅笑
+    "https://raw.githubusercontent.com/jhsvip/ADRuls/main/white.txt",  # jhsvip
+    "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt",  # liwenjie119
+    "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt",  # 喵二白名单
+    "https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/refs/heads/main/Rules/whitelist.txt",  # Zisbusy
+    "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingAllowList.txt",  # 茯苓
+    "https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/whitelist.txt",  # 酷安cocieto
+    "",  #
+    ""
 ]
 
 # 下载拦截规则（临时文件路径不变）
