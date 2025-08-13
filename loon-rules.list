@@ -1,15 +1,8 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2025-08-14 02:12:06
-# 规则统计: 总计694条 (IP:0 DOMAIN:0 SUFFIX:694 KEYWORD:0)
+# 更新时间(北京时间): 2025-08-14 02:19:15
+# 规则统计: 总计670条 (IP:0 DOMAIN:0 SUFFIX:670 KEYWORD:0)
 
 # 域名后缀
-DOMAIN-SUFFIX,*.diwodiwo.xyz,REJECT
-DOMAIN-SUFFIX,*.p2p.huya.com,REJECT
-DOMAIN-SUFFIX,*.va.huya.com,REJECT
-DOMAIN-SUFFIX,*/adx/*.js,REJECT
-DOMAIN-SUFFIX,*/log?ad=,REJECT
-DOMAIN-SUFFIX,*/stats?type=ad,REJECT
-DOMAIN-SUFFIX,*/tracking/ad,REJECT
 DOMAIN-SUFFIX,2052.flash2-http.qq.com,REJECT
 DOMAIN-SUFFIX,3gsoftfile.tc.qq.com,REJECT
 DOMAIN-SUFFIX,3gsoftfile.tcdn.qq.com,REJECT
@@ -18,8 +11,6 @@ DOMAIN-SUFFIX,a.ssl.msdk.qq.com,REJECT
 DOMAIN-SUFFIX,aaid.umeng.com,REJECT
 DOMAIN-SUFFIX,abtest-ch.snssdk.com,REJECT
 DOMAIN-SUFFIX,ac.o2.qq.com,REJECT
-DOMAIN-SUFFIX,access*.tpns.tencent.com,REJECT
-DOMAIN-SUFFIX,access.pangolin-sdk-toutiao-*.com,REJECT
 DOMAIN-SUFFIX,access.pangolin-sdk-toutiao-b.com,REJECT
 DOMAIN-SUFFIX,access.toggle.qq.com,REJECT
 DOMAIN-SUFFIX,act.qq.com,REJECT
@@ -27,8 +18,6 @@ DOMAIN-SUFFIX,activeqq.3g.qq.com,REJECT
 DOMAIN-SUFFIX,ad-cmp.hismarttv.com,REJECT
 DOMAIN-SUFFIX,ad-download.hismarttv.com,REJECT
 DOMAIN-SUFFIX,ad-imp.hismarttv.com,REJECT
-DOMAIN-SUFFIX,ad.*.qq.com,REJECT
-DOMAIN-SUFFIX,ad.*.tencent.com,REJECT
 DOMAIN-SUFFIX,ad.qq.com,REJECT
 DOMAIN-SUFFIX,ad.qun.qq.com,REJECT
 DOMAIN-SUFFIX,ad.toutiao.com,REJECT
@@ -40,7 +29,6 @@ DOMAIN-SUFFIX,adn.weixin.qq.com,REJECT
 DOMAIN-SUFFIX,adping.qq.com,REJECT
 DOMAIN-SUFFIX,adpm.app.qq.com,REJECT
 DOMAIN-SUFFIX,adrdir.qq.com,REJECT
-DOMAIN-SUFFIX,ads*-normal*.zijieapi.com,REJECT
 DOMAIN-SUFFIX,ads-dev.pinterest.com,REJECT
 DOMAIN-SUFFIX,ads-union.jd.com,REJECT
 DOMAIN-SUFFIX,ads.privacy.qq.com,REJECT
@@ -90,7 +78,6 @@ DOMAIN-SUFFIX,analytics.snssdk.com,REJECT
 DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com,REJECT
 DOMAIN-SUFFIX,android.bugly.qq.com,REJECT
 DOMAIN-SUFFIX,android.rqd.qq.com,REJECT
-DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-*.com,REJECT
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com,REJECT
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,REJECT
 DOMAIN-SUFFIX,api-cloudfalcon.hismarttv.com,REJECT
@@ -212,7 +199,6 @@ DOMAIN-SUFFIX,dp3.qq.comqq,REJECT
 DOMAIN-SUFFIX,dsp-x.jd.com,REJECT
 DOMAIN-SUFFIX,dsp.toutiao.com,REJECT
 DOMAIN-SUFFIX,du.jd.com,REJECT
-DOMAIN-SUFFIX,dup.baidustatic.com/js/du,REJECT
 DOMAIN-SUFFIX,e.qq.com,REJECT
 DOMAIN-SUFFIX,eaus2watcab01.blob.core.windows.net,REJECT
 DOMAIN-SUFFIX,eaus2watcab02.blob.core.windows.net,REJECT
@@ -326,7 +312,6 @@ DOMAIN-SUFFIX,lives.l.qq.com,REJECT
 DOMAIN-SUFFIX,livew.l.qq.com,REJECT
 DOMAIN-SUFFIX,livewebbs2pcdn.msstatic.com,REJECT
 DOMAIN-SUFFIX,lmbsy.qq.com,REJECT
-DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao-*.com,REJECT
 DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao-b.com,REJECT
 DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com,REJECT
 DOMAIN-SUFFIX,log-hl.snssdk.com,REJECT
@@ -372,7 +357,6 @@ DOMAIN-SUFFIX,monitor.music.qq.com,REJECT
 DOMAIN-SUFFIX,monitor.qq.com,REJECT
 DOMAIN-SUFFIX,monitor.uu.qq.com,REJECT
 DOMAIN-SUFFIX,moviets.tc.qq.com,REJECT
-DOMAIN-SUFFIX,mp.weixin.qq.com/api/recommend,REJECT
 DOMAIN-SUFFIX,mqqad.cs0309.html5.qq.com,REJECT
 DOMAIN-SUFFIX,mqqad.html5.qq.com,REJECT
 DOMAIN-SUFFIX,mqqadr.reader.qq.com,REJECT
@@ -411,7 +395,6 @@ DOMAIN-SUFFIX,oth.str.mdt.qq.com,REJECT
 DOMAIN-SUFFIX,oth.update.mdt.qq.com,REJECT
 DOMAIN-SUFFIX,otheve.beacon.qq.com,REJECT
 DOMAIN-SUFFIX,othstr.beacon.qq.com,REJECT
-DOMAIN-SUFFIX,p*-ad-sign.byteimg.com,REJECT
 DOMAIN-SUFFIX,p.buluo.qq.com,REJECT
 DOMAIN-SUFFIX,p.l.qq.com,REJECT
 DOMAIN-SUFFIX,p.mb.qq.com,REJECT
@@ -425,7 +408,6 @@ DOMAIN-SUFFIX,pagespeed.report.qq.com,REJECT
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,REJECT
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
 DOMAIN-SUFFIX,pangolin.snssdk.com,REJECT
-DOMAIN-SUFFIX,pangolin16*.snssdk.com,REJECT
 DOMAIN-SUFFIX,partner.toutiao.com,REJECT
 DOMAIN-SUFFIX,pcbrowser.dd.qq.com,REJECT
 DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
@@ -497,8 +479,6 @@ DOMAIN-SUFFIX,rpt.gdt.qq.com,REJECT
 DOMAIN-SUFFIX,rqd.qq.com,REJECT
 DOMAIN-SUFFIX,rs1.qq.com,REJECT
 DOMAIN-SUFFIX,rs2.qq.com,REJECT
-DOMAIN-SUFFIX,s*-fe-scm.pglstatp-toutiao.com,REJECT
-DOMAIN-SUFFIX,s*a.pstatp.com,REJECT
 DOMAIN-SUFFIX,s.gdt.qq.com,REJECT
 DOMAIN-SUFFIX,s.isdspeed.qq.com,REJECT
 DOMAIN-SUFFIX,s.pcapps.qq.com,REJECT
@@ -515,8 +495,6 @@ DOMAIN-SUFFIX,sdksp6.video.qq.com,REJECT
 DOMAIN-SUFFIX,sec.video.qq.com,REJECT
 DOMAIN-SUFFIX,setting.snswin.qq.com,REJECT
 DOMAIN-SUFFIX,settings-win.data.microsoft.com,REJECT
-DOMAIN-SUFFIX,sf*-be-pack.pglstatp-toutiao.com,REJECT
-DOMAIN-SUFFIX,sf*-fe-tos.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,sf1-be-pack.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,sf1-fe-pack.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,sf1-fe-tos.pglstatp-toutiao.com,REJECT
@@ -611,7 +589,6 @@ DOMAIN-SUFFIX,us.l.qq.com,REJECT
 DOMAIN-SUFFIX,us.vortex-win.data.microsoft.com,REJECT
 DOMAIN-SUFFIX,user1.game.qq.com,REJECT
 DOMAIN-SUFFIX,uu.qq.com,REJECT
-DOMAIN-SUFFIX,v*-be-pack.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,v.gdt.qq.com,REJECT
 DOMAIN-SUFFIX,v1-be-pack.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,v1-fe-pack.pglstatp-toutiao.com,REJECT
@@ -656,7 +633,6 @@ DOMAIN-SUFFIX,watson.microsoft.com,REJECT
 DOMAIN-SUFFIX,watson.ppe.telemetry.microsoft.com,REJECT
 DOMAIN-SUFFIX,watson.telemetry.microsoft.com,REJECT
 DOMAIN-SUFFIX,weblog.html5.qq.com,REJECT
-DOMAIN-SUFFIX,weixin.qq.com/cgi-bin/recommend,REJECT
 DOMAIN-SUFFIX,weixin.qq.hellocdn.top,REJECT
 DOMAIN-SUFFIX,weixin.qq.huigun.top,REJECT
 DOMAIN-SUFFIX,weus2watcab01.blob.core.windows.net,REJECT

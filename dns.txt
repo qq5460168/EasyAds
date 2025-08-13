@@ -1,34 +1,24 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-08-13 18:12:06.482885
+# Generated on 2025-08-13 18:19:15.080406
 
 ||ad.weixin.qq.com^
 ||adn.weixin.qq.com^
 ||adtest.weixin.qq.com^
 ||adcdn.weixin.qq.com^
-||ad.*.qq.com^
-||ad.*.tencent.com^
 ||gdt.qq.com^
 ||tbskip.qq.com^
 ||mini-program-ads.qq.com^
 ||ylh.qq.com^
 ||finder.weixin.qq.com^
 ||recommend.weread.qq.com^
-||mp.weixin.qq.com/api/recommend^
 ||szextshort.weixin.qq.com^
-||weixin.qq.com/cgi-bin/recommend^
 ||pangolin.snssdk.com^
-||pangolin16*.snssdk.com^
 ||cpro.baidu.com^
 ||pos.baidu.com^
-||dup.baidustatic.com/js/du^
 ||hmma.baidu.com^
 ||adashx.ut.taobao.com^
 ||ykad-data.youku.com^
 ||ksad.ksapisrv.com^
-||*/adx/*.js^
-||*/stats?type=ad^
-||*/log?ad=^
-||*/tracking/ad^
 ||analyticsengine.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
 ||affiliationjs.s3.amazonaws.com^
@@ -133,20 +123,15 @@
 ||x.jd.com^
 ||xlog.jd.com^
 ||zt.jd.com^
-||access*.tpns.tencent.com^
 ||astrategy.beacon.qq.com^
 ||aeventlog.beacon.qq.com^
 ||oth.eve.mdt.qq.com^
 ||oth.eve.qq.com^
 ||ug.snssdk.com^
-||v*-be-pack.pglstatp-toutiao.com^
-||sf*-be-pack.pglstatp-toutiao.com^
 ||tobapplog.ctobsnssdk.com^
-||access.pangolin-sdk-toutiao-*.com^
 ||ulogs.umengcloud.com^
 ||game.weixin.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
-||api-access.pangolin-sdk-toutiao-*.com^
 ||mssdk-bu.snssdk.com^
 ||aaid.umeng.com^
 ||i.snssdk.com^
@@ -156,11 +141,7 @@
 ||bds.snssdk.com^
 ||dig.bdurl.net^
 ||api-access.pangolin-sdk-toutiao.com^
-||sf*-fe-tos.pglstatp-toutiao.com^
 ||log-api.pangolin-sdk-toutiao.com^
-||s*-fe-scm.pglstatp-toutiao.com^
-||s*a.pstatp.com^
-||log-api.pangolin-sdk-toutiao-*.com^
 ||sf6-be-pack.pglstatp-toutiao.com^
 ||toblog.volceapplog.com^
 ||access.toggle.qq.com^
@@ -169,8 +150,6 @@
 ||yoda.kwd.inkuai.com^
 ||gdfp.gifshow.com^
 ||volceapplog.com^
-||ads*-normal*.zijieapi.com^
-||p*-ad-sign.byteimg.com^
 ||access.pangolin-sdk-toutiao-b.com^
 ||ad.toutiao.com^
 ||adshare.toutiao.com^
@@ -648,8 +627,6 @@
 ||qn-livewebbs2pcdn.msstatic.com^
 ||business-qnpcdn.msstatic.com^
 ||extsdk-msstatic.cdn.huya.com^
-||*.p2p.huya.com^
-||*.va.huya.com^
 ||dmd.metaservices.microsoft.com^
 ||telemetry.microsoft.com^
 ||wns.notify.windows.com.akadns.net^
@@ -691,7 +668,6 @@
 ||kmwatsonc.events.data.microsoft.com^
 ||oca.microsoft.com^
 ||kmwatsonc.telemetry.microsoft.com^
-||*.diwodiwo.xyz^
 ||proxy.svc.litv.tv^
 ||static.hae123.cn^
 ||push-ads-cn.heytapmobi.com^

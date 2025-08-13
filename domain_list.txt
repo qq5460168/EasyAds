@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-08-13 18:12:06（北京时间）
-# 共 677 个域名
+# 生成时间: 2025-08-13 18:19:15（北京时间）
+# 共 670 个域名
 
 2052.flash2-http.qq.com
 3gsoftfile.tc.qq.com
@@ -10,7 +10,6 @@ a.ssl.msdk.qq.com
 aaid.umeng.com
 abtest-ch.snssdk.com
 ac.o2.qq.com
-access.pangolin-sdk-toutiao-
 access.pangolin-sdk-toutiao-b.com
 access.toggle.qq.com
 act.qq.com
@@ -18,7 +17,6 @@ activeqq.3g.qq.com
 ad-cmp.hismarttv.com
 ad-download.hismarttv.com
 ad-imp.hismarttv.com
-ad.
 ad.qq.com
 ad.qun.qq.com
 ad.toutiao.com
@@ -79,7 +77,6 @@ analytics.snssdk.com
 analyticsengine.s3.amazonaws.com
 android.bugly.qq.com
 android.rqd.qq.com
-api-access.pangolin-sdk-toutiao-
 api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-cloudfalcon.hismarttv.com
@@ -201,7 +198,6 @@ dp3.qq.comqq
 dsp-x.jd.com
 dsp.toutiao.com
 du.jd.com
-dup.baidustatic.com
 e.qq.com
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
@@ -315,7 +311,6 @@ lives.l.qq.com
 livew.l.qq.com
 livewebbs2pcdn.msstatic.com
 lmbsy.qq.com
-log-api.pangolin-sdk-toutiao-
 log-api.pangolin-sdk-toutiao-b.com
 log-api.pangolin-sdk-toutiao.com
 log-hl.snssdk.com
@@ -361,7 +356,6 @@ monitor.music.qq.com
 monitor.qq.com
 monitor.uu.qq.com
 moviets.tc.qq.com
-mp.weixin.qq.com
 mqqad.cs0309.html5.qq.com
 mqqad.html5.qq.com
 mqqadr.reader.qq.com
@@ -638,7 +632,6 @@ watson.microsoft.com
 watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
 weblog.html5.qq.com
-weixin.qq.com
 weixin.qq.hellocdn.top
 weixin.qq.huigun.top
 weus2watcab01.blob.core.windows.net

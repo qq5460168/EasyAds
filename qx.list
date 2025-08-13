@@ -2,8 +2,6 @@ DOMAIN,ad.weixin.qq.com,reject
 DOMAIN,adn.weixin.qq.com,reject
 DOMAIN,adtest.weixin.qq.com,reject
 DOMAIN,adcdn.weixin.qq.com,reject
-DOMAIN,ad.*.qq.com,reject
-DOMAIN,ad.*.tencent.com,reject
 DOMAIN,gdt.qq.com,reject
 DOMAIN,tbskip.qq.com,reject
 DOMAIN,mini-program-ads.qq.com,reject
@@ -12,7 +10,6 @@ DOMAIN,finder.weixin.qq.com,reject
 DOMAIN,recommend.weread.qq.com,reject
 DOMAIN,szextshort.weixin.qq.com,reject
 DOMAIN,pangolin.snssdk.com,reject
-DOMAIN,pangolin16*.snssdk.com,reject
 DOMAIN,cpro.baidu.com,reject
 DOMAIN,pos.baidu.com,reject
 DOMAIN,hmma.baidu.com,reject
@@ -122,19 +119,14 @@ DOMAIN,www.jd-mail.co.uk,reject
 DOMAIN,x.jd.com,reject
 DOMAIN,xlog.jd.com,reject
 DOMAIN,zt.jd.com,reject
-DOMAIN,access*.tpns.tencent.com,reject
 DOMAIN,aeventlog.beacon.qq.com,reject
 DOMAIN,oth.eve.mdt.qq.com,reject
 DOMAIN,oth.eve.qq.com,reject
 DOMAIN,ug.snssdk.com,reject
-DOMAIN,v*-be-pack.pglstatp-toutiao.com,reject
-DOMAIN,sf*-be-pack.pglstatp-toutiao.com,reject
 DOMAIN,tobapplog.ctobsnssdk.com,reject
-DOMAIN,access.pangolin-sdk-toutiao-*.com,reject
 DOMAIN,ulogs.umengcloud.com,reject
 DOMAIN,game.weixin.qq.com,reject
 DOMAIN,wxsnsdythumb.wxs.qq.com,reject
-DOMAIN,api-access.pangolin-sdk-toutiao-*.com,reject
 DOMAIN,mssdk-bu.snssdk.com,reject
 DOMAIN,aaid.umeng.com,reject
 DOMAIN,i.snssdk.com,reject
@@ -144,11 +136,7 @@ DOMAIN,sf3-ttcdn-tos.pstatp.com,reject
 DOMAIN,bds.snssdk.com,reject
 DOMAIN,dig.bdurl.net,reject
 DOMAIN,api-access.pangolin-sdk-toutiao.com,reject
-DOMAIN,sf*-fe-tos.pglstatp-toutiao.com,reject
 DOMAIN,log-api.pangolin-sdk-toutiao.com,reject
-DOMAIN,s*-fe-scm.pglstatp-toutiao.com,reject
-DOMAIN,s*a.pstatp.com,reject
-DOMAIN,log-api.pangolin-sdk-toutiao-*.com,reject
 DOMAIN,sf6-be-pack.pglstatp-toutiao.com,reject
 DOMAIN,toblog.volceapplog.com,reject
 DOMAIN,access.toggle.qq.com,reject
@@ -157,8 +145,6 @@ DOMAIN,wxsnsdy.wxs.qq.com,reject
 DOMAIN,yoda.kwd.inkuai.com,reject
 DOMAIN,gdfp.gifshow.com,reject
 DOMAIN,volceapplog.com,reject
-DOMAIN,ads*-normal*.zijieapi.com,reject
-DOMAIN,p*-ad-sign.byteimg.com,reject
 DOMAIN,access.pangolin-sdk-toutiao-b.com,reject
 DOMAIN,ad.toutiao.com,reject
 DOMAIN,adshare.toutiao.com,reject
@@ -635,8 +621,6 @@ DOMAIN,livewebbs2pcdn.msstatic.com,reject
 DOMAIN,qn-livewebbs2pcdn.msstatic.com,reject
 DOMAIN,business-qnpcdn.msstatic.com,reject
 DOMAIN,extsdk-msstatic.cdn.huya.com,reject
-DOMAIN,*.p2p.huya.com,reject
-DOMAIN,*.va.huya.com,reject
 DOMAIN,dmd.metaservices.microsoft.com,reject
 DOMAIN,telemetry.microsoft.com,reject
 DOMAIN,wns.notify.windows.com.akadns.net,reject
@@ -678,7 +662,6 @@ DOMAIN,umwatsonc.events.data.microsoft.com,reject
 DOMAIN,kmwatsonc.events.data.microsoft.com,reject
 DOMAIN,oca.microsoft.com,reject
 DOMAIN,kmwatsonc.telemetry.microsoft.com,reject
-DOMAIN,*.diwodiwo.xyz,reject
 DOMAIN,proxy.svc.litv.tv,reject
 DOMAIN,static.hae123.cn,reject
 DOMAIN,push-ads-cn.heytapmobi.com,reject

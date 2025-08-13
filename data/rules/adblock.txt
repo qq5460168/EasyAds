@@ -1,9 +1,3 @@
-[Adblock Plus 2.0]
-! 规则更新时间: 2025-08-14 02:19:15
-! 有效规则数量: 720 条
-! 项目地址: https://github.com/qq5460168/EasyAds
-! 请不要删除此头部，用于规则识别和更新
-
 ||ad.weixin.qq.com^
 ||adn.weixin.qq.com^
 ||adtest.weixin.qq.com^
