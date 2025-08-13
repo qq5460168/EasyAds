@@ -1,3 +1,4 @@
+import requests
 import re
 import requests
 from pathlib import Path
