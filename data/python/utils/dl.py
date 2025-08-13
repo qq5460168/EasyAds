@@ -1,144 +1,280 @@
 import os
+import re
 import subprocess
 import time
 import shutil
-from pathlib import Path  # 引入pathlib处理路径，更可靠
+from pathlib import Path
+from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# 获取脚本所在目录的绝对路径，确保tmp目录位置固定
+# 配置常量
+MAX_WORKERS = 5  # 并发下载数量
+TIMEOUT = 60      # 超时时间(秒)
+RETRY = 5         # 重试次数
+RETRY_DELAY = 2   # 重试间隔(秒)
+ENCODING = "utf-8"  # 目标编码
+
+# 路径计算（基于脚本绝对路径）
 SCRIPT_DIR = Path(__file__).resolve().parent
-ROOT_DIR = SCRIPT_DIR.parent.parent.parent  # 项目根目录（EasyAds/）
-TMP_DIR = ROOT_DIR / "tmp"  # 绝对路径的tmp目录
+ROOT_DIR = SCRIPT_DIR.parent.parent.parent  # 项目根目录
+TMP_DIR = ROOT_DIR / "tmp"                  # 临时目录
+ADBLOCK_SUPPLEMENT = ROOT_DIR / "data/rules/adblock.txt"  # 补充规则
+WHITELIST_SUPPLEMENT = ROOT_DIR / "data/rules/whitelist.txt"  # 补充白名单
 
-# 1. 清理根目录下的旧规则文件
-def clean_old_rules():
-    target_files = ['adblock.txt', 'allow.txt', 'dns.txt', 'qx.list', 'loon-rules.list', 'adb.mrs']
-    for file_name in target_files:
-        file_path = ROOT_DIR / file_name
+# 日志函数
+def log(msg: str):
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    print(f"[{timestamp}] [DL] {msg}")
+
+# 1. 初始化环境
+def init_env():
+    # 清理临时目录
+    if TMP_DIR.exists():
+        shutil.rmtree(TMP_DIR, ignore_errors=True)
+    TMP_DIR.mkdir(parents=True, exist_ok=True)
+    log(f"初始化临时目录: {TMP_DIR}")
+
+    # 清理根目录旧规则
+    for file in ["adblock.txt", "allow.txt", "rules.txt"]:
+        file_path = ROOT_DIR / file
         if file_path.exists():
-            try:
-                file_path.unlink()
-                print(f"已删除旧规则文件: {file_path}")
-            except Exception as e:
-                print(f"删除文件失败 {file_path}: {e}")
+            file_path.unlink()
+            log(f"清理旧规则文件: {file}")
 
-# 2. 确保tmp目录存在（绝对路径）
-def init_tmp_dir():
-    try:
-        TMP_DIR.mkdir(parents=True, exist_ok=True)
-        print(f"临时目录已初始化（绝对路径）: {TMP_DIR}")
-    except Exception as e:
-        print(f"创建tmp目录失败: {e}")
-        exit(1)
-
-# 3. 复制补充规则到tmp目录
-def copy_supplement_rules():
-    try:
-        # 源文件路径（基于项目根目录）
-        adblock_src = ROOT_DIR / "data" / "mod" / "adblock.txt"
-        whitelist_src = ROOT_DIR / "data" / "mod" / "whitelist.txt"
-        
-        # 目标路径
-        adblock_dst = TMP_DIR / "adblock01.txt"
-        whitelist_dst = TMP_DIR / "allow01.txt"
-        
-        # 复制文件（如果源文件存在）
-        if adblock_src.exists():
-            shutil.copy2(adblock_src, adblock_dst)
-            print(f"已复制补充规则: {adblock_src} -> {adblock_dst}")
-        else:
-            print(f"警告: 补充规则 {adblock_src} 不存在，跳过复制")
-        
-        if whitelist_src.exists():
-            shutil.copy2(whitelist_src, whitelist_dst)
-            print(f"已复制白名单补充规则: {whitelist_src} -> {whitelist_dst}")
-        else:
-            print(f"警告: 白名单补充规则 {whitelist_src} 不存在，跳过复制")
-    except Exception as e:
-        print(f"复制补充规则失败: {e}")
-        exit(1)
-
-# 4. 下载规则（修正curl命令，增加校验）
-def download_rules(url_list, prefix):
-    success_count = 0
-    for i, url in enumerate(url_list, start=2):  # 从2开始编号（1是本地补充规则）
-        filename = TMP_DIR / f"{prefix}{i:02d}.txt"
-        try:
-            # 修正curl命令：移除多余的| iconv，增加-v输出调试信息，超时参数优化
-            result = subprocess.run(
-                f'curl -m 60 --retry-delay 2 --retry 3 -k -L -C - -o "{filename}" --connect-timeout 30 -s -w "%{http_code}" "{url}"',
-                shell=True,
-                capture_output=True,
-                text=True
-            )
-            # 检查HTTP状态码（200/304为成功）
-            if result.returncode == 0 and result.stdout.strip() in ["200", "304"]:
-                if os.path.getsize(filename) > 0:  # 确保文件非空
-                    success_count += 1
-                    print(f"下载成功 [{i}/{len(url_list)}]: {url} -> {filename.name}")
-                else:
-                    os.remove(filename)
-                    print(f"下载失败 [{i}/{len(url_list)}]: {url}（文件为空）")
-            else:
-                print(f"下载失败 [{i}/{len(url_list)}]: {url}（状态码: {result.stdout.strip()}，错误: {result.stderr}）")
-            time.sleep(1)  # 避免请求过于频繁
-        except Exception as e:
-            print(f"下载异常 [{i}/{len(url_list)}]: {url}，错误: {e}")
-    return success_count
-
-# 规则源列表
-adblock_urls = [
-    "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
-    "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
-    "https://raw.hellogithub.com/hosts",
-    "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt",
-    "https://raw.githubusercontent.com/qq5460168/dangchu/main/adhosts.txt",
-    "https://lingeringsound.github.io/10007_auto/adb.txt",
-    "https://raw.githubusercontent.com/790953214/qy-Ads-Rule/main/black.txt",
-    "https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt",
-    "https://github.com/entr0pia/fcm-hosts/raw/fcm/fcm-hosts",
-    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
-    "https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts",
-    "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/main/FuLingRules/FuLingBlockList.txt"
-]
-
-allow_urls = [
-    "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
-    "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt",
-    "https://file-git.trli.club/file-hosts/allow/Domains",
-    "https://raw.githubusercontent.com/jhsvip/ADRuls/main/white.txt",
-    "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt",
-    "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt",
-    "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/main/FuLingRules/FuLingAllowList.txt",
-    "https://raw.githubusercontent.com/Cats-Team/AdRules/script/allowlist.txt",
-    "https://anti-ad.net/easylist.txt"
-]
-
-# 主流程
-def main():
-    print("===== 开始清理旧规则 =====")
-    clean_old_rules()
-    
-    print("\n===== 初始化临时目录 =====")
-    init_tmp_dir()
-    
-    print("\n===== 复制补充规则 =====")
-    copy_supplement_rules()
-    
-    print("\n===== 下载拦截规则 =====")
-    adblock_success = download_rules(adblock_urls, "adblock")
-    print(f"拦截规则下载完成: {adblock_success}/{len(adblock_urls)} 成功")
-    
-    print("\n===== 下载白名单规则 =====")
-    allow_success = download_rules(allow_urls, "allow")
-    print(f"白名单规则下载完成: {allow_success}/{len(allow_urls)} 成功")
-    
-    # 检查tmp目录是否有文件（至少1个成功才算有效）
-    total_files = len(list(TMP_DIR.glob("*.txt")))
-    if total_files == 0:
-        print("\nError: tmp目录中未找到任何下载的规则文件，流程终止")
-        exit(1)
+    # 复制补充规则（对应shell的cp命令）
+    if ADBLOCK_SUPPLEMENT.exists():
+        shutil.copy2(ADBLOCK_SUPPLEMENT, TMP_DIR / "rules01.txt")
+        log(f"复制补充拦截规则: rules01.txt")
     else:
-        print(f"\n规则下载完成，tmp目录共 {total_files} 个文件")
+        log(f"警告: 补充拦截规则不存在 {ADBLOCK_SUPPLEMENT}")
+
+    if WHITELIST_SUPPLEMENT.exists():
+        shutil.copy2(WHITELIST_SUPPLEMENT, TMP_DIR / "allow01.txt")
+        log(f"复制补充白名单规则: allow01.txt")
+    else:
+        log(f"警告: 补充白名单规则不存在 {WHITELIST_SUPPLEMENT}")
+
+# 2. 下载函数（支持并发）
+def download_url(url: str, save_path: Path) -> bool:
+    """下载单个URL并转码"""
+    try:
+        # 构造curl命令（对应shell的curl+iconv逻辑）
+        cmd = [
+            "curl",
+            "-m", str(TIMEOUT),
+            "--retry", str(RETRY),
+            "--retry-delay", str(RETRY_DELAY),
+            "-k", "-L", "-C", "-",  # 忽略证书、跟随重定向、断点续传
+            "--connect-timeout", str(TIMEOUT),
+            "-s", url
+        ]
+
+        # 执行命令并转码（模拟iconv -t utf-8）
+        result = subprocess.run(
+            cmd,
+            capture_output=True,
+            text=False  # 先按字节流处理
+        )
+
+        if result.returncode != 0:
+            log(f"下载失败 {url} (返回码: {result.returncode})")
+            return False
+
+        # 转码处理（兼容多种编码）
+        for encoding in ["utf-8", "latin-1", "gbk"]:
+            try:
+                content = result.stdout.decode(encoding)
+                break
+            except UnicodeDecodeError:
+                continue
+        else:
+            log(f"转码失败 {url}")
+            return False
+
+        # 写入文件（确保末尾有换行）
+        with open(save_path, "w", encoding=ENCODING) as f:
+            f.write(content.rstrip() + "\n")  # 统一处理换行
+
+        log(f"下载成功 {url.split('/')[-1]} -> {save_path.name}")
+        return True
+
+    except Exception as e:
+        log(f"下载异常 {url}: {str(e)}")
+        return False
+
+# 3. 并发下载规则
+def download_rules(concurrent: int = MAX_WORKERS):
+    # 规则URL列表（对应shell的rules数组）
+    rules_urls = [
+        "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt",
+        "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
+        "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
+        "https://raw.githubusercontent.com/Cats-Team/dns-filter/main/abp.txt",
+        "https://raw.hellogithub.com/hosts",
+        "https://raw.githubusercontent.com/qq5460168/dangchu/main/adhosts.txt",
+        "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
+        "https://raw.githubusercontent.com/qq5460168/Who520/refs/heads/main/Other%20rules/Replenish.txt",
+        "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Blacklist.txt",
+        "https://gitee.com/zjqz/ad-guard-home-dns/raw/master/black-list",
+        "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/black.txt",
+        "https://github.com/entr0pia/fcm-hosts/raw/fcm/fcm-hosts",
+        "https://raw.githubusercontent.com/790953214/qy-Ads-Rule/refs/heads/main/black.txt",
+        "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
+        "https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/refs/heads/master/SMAdHosts",
+        "https://raw.githubusercontent.com/tongxin0520/AdFilterForAdGuard/refs/heads/main/KR_DNS_Filter.txt",
+        "https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/refs/heads/main/Rules/blacklist.txt",
+        "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingBlockList.txt",
+        "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingAllowList.txt",
+    ]
+
+    # 白名单URL列表（对应shell的allow数组）
+    allow_urls = [
+        "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
+        "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt",
+        "https://file-git.trli.club/file-hosts/allow/Domains",
+        "https://raw.githubusercontent.com/user001235/112/main/white.txt",
+        "https://raw.githubusercontent.com/jhsvip/ADRuls/main/white.txt",
+        "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt",
+        "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt",
+        "https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/refs/heads/main/Rules/whitelist.txt",
+        "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingAllowList.txt",
+        "https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/whitelist.txt",
+    ]
+
+    # 并发下载规则
+    log("\n开始下载拦截规则...")
+    with ThreadPoolExecutor(max_workers=concurrent) as executor:
+        futures = []
+        for i, url in enumerate(rules_urls, start=2):  # 从2开始编号（1是补充规则）
+            save_path = TMP_DIR / f"rules{i:02d}.txt"
+            futures.append(executor.submit(download_url, url, save_path))
+        
+        # 等待所有任务完成
+        for future in as_completed(futures):
+            pass  # 结果已在download_url中日志输出
+
+    # 并发下载白名单
+    log("\n开始下载白名单规则...")
+    with ThreadPoolExecutor(max_workers=concurrent) as executor:
+        futures = []
+        for i, url in enumerate(allow_urls, start=2):
+            save_path = TMP_DIR / f"allow{i:02d}.txt"
+            futures.append(executor.submit(download_url, url, save_path))
+        
+        for future in as_completed(futures):
+            pass
+
+# 4. 规则预处理（对应shell的grep/sed逻辑）
+def process_rules():
+    log("\n开始预处理规则...")
+    
+    # 合并所有规则文件
+    all_rules = []
+    for file in TMP_DIR.glob("*.txt"):
+        try:
+            with open(file, "r", encoding=ENCODING) as f:
+                all_rules.extend(f.readlines())
+        except Exception as e:
+            log(f"读取文件失败 {file}: {str(e)}")
+
+    # 过滤与转换（对应shell的grep/sed链）
+    filtered = []
+    for line in all_rules:
+        line = line.strip()
+        # 过滤注释行和空行
+        if not line or line.startswith(("#", "!", "[")):
+            continue
+        # 过滤无效IP规则
+        if re.match(r"^[0-9f\.:]+\s+(ip6\-|localhost|local|loopback)$", line):
+            continue
+        if re.match(r"local.*\.local.*$", line):
+            continue
+        # 转换IP格式
+        line = line.replace("127.0.0.1", "0.0.0.0").replace("::", "0.0.0.0")
+        # 保留有效的hosts规则
+        if "0.0.0.0" in line and ".0.0.0.0 " not in line:
+            filtered.append(line)
+
+    # 去重并保存基础规则
+    unique_rules = sorted(list(set(filtered)))
+    base_hosts = TMP_DIR / "base-src-hosts.txt"
+    with open(base_hosts, "w", encoding=ENCODING) as f:
+        f.write("\n".join(unique_rules) + "\n")
+    log(f"生成基础规则 {base_hosts.name}（{len(unique_rules)} 条）")
+
+    # 提取AdGuard规则（对应shell的tmp-rules.txt）
+    adblock_rules = []
+    for line in all_rules:
+        line = line.strip()
+        if line and not line.startswith(("#", "!", "[")):
+            adblock_rules.append(line)
+    adblock_unique = sorted(list(set(adblock_rules)))
+    tmp_rules = TMP_DIR / "tmp-rules.txt"
+    with open(tmp_rules, "w", encoding=ENCODING) as f:
+        f.write("\n".join(adblock_unique) + "\n")
+    log(f"生成拦截规则 {tmp_rules.name}（{len(adblock_unique)} 条）")
+
+    # 提取白名单规则（对应shell的allow_ends_with_*）
+    allow_rules = []
+    for line in all_rules:
+        line = line.strip()
+        if re.match(r"^@@\|\|.*\^(\$important)?$", line):
+            allow_rules.append(line)
+    allow_unique = sorted(list(set(allow_rules)))
+    tmp_allow = TMP_DIR / "tmp-allow.txt"
+    with open(tmp_allow, "w", encoding=ENCODING) as f:
+        f.write("\n".join(allow_unique) + "\n")
+    log(f"生成白名单规则 {tmp_allow.name}（{len(allow_unique)} 条）")
+
+    # 复制到根目录（对应shell的cp命令）
+    shutil.copy2(tmp_allow, ROOT_DIR / "allow.txt")
+    shutil.copy2(tmp_rules, ROOT_DIR / "rules.txt")
+    log("已复制规则到根目录")
+
+# 5. 调用后续处理脚本（对应shell的python调用）
+def call_post_process():
+    log("\n开始后续规则处理...")
+    # 调用rule.py
+    rule_script = ROOT_DIR / "data/python/rule.py"
+    if rule_script.exists():
+        subprocess.run(
+            ["python", str(rule_script)],
+            check=True,
+            cwd=ROOT_DIR
+        )
+    else:
+        log(f"警告: 未找到 {rule_script}，跳过")
+
+    # 调用filter-dns.py
+    filter_script = ROOT_DIR / "data/python/filter-dns.py"
+    if filter_script.exists():
+        subprocess.run(
+            ["python", str(filter_script)],
+            check=True,
+            cwd=ROOT_DIR
+        )
+    else:
+        log(f"警告: 未找到 {filter_script}，跳过")
+
+    # 调用title.py
+    title_script = ROOT_DIR / "data/python/title.py"
+    if title_script.exists():
+        subprocess.run(
+            ["python", str(title_script)],
+            check=True,
+            cwd=ROOT_DIR
+        )
+    else:
+        log(f"警告: 未找到 {title_script}，跳过")
+
+# 主函数
+def main():
+    log("===== 开始规则下载与处理流程 =====")
+    init_env()
+    download_rules()
+    process_rules()
+    call_post_process()
+    log("===== 所有流程完成 =====")
 
 if __name__ == "__main__":
     main()
