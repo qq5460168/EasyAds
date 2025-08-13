@@ -104,48 +104,54 @@ def download_url(url: str, save_path: Path) -> bool:
 
 # 3. 并发下载规则
 def download_rules(concurrent: int = MAX_WORKERS):
-    # 规则URL列表（对应shell的rules数组）
+    # 规则URL列表（完全对应提供的rules数组，包含注释和空字符串）
     rules_urls = [
-        "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt",
-        "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
-        "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
-        "https://raw.githubusercontent.com/Cats-Team/dns-filter/main/abp.txt",
-        "https://raw.hellogithub.com/hosts",
-        "https://raw.githubusercontent.com/qq5460168/dangchu/main/adhosts.txt",
-        "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
-        "https://raw.githubusercontent.com/qq5460168/Who520/refs/heads/main/Other%20rules/Replenish.txt",
-        "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Blacklist.txt",
-        "https://gitee.com/zjqz/ad-guard-home-dns/raw/master/black-list",
-        "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/black.txt",
-        "https://github.com/entr0pia/fcm-hosts/raw/fcm/fcm-hosts",
-        "https://raw.githubusercontent.com/790953214/qy-Ads-Rule/refs/heads/main/black.txt",
-        "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
-        "https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/refs/heads/master/SMAdHosts",
-        "https://raw.githubusercontent.com/tongxin0520/AdFilterForAdGuard/refs/heads/main/KR_DNS_Filter.txt",
-        "https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/refs/heads/main/Rules/blacklist.txt",
-        "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingBlockList.txt",
-        "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingAllowList.txt",
+        "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt", #5460
+        "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt", #大萌主
+        "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",  #DD
+        "https://raw.githubusercontent.com/Cats-Team/dns-filter/main/abp.txt", #AdRules DNS Filter
+        "https://raw.hellogithub.com/hosts", #GitHub加速
+        "https://raw.githubusercontent.com/qq5460168/dangchu/main/adhosts.txt", #测试hosts
+        "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt", #白名单
+        "https://raw.githubusercontent.com/qq5460168/Who520/refs/heads/main/Other%20rules/Replenish.txt",#补充
+        "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Blacklist.txt", #mphin
+        "https://gitee.com/zjqz/ad-guard-home-dns/raw/master/black-list", #周木木
+        "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/black.txt", #liwenjie119
+        "https://github.com/entr0pia/fcm-hosts/raw/fcm/fcm-hosts", #FCM Hosts
+        "https://raw.githubusercontent.com/790953214/qy-Ads-Rule/refs/heads/main/black.txt", #晴雅
+        "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt", #秋风规则
+        "https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/refs/heads/master/SMAdHosts", #下一个ID见
+        "https://raw.githubusercontent.com/tongxin0520/AdFilterForAdGuard/refs/heads/main/KR_DNS_Filter.txt", #tongxin0520
+        "https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/refs/heads/main/Rules/blacklist.txt", #Zisbusy
+        "", # 空行（跳过下载）
+        "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingBlockList.txt", #茯苓
+        "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingAllowList.txt", #茯苓白名单
+        "", # 空行（跳过下载）
     ]
 
-    # 白名单URL列表（对应shell的allow数组）
+    # 白名单URL列表（完全对应提供的allow数组，包含注释和空字符串）
     allow_urls = [
         "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
         "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt",
-        "https://file-git.trli.club/file-hosts/allow/Domains",
-        "https://raw.githubusercontent.com/user001235/112/main/white.txt",
-        "https://raw.githubusercontent.com/jhsvip/ADRuls/main/white.txt",
-        "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt",
-        "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt",
-        "https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/refs/heads/main/Rules/whitelist.txt",
-        "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingAllowList.txt",
-        "https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/whitelist.txt",
+        "https://file-git.trli.club/file-hosts/allow/Domains", #冷漠
+        "https://raw.githubusercontent.com/user001235/112/main/white.txt", #浅笑
+        "https://raw.githubusercontent.com/jhsvip/ADRuls/main/white.txt", #jhsvip
+        "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt", #liwenjie119
+        "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt", #喵二白名单
+        "https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/refs/heads/main/Rules/whitelist.txt", #Zisbusy
+        "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingAllowList.txt", #茯苓
+        "https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/whitelist.txt", #酷安cocieto
+        "",# 空行（跳过下载）
+        "" # 空行（跳过下载）
     ]
 
-    # 并发下载规则
+    # 并发下载规则（跳过空字符串URL）
     log("\n开始下载拦截规则...")
     with ThreadPoolExecutor(max_workers=concurrent) as executor:
         futures = []
         for i, url in enumerate(rules_urls, start=2):  # 从2开始编号（1是补充规则）
+            if not url.strip():  # 跳过空URL
+                continue
             save_path = TMP_DIR / f"rules{i:02d}.txt"
             futures.append(executor.submit(download_url, url, save_path))
         
@@ -153,11 +159,13 @@ def download_rules(concurrent: int = MAX_WORKERS):
         for future in as_completed(futures):
             pass  # 结果已在download_url中日志输出
 
-    # 并发下载白名单
+    # 并发下载白名单（跳过空字符串URL）
     log("\n开始下载白名单规则...")
     with ThreadPoolExecutor(max_workers=concurrent) as executor:
         futures = []
         for i, url in enumerate(allow_urls, start=2):
+            if not url.strip():  # 跳过空URL
+                continue
             save_path = TMP_DIR / f"allow{i:02d}.txt"
             futures.append(executor.submit(download_url, url, save_path))
         
@@ -167,7 +175,7 @@ def download_rules(concurrent: int = MAX_WORKERS):
 # 4. 规则预处理（对应shell的grep/sed逻辑）
 def process_rules():
     log("\n开始预处理规则...")
-    
+
     # 合并所有规则文件
     all_rules = []
     for file in TMP_DIR.glob("*.txt"):
