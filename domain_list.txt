@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-08-13 06:32:05（北京时间）
-# 共 165464 个域名
+# 生成时间: 2025-08-13 12:51:18（北京时间）
+# 共 165466 个域名
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -17244,6 +17244,7 @@ analytics.vinevida.com
 analytics.virginaustralia.com
 analytics.virginmobileusa.com
 analytics.visible.com
+analytics.vitalsignstracker.com
 analytics.viture.dev
 analytics.vivantskincare.com
 analytics.vivint.com
@@ -132401,6 +132402,7 @@ wap.gxzhshop.com
 wap.hot-mob.com
 wap.mpush.qq.com
 wap.mylifetime.com
+wap.qqbiquge.net
 wap.tz63.cn
 wap001.bytravel.cn
 wap1.laogu.wang
