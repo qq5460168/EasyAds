@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-08-14 12:32:57
+! 规则更新时间: 2025-08-14 16:32:00
 ! 有效规则数量: 26828 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
@@ -15699,7 +15699,7 @@
 ||proxy.svc.litv.tv^
 ||static.hae123.cn^
 ||push-ads-cn.heytapmobi.com^
-140.82.114.26                 alive.github.com  # Timeout
+140.82.113.25                 alive.github.com  # Timeout
 20.205.243.168                api.github.com  # Timeout
 140.82.114.22                 api.individual.githubcopilot.com
 185.199.111.133               avatars.githubusercontent.com
@@ -15713,24 +15713,24 @@
 140.82.112.22                 central.github.com  # Timeout
 185.199.111.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com  # Timeout
-140.82.114.21                 collector.github.com  # Timeout
+140.82.112.22                 collector.github.com  # Timeout
 185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com  # Timeout
-16.15.193.72                  github-cloud.s3.amazonaws.com  # Timeout
-16.15.181.229                 github-com.s3.amazonaws.com  # Timeout
-16.15.196.142                 github-production-release-asset-2e65be.s3.amazonaws.com  # Timeout
-16.15.217.213                 github-production-repository-file-5c1aeb.s3.amazonaws.com  # Timeout
-3.5.11.199                    github-production-user-asset-6210df.s3.amazonaws.com  # Timeout
+16.15.180.86                  github-cloud.s3.amazonaws.com  # Timeout
+16.15.178.67                  github-com.s3.amazonaws.com  # Timeout
+16.15.216.31                  github-production-release-asset-2e65be.s3.amazonaws.com  # Timeout
+16.15.194.165                 github-production-repository-file-5c1aeb.s3.amazonaws.com  # Timeout
+16.182.71.25                  github-production-user-asset-6210df.s3.amazonaws.com  # Timeout
 192.0.66.2                    github.blog
 20.205.243.166                github.com  # Timeout
-140.82.112.17                 github.community
-185.199.110.154               github.githubassets.com
-151.101.129.194               github.global.ssl.fastly.net
-185.199.108.153               github.io
+140.82.112.18                 github.community  # Timeout
+185.199.108.154               github.githubassets.com
+151.101.193.194               github.global.ssl.fastly.net
+185.199.110.153               github.io
 185.199.111.133               github.map.fastly.net
-185.199.108.153               githubstatus.com
-140.82.114.25                 live.github.com  # Timeout
+185.199.110.153               githubstatus.com
+140.82.113.26                 live.github.com
 185.199.111.133               media.githubusercontent.com
 185.199.111.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com  # Timeout
