@@ -5,7 +5,7 @@ from datetime import datetime
 def generate_adclose_rules():
     """生成Adclose规则（基于根目录adblock.txt）"""
     input_path = Path("./adblock.txt")
-    output_path = Path("./adclose.txt")
+    output_path = Path("./AdClose.rule")  # 更改输出文件名为AdClose.rule
     
     if not input_path.exists():
         raise FileNotFoundError(f"源文件不存在: {input_path}")
@@ -20,13 +20,13 @@ def generate_adclose_rules():
     domains = set(domain_pattern.findall(content))
     total = len(domains)
     
-    # 写入规则
+    # 写入规则，采用domain, 前缀格式
     with output_path.open('w', encoding='utf-8') as f:
         f.write(f"# Adclose规则 - 自动生成\n")
         f.write(f"# 更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
         f.write(f"# 规则总数: {total}\n\n")
         for domain in sorted(domains):
-            f.write(f"block {domain}\n")  # 适配Adclose的block指令
+            f.write(f"domain, {domain}\n")  # 改为指定的格式
     
     print(f"Adclose规则生成完成，输出到 {output_path}，共 {total} 条")
 
