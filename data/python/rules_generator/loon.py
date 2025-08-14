@@ -72,7 +72,7 @@ def extract_to_loon_rules(input_file, output_file):
         raise
 
 if __name__ == "__main__":
-    # 路径改为根目录
+    # 路径改为根目录，输出文件名为loon.list
     input_file = Path("./dns.txt")               # 根目录的dns.txt
-    output_file = Path("./loon-rules.list")      # 输出到根目录
+    output_file = Path("./loon.list")            # 输出到根目录，文件名修改为loon.list
     extract_to_loon_rules(input_file, output_file)
