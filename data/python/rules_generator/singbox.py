@@ -5,7 +5,7 @@ from datetime import datetime
 def generate_singbox_rules():
     """生成Singbox规则（domain: 域名, policy: reject）"""
     input_path = Path("./adblock.txt")
-    output_path = Path("./singbox.txt")
+    output_path = Path("./Singbox.srs")  # 修改输出文件名为Singbox.srs
     
     if not input_path.exists():
         raise FileNotFoundError(f"源文件不存在: {input_path}")
@@ -23,7 +23,7 @@ def generate_singbox_rules():
         f.write(f"# 更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
         f.write(f"# 规则总数: {total}\n\n")
         for domain in sorted(domains):
-            f.write(f"domain: {domain}, policy: reject\n")  # Singbox标准格式
+            f.write(f"domain: {domain}, policy: reject\n")  # 保持Singbox标准格式
     
     print(f"Singbox规则生成完成，输出到 {output_path}，共 {total} 条")
 
