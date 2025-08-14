@@ -18,8 +18,8 @@ ENCODING = "utf-8"  # 目标编码
 SCRIPT_DIR = Path(__file__).resolve().parent
 ROOT_DIR = SCRIPT_DIR.parent.parent.parent  # 项目根目录
 TMP_DIR = ROOT_DIR / "tmp"                  # 临时目录
-ADBLOCK_SUPPLEMENT = ROOT_DIR / "data/rules/adblock.txt"  # 补充规则
-WHITELIST_SUPPLEMENT = ROOT_DIR / "data/rules/whitelist.txt"  # 补充白名单
+ADBLOCK_SUPPLEMENT = ROOT_DIR / "data/mod/adblock.txt"  # 补充规则
+WHITELIST_SUPPLEMENT = ROOT_DIR / "data/mod/whitelist.txt"  # 补充白名单
 
 # 日志函数
 def log(msg: str):
