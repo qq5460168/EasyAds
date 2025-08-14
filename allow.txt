@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-08-14 21:59:57
-! 有效规则数量: 3301 条
+! 规则更新时间: 2025-08-14 22:03:02
+! 有效规则数量: 3346 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -2469,24 +2469,72 @@
 @@||sobot.com^
 @@||wan.douyu.com^
 @@||developer.apple.com$generichide
-@@||dns.weixin.qq.com.cn^
-@@||frontier100-toutiao-hl.fqnovel.com^
-@@||v5-hl-hw-reading-video.fqnovelvod.com^
-@@||fourier.alibaba.com^
-@@||umini.shujupie.com^
-@@||doh.pub^
-@@||astrategy.beacon.qq.com^
-@@||c-oneid.getui.net^
-@@||apmplus.volces.com^
-@@||insight.soulapp.cn^
-@@||gateway-mobile-gray.soulapp.cn^
-@@||data-collector.soulapp.cn^
-@@||media-service.soulapp.cn^
-@@||api-chat.soulapp.cn^
-@@||v5-hl-ali-reading-video.fqnovelvod.com^
+@@||img.zbt.com*/market-$script
+@@||apm.zhihu.com^
+@@||app.zhuanzhuan.com^$important
+@@||h5offline.zhuanzhuan.com^$important
+@@||m.zhuanzhuan.com^$important
+@@||feconf.zhuanzhuan.com^$important
+@@||feentry.zhuanzhuan.com^$important
+@@||sentry.zhuanzhuan.com^$important
+@@||act.zhuanzhuan.com^$important
+@@||bdad.123pan.cn^$important
+@@||s4.cnzz.com^$important
+@@||z3.cnzz.com^$important
+@@||c.cnzz.com^$important
+@@||sdk-api.beizi.biz^$important
+@@||w1.kskwai.com^$important
+@@||szlong.weixin.qq.com^$important
+@@||api.look.163.com^$important
+@@||ac.dun.163.com^$important
+@@||partner.googleadservices.com^$important
+@@||syndicatedsearch.goog^$important
+@@||iyfbodn.com^$important
+@@||grpc.biliapi.net^$important
+@@||a0.app.xiaomi.com^$important
+@@||hdns.ksyun.com^$important
+@@||api.kuaishouzt.com^$important
+@@||api.kingdata.ksyun.com^$important
+@@||img.shouji.sogou.com^$important
+@@||indivi-cdn.shouji.sogou.com^$important
+@@||srv.android.shouji.sogou.com^$important
+@@||wxapp.tc.qq.com^$important
+@@||vweixinthumb.tc.qq.com^$important
+@@||vweixinf.tc.qq.com^$important
+@@||vod-settings.bytedanceapi.com^$app=com.phoenix.read
+@@||backupapi.lkong.com^$important
+@@||appcfg.v.qq.com^
+@@||api.live.bilibili.com^$important
+@@||m..bilibili.com^$important
+@@||app.bilibili.com^$important
+@@||www.bilibili.com^$important
+@@||ime-store-cdn.gtimg.com^$important
 @@||console.bce.baidu.com^$domain=console.bce.baidu.com
 @@||login.bce.baidu.com^$domain=login.bce.baidu.com
-@@||img.zbt.com*/market-$script
+@@||fs-im-kefu.7moor-fs1.com^$important
+@@||dpurl.cn^$important
+@@||market.waimai.meituan.com^$important
+@@||px.wpk.quark.cn^$important
+@@||dw-data-channel.quark.cn^$important
+@@||adashx.m.taobao.com^$important
+@@||aeventlog.beacon.qq.com^$important
+@@||applog.lc.quark.cn^$important
+@@||api2-album.quark.cn^$important
+@@||api-album.quark.cn^$important
+@@||masterconn2.qq.com^$important
+@@||dualstack-a.apilocate.amap.com^$important
+@@||p6-novel.byteimg.com
+@@||swimg1.hstdyf.com^$important
+@@||www.hao123.com^$important
+@@||dns.adguard.com^$important
+@@||dns-family.adguard.com^$important
+@@||honor.zuimeitianqi.com^
+@@||honor-h5.zuimeitianqi.com^
+@@||bd1.zuimeitianqi.com^
+@@||info.zuimeitianqi.com^
+@@||s7.zuimeitianqi.com^
+@@||hwinfo1.zuimeitianqi.com^
+@@||bd2.zuimeitianqi.com^
 @@||gitee.io^
 @@||douyinstatic.com^
 @@||toutiaostatic.com^
@@ -2555,7 +2603,6 @@
 @@||mqtt.zhihu.com^
 @@||clientlog3.music.163.com^$important
 @@||ac.dun.163yun.com^$important
-@@||ac.dun.163.com^$important
 @@||www.cool18.com^$important
 @@||wap.cool18.com^$important
 @@||oia.zhihu.com^$important
@@ -3051,7 +3098,6 @@
 @@||id6.me^$important
 @@||ad.mcloud.139.com^$important
 @@||waphn.189.cn^$important
-@@||app.bilibili.com^$important
 @@||ot.io.mi.com^$important
 @@||e.cn.miaozhen.com^$important
 @@||ecmb.bdimg.com^$important
@@ -3263,7 +3309,6 @@
 @@||iface2.iqiyi.com^$important
 @@||input.shouji.sogou.com^$important
 @@||ykimg.com^$important
-@@||app.zhuanzhuan.com^$important
 @@||upgrade.ptmi.gitv.tv^$important
 @@||yun.duiba.com.cn^$important
 @@||baike.so.com^$important
