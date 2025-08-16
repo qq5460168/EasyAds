@@ -6572,17 +6572,17 @@
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
 140.82.112.18 github.community
-140.82.112.25                 alive.github.com  # Timeout
+140.82.112.21                 education.github.com  # Timeout
+140.82.112.22                 api.individual.githubcopilot.com  # Timeout
 140.82.112.25                 live.github.com  # Timeout
 140.82.112.25 live.github.com
-140.82.113.21                 central.github.com  # Timeout
+140.82.113.17                 github.community  # Timeout
 140.82.113.21 collector.github.com
-140.82.113.22                 api.individual.githubcopilot.com  # Timeout
+140.82.113.22                 central.github.com  # Timeout
 140.82.113.22 central.github.com
+140.82.113.26                 alive.github.com
 140.82.113.26 alive.github.com
-140.82.114.17                 github.community
-140.82.114.21                 education.github.com  # Timeout
-140.82.114.22                 collector.github.com  # Timeout
+140.82.114.21                 collector.github.com  # Timeout
 140.82.116.3 gist.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
@@ -6604,10 +6604,12 @@
 146.75.48.133 release-assets.githubusercontent.com
 151.101.129.194               github.global.ssl.fastly.net
 151.101.76.133 raw.github.com
-16.15.176.85                  github-production-repository-file-5c1aeb.s3.amazonaws.com  # Timeout
+16.15.176.27                  github-production-user-asset-6210df.s3.amazonaws.com  # Timeout
+16.15.178.42                  github-com.s3.amazonaws.com  # Timeout
 16.15.184.231 github-production-user-asset-6210df.s3.amazonaws.com
-16.15.201.127                 github-production-user-asset-6210df.s3.amazonaws.com  # Timeout
-16.182.106.209                github-production-release-asset-2e65be.s3.amazonaws.com  # Timeout
+16.15.184.44                  github-production-release-asset-2e65be.s3.amazonaws.com  # Timeout
+16.15.186.128                 github-cloud.s3.amazonaws.com  # Timeout
+16.182.96.105                 github-production-repository-file-5c1aeb.s3.amazonaws.com  # Timeout
 163.com
 163.com##.freeVip
 163.com##.js-open-app
@@ -6714,8 +6716,6 @@
 23.53.35.202 community.akamai.steamstatic.com
 23.53.35.204 store.akamai.steamstatic.com
 23.58.97.230 store.steampowered.com
-3.5.1.140                     github-cloud.s3.amazonaws.com  # Timeout
-3.5.25.192                    github-com.s3.amazonaws.com  # Timeout
 3.5.28.146 github-com.s3.amazonaws.com
 31.216.145.5 mega.nz
 35.181.164.242 community.oneplus.com
