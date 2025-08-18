@@ -494,8 +494,10 @@ DOMAIN,bes-mtj.baidu.com,reject
 DOMAIN,bgg.baidu.com,reject
 DOMAIN,bianxian.com,reject
 DOMAIN,bingads.microsoft.com,reject
+DOMAIN,biz.weibo.com,reject
 DOMAIN,bj.ad.track.66mobi.com,reject
 DOMAIN,books-analytics-events.apple.com,reject
+DOMAIN,bootpreload.uve.weibo.com,reject
 DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn,reject
 DOMAIN,bsrv.qq.com,reject
 DOMAIN,bugly.qq.com,reject
@@ -1438,7 +1440,6 @@ DOMAIN,ads.aws.viber.com,reject
 DOMAIN,alitui.weibo.com,reject
 DOMAIN,dp.im.weibo.cn,reject
 DOMAIN,biz.weibo.com.cn,reject
-DOMAIN,biz.weibo.com,reject
 DOMAIN,click.uve.weibo.com,reject
 DOMAIN,wax.weibo.com,reject
 DOMAIN,wbapp.uve.weibo.com,reject
@@ -16514,7 +16515,6 @@ DOMAIN,media-gdgz-fy-person.gd5oss.ctyunxs.cn,reject
 DOMAIN,cos.ho7k.com,reject
 DOMAIN,xingya-ad-track.shytkjgs.com,reject
 DOMAIN,api-cn.open.heytapmobi.com,reject
-DOMAIN,bootpreload.uve.weibo.com,reject
 DOMAIN,register.app.jpy.jp,reject
 DOMAIN,90nw.com,reject
 DOMAIN,bzres.yigomob.com,reject

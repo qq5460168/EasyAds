@@ -499,8 +499,10 @@
 ||bgg.baidu.com^
 ||bianxian.com^
 ||bingads.microsoft.com^
+||biz.weibo.com^
 ||bj.ad.track.66mobi.com^
 ||books-analytics-events.apple.com^
+||bootpreload.uve.weibo.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
 ||bsrv.qq.com^
 ||bugly.qq.com^
@@ -1456,7 +1458,6 @@
 ||alitui.weibo.com^
 ||dp.im.weibo.cn^
 ||biz.weibo.com.cn^
-||biz.weibo.com^
 ||click.uve.weibo.com^
 ||wax.weibo.com^
 ||wbapp.uve.weibo.com^
@@ -16561,7 +16562,6 @@
 ||cos.ho7k.com^
 ||xingya-ad-track.shytkjgs.com^
 ||api-cn.open.heytapmobi.com^
-||bootpreload.uve.weibo.com^
 ||register.app.jpy.jp^
 ||90nw.com^
 ||bzres.yigomob.com^
