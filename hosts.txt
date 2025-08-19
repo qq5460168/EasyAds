@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-08-19 04:26:15
-# 规则总数: 16952
+# 更新时间: 2025-08-19 08:29:43
+# 规则总数: 16955
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -7192,6 +7192,7 @@
 0.0.0.0 hldwmly.com
 0.0.0.0 hlegsdh.icu
 0.0.0.0 hlnr9q.icu
+0.0.0.0 hlog.bigda.com
 0.0.0.0 hlrcv.stage.adobe.com
 0.0.0.0 hlryzsqo.icu
 0.0.0.0 hlw.longlingsc.art
@@ -10234,6 +10235,7 @@
 0.0.0.0 mlgrrqymdsyk.com
 0.0.0.0 mlnbike.com
 0.0.0.0 mlog.aipai.com
+0.0.0.0 mlog.bigda.com
 0.0.0.0 mlog.hiido.com
 0.0.0.0 mlog.m1905.cn
 0.0.0.0 mlog.search.xiaomi.net
@@ -14561,6 +14563,7 @@
 0.0.0.0 uniformer.biz
 0.0.0.0 unilog.wostore.cn
 0.0.0.0 unimhk.com
+0.0.0.0 union-mlog.bigda.com
 0.0.0.0 union-wifi.com
 0.0.0.0 union.360.cn
 0.0.0.0 union.6.cn

@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-08-19 04:26:13.694954
+# Generated on 2025-08-19 08:29:42.143421
 
 ||dl.reg.163.com^
 ||tpc.googlesyndication.com^
@@ -637,6 +637,7 @@
 ||heads-ak.spotify.com.edgesuite.net^
 ||heads-fa.spotify.com^
 ||hexagon-analytics.com^
+||hlog.bigda.com^
 ||hm.baidu.com^
 ||hmma.baidu.com^
 ||hotupgrade.hpplay.cn^
@@ -765,6 +766,7 @@
 ||micro-xdb.com^
 ||mini-prog-drm.vodplayvideo.net^
 ||mission-pub.smart-tv.cn^
+||mlog.bigda.com^
 ||mmgame.qpic.cn^
 ||mnqlog.ldmnq.com^
 ||moatads.com^
@@ -1008,6 +1010,7 @@
 ||umengacs.m.taobao.com^
 ||umengjmacs.m.taobao.com^
 ||umini.shujupie.com^
+||union-mlog.bigda.com^
 ||union.baidu.cn^
 ||union.baidu.com^
 ||update.avlyun.sec.miui.com^

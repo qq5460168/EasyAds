@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2025-08-19 12:26:13
-# 规则统计: 总计16925条 (IP:34 DOMAIN:0 SUFFIX:16891 KEYWORD:0)
+# 更新时间(北京时间): 2025-08-19 16:29:42
+# 规则统计: 总计16928条 (IP:34 DOMAIN:0 SUFFIX:16894 KEYWORD:0)
 
 # IP规则
 IP-CIDR,10.130.208.223,REJECT,no-resolve
@@ -7181,6 +7181,7 @@ DOMAIN-SUFFIX,hlbbn6ii.icu,REJECT
 DOMAIN-SUFFIX,hldwmly.com,REJECT
 DOMAIN-SUFFIX,hlegsdh.icu,REJECT
 DOMAIN-SUFFIX,hlnr9q.icu,REJECT
+DOMAIN-SUFFIX,hlog.bigda.com,REJECT
 DOMAIN-SUFFIX,hlrcv.stage.adobe.com,REJECT
 DOMAIN-SUFFIX,hlryzsqo.icu,REJECT
 DOMAIN-SUFFIX,hlw.longlingsc.art,REJECT
@@ -10220,6 +10221,7 @@ DOMAIN-SUFFIX,mlb.did.ijinshan.com,REJECT
 DOMAIN-SUFFIX,mlgrrqymdsyk.com,REJECT
 DOMAIN-SUFFIX,mlnbike.com,REJECT
 DOMAIN-SUFFIX,mlog.aipai.com,REJECT
+DOMAIN-SUFFIX,mlog.bigda.com,REJECT
 DOMAIN-SUFFIX,mlog.hiido.com,REJECT
 DOMAIN-SUFFIX,mlog.m1905.cn,REJECT
 DOMAIN-SUFFIX,mlog.search.xiaomi.net,REJECT
@@ -14539,6 +14541,7 @@ DOMAIN-SUFFIX,unified-ter.hismarttv.com,REJECT
 DOMAIN-SUFFIX,uniformer.biz,REJECT
 DOMAIN-SUFFIX,unilog.wostore.cn,REJECT
 DOMAIN-SUFFIX,unimhk.com,REJECT
+DOMAIN-SUFFIX,union-mlog.bigda.com,REJECT
 DOMAIN-SUFFIX,union-wifi.com,REJECT
 DOMAIN-SUFFIX,union.360.cn,REJECT
 DOMAIN-SUFFIX,union.6.cn,REJECT

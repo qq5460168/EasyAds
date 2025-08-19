@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-08-19 04:26:15
-# 规则总数: 16952
+# 更新时间: 2025-08-19 08:29:43
+# 规则总数: 16955
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -7192,6 +7192,7 @@ hlbbn6ii.icu block
 hldwmly.com block
 hlegsdh.icu block
 hlnr9q.icu block
+hlog.bigda.com block
 hlrcv.stage.adobe.com block
 hlryzsqo.icu block
 hlw.longlingsc.art block
@@ -10234,6 +10235,7 @@ mlb.did.ijinshan.com block
 mlgrrqymdsyk.com block
 mlnbike.com block
 mlog.aipai.com block
+mlog.bigda.com block
 mlog.hiido.com block
 mlog.m1905.cn block
 mlog.search.xiaomi.net block
@@ -14561,6 +14563,7 @@ unified-ter.hismarttv.com block
 uniformer.biz block
 unilog.wostore.cn block
 unimhk.com block
+union-mlog.bigda.com block
 union-wifi.com block
 union.360.cn block
 union.6.cn block

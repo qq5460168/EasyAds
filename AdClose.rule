@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-08-19 04:26:15
-# 规则总数: 16952
+# 更新时间: 2025-08-19 08:29:43
+# 规则总数: 16955
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -7192,6 +7192,7 @@ domain, hlbbn6ii.icu
 domain, hldwmly.com
 domain, hlegsdh.icu
 domain, hlnr9q.icu
+domain, hlog.bigda.com
 domain, hlrcv.stage.adobe.com
 domain, hlryzsqo.icu
 domain, hlw.longlingsc.art
@@ -10234,6 +10235,7 @@ domain, mlb.did.ijinshan.com
 domain, mlgrrqymdsyk.com
 domain, mlnbike.com
 domain, mlog.aipai.com
+domain, mlog.bigda.com
 domain, mlog.hiido.com
 domain, mlog.m1905.cn
 domain, mlog.search.xiaomi.net
@@ -14561,6 +14563,7 @@ domain, unified-ter.hismarttv.com
 domain, uniformer.biz
 domain, unilog.wostore.cn
 domain, unimhk.com
+domain, union-mlog.bigda.com
 domain, union-wifi.com
 domain, union.360.cn
 domain, union.6.cn

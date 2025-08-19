@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-08-19 04:26:13（北京时间）
-# 共 16920 个域名
+# 生成时间: 2025-08-19 08:29:42（北京时间）
+# 共 16923 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -7175,6 +7175,7 @@ hlbbn6ii.icu
 hldwmly.com
 hlegsdh.icu
 hlnr9q.icu
+hlog.bigda.com
 hlrcv.stage.adobe.com
 hlryzsqo.icu
 hlw.longlingsc.art
@@ -10214,6 +10215,7 @@ mlb.did.ijinshan.com
 mlgrrqymdsyk.com
 mlnbike.com
 mlog.aipai.com
+mlog.bigda.com
 mlog.hiido.com
 mlog.m1905.cn
 mlog.search.xiaomi.net
@@ -14532,6 +14534,7 @@ unified-ter.hismarttv.com
 uniformer.biz
 unilog.wostore.cn
 unimhk.com
+union-mlog.bigda.com
 union-wifi.com
 union.360.cn
 union.6.cn

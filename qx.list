@@ -625,6 +625,7 @@ DOMAIN,hc-ssp.sm.cn,reject
 DOMAIN,heads-ak.spotify.com.edgesuite.net,reject
 DOMAIN,heads-fa.spotify.com,reject
 DOMAIN,hexagon-analytics.com,reject
+DOMAIN,hlog.bigda.com,reject
 DOMAIN,hm.baidu.com,reject
 DOMAIN,hmma.baidu.com,reject
 DOMAIN,hotupgrade.hpplay.cn,reject
@@ -752,6 +753,7 @@ DOMAIN,mi.gdt.qq.com,reject
 DOMAIN,micro-xdb.com,reject
 DOMAIN,mini-prog-drm.vodplayvideo.net,reject
 DOMAIN,mission-pub.smart-tv.cn,reject
+DOMAIN,mlog.bigda.com,reject
 DOMAIN,mmgame.qpic.cn,reject
 DOMAIN,mnqlog.ldmnq.com,reject
 DOMAIN,moatads.com,reject
@@ -988,6 +990,7 @@ DOMAIN,ulogs.umengcloud.com,reject
 DOMAIN,umengacs.m.taobao.com,reject
 DOMAIN,umengjmacs.m.taobao.com,reject
 DOMAIN,umini.shujupie.com,reject
+DOMAIN,union-mlog.bigda.com,reject
 DOMAIN,union.baidu.cn,reject
 DOMAIN,union.baidu.com,reject
 DOMAIN,update.avlyun.sec.miui.com,reject

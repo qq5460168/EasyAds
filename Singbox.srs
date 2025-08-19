@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-08-19 04:26:15
-# 规则总数: 16952
+# 更新时间: 2025-08-19 08:29:43
+# 规则总数: 16955
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -7192,6 +7192,7 @@ domain: hlbbn6ii.icu, policy: reject
 domain: hldwmly.com, policy: reject
 domain: hlegsdh.icu, policy: reject
 domain: hlnr9q.icu, policy: reject
+domain: hlog.bigda.com, policy: reject
 domain: hlrcv.stage.adobe.com, policy: reject
 domain: hlryzsqo.icu, policy: reject
 domain: hlw.longlingsc.art, policy: reject
@@ -10234,6 +10235,7 @@ domain: mlb.did.ijinshan.com, policy: reject
 domain: mlgrrqymdsyk.com, policy: reject
 domain: mlnbike.com, policy: reject
 domain: mlog.aipai.com, policy: reject
+domain: mlog.bigda.com, policy: reject
 domain: mlog.hiido.com, policy: reject
 domain: mlog.m1905.cn, policy: reject
 domain: mlog.search.xiaomi.net, policy: reject
@@ -14561,6 +14563,7 @@ domain: unified-ter.hismarttv.com, policy: reject
 domain: uniformer.biz, policy: reject
 domain: unilog.wostore.cn, policy: reject
 domain: unimhk.com, policy: reject
+domain: union-mlog.bigda.com, policy: reject
 domain: union-wifi.com, policy: reject
 domain: union.360.cn, policy: reject
 domain: union.6.cn, policy: reject

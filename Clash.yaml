@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-08-19 04:26:14
-# 规则总数: 16952
+# 更新时间: 2025-08-19 08:29:43
+# 规则总数: 16955
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -7193,6 +7193,7 @@ payload:
   - 'hldwmly.com'
   - 'hlegsdh.icu'
   - 'hlnr9q.icu'
+  - 'hlog.bigda.com'
   - 'hlrcv.stage.adobe.com'
   - 'hlryzsqo.icu'
   - 'hlw.longlingsc.art'
@@ -10235,6 +10236,7 @@ payload:
   - 'mlgrrqymdsyk.com'
   - 'mlnbike.com'
   - 'mlog.aipai.com'
+  - 'mlog.bigda.com'
   - 'mlog.hiido.com'
   - 'mlog.m1905.cn'
   - 'mlog.search.xiaomi.net'
@@ -14562,6 +14564,7 @@ payload:
   - 'uniformer.biz'
   - 'unilog.wostore.cn'
   - 'unimhk.com'
+  - 'union-mlog.bigda.com'
   - 'union-wifi.com'
   - 'union.360.cn'
   - 'union.6.cn'
