@@ -9867,8 +9867,7 @@ DOMAIN,feedsplat.vivo.com.cn,reject
 DOMAIN,ads.sinaimg.cn,reject
 DOMAIN,guanggao-prod.cn-shanghai.log.aliyuncs.com,reject
 DOMAIN,fpvideo.shenshiads.com,reject
-DOMAIN,browserconf.vivo.com.cn,reject
-DOMAIN,browserstatic.vivo.com.cn,reject
+DOMAIN,takuad.com,reject
 DOMAIN,120.26.63.182,reject
 DOMAIN,121.41.7.167,reject
 DOMAIN,123.184.198.22,reject
@@ -10017,6 +10016,8 @@ DOMAIN,xj.gtimg.cn,reject
 DOMAIN,youjingnetwork.com,reject
 DOMAIN,yousuoweiedu.com,reject
 DOMAIN,zhonglianhuashu.com,reject
+DOMAIN,browserconf.vivo.com.cn,reject
+DOMAIN,browserstatic.vivo.com.cn,reject
 DOMAIN,push-ads-cn.heytapmobi.com,reject
 DOMAIN,affiliationjs.s3.amazonaws.com,reject
 DOMAIN,amazonaax.com,reject

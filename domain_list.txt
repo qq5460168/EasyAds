@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-08-21 12:45:08（北京时间）
-# 共 16923 个域名
+# 生成时间: 2025-08-21 16:27:06（北京时间）
+# 共 16924 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -13760,6 +13760,7 @@ taiqingjiu.com
 tajs.qq.com
 tajxgs.com
 takjttz.cn
+takuad.com
 talk.nz.igexin.com
 talkingdata.com
 talkingdata.net

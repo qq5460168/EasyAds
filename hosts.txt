@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-08-21 12:45:09
-# 规则总数: 16955
+# 更新时间: 2025-08-21 16:27:07
+# 规则总数: 16956
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -13789,6 +13789,7 @@
 0.0.0.0 tajs.qq.com
 0.0.0.0 tajxgs.com
 0.0.0.0 takjttz.cn
+0.0.0.0 takuad.com
 0.0.0.0 talk.nz.igexin.com
 0.0.0.0 talkingdata.com
 0.0.0.0 talkingdata.net

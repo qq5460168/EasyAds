@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-08-21 12:45:09
-# 规则总数: 16955
+# 更新时间: 2025-08-21 16:27:08
+# 规则总数: 16956
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -13789,6 +13789,7 @@ domain, taiqingjiu.com
 domain, tajs.qq.com
 domain, tajxgs.com
 domain, takjttz.cn
+domain, takuad.com
 domain, talk.nz.igexin.com
 domain, talkingdata.com
 domain, talkingdata.net

@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-08-21 12:45:09
-# 规则总数: 16955
+# 更新时间: 2025-08-21 16:27:07
+# 规则总数: 16956
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -13789,6 +13789,7 @@ taiqingjiu.com block
 tajs.qq.com block
 tajxgs.com block
 takjttz.cn block
+takuad.com block
 talk.nz.igexin.com block
 talkingdata.com block
 talkingdata.net block

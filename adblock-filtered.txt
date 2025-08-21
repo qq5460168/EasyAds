@@ -9902,8 +9902,7 @@
 ||ads.sinaimg.cn^
 ||guanggao-prod.cn-shanghai.log.aliyuncs.com^
 ||fpvideo.shenshiads.com^
-||browserconf.vivo.com.cn^
-||browserstatic.vivo.com.cn^
+||takuad.com^
 ||120.26.63.182^
 ||121.41.7.167^
 ||123.184.198.22^
@@ -10053,6 +10052,8 @@
 ||youjingnetwork.com^
 ||yousuoweiedu.com^
 ||zhonglianhuashu.com^
+||browserconf.vivo.com.cn^
+||browserstatic.vivo.com.cn^
 ||push-ads-cn.heytapmobi.com^
 ||affiliationjs.s3.amazonaws.com^
 ||amazonaax.com^

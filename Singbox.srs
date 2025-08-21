@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-08-21 12:45:09
-# 规则总数: 16955
+# 更新时间: 2025-08-21 16:27:07
+# 规则总数: 16956
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -13789,6 +13789,7 @@ domain: taiqingjiu.com, policy: reject
 domain: tajs.qq.com, policy: reject
 domain: tajxgs.com, policy: reject
 domain: takjttz.cn, policy: reject
+domain: takuad.com, policy: reject
 domain: talk.nz.igexin.com, policy: reject
 domain: talkingdata.com, policy: reject
 domain: talkingdata.net, policy: reject
