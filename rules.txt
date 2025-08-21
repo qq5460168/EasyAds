@@ -6573,17 +6573,17 @@
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
 140.82.112.18 github.community
+140.82.112.21                 api.individual.githubcopilot.com  # Timeout
+140.82.112.25                 live.github.com  # Timeout
 140.82.112.25 live.github.com
-140.82.113.17                 github.community  # Timeout
-140.82.113.21                 collector.github.com  # Timeout
+140.82.112.26                 alive.github.com
 140.82.113.21 collector.github.com
-140.82.113.22                 api.individual.githubcopilot.com  # Timeout
+140.82.113.22                 central.github.com  # Timeout
+140.82.113.22                 collector.github.com  # Timeout
 140.82.113.22 central.github.com
-140.82.113.25                 alive.github.com  # Timeout
-140.82.113.26                 live.github.com
 140.82.113.26 alive.github.com
-140.82.114.21                 central.github.com  # Timeout
-140.82.114.21                 education.github.com  # Timeout
+140.82.114.17                 github.community
+140.82.114.22                 education.github.com  # Timeout
 140.82.116.3 gist.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
@@ -6603,14 +6603,14 @@
 146.75.48.133 objects.githubusercontent.com
 146.75.48.133 raw.githubusercontent.com
 146.75.48.133 release-assets.githubusercontent.com
-151.101.193.194               github.global.ssl.fastly.net
+151.101.129.194               github.global.ssl.fastly.net
 151.101.76.133 raw.github.com
-16.15.176.16                  github-production-release-asset-2e65be.s3.amazonaws.com  # Timeout
-16.15.177.78                  github-cloud.s3.amazonaws.com  # Timeout
+16.15.178.138                 github-production-repository-file-5c1aeb.s3.amazonaws.com  # Timeout
+16.15.180.188                 github-cloud.s3.amazonaws.com  # Timeout
 16.15.184.231 github-production-user-asset-6210df.s3.amazonaws.com
-16.15.185.169                 github-com.s3.amazonaws.com  # Timeout
-16.15.187.22                  github-production-repository-file-5c1aeb.s3.amazonaws.com  # Timeout
-16.182.68.73                  github-production-user-asset-6210df.s3.amazonaws.com  # Timeout
+16.182.39.193                 github-production-user-asset-6210df.s3.amazonaws.com  # Timeout
+16.182.41.49                  github-production-release-asset-2e65be.s3.amazonaws.com  # Timeout
+16.182.68.73                  github-com.s3.amazonaws.com  # Timeout
 163.com
 163.com##.freeVip
 163.com##.js-open-app
