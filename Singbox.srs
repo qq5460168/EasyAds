@@ -1,5 +1,5 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-08-21 04:26:23
+# 更新时间: 2025-08-21 08:29:23
 # 规则总数: 16955
 
 domain: -normal-lq.zijieapi.com, policy: reject
