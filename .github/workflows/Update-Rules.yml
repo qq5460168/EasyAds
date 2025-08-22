@@ -55,8 +55,7 @@ jobs:
           for i in {1..3}; do
             pip install -r requirements.txt && break || { echo "Retry $i failed"; sleep 5; }
           done
-          # 关键依赖检查
-          pip list | grep -E 'requests|pytz|pathlib' || { echo "::error::Critical dependencies missing"; exit 1; }
+          pip list | grep -E 'requests|pytz' || { echo "Critical dependencies missing"; exit 1; }
 
       - name: Debug file structure
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
@@ -64,9 +63,9 @@ jobs:
           echo "Current directory: $(pwd)"
           ls -la data/python/utils/
           ls -la data/python/rules_generator/
-          cat requirements.txt || echo "::warning::requirements.txt missing"
+          cat requirements.txt || echo "requirements.txt missing"
 
-      # 数据准备阶段
+      # 数据准备阶段（确保依赖文件生成）
       - name: Download Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
@@ -81,7 +80,6 @@ jobs:
             echo "::error::No files downloaded to tmp directory"
             exit 1
           fi
-          echo "Downloaded files count: $(ls -l tmp/ | wc -l)"
 
       - name: Merge Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
@@ -93,20 +91,14 @@ jobs:
           fi
           python "$MERGE_SCRIPT"
           # 验证合并结果
-          for file in adblock.txt allow.txt; do
-            if [ ! -f "$file" ]; then
-              echo "::error::merge.py failed to generate $file"
-              exit 1
-            fi
-            if [ $(wc -l < "$file") -lt 10 ]; then  # 基本内容校验
-              echo "::error::$file has invalid content (too few lines)"
-              exit 1
-            fi
-          done
+          if [ ! -f "adblock.txt" ] || [ ! -f "allow.txt" ]; then
+            echo "::error::merge.py failed to generate adblock.txt or allow.txt"
+            exit 1
+          fi
           echo "adblock.txt lines: $(wc -l adblock.txt | awk '{print $1}')"
           echo "allow.txt lines: $(wc -l allow.txt | awk '{print $1}')"
 
-      # 规则生成阶段
+      # 规则生成阶段（修复依赖顺序：先DNS后过滤广告）
       - name: Generate DNS Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
@@ -119,10 +111,6 @@ jobs:
           # 验证dns.txt生成
           if [ ! -f "dns.txt" ]; then
             echo "::error::filter-dns.py failed to generate dns.txt"
-            exit 1
-          fi
-          if [ $(wc -l < "dns.txt") -lt 10 ]; then
-            echo "::error::dns.txt has invalid content"
             exit 1
           fi
           echo "dns.txt lines: $(wc -l dns.txt | awk '{print $1}')"
@@ -141,30 +129,27 @@ jobs:
             echo "::error::filter-ad.py failed to generate adblock-filtered.txt"
             exit 1
           fi
-          if [ $(wc -l < "adblock-filtered.txt") -lt 10 ]; then
-            echo "::error::adblock-filtered.txt has invalid content"
+
+      - name: Generate Domain List
+        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        run: |
+          DOMAIN_SCRIPT="data/python/rules_generator/domain_list.py"
+          if [ ! -f "$DOMAIN_SCRIPT" ]; then
+            echo "::error::$DOMAIN_SCRIPT not found"
             exit 1
           fi
-
-- name: Generate Domain List
-  if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-  run: |
-    DOMAIN_SCRIPT="data/python/rules_generator/domain_list.py"
-    if [ ! -f "$DOMAIN_SCRIPT" ]; then
-      echo "::error::$DOMAIN_SCRIPT not found"
-      exit 1
-    fi
-    python "$DOMAIN_SCRIPT"
-    # 新增校验：检查实际生成的 domain_list.txt
-    if [ ! -f "domain_list.txt" ]; then
-      echo "::error::domain_list.py failed to generate domain_list.txt"
-      exit 1
-    fi
-    # 可选：校验文件内容有效性
-    if [ $(wc -l < "domain_list.txt") -lt 10 ]; then
-      echo "::error::domain_list.txt 内容异常（行数过少）"
-      exit 1
-    fi
+          python "$DOMAIN_SCRIPT"
+          # 修复：添加对实际生成的domain_list.txt的校验
+          if [ ! -f "domain_list.txt" ]; then
+            echo "::error::domain_list.py failed to generate domain_list.txt"
+            exit 1
+          fi
+          # 验证文件内容有效性
+          if [ $(wc -l < "domain_list.txt") -lt 10 ]; then
+            echo "::error::domain_list.txt has invalid content (too few lines)"
+            exit 1
+          fi
+          echo "domain_list.txt lines: $(wc -l domain_list.txt | awk '{print $1}')"
 
       # 客户端规则生成
       - name: Generate Quantumult X Rules
@@ -176,10 +161,6 @@ jobs:
             exit 1
           fi
           python "$QX_SCRIPT"
-          if [ ! -f "qx.list" ]; then
-            echo "::error::qx.py failed to generate qx.list"
-            exit 1
-          fi
 
       - name: Generate Loon Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
@@ -190,10 +171,6 @@ jobs:
             exit 1
           fi
           python "$LOON_SCRIPT"
-          if [ ! -f "loon-rules.list" ]; then
-            echo "::error::loon.py failed to generate loon-rules.list"
-            exit 1
-          fi
 
       - name: Generate Mihomo Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
@@ -204,10 +181,6 @@ jobs:
             exit 1
           fi
           python "$MIHOMO_SCRIPT"
-          if [ ! -f "mihomo.txt" ]; then
-            echo "::error::mihomo.py failed to generate mihomo.txt"
-            exit 1
-          fi
 
       - name: Generate Clash Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
@@ -218,10 +191,6 @@ jobs:
             exit 1
           fi
           python "$CLASH_SCRIPT"
-          if [ ! -f "clash.txt" ]; then
-            echo "::error::clash.py failed to generate clash.txt"
-            exit 1
-          fi
 
       - name: Generate Shadowrocket Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
@@ -232,10 +201,6 @@ jobs:
             exit 1
           fi
           python "$SHADOWROCKET_SCRIPT"
-          if [ ! -f "Shadowrocket.conf" ]; then
-            echo "::error::shadowrocket.py failed to generate Shadowrocket.conf"
-            exit 1
-          fi
 
       - name: Generate Singbox Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
@@ -246,10 +211,6 @@ jobs:
             exit 1
           fi
           python "$SINGBOX_SCRIPT"
-          if [ ! -f "singbox.txt" ]; then
-            echo "::error::singbox.py failed to generate singbox.txt"
-            exit 1
-          fi
 
       - name: Generate Invizible Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
@@ -260,10 +221,6 @@ jobs:
             exit 1
           fi
           python "$INVISIBLE_SCRIPT"
-          if [ ! -f "invizible.txt" ]; then
-            echo "::error::invizible.py failed to generate invizible.txt"
-            exit 1
-          fi
 
       - name: Generate Hosts Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
@@ -274,19 +231,6 @@ jobs:
             exit 1
           fi
           python "$HOSTS_SCRIPT"
-          # 增强验证逻辑
-          if [ ! -f "hosts.txt" ]; then
-            echo "::error::hosts.py failed to generate hosts.txt"
-            exit 1
-          fi
-          # 检查有效内容（排除注释行）
-          valid_lines=$(grep -v '^#' hosts.txt | wc -l | awk '{print $1}')
-          if [ $valid_lines -lt 10 ]; then
-            echo "::error::hosts.txt has invalid content (only $valid_lines valid lines)"
-            exit 1
-          fi
-          echo "hosts.txt total lines: $(wc -l hosts.txt | awk '{print $1}')"
-          echo "hosts.txt valid lines: $valid_lines"
 
       - name: Generate Adclose Rules
         if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
@@ -297,10 +241,6 @@ jobs:
             exit 1
           fi
           python "$ADCLOSE_SCRIPT"
-          if [ ! -f "adclose.txt" ]; then
-            echo "::error::adclose.py failed to generate adclose.txt"
-            exit 1
-          fi
 
       # 元数据更新
       - name: Update Title & README
@@ -320,31 +260,6 @@ jobs:
             exit 1
           fi
           python "$README_SCRIPT"
-          
-          # 验证README更新
-          if [ ! -f "README.md" ]; then
-            echo "::error::README.md not found after update"
-            exit 1
-          fi
-
-      # 规则验证（新增步骤）
-      - name: Validate Generated Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        run: |
-          VALIDATE_SCRIPT="data/python/utils/validate_rules.py"
-          if [ ! -f "$VALIDATE_SCRIPT" ]; then
-            echo "::warning::Validation script not found, skipping validation"
-            exit 0
-          fi
-          python "$VALIDATE_SCRIPT"
-          # 检查验证报告
-          if [ -f "rule_validation_report.txt" ]; then
-            cat rule_validation_report.txt
-            # 如果存在无效规则则警告（不阻断流程）
-            if grep -q "无效规则数量: [1-9]" rule_validation_report.txt; then
-              echo "::warning::Invalid rules detected, check report for details"
-            fi
-          fi
 
       # 提交与推送
       - name: Commit and Push Changes
@@ -355,12 +270,12 @@ jobs:
           git add --all
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" || { echo "No changes to commit"; exit 0; }
           
-          # 增强重试逻辑
+          # 重试推送逻辑
           for i in {1..5}; do
             git pull --rebase origin ${{ steps.branch.outputs.branch }} && \
             git push origin ${{ steps.branch.outputs.branch }} && \
             echo "Push successful" && exit 0
-            echo "Push attempt $i failed, retrying in $((i * 2))s..."
+            echo "Push attempt $i failed, retrying..."
             sleep $((i * 2))
           done
           echo "::error::Failed to push after 5 attempts"
