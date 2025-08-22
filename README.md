@@ -45,13 +45,13 @@
 | AdGuard通用白名单       | 允许误拦截的正常域名           | [white.txt](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/allow.txt)     |
 | DNS 规则         | AdGuard Home/支持 DNS 的工具   | [dnslist.txt](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/dns.txt)   |
 | Hosts 规则       | 系统 Hosts 文件专用            | [hosts.txt](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/hosts.txt)       |
-| Clash 规则       | Clash Premium 配置             | [Clash.yaml](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/clash.yaml) |
-| Clash Meta 规则  | Clash Meta/Mihomo 配置         | [clash_meta.yaml](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/clash_meta.yaml) |
+| Clash 规则       | Clash Premium 配置             | [Clash.yaml](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Clash.yaml) |
+| Clash Meta 规则  | Clash Meta/Mihomo 配置         | [adb.mrs](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/adb.mrs) |
 | Quantumult X     | Quantumult X 配置              | [qx.list](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/qx.list)           |
-| SingBox          | SingBox 配置                   | [singbox.srs](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/singbox.srs)   |
-| Shadowrocket     | Shadowrocket 配置              | [Shadowrocket.list](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Shadowrocket.list) |
+| SingBox          | SingBox 配置                   | [singbox.srs](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Singbox.srs)   |
+| Shadowrocket     | Shadowrocket 配置              | [Shadowrocket.list](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Shadowrocket.conf) |
 | Invizible Pro    | Invizible Pro 配置             | [invizible.txt](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/invizible.txt) |
-| AdClose          | AdClose 配置                   | [AdClose.txt](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/AdClose.txt)   |
+| AdClose          | AdClose 配置                   | [AdClose.txt](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/AdClose.rule)   |
 
 
 ## 规则列表（含加速与备用下载）
