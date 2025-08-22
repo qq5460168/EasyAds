@@ -1,0 +1,3 @@
+# requirements.txt
+pytz>=2023.3  # loon.py和title.py需要的时区处理库
+requests>=2.31.0  # 用于网络请求（dl.py需要）
