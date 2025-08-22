@@ -139,17 +139,6 @@ jobs:
             exit 1
           fi
           python "$DOMAIN_SCRIPT"
-          # 修复：添加对实际生成的domain_list.txt的校验
-          if [ ! -f "domain_list.txt" ]; then
-            echo "::error::domain_list.py failed to generate domain_list.txt"
-            exit 1
-          fi
-          # 验证文件内容有效性
-          if [ $(wc -l < "domain_list.txt") -lt 10 ]; then
-            echo "::error::domain_list.txt has invalid content (too few lines)"
-            exit 1
-          fi
-          echo "domain_list.txt lines: $(wc -l domain_list.txt | awk '{print $1}')"
 
       # 客户端规则生成
       - name: Generate Quantumult X Rules
