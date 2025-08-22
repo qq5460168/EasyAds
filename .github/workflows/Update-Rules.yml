@@ -146,24 +146,25 @@ jobs:
             exit 1
           fi
 
-      - name: Generate Domain List
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        run: |
-          DOMAIN_SCRIPT="data/python/rules_generator/domain_list.py"
-          if [ ! -f "$DOMAIN_SCRIPT" ]; then
-            echo "::error::$DOMAIN_SCRIPT not found"
-            exit 1
-          fi
-          python "$DOMAIN_SCRIPT"
-          # 新增验证
-          if [ ! -f "domain.txt" ]; then
-            echo "::error::domain_list.py failed to generate domain.txt"
-            exit 1
-          fi
-          if [ $(wc -l < "domain.txt") -lt 10 ]; then
-            echo "::error::domain.txt has invalid content"
-            exit 1
-          fi
+- name: Generate Domain List
+  if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+  run: |
+    DOMAIN_SCRIPT="data/python/rules_generator/domain_list.py"
+    if [ ! -f "$DOMAIN_SCRIPT" ]; then
+      echo "::error::$DOMAIN_SCRIPT not found"
+      exit 1
+    fi
+    python "$DOMAIN_SCRIPT"
+    # 新增校验：检查实际生成的 domain_list.txt
+    if [ ! -f "domain_list.txt" ]; then
+      echo "::error::domain_list.py failed to generate domain_list.txt"
+      exit 1
+    fi
+    # 可选：校验文件内容有效性
+    if [ $(wc -l < "domain_list.txt") -lt 10 ]; then
+      echo "::error::domain_list.txt 内容异常（行数过少）"
+      exit 1
+    fi
 
       # 客户端规则生成
       - name: Generate Quantumult X Rules
