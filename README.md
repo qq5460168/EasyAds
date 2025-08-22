@@ -73,13 +73,12 @@
   - [Hosts（国内加速）](https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/hosts.txt)
 - 专用客户端规则  
   - [Quantumult X（qx.list）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/qx.list)
-  - [Shadowrocket（Shadowrocket.list）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Shadowrocket.list)
-  - [AdClose（AdClose.txt）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/AdClose.txt)
-  - [Singbox SRS（singbox.srs）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/singbox.srs)
-  - [Singbox JSON（Singbox.json）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Singbox.json)
+  - [Shadowrocket（Shadowrocket.list）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Shadowrocket.conf)
+  - [AdClose（AdClose.txt）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/AdClose.rule)
+  - [Singbox SRS（singbox.srs）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Singbox.srs)
   - [Invizible Pro（invizible.txt）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/invizible.txt)
-  - [Clash（clash.yaml）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/clash.yaml)
-  - [Clash Meta（clash_meta.yaml）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/clash_meta.yaml)
+  - [Clash（clash.yaml）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Clash.yaml)
+  - [Clash Meta（adb.mrs）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/adb.mrs)
 
 </details>
 </details>
