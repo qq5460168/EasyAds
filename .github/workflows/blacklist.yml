@@ -33,13 +33,15 @@ jobs:
           mkdir -p $SMARTDNS_PATH
           wget $SMARTDNS_URL -O $SMARTDNS_PATH/smartdns
           chmod +x $SMARTDNS_PATH/smartdns
-          cp smartdns.conf $SMARTDNS_PATH/smartdns.conf
+          # 修正：使用正确的smartdns.conf路径
+          cp data/python/utils/smartdns.conf $SMARTDNS_PATH/smartdns.conf
           nohup $SMARTDNS_PATH/smartdns -f -x -c $SMARTDNS_PATH/smartdns.conf > /dev/null 2>&1 &
 
       - name: Generate Blacklist
         id: update
         run: |
-          python blacklist.py
+          # 修正：使用正确的blacklist.py路径
+          python data/python/utils/blacklist.py
           rm -rf __pycache__
           echo "message=$(date)" >> $GITHUB_OUTPUT
 
