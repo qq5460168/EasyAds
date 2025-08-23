@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-08-23 04:14:51
-# 规则总数: 16956
+# 更新时间: 2025-08-23 08:15:08
+# 规则总数: 16957
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -2469,6 +2469,7 @@
 0.0.0.0 aoyou4.top
 0.0.0.0 aoyou5.top
 0.0.0.0 ap.91adv.com.cn
+0.0.0.0 ap.dongdianqiu.com
 0.0.0.0 ap.dongqiudi.com
 0.0.0.0 aparvibices.com
 0.0.0.0 apas.aipai.com

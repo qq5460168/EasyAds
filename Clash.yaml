@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-08-23 04:14:51
-# 规则总数: 16956
+# 更新时间: 2025-08-23 08:15:07
+# 规则总数: 16957
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -2470,6 +2470,7 @@ payload:
   - 'aoyou4.top'
   - 'aoyou5.top'
   - 'ap.91adv.com.cn'
+  - 'ap.dongdianqiu.com'
   - 'ap.dongqiudi.com'
   - 'aparvibices.com'
   - 'apas.aipai.com'

@@ -441,6 +441,7 @@ DOMAIN,analyticsengine.s3.amazonaws.com,reject
 DOMAIN,analyze.lemurbrowser.com,reject
 DOMAIN,android.bugly.qq.com,reject
 DOMAIN,andrqd.play.aiseet.atianqi.com,reject
+DOMAIN,ap.dongdianqiu.com,reject
 DOMAIN,ap.dongqiudi.com,reject
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,reject
 DOMAIN,apd-pcdnwxnat.teg.tencent-cloud.net,reject

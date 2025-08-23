@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-08-23 04:14:51
-# 规则总数: 16956
+# 更新时间: 2025-08-23 08:15:08
+# 规则总数: 16957
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -2469,6 +2469,7 @@ domain, aoyou3.top
 domain, aoyou4.top
 domain, aoyou5.top
 domain, ap.91adv.com.cn
+domain, ap.dongdianqiu.com
 domain, ap.dongqiudi.com
 domain, aparvibices.com
 domain, apas.aipai.com
