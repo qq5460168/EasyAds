@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-08-23 16:13:11.740753
+# Generated on 2025-08-23 20:12:42.294003
 
 ||dl.reg.163.com^
 ||tpc.googlesyndication.com^
