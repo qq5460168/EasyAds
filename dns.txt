@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-08-29 08:16:33.986618
+# Generated on 2025-08-29 12:24:28.041960
 
 ||dragonparking.com^
 ||sadbh-kye.com^
