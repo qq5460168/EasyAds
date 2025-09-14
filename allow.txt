@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-09-14 09:01:17
+! 规则更新时间: 2025-09-14 12:14:25
 ! 有效规则数量: 3354 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
@@ -1284,7 +1284,7 @@
 @@||sobot.com^
 @@||wan.douyu.com^
 @@||developer.apple.com$generichide
-@@||free-aos-cdn-image.amap.com^$important
+@@||free-aos-cdn-image.amap.com^
 @@||anythinktech.com^
 @@||h35.ynodd.cn^$
 @@||api.crashguard.me^
