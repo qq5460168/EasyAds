@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-09-16 12:30:54
-# 规则总数: 16957
+# 更新时间: 2025-09-16 16:16:01
+# 规则总数: 16905
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -303,12 +303,10 @@
 203710.com block
 2052.flash2-http.qq.com block
 208622.top block
-213fjdd.com block
 2144.cn block
 21511.ua96.com block
 21qma3vs.com block
 21union.com block
-21uywiew.com block
 22.qingsongbar.com block
 2217.zox3ue.com block
 2217ccs.cdocker402.com block
@@ -504,7 +502,6 @@
 47.57.3.161 block
 495qp188.com block
 49789c.com block
-49lq.mm51-t0403.cc block
 49lq.mm51-tvhn1767.vip block
 49wanwan.com block
 4a9.cn block
@@ -587,7 +584,6 @@
 559gp.com block
 55lu.com block
 55zzz.cn block
-561.5613828.cc block
 5634.com block
 565aitiyu.com block
 5675146.com block
@@ -605,7 +601,6 @@
 58mingri.cn block
 58mingtian.cn block
 592man.com block
-596.5963135.cc block
 59gt.cn block
 5afc8f3239.com block
 5dg.me block
@@ -664,7 +659,6 @@
 68665565.com block
 68710266.com block
 688mob.com block
-698444.lol block
 69852b1734.com block
 69duk.com block
 69e7.fun block
@@ -802,7 +796,6 @@
 849558.com block
 84zm8.xyz block
 85058s.com block
-8516.fun block
 8521448.com block
 85655095.com block
 85795.today block
@@ -2901,7 +2894,6 @@ asoursuls.com block
 aspect-upush.umeng.com block
 aspwg.cn block
 asr-server.soulapp.cn block
-assd.hkewhqoao.cn block
 assets.210189.com block
 assets.2343sdxs.com block
 assets.258pcf.com block
@@ -3360,7 +3352,6 @@ bianxianmao.com block
 bid-adx.vlion.cn block
 biddingos.com block
 biddingx.com block
-bidotz.icu block
 bidtoolads.com block
 bidvertiser.com block
 bieqpf.cn block
@@ -3423,7 +3414,6 @@ bl.wavecdn.de block
 bl100.tcahto.cn block
 bla.gtimg.com block
 blaaaa12.googlecode.com block
-black.qimo.ink block
 blackhole.m.jd.com block
 blastcahs.com block
 blb.winasdaq.com block
@@ -3849,7 +3839,6 @@ cbh365.club block
 cbjs.baidu.com block
 cbjslog.baidu.com block
 cbs.wondershare.com block
-cbu01.alicdn.com block
 cc-316.cc block
 cc-algo-cn.heytapimage.com block
 cc-api-data.adobe.io block
@@ -4592,7 +4581,6 @@ ctrmi.cn block
 ctrmi.com block
 ctsau.xyz block
 ctsywy.com block
-ctyfmc.icu block
 cudaojia.com block
 cuioxbqi.com block
 cupid.iqiyi.com block
@@ -6330,7 +6318,6 @@ freedrive.cn block
 freexxxvideoclip.aebn.net block
 freshmarketer.com block
 freychang.fun block
-fri28.so03281koaq.com block
 friendshipmale.com block
 frontend-perf-service.e.kuaishou.com block
 frontier-toutiao.snssdk.com block
@@ -6593,7 +6580,6 @@ getnormalizedurl.com block
 getui.cn block
 getui.com block
 getui.net block
-geuvus.icu block
 gewuwen.com block
 geziyd.com block
 gf108.com block
@@ -7183,7 +7169,6 @@ hkkeafj.cn block
 hkrpg-log-upload-os.hoyoverse.com block
 hkrpg-log-upload.mihoyo.com block
 hkscldggm.xyz block
-hkw27.icu block
 hl.kuzu.com block
 hl.quw18.com block
 hl2rcv.adobe.com block
@@ -8014,7 +7999,6 @@ iwan.baidu.com block
 iwan.sogou.com block
 iwanad.baidu.com block
 iweiweb.com block
-iwuaym.icu block
 ixav-cse.avlyun.com block
 ixbua.xyz block
 ixelrsd.cn block
@@ -8061,7 +8045,6 @@ j17.xiumu.cn block
 j1u9nlr3k.cc block
 j3.jtezxmpb.xyz block
 j520s.gzcl999.cn block
-j6u8vwfmbj-1311321840.cos-website.ap-nanjing.myqcloud.com block
 j6xz0.com block
 j6zh4g0.cn block
 j7182.hfxcsl.cn block
@@ -8290,7 +8273,6 @@ jnyngg.cn block
 joannarace.com block
 jocelynrace.com block
 jochenanabata.guru block
-jock.cdn.bcebos.com block
 johtzj.com block
 joinchitchat.com block
 jointreport-switch.com block
@@ -8530,7 +8512,6 @@ jusha.com block
 just-machinery.com block
 jutou5.com block
 jutwzssh.icu block
-juuoe.lrmzx.com block
 juzi.cn block
 juzilm.com block
 jv0rlf.com block
@@ -8714,7 +8695,6 @@ kkj.kjkj.site block
 kkjshsj.com block
 kklpe.xyz block
 kklq05121p0i.com block
-kklq05151p0i.com block
 kkmbbvz.xyz block
 kkpgv.kankan.com block
 kkpgv2.kankan.com block
@@ -9118,7 +9098,6 @@ lishuanghao.com block
 listenother.com block
 listlog.baofeng.net block
 litchiads.com block
-lite.a.market.xiaomi.com block
 littlecdn.com block
 liugaohao.com block
 liuliguo.com block
@@ -9379,7 +9358,6 @@ ls.webmd.com block
 lsancil.top block
 lshuaibin.cn block
 lsj2.5aer.com block
-lsjarh.top block
 lskmipb.icu block
 lslbahl.top block
 lstat.youku.com block
@@ -9862,7 +9840,6 @@ m3hual.89doc.com block
 m4pgay.com block
 m5.apk.67mo.com block
 m5asa4.xianxin.cc block
-m69e.cyou block
 m7.bnpkxgfp.xyz block
 m7g2v1b9.com block
 m9.xcdf.cn block
@@ -10298,7 +10275,6 @@ mobgi.com block
 mobile-pubt.ele.me block
 mobile-service.segment.com block
 mobile.da.mgtv.com block
-mobile.yangkeduo.com block
 mobile2.da.mgtv.com block
 mobilead.kuwo.cn block
 mobileads.google.com block
@@ -10458,7 +10434,6 @@ mstat.zol.com.cn block
 mstzym.com block
 mswd00602.xz.ajshs.cn block
 msxf.com block
-msync-im1-vip6-std.easemob.com block
 msypr.com block
 mt131840.aishanglight.com block
 mt307.xyz block
@@ -10869,7 +10844,6 @@ o.if.qidian.com block
 o.minisplat.cn block
 o.zjjrlx4.com block
 o091i.com block
-o1098464.ingest.sentry.io block
 o2.jyjyj.cn block
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com block
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com block
@@ -10918,7 +10892,6 @@ odc.starwave.com block
 odin.goo.mx block
 oehhq.xyz block
 oewtuho.cn block
-of1j087.top block
 offerwall.yandex.net block
 officeme.cn block
 officesoftcn.com block
@@ -10956,8 +10929,6 @@ ojen23sdg.cc block
 ojngisbfwwyp.com block
 ok-11-cai.cc block
 ok.432kkk.com block
-ok.5378397.cc block
-ok.6078158.cc block
 ok.8358137.cc block
 ok.8358211.cc block
 ok365.com block
@@ -10986,7 +10957,6 @@ omgmta.play.ott.video.qq.com block
 omgmta.qq.com block
 omgmta1.qq.com block
 omhoa.com block
-ommbqw.icu block
 omnikool.discovery.com block
 omsdkapi.tapque.com block
 omtrdc.net block
@@ -11022,7 +10992,6 @@ ooss.oss.aliyuncs.com block
 ootyx24.com block
 op.ssp.qq.com block
 op00w.baiyangzs.com block
-op53t.nbganghui.com block
 ope.tanx.com block
 opehs.tanx.com block
 open-client.douyin.com block
@@ -11352,7 +11321,6 @@ pb.wang502.com block
 pb3.pstatp.com block
 pbaiyho.cn block
 pbd.sogou.com block
-pbdhsolmxw1.com block
 pbs.lenovomm.com block
 pbtsjh.xyz block
 pc.107788.com block
@@ -12829,7 +12797,6 @@ sdk.push.mob.com block
 sdk.renrenjihua.com block
 sdk.sipujia.cn block
 sdk.verification.jiguang.cn block
-sdk2xr232.top block
 sdkapp.mobile.sina.cn block
 sdkapp.uve.weibo.com block
 sdkauth.hpplay.cn block
@@ -12977,7 +12944,6 @@ sf6-fe-pack.pglstatp-toutiao.com block
 sf6-ttcdn-tos.pstatp.com block
 sfbixfd.cn block
 sfg11rr.com block
-sfh35.icu block
 sfl-fe-tos.pglstatp-toutiao.com block
 sfloushi.com block
 sfn.opposhop.cn block
@@ -13483,7 +13449,6 @@ static.ptoahaistais.com block
 static.ptqy.gitv.tv block
 static.qblv.qq.com block
 static.squirrelgs.info block
-static.trafficjunky.com block
 static.yxh1.cn block
 static.zhihu.com block
 static1.kewaishu.info block
@@ -14496,7 +14461,6 @@ uifyeldt.top block
 uimg.27admin.com block
 uimserv.net block
 uioozpxq.com block
-uiruyhgdlq9.com block
 uiteligularly.fun block
 ujgf120.com block
 ujian.cc block
@@ -14953,7 +14917,6 @@ video-dsp.pddpic.com block
 video.cooguo.com block
 video.dispatch.tc.qq.com block
 video.market.xiaomi.com block
-video.mnaspm.com block
 video.mpush.qq.com block
 video.new-eve.com block
 video.ureport.push.qq.com block
@@ -15009,7 +14972,6 @@ vlgkotr.cn block
 vlion.cn block
 vlive.qqvideo.tc.qq.com block
 vlujojf.icu block
-vm0c.tbl1444klf.cc block
 vmat.gtimg.com block
 vmbzhfh.cn block
 vmdlxj.xyz block
@@ -15245,7 +15207,6 @@ web.houyi.baofeng.net block
 web.kuaisouwifi.com block
 web.sogou.com block
 web.xurongwl.com block
-web3.0.page.live18.club block
 webcast-open.douyin.com block
 webcast.amemv.com block
 webcast5-open-hl.douyin.com block
@@ -15397,7 +15358,6 @@ wn.x.jd.com block
 wn68din.cn block
 wn80drk.shop block
 wns.notify.windows.com.akadns.net block
-wnymfqnrzp6.com block
 wnzle.com block
 wo.iuni.com.cn block
 wo1990.com block
@@ -15484,7 +15444,6 @@ wu65.com block
 wubizigeng.com block
 wudang05.com block
 wuji.video.qq.com block
-wuk.91c0218.top block
 wuliao.epro.sogou.com block
 wuliao.ganji.cn block
 wuliao.jingyanben.com block
@@ -15500,7 +15459,6 @@ wv.inner-active.mobi block
 wvcwop.zbbznk.xyz block
 wvyqks.xyz block
 ww-7o1-0h.os.23v7m9.cc block
-ww.wcav495.vip block
 ww.xiaopiaoyou.com block
 ww10.onetad.com block
 ww101.onetad.com block
@@ -15529,8 +15487,6 @@ wwv.onetad.com block
 www-777563.com block
 www.002st.top block
 www.128tl.com block
-www.150amqtkk.top block
-www.150ixesut.top block
 www.155tl.com block
 www.16m.cc block
 www.17c122.com block
@@ -15568,7 +15524,6 @@ www.ad5lm.net block
 www.adsage.cn block
 www.adsmogo.com block
 www.afmykaa.com block
-www.aitongji.vip block
 www.anbdd19.xyz block
 www.antailianmeng.com block
 www.avple.video block
@@ -15628,7 +15583,6 @@ www.hlgglm.com block
 www.hovcu4.top block
 www.hxkyuwr1040.vip block
 www.ibgdd67.top block
-www.ikesepsckslp.cn block
 www.ilaohuyou.xyz block
 www.inb967.com block
 www.instv729.com block
@@ -15644,9 +15598,7 @@ www.jmine.cn block
 www.jtlopk.xyz block
 www.k5iwup.xyz block
 www.kanglingjiu.com block
-www.kca8531.cc block
 www.kcc4445.top block
-www.kdu4127.cc block
 www.kowqd3.top block
 www.kowqd9.top block
 www.kp12a.top block
@@ -15683,7 +15635,6 @@ www.q4ee.top block
 www.qchannel01.cn block
 www.qd3bcdn1130.top block
 www.qhj0u.com block
-www.qhmxwux.com block
 www.qinlinghe.com block
 www.qkixi.com block
 www.qlspx.com block
@@ -15732,7 +15683,6 @@ www.xaqsl.com block
 www.xbfxs6.com block
 www.xbzb8.cc block
 www.xfzb2.cc block
-www.xhslg84.vip block
 www.xhsrt47.vip block
 www.xhsrt588.vip block
 www.xhsrt594.vip block
@@ -16086,7 +16036,6 @@ xn--xhq9mt12cf5v.xn--io0a7i block
 xn--zw0autp42d.cn block
 xne1ocient87zxz.360doc.cn block
 xnjpg.com block
-xnp92aeh02.knlwy.cn block
 xnzetb.xyz block
 xnzxeu.com block
 xokcaxw.cn block
@@ -16147,7 +16096,6 @@ xtjpdfr.cn block
 xtnwxhjv.xyz block
 xtpwfb.xyz block
 xtruh.uranus.sogou.com block
-xttiu105.pjpxke.cn block
 xtu224.com block
 xtwjx.cn block
 xtxa.net block
