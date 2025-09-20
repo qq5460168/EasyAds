@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-09-20 20:22:12
-! 有效规则数量: 26291 条
+! 规则更新时间: 2025-09-21 00:13:29
+! 有效规则数量: 26279 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -11927,21 +11927,10 @@
 74.125.200.188 alt8-mtalk.google.com
 0.0.0.0 android-imgs.25pp.com
 0.0.0.0 api.douban.com
-20.27.177.116 api.github.com
 23.49.100.232 api.pinterest.com
 0.0.0.0 b.bdstatic.com
 0.0.0.0 cdn.yyb.gtimg.com
 0.0.0.0 download1.vzuu.com
-140.82.116.3 gist.github.com
-52.216.56.97 github-cloud.s3.amazonaws.com
-3.5.28.146 github-com.s3.amazonaws.com
-52.217.44.156 github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.54.209 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.184.231 github-production-user-asset-6210df.s3.amazonaws.com
-20.27.177.113 github.com
-185.199.110.154 github.githubassets.com
-146.75.121.194 github.global.ssl.fastly.net
-185.199.110.133 github.map.fastly.net
 0.0.0.0 httpdns.ocloud.heytapmobi.com
 0.0.0.0 httpdns.push.heytapmobi.com
 23.49.100.232 i.pinimg.com
@@ -11949,13 +11938,10 @@
 0.0.0.0 map-mobile-opnimg.cdn.bcebos.com
 0.0.0.0 mb.readke.com
 0.0.0.0 mbdp02.bdstatic.com
-185.199.110.133 media.githubusercontent.com
 64.233.188.188 mtalk.google.com
 185.199.110.133 objects.githubusercontent.com
 0.0.0.0 pic.fastapi.net
 23.49.100.232 pinterest.com
-185.199.110.133 raw.github.com
-185.199.110.133 raw.githubusercontent.com
 192.0.80.242 s.gravatar.com
 192.0.80.242 secure.gravatar.com
 184.85.65.125 steamcommunity.com
@@ -12736,7 +12722,7 @@
 ||auai2951.xn--oor702fa592u.com^$important
 ||2708tc.cw060d.com^$important
 ||002d91b34425d7227wt.1yvcx5.com^$important
-140.82.112.26                 alive.github.com
+140.82.114.25                 alive.github.com
 20.205.243.168                api.github.com
 140.82.114.21                 api.individual.githubcopilot.com
 185.199.108.133               avatars.githubusercontent.com
@@ -12747,34 +12733,34 @@
 185.199.108.133               avatars4.githubusercontent.com
 185.199.108.133               avatars5.githubusercontent.com
 185.199.108.133               camo.githubusercontent.com
-140.82.112.21                 central.github.com
+140.82.112.22                 central.github.com
 185.199.108.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.113.21                 collector.github.com
+140.82.113.22                 collector.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com
-52.217.100.244                github-cloud.s3.amazonaws.com
-52.216.32.137                 github-com.s3.amazonaws.com
-52.217.234.97                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.32.65                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.179.106                 github-production-user-asset-6210df.s3.amazonaws.com
+3.5.27.34                     github-cloud.s3.amazonaws.com
+52.216.76.236                 github-com.s3.amazonaws.com
+16.15.186.31                  github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.170.97                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.58.73                  github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.113.18                 github.community
+140.82.114.18                 github.community
 185.199.110.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
 185.199.110.153               github.io
 185.199.108.133               github.map.fastly.net
 185.199.110.153               githubstatus.com
-140.82.112.25                 live.github.com
+140.82.113.25                 live.github.com
 185.199.108.133               media.githubusercontent.com
 185.199.108.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 13.107.246.73                 vscode.dev  # Timeout
-140.82.112.21                 education.github.com
+140.82.112.22                 education.github.com
 185.199.108.133               private-user-images.githubusercontent.com
 ||az2-upload-js.gifshow.com^
 ||az4-upload.ksapisrv.com^
@@ -13545,6 +13531,7 @@
 ||ld.yhyunjin.com^
 ||yhyunjin.com^
 ||zd.fzmf.cn^
+||vip.7j0.cn^
 ||szaction.cc^
 ||xc.zhongguohao123.com^
 ||jtu24k.aoqinglv.cn^
@@ -24891,6 +24878,7 @@
 @@||h5.360buyimg.com^
 @@||jvod.300hu.com^
 @@||st.jingxi.com^
+@@||p0.pipi.cn^
 @@||wmapi-mt.meituan.com^
 @@||www.meituan.com^
 @@||s3plus.meituan.net^

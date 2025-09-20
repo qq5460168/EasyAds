@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-09-20 12:22:10.870305
+# Generated on 2025-09-20 16:13:27.355436
 
 ||dragonparking.com^
 ||sadbh-kye.com^
@@ -6956,6 +6956,7 @@
 ||ld.yhyunjin.com^
 ||yhyunjin.com^
 ||zd.fzmf.cn^
+||vip.7j0.cn^
 ||szaction.cc^
 ||xc.zhongguohao123.com^
 ||jtu24k.aoqinglv.cn^

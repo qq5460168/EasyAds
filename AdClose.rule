@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-09-20 12:22:12
-# 规则总数: 16905
+# 更新时间: 2025-09-20 16:13:29
+# 规则总数: 16906
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -14936,6 +14936,7 @@ domain, viglink.com
 domain, vihppjk.cn
 domain, vijnhyru.xyz
 domain, vimg.dwstatic.com
+domain, vip.7j0.cn
 domain, vip.cainiaofx.com
 domain, vip.ffzy-online3.com
 domain, vip.hyz86.com

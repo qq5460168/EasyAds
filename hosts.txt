@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-09-20 12:22:12
-# 规则总数: 16905
+# 更新时间: 2025-09-20 16:13:29
+# 规则总数: 16906
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -14936,6 +14936,7 @@
 0.0.0.0 vihppjk.cn
 0.0.0.0 vijnhyru.xyz
 0.0.0.0 vimg.dwstatic.com
+0.0.0.0 vip.7j0.cn
 0.0.0.0 vip.cainiaofx.com
 0.0.0.0 vip.ffzy-online3.com
 0.0.0.0 vip.hyz86.com
