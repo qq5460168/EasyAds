@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-09-20 16:13:29
-# 规则总数: 16906
+# 更新时间: 2025-09-20 20:11:47
+# 规则总数: 16905
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -2621,7 +2621,6 @@ domain, api.similarweb.com
 domain, api.sm.cn
 domain, api.ssp.xcultur.com
 domain, api.statsig.com
-domain, api.tencentmusic.com
 domain, api.th.wanzjhb.com
 domain, api.touch-mobile.baidu.com
 domain, api.touch-moblie.com

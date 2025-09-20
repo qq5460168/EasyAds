@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2025-09-21 00:13:27
-# 规则统计: 总计16879条 (IP:34 DOMAIN:0 SUFFIX:16845 KEYWORD:0)
+# 更新时间(北京时间): 2025-09-21 04:11:45
+# 规则统计: 总计16878条 (IP:34 DOMAIN:0 SUFFIX:16844 KEYWORD:0)
 
 # IP规则
 IP-CIDR,10.130.208.223,REJECT,no-resolve
@@ -2619,7 +2619,6 @@ DOMAIN-SUFFIX,api.similarweb.com,REJECT
 DOMAIN-SUFFIX,api.sm.cn,REJECT
 DOMAIN-SUFFIX,api.ssp.xcultur.com,REJECT
 DOMAIN-SUFFIX,api.statsig.com,REJECT
-DOMAIN-SUFFIX,api.tencentmusic.com,REJECT
 DOMAIN-SUFFIX,api.th.wanzjhb.com,REJECT
 DOMAIN-SUFFIX,api.touch-mobile.baidu.com,REJECT
 DOMAIN-SUFFIX,api.touch-moblie.com,REJECT

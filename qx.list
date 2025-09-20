@@ -6471,7 +6471,6 @@ DOMAIN,dns.qq.com,reject
 DOMAIN,vv6.video.qq.com,reject
 DOMAIN,xscdn.gdt.qq.com,reject
 DOMAIN,api.playlet.qq.com,reject
-DOMAIN,api.tencentmusic.com,reject
 DOMAIN,playlet.qq.com,reject
 DOMAIN,tmeadkg.y.qq.com,reject
 DOMAIN,monitor.kg.qq.com,reject

@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-09-20 16:13:29
-# 规则总数: 16906
+# 更新时间: 2025-09-20 20:11:47
+# 规则总数: 16905
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -2621,7 +2621,6 @@
 0.0.0.0 api.sm.cn
 0.0.0.0 api.ssp.xcultur.com
 0.0.0.0 api.statsig.com
-0.0.0.0 api.tencentmusic.com
 0.0.0.0 api.th.wanzjhb.com
 0.0.0.0 api.touch-mobile.baidu.com
 0.0.0.0 api.touch-moblie.com

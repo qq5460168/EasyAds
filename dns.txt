@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-09-20 16:13:27.355436
+# Generated on 2025-09-20 20:11:45.379970
 
 ||dragonparking.com^
 ||sadbh-kye.com^
@@ -6504,7 +6504,6 @@
 ||vv6.video.qq.com^
 ||xscdn.gdt.qq.com^
 ||api.playlet.qq.com^
-||api.tencentmusic.com^
 ||playlet.qq.com^
 ||tmeadkg.y.qq.com^
 ||monitor.kg.qq.com^

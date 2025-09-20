@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-09-20 16:13:29
-# 规则总数: 16906
+# 更新时间: 2025-09-20 20:11:47
+# 规则总数: 16905
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -2621,7 +2621,6 @@ api.similarweb.com block
 api.sm.cn block
 api.ssp.xcultur.com block
 api.statsig.com block
-api.tencentmusic.com block
 api.th.wanzjhb.com block
 api.touch-mobile.baidu.com block
 api.touch-moblie.com block

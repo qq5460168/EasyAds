@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-09-20 16:13:28
-# 规则总数: 16906
+# 更新时间: 2025-09-20 20:11:47
+# 规则总数: 16905
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -2622,7 +2622,6 @@ payload:
   - 'api.sm.cn'
   - 'api.ssp.xcultur.com'
   - 'api.statsig.com'
-  - 'api.tencentmusic.com'
   - 'api.th.wanzjhb.com'
   - 'api.touch-mobile.baidu.com'
   - 'api.touch-moblie.com'

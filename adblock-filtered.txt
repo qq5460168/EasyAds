@@ -6501,7 +6501,6 @@
 ||vv6.video.qq.com^
 ||xscdn.gdt.qq.com^
 ||api.playlet.qq.com^
-||api.tencentmusic.com^
 ||playlet.qq.com^
 ||tmeadkg.y.qq.com^
 ||monitor.kg.qq.com^
