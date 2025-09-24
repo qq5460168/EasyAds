@@ -6874,6 +6874,12 @@
 ||cresauth2.fenqile.cn^
 ||dc.fenqile.com^
 ||coss-shark-down.fenqile.com^
+||hcdnw120.vip.global.cdnhwctnm107.com^
+||cm.m.fenqile.com^
+||coss-fit.fenqile.com^
+||bridge.fenqile.com^
+||szl-oa-other-default.gtm.fenqile.com^
+||zone-szl-moblie-app.gtm.fenqile.com^
 ||cardloan.xiaoying.com^
 ||www.cdkuaidai.com^
 ||www.yirendai.com^
@@ -6921,7 +6927,11 @@
 ||api.xinfei.cn^
 ||xyf-test.oss-cn-beijing.aliyuncs.com^
 ||event-tracking.xinfei.cn^
+||sr0.cn^
+||sr0.cn.w.kunlunaq.com^
 ||w9t.cn^
+||ql7.cn^
+||ql7.cn.w.kunlunaq.com^
 ||g5o.cn^
 ||www.51hicard.com^
 ||datahub.haohuan.com^
@@ -6952,6 +6962,12 @@
 ||ld.yhyunjin.com^
 ||yhyunjin.com^
 ||zd.fzmf.cn^
+||j5z.cn^
+||j5z.cn.w.kunlunaq.com^
+||k3l.cn^
+||k3l.cn.w.kunlunpi.com^
+||vip.k3l.cn^
+||vip.k3l.cn.w.kunlunpi.com^
 ||vip.7j0.cn^
 ||szaction.cc^
 ||xc.zhongguohao123.com^

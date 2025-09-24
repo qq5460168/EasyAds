@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-09-24 04:14:46
-# 规则总数: 16905
+# 更新时间: 2025-09-24 08:17:37
+# 规则总数: 16921
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -3494,6 +3494,7 @@ breezily168.com block
 brendanbc.com block
 brfgbn.xyz block
 brfvyrrp.com block
+bridge.fenqile.com block
 bridgeoos.com block
 bridgetnbe.com block
 brizads.com block
@@ -4234,6 +4235,7 @@ cm.fancyapi.com block
 cm.jd.com block
 cm.kwad.com block
 cm.l.qq.com block
+cm.m.fenqile.com block
 cm.mct01.com block
 cm.netseer.com block
 cm.p4p.cn.yahoo.com block
@@ -4412,6 +4414,7 @@ corp.sohu.com block
 corssdk.map.qq.com block
 cos.ho7k.com block
 cosoyoo.com block
+coss-fit.fenqile.com block
 coss-shark-down.fenqile.com block
 couchcoaster.jp block
 count.atm.youku.com block
@@ -7028,6 +7031,7 @@ hcbmg.cn block
 hcbmq.cn block
 hccms.com.cn block
 hcdjy.xyz block
+hcdnw120.vip.global.cdnhwctnm107.com block
 hchh.capmvb.net block
 hciea.xyz block
 hcl.baidu.com block
@@ -8044,6 +8048,8 @@ j17.xiumu.cn block
 j1u9nlr3k.cc block
 j3.jtezxmpb.xyz block
 j520s.gzcl999.cn block
+j5z.cn block
+j5z.cn.w.kunlunaq.com block
 j6xz0.com block
 j6zh4g0.cn block
 j7182.hfxcsl.cn block
@@ -8580,6 +8586,8 @@ k2.ofodai.com block
 k2team.kyiv.ua block
 k31bpzf.xyz block
 k3bos.com block
+k3l.cn block
+k3l.cn.w.kunlunpi.com block
 k42kw.top block
 k5567.vip block
 k5ggua.xyz block
@@ -11947,6 +11955,8 @@ qjsp48.xyz block
 qjwpy.com block
 qjxys.cn block
 qktmwiq.cn block
+ql7.cn block
+ql7.cn.w.kunlunaq.com block
 qlisv.siemens6es7.com block
 qlmho.renhengshangmao.com block
 qloer.com block
@@ -13271,6 +13281,8 @@ sqkt38.cc block
 sqsh.3g.qq.com block
 sqtpks3.1391.com block
 squarespace.evyy.net block
+sr0.cn block
+sr0.cn.w.kunlunaq.com block
 srbzw.cn block
 src.duanxin520.com block
 src.leju.com block
@@ -13650,6 +13662,7 @@ szggdw.com block
 szhszxfw.cn block
 szipkp.com block
 szkdst.com block
+szl-oa-other-default.gtm.fenqile.com block
 szlong.weixin.qq.com block
 szrk3.com block
 szshouzhai.com block
@@ -14941,6 +14954,8 @@ vip.ffzy-online3.com block
 vip.hyz86.com block
 vip.id528.com block
 vip.jindu179.com block
+vip.k3l.cn block
+vip.k3l.cn.w.kunlunpi.com block
 vip.mall044.com block
 vip.media8.cn block
 vip.pinghuhome.com block
@@ -16793,6 +16808,7 @@ znnodl.xyz block
 znsv.baidu.com block
 znyjmbh.icu block
 zo66.com block
+zone-szl-moblie-app.gtm.fenqile.com block
 zonyff.xyz block
 zoomanalytics.co block
 zotcjeig.xyz block

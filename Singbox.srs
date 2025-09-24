@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-09-24 04:14:46
-# 规则总数: 16905
+# 更新时间: 2025-09-24 08:17:37
+# 规则总数: 16921
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -3494,6 +3494,7 @@ domain: breezily168.com, policy: reject
 domain: brendanbc.com, policy: reject
 domain: brfgbn.xyz, policy: reject
 domain: brfvyrrp.com, policy: reject
+domain: bridge.fenqile.com, policy: reject
 domain: bridgeoos.com, policy: reject
 domain: bridgetnbe.com, policy: reject
 domain: brizads.com, policy: reject
@@ -4234,6 +4235,7 @@ domain: cm.fancyapi.com, policy: reject
 domain: cm.jd.com, policy: reject
 domain: cm.kwad.com, policy: reject
 domain: cm.l.qq.com, policy: reject
+domain: cm.m.fenqile.com, policy: reject
 domain: cm.mct01.com, policy: reject
 domain: cm.netseer.com, policy: reject
 domain: cm.p4p.cn.yahoo.com, policy: reject
@@ -4412,6 +4414,7 @@ domain: corp.sohu.com, policy: reject
 domain: corssdk.map.qq.com, policy: reject
 domain: cos.ho7k.com, policy: reject
 domain: cosoyoo.com, policy: reject
+domain: coss-fit.fenqile.com, policy: reject
 domain: coss-shark-down.fenqile.com, policy: reject
 domain: couchcoaster.jp, policy: reject
 domain: count.atm.youku.com, policy: reject
@@ -7028,6 +7031,7 @@ domain: hcbmg.cn, policy: reject
 domain: hcbmq.cn, policy: reject
 domain: hccms.com.cn, policy: reject
 domain: hcdjy.xyz, policy: reject
+domain: hcdnw120.vip.global.cdnhwctnm107.com, policy: reject
 domain: hchh.capmvb.net, policy: reject
 domain: hciea.xyz, policy: reject
 domain: hcl.baidu.com, policy: reject
@@ -8044,6 +8048,8 @@ domain: j17.xiumu.cn, policy: reject
 domain: j1u9nlr3k.cc, policy: reject
 domain: j3.jtezxmpb.xyz, policy: reject
 domain: j520s.gzcl999.cn, policy: reject
+domain: j5z.cn, policy: reject
+domain: j5z.cn.w.kunlunaq.com, policy: reject
 domain: j6xz0.com, policy: reject
 domain: j6zh4g0.cn, policy: reject
 domain: j7182.hfxcsl.cn, policy: reject
@@ -8580,6 +8586,8 @@ domain: k2.ofodai.com, policy: reject
 domain: k2team.kyiv.ua, policy: reject
 domain: k31bpzf.xyz, policy: reject
 domain: k3bos.com, policy: reject
+domain: k3l.cn, policy: reject
+domain: k3l.cn.w.kunlunpi.com, policy: reject
 domain: k42kw.top, policy: reject
 domain: k5567.vip, policy: reject
 domain: k5ggua.xyz, policy: reject
@@ -11947,6 +11955,8 @@ domain: qjsp48.xyz, policy: reject
 domain: qjwpy.com, policy: reject
 domain: qjxys.cn, policy: reject
 domain: qktmwiq.cn, policy: reject
+domain: ql7.cn, policy: reject
+domain: ql7.cn.w.kunlunaq.com, policy: reject
 domain: qlisv.siemens6es7.com, policy: reject
 domain: qlmho.renhengshangmao.com, policy: reject
 domain: qloer.com, policy: reject
@@ -13271,6 +13281,8 @@ domain: sqkt38.cc, policy: reject
 domain: sqsh.3g.qq.com, policy: reject
 domain: sqtpks3.1391.com, policy: reject
 domain: squarespace.evyy.net, policy: reject
+domain: sr0.cn, policy: reject
+domain: sr0.cn.w.kunlunaq.com, policy: reject
 domain: srbzw.cn, policy: reject
 domain: src.duanxin520.com, policy: reject
 domain: src.leju.com, policy: reject
@@ -13650,6 +13662,7 @@ domain: szggdw.com, policy: reject
 domain: szhszxfw.cn, policy: reject
 domain: szipkp.com, policy: reject
 domain: szkdst.com, policy: reject
+domain: szl-oa-other-default.gtm.fenqile.com, policy: reject
 domain: szlong.weixin.qq.com, policy: reject
 domain: szrk3.com, policy: reject
 domain: szshouzhai.com, policy: reject
@@ -14941,6 +14954,8 @@ domain: vip.ffzy-online3.com, policy: reject
 domain: vip.hyz86.com, policy: reject
 domain: vip.id528.com, policy: reject
 domain: vip.jindu179.com, policy: reject
+domain: vip.k3l.cn, policy: reject
+domain: vip.k3l.cn.w.kunlunpi.com, policy: reject
 domain: vip.mall044.com, policy: reject
 domain: vip.media8.cn, policy: reject
 domain: vip.pinghuhome.com, policy: reject
@@ -16793,6 +16808,7 @@ domain: znnodl.xyz, policy: reject
 domain: znsv.baidu.com, policy: reject
 domain: znyjmbh.icu, policy: reject
 domain: zo66.com, policy: reject
+domain: zone-szl-moblie-app.gtm.fenqile.com, policy: reject
 domain: zonyff.xyz, policy: reject
 domain: zoomanalytics.co, policy: reject
 domain: zotcjeig.xyz, policy: reject

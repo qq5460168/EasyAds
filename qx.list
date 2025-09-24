@@ -6843,6 +6843,12 @@ DOMAIN,cresauth.fenqile.cn,reject
 DOMAIN,cresauth2.fenqile.cn,reject
 DOMAIN,dc.fenqile.com,reject
 DOMAIN,coss-shark-down.fenqile.com,reject
+DOMAIN,hcdnw120.vip.global.cdnhwctnm107.com,reject
+DOMAIN,cm.m.fenqile.com,reject
+DOMAIN,coss-fit.fenqile.com,reject
+DOMAIN,bridge.fenqile.com,reject
+DOMAIN,szl-oa-other-default.gtm.fenqile.com,reject
+DOMAIN,zone-szl-moblie-app.gtm.fenqile.com,reject
 DOMAIN,cardloan.xiaoying.com,reject
 DOMAIN,www.cdkuaidai.com,reject
 DOMAIN,www.yirendai.com,reject
@@ -6890,7 +6896,11 @@ DOMAIN,feanalysisprod.xinfei.cn,reject
 DOMAIN,api.xinfei.cn,reject
 DOMAIN,xyf-test.oss-cn-beijing.aliyuncs.com,reject
 DOMAIN,event-tracking.xinfei.cn,reject
+DOMAIN,sr0.cn,reject
+DOMAIN,sr0.cn.w.kunlunaq.com,reject
 DOMAIN,w9t.cn,reject
+DOMAIN,ql7.cn,reject
+DOMAIN,ql7.cn.w.kunlunaq.com,reject
 DOMAIN,g5o.cn,reject
 DOMAIN,www.51hicard.com,reject
 DOMAIN,datahub.haohuan.com,reject
@@ -6921,6 +6931,12 @@ DOMAIN,r.yhyunjin.com,reject
 DOMAIN,ld.yhyunjin.com,reject
 DOMAIN,yhyunjin.com,reject
 DOMAIN,zd.fzmf.cn,reject
+DOMAIN,j5z.cn,reject
+DOMAIN,j5z.cn.w.kunlunaq.com,reject
+DOMAIN,k3l.cn,reject
+DOMAIN,k3l.cn.w.kunlunpi.com,reject
+DOMAIN,vip.k3l.cn,reject
+DOMAIN,vip.k3l.cn.w.kunlunpi.com,reject
 DOMAIN,vip.7j0.cn,reject
 DOMAIN,szaction.cc,reject
 DOMAIN,xc.zhongguohao123.com,reject
