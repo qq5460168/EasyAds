@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-09-25 08:17:02
-# 规则总数: 16921
+# 更新时间: 2025-09-25 12:25:54
+# 规则总数: 16926
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -4014,6 +4014,7 @@ cee1.iteye.com block
 cee2.iteye.com block
 ceh.cehbh.com block
 ceiqox.com block
+cekrfk.com block
 cerebral.typn.com block
 ceshi1.ink block
 ceshi127722.obs.cn-north-4.myhuaweicloud.com block
@@ -5451,6 +5452,7 @@ dw998.com block
 dwa.okwan.cn block
 dwfjtz.xyz block
 dwibjkdsn.com block
+dwuupq.com block
 dwyngjb.icu block
 dwz.cn block
 dx1200.com block
@@ -10839,6 +10841,7 @@ nysita.com block
 nyvgbt.xyz block
 nz04com.com block
 nzezn.com block
+nzl09251oa.com block
 nzrlx6wc.icu block
 nzrovf.xyz block
 nztl.z74d.com block
@@ -12135,6 +12138,7 @@ r.xcycm.com block
 r.yhyunjin.com block
 r.youmi.net block
 r.zlongad.com block
+r0l7cp.com block
 r1.ykimg.com block
 r36ku.site block
 r3nvrr4uzh.com block
@@ -14276,6 +14280,7 @@ tukj.net block
 tumblrprobes.cedexis.com block
 tumblrreports.cedexis.com block
 tumeite.cn block
+tuobeng.net block
 tupan.cqdd.ltd block
 tuplzt.xyz block
 turn.com block

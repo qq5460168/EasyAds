@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-09-25 08:17:02
-# 规则总数: 16921
+# 更新时间: 2025-09-25 12:25:54
+# 规则总数: 16926
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -4015,6 +4015,7 @@ payload:
   - 'cee2.iteye.com'
   - 'ceh.cehbh.com'
   - 'ceiqox.com'
+  - 'cekrfk.com'
   - 'cerebral.typn.com'
   - 'ceshi1.ink'
   - 'ceshi127722.obs.cn-north-4.myhuaweicloud.com'
@@ -5452,6 +5453,7 @@ payload:
   - 'dwa.okwan.cn'
   - 'dwfjtz.xyz'
   - 'dwibjkdsn.com'
+  - 'dwuupq.com'
   - 'dwyngjb.icu'
   - 'dwz.cn'
   - 'dx1200.com'
@@ -10840,6 +10842,7 @@ payload:
   - 'nyvgbt.xyz'
   - 'nz04com.com'
   - 'nzezn.com'
+  - 'nzl09251oa.com'
   - 'nzrlx6wc.icu'
   - 'nzrovf.xyz'
   - 'nztl.z74d.com'
@@ -12136,6 +12139,7 @@ payload:
   - 'r.yhyunjin.com'
   - 'r.youmi.net'
   - 'r.zlongad.com'
+  - 'r0l7cp.com'
   - 'r1.ykimg.com'
   - 'r36ku.site'
   - 'r3nvrr4uzh.com'
@@ -14277,6 +14281,7 @@ payload:
   - 'tumblrprobes.cedexis.com'
   - 'tumblrreports.cedexis.com'
   - 'tumeite.cn'
+  - 'tuobeng.net'
   - 'tupan.cqdd.ltd'
   - 'tuplzt.xyz'
   - 'turn.com'

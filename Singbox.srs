@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-09-25 08:17:02
-# 规则总数: 16921
+# 更新时间: 2025-09-25 12:25:54
+# 规则总数: 16926
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -4014,6 +4014,7 @@ domain: cee1.iteye.com, policy: reject
 domain: cee2.iteye.com, policy: reject
 domain: ceh.cehbh.com, policy: reject
 domain: ceiqox.com, policy: reject
+domain: cekrfk.com, policy: reject
 domain: cerebral.typn.com, policy: reject
 domain: ceshi1.ink, policy: reject
 domain: ceshi127722.obs.cn-north-4.myhuaweicloud.com, policy: reject
@@ -5451,6 +5452,7 @@ domain: dw998.com, policy: reject
 domain: dwa.okwan.cn, policy: reject
 domain: dwfjtz.xyz, policy: reject
 domain: dwibjkdsn.com, policy: reject
+domain: dwuupq.com, policy: reject
 domain: dwyngjb.icu, policy: reject
 domain: dwz.cn, policy: reject
 domain: dx1200.com, policy: reject
@@ -10839,6 +10841,7 @@ domain: nysita.com, policy: reject
 domain: nyvgbt.xyz, policy: reject
 domain: nz04com.com, policy: reject
 domain: nzezn.com, policy: reject
+domain: nzl09251oa.com, policy: reject
 domain: nzrlx6wc.icu, policy: reject
 domain: nzrovf.xyz, policy: reject
 domain: nztl.z74d.com, policy: reject
@@ -12135,6 +12138,7 @@ domain: r.xcycm.com, policy: reject
 domain: r.yhyunjin.com, policy: reject
 domain: r.youmi.net, policy: reject
 domain: r.zlongad.com, policy: reject
+domain: r0l7cp.com, policy: reject
 domain: r1.ykimg.com, policy: reject
 domain: r36ku.site, policy: reject
 domain: r3nvrr4uzh.com, policy: reject
@@ -14276,6 +14280,7 @@ domain: tukj.net, policy: reject
 domain: tumblrprobes.cedexis.com, policy: reject
 domain: tumblrreports.cedexis.com, policy: reject
 domain: tumeite.cn, policy: reject
+domain: tuobeng.net, policy: reject
 domain: tupan.cqdd.ltd, policy: reject
 domain: tuplzt.xyz, policy: reject
 domain: turn.com, policy: reject
