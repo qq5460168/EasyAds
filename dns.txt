@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-09-26 12:24:37.958540
+# Generated on 2025-09-26 16:15:22.511964
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -3209,7 +3209,6 @@
 ||ad.xmmnsl.com^
 ||adcaffe-bard.atcloudbox.com^
 ||msg.qy.net^
-||metrics1-drcn.dt.dbankcloud.cn^
 ||datacollector-drcn.dt.dbankcloud.cn^
 ||datacollector-drcn.dt.hicloud.com^
 ||ad.oceanengine.com^
@@ -12449,6 +12448,7 @@
 ||b2-data.ads.heytapmobi.com^
 ||adsmartget.datads.cn^
 ||linking-data-drcn.hispace.dbankcloud.cn^
+||metrics1-drcn.dt.dbankcloud.cn^
 ||metrics.dt.dbankcloud.cn^
 ||checkappexec.microsoft.com^
 ||ziyuan-data.n.shifen.com^

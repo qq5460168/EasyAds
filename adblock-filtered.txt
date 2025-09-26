@@ -3206,7 +3206,6 @@
 ||ad.xmmnsl.com^
 ||adcaffe-bard.atcloudbox.com^
 ||msg.qy.net^
-||metrics1-drcn.dt.dbankcloud.cn^
 ||datacollector-drcn.dt.dbankcloud.cn^
 ||datacollector-drcn.dt.hicloud.com^
 ||ad.oceanengine.com^
@@ -12446,6 +12445,7 @@
 ||b2-data.ads.heytapmobi.com^
 ||adsmartget.datads.cn^
 ||linking-data-drcn.hispace.dbankcloud.cn^
+||metrics1-drcn.dt.dbankcloud.cn^
 ||metrics.dt.dbankcloud.cn^
 ||checkappexec.microsoft.com^
 ||ziyuan-data.n.shifen.com^

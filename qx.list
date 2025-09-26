@@ -3187,7 +3187,6 @@ DOMAIN,adash.man.aliyuncs.com,reject
 DOMAIN,ad.xmmnsl.com,reject
 DOMAIN,adcaffe-bard.atcloudbox.com,reject
 DOMAIN,msg.qy.net,reject
-DOMAIN,metrics1-drcn.dt.dbankcloud.cn,reject
 DOMAIN,datacollector-drcn.dt.dbankcloud.cn,reject
 DOMAIN,datacollector-drcn.dt.hicloud.com,reject
 DOMAIN,ad.oceanengine.com,reject
@@ -12406,6 +12405,7 @@ DOMAIN,huashan-datahub-drcn.emui.dbankcloud.com,reject
 DOMAIN,b2-data.ads.heytapmobi.com,reject
 DOMAIN,adsmartget.datads.cn,reject
 DOMAIN,linking-data-drcn.hispace.dbankcloud.cn,reject
+DOMAIN,metrics1-drcn.dt.dbankcloud.cn,reject
 DOMAIN,metrics.dt.dbankcloud.cn,reject
 DOMAIN,checkappexec.microsoft.com,reject
 DOMAIN,ziyuan-data.n.shifen.com,reject
