@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-10-02 08:16:27
-# 规则总数: 16926
+# 更新时间: 2025-10-02 12:23:48
+# 规则总数: 16925
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -2266,7 +2266,6 @@ aiseet.atianqi.com block
 aishang.bid block
 aishiguolong.com block
 aishowbger.com block
-aisite.wejianzhan.com block
 aisnj.cn block
 aispyd.icu block
 aitiyu.io block

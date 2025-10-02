@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-10-02 08:16:27
-# 规则总数: 16926
+# 更新时间: 2025-10-02 12:23:48
+# 规则总数: 16925
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -2266,7 +2266,6 @@
 0.0.0.0 aishang.bid
 0.0.0.0 aishiguolong.com
 0.0.0.0 aishowbger.com
-0.0.0.0 aisite.wejianzhan.com
 0.0.0.0 aisnj.cn
 0.0.0.0 aispyd.icu
 0.0.0.0 aitiyu.io

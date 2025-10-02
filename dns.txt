@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-10-02 08:16:25.840914
+# Generated on 2025-10-02 12:23:46.491651
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -1848,7 +1848,6 @@
 ||fakeurl.virtual.baidu.com^
 ||g.cn.miaozhen.com^
 ||ack.tuisong.baidu.com^
-||aisite.wejianzhan.com^
 ||qianhu.wejianzhan.com^
 ||error.baidu.com^
 ||wanba.baidu.com^

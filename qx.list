@@ -1827,7 +1827,6 @@ DOMAIN,nourl.ubs.baidu.com,reject
 DOMAIN,fakeurl.virtual.baidu.com,reject
 DOMAIN,g.cn.miaozhen.com,reject
 DOMAIN,ack.tuisong.baidu.com,reject
-DOMAIN,aisite.wejianzhan.com,reject
 DOMAIN,qianhu.wejianzhan.com,reject
 DOMAIN,error.baidu.com,reject
 DOMAIN,wanba.baidu.com,reject

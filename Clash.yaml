@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-10-02 08:16:27
-# 规则总数: 16926
+# 更新时间: 2025-10-02 12:23:48
+# 规则总数: 16925
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -2267,7 +2267,6 @@ payload:
   - 'aishang.bid'
   - 'aishiguolong.com'
   - 'aishowbger.com'
-  - 'aisite.wejianzhan.com'
   - 'aisnj.cn'
   - 'aispyd.icu'
   - 'aitiyu.io'
