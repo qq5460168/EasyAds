@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-10-03 12:24:20
-# 规则总数: 16925
+# 更新时间: 2025-10-03 16:14:35
+# 规则总数: 16924
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -12567,7 +12567,6 @@ payload:
   - 's.union.360.cn'
   - 's.uuidksinc.net'
   - 's.wapadv.com'
-  - 's.webank.com'
   - 's.wrating.com'
   - 's.wxktv.cn'
   - 's.x.cn.xtgreat.com'

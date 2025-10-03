@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-10-03 12:24:20
-# 规则总数: 16925
+# 更新时间: 2025-10-03 16:14:35
+# 规则总数: 16924
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -12566,7 +12566,6 @@
 0.0.0.0 s.union.360.cn
 0.0.0.0 s.uuidksinc.net
 0.0.0.0 s.wapadv.com
-0.0.0.0 s.webank.com
 0.0.0.0 s.wrating.com
 0.0.0.0 s.wxktv.cn
 0.0.0.0 s.x.cn.xtgreat.com
