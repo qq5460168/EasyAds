@@ -852,7 +852,6 @@ DOMAIN,line3-adscore-api.biligame.net,reject
 DOMAIN,adsmartget.guangtuikeji.com,reject
 DOMAIN,as1.dcloud.net.cn,reject
 DOMAIN,apis.xayabx.com,reject
-DOMAIN,bkimg.cdn.bcebos.com,reject
 DOMAIN,qcwx.medproad.com,reject
 DOMAIN,image.uczzd.cn,reject
 DOMAIN,adtracker.adfunlink.com,reject

@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-10-09 12:25:31
-# 规则总数: 16925
+# 更新时间: 2025-10-09 16:17:11
+# 规则总数: 16924
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -3403,7 +3403,6 @@ domain, bk23de3dgd.cc
 domain, bkcommdata.v.qq.com
 domain, bkdg.net
 domain, bkhblj.xyz
-domain, bkimg.cdn.bcebos.com
 domain, bkjlf58.com
 domain, bksoup.v.qq.com
 domain, bkyhq.cn

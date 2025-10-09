@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-10-09 12:25:30
-# 规则总数: 16925
+# 更新时间: 2025-10-09 16:17:11
+# 规则总数: 16924
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -3403,7 +3403,6 @@
 0.0.0.0 bkcommdata.v.qq.com
 0.0.0.0 bkdg.net
 0.0.0.0 bkhblj.xyz
-0.0.0.0 bkimg.cdn.bcebos.com
 0.0.0.0 bkjlf58.com
 0.0.0.0 bksoup.v.qq.com
 0.0.0.0 bkyhq.cn

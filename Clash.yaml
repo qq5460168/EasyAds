@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-10-09 12:25:30
-# 规则总数: 16925
+# 更新时间: 2025-10-09 16:17:11
+# 规则总数: 16924
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -3404,7 +3404,6 @@ payload:
   - 'bkcommdata.v.qq.com'
   - 'bkdg.net'
   - 'bkhblj.xyz'
-  - 'bkimg.cdn.bcebos.com'
   - 'bkjlf58.com'
   - 'bksoup.v.qq.com'
   - 'bkyhq.cn'
