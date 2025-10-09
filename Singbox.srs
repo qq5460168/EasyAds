@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-10-09 00:57:43
-# 规则总数: 16924
+# 更新时间: 2025-10-09 04:15:42
+# 规则总数: 16925
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -3501,6 +3501,7 @@ domain: bro.flyme.cn, policy: reject
 domain: broadcast.chat.bilibili.com, policy: reject
 domain: brownfox.top, policy: reject
 domain: browser.events.data.msn.cn, policy: reject
+domain: browser.events.data.msn.com, policy: reject
 domain: browser.gwdang.com, policy: reject
 domain: browser.sentry-cdn.com, policy: reject
 domain: browser.vivo.com.cn, policy: reject

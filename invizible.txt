@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-10-09 00:57:43
-# 规则总数: 16924
+# 更新时间: 2025-10-09 04:15:42
+# 规则总数: 16925
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -3501,6 +3501,7 @@ bro.flyme.cn block
 broadcast.chat.bilibili.com block
 brownfox.top block
 browser.events.data.msn.cn block
+browser.events.data.msn.com block
 browser.gwdang.com block
 browser.sentry-cdn.com block
 browser.vivo.com.cn block

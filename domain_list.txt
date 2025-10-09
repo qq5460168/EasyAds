@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-10-09 00:57:42（北京时间）
-# 共 16892 个域名
+# 生成时间: 2025-10-09 04:15:40（北京时间）
+# 共 16893 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -3493,6 +3493,7 @@ bro.flyme.cn
 broadcast.chat.bilibili.com
 brownfox.top
 browser.events.data.msn.cn
+browser.events.data.msn.com
 browser.gwdang.com
 browser.vivo.com.cn
 browserbook.vivo.com.cn

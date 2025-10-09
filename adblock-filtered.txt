@@ -233,6 +233,8 @@
 ||bj.ad.track.66mobi.com^
 ||books-analytics-events.apple.com^
 ||bootpreload.uve.weibo.com^
+||browser.events.data.msn.cn^
+||browser.events.data.msn.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
 ||bsrv.qq.com^
 ||bugly.qq.com^
@@ -12474,7 +12476,6 @@
 ||b.bdstatic.com^
 ||datagw-edge.alipay.com^
 ||datacollector-dre.dt.hicloud.com^
-||browser.events.data.msn.cn^
 ||log-klink.zijieapi.com^
 ||wlog.ksapisrv.com^
 ||moniter.wb.qq.com^

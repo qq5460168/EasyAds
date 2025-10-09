@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-10-09 00:57:42.529333
+# Generated on 2025-10-09 04:15:40.200601
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -236,6 +236,8 @@
 ||bj.ad.track.66mobi.com^
 ||books-analytics-events.apple.com^
 ||bootpreload.uve.weibo.com^
+||browser.events.data.msn.cn^
+||browser.events.data.msn.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
 ||bsrv.qq.com^
 ||bugly.qq.com^
@@ -12477,7 +12479,6 @@
 ||b.bdstatic.com^
 ||datagw-edge.alipay.com^
 ||datacollector-dre.dt.hicloud.com^
-||browser.events.data.msn.cn^
 ||log-klink.zijieapi.com^
 ||wlog.ksapisrv.com^
 ||moniter.wb.qq.com^

@@ -232,6 +232,8 @@ DOMAIN,biz.weibo.com,reject
 DOMAIN,bj.ad.track.66mobi.com,reject
 DOMAIN,books-analytics-events.apple.com,reject
 DOMAIN,bootpreload.uve.weibo.com,reject
+DOMAIN,browser.events.data.msn.cn,reject
+DOMAIN,browser.events.data.msn.com,reject
 DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn,reject
 DOMAIN,bsrv.qq.com,reject
 DOMAIN,bugly.qq.com,reject
@@ -12434,7 +12436,6 @@ DOMAIN,s-gm.mmstat.com,reject
 DOMAIN,b.bdstatic.com,reject
 DOMAIN,datagw-edge.alipay.com,reject
 DOMAIN,datacollector-dre.dt.hicloud.com,reject
-DOMAIN,browser.events.data.msn.cn,reject
 DOMAIN,log-klink.zijieapi.com,reject
 DOMAIN,wlog.ksapisrv.com,reject
 DOMAIN,moniter.wb.qq.com,reject

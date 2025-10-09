@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-10-09 00:57:43
-# 规则总数: 16924
+# 更新时间: 2025-10-09 04:15:42
+# 规则总数: 16925
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -3501,6 +3501,7 @@ domain, bro.flyme.cn
 domain, broadcast.chat.bilibili.com
 domain, brownfox.top
 domain, browser.events.data.msn.cn
+domain, browser.events.data.msn.com
 domain, browser.gwdang.com
 domain, browser.sentry-cdn.com
 domain, browser.vivo.com.cn

@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-10-09 00:57:43
-# 规则总数: 16924
+# 更新时间: 2025-10-09 04:15:42
+# 规则总数: 16925
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -3501,6 +3501,7 @@
 0.0.0.0 broadcast.chat.bilibili.com
 0.0.0.0 brownfox.top
 0.0.0.0 browser.events.data.msn.cn
+0.0.0.0 browser.events.data.msn.com
 0.0.0.0 browser.gwdang.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 browser.vivo.com.cn
