@@ -503,7 +503,6 @@ DOMAIN,mini-prog-drm.vodplayvideo.net,reject
 DOMAIN,mission-pub.smart-tv.cn,reject
 DOMAIN,miui-fxcse.avlyun.com,reject
 DOMAIN,mlog.bigda.com,reject
-DOMAIN,mmgame.qpic.cn,reject
 DOMAIN,mnqlog.ldmnq.com,reject
 DOMAIN,moatads.com,reject
 DOMAIN,mobads-logs.baidu.com,reject
@@ -16837,6 +16836,7 @@ DOMAIN,p1-play.edge4k.com,reject
 DOMAIN,p2-play.edge4k.com,reject
 DOMAIN,p1-play.kgslb.com,reject
 DOMAIN,play.kakao.com,reject
+DOMAIN,mmgame.qpic.cn,reject
 DOMAIN,adlaunch.qingting.fm,reject
 DOMAIN,applog.ucdns.uc.cn,reject
 DOMAIN,gjapplog.uc.cn,reject

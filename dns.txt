@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-10-10 04:15:11.294153
+# Generated on 2025-10-10 08:17:11.823829
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -512,7 +512,6 @@
 ||mission-pub.smart-tv.cn^
 ||miui-fxcse.avlyun.com^
 ||mlog.bigda.com^
-||mmgame.qpic.cn^
 ||mnqlog.ldmnq.com^
 ||moatads.com^
 ||mobads-logs.baidu.com^
@@ -16887,6 +16886,7 @@
 ||p2-play.edge4k.com^
 ||p1-play.kgslb.com^
 ||play.kakao.com^
+||mmgame.qpic.cn^
 ||adlaunch.qingting.fm^
 ||applog.ucdns.uc.cn^
 ||gjapplog.uc.cn^
