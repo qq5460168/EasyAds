@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-10-11 12:21:31
-# 规则总数: 16924
+# 更新时间: 2025-10-11 16:13:21
+# 规则总数: 16925
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -14481,6 +14481,7 @@ domain, ujgf120.com
 domain, ujian.cc
 domain, ujikdd041o.cn
 domain, ujnkn.com
+domain, uk.sgrrz.cn
 domain, uk3oi.adgze.cn
 domain, uk529u0.cn
 domain, ukeiae.com

@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-10-11 12:21:31
-# 规则总数: 16924
+# 更新时间: 2025-10-11 16:13:21
+# 规则总数: 16925
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -14481,6 +14481,7 @@
 0.0.0.0 ujian.cc
 0.0.0.0 ujikdd041o.cn
 0.0.0.0 ujnkn.com
+0.0.0.0 uk.sgrrz.cn
 0.0.0.0 uk3oi.adgze.cn
 0.0.0.0 uk529u0.cn
 0.0.0.0 ukeiae.com

@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-10-11 12:21:31
-# 规则总数: 16924
+# 更新时间: 2025-10-11 16:13:21
+# 规则总数: 16925
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -14482,6 +14482,7 @@ payload:
   - 'ujian.cc'
   - 'ujikdd041o.cn'
   - 'ujnkn.com'
+  - 'uk.sgrrz.cn'
   - 'uk3oi.adgze.cn'
   - 'uk529u0.cn'
   - 'ukeiae.com'
