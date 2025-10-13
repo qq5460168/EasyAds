@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-10-13 01:01:34
-# 规则总数: 16925
+# 更新时间: 2025-10-13 04:15:59
+# 规则总数: 16927
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -6639,6 +6639,7 @@ domain, ggic01.miguvideo.com
 domain, ggle.lywf.me
 domain, ggmm777.com
 domain, ggmmqq.com
+domain, ggo10131lq.com
 domain, ggr.yxdown.com
 domain, ggs.myzaker.com
 domain, ggsfq.com
@@ -8788,6 +8789,7 @@ domain, kowqd1.top
 domain, kowqd5.top
 domain, kowqd7.top
 domain, kowuie.sydneypass.info
+domain, kpsabnm.xyz
 domain, kqubxdb.cn
 domain, kqy1.com
 domain, kr.axyqd.cn

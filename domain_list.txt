@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-10-13 01:01:32（北京时间）
-# 共 16892 个域名
+# 生成时间: 2025-10-13 04:15:57（北京时间）
+# 共 16894 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -6622,6 +6622,7 @@ ggic01.miguvideo.com
 ggle.lywf.me
 ggmm777.com
 ggmmqq.com
+ggo10131lq.com
 ggr.yxdown.com
 ggs.myzaker.com
 ggsfq.com
@@ -8769,6 +8770,7 @@ kowqd1.top
 kowqd5.top
 kowqd7.top
 kowuie.sydneypass.info
+kpsabnm.xyz
 kqubxdb.cn
 kqy1.com
 kr.axyqd.cn

@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-10-13 01:01:34
-# 规则总数: 16925
+# 更新时间: 2025-10-13 04:15:59
+# 规则总数: 16927
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -6640,6 +6640,7 @@ payload:
   - 'ggle.lywf.me'
   - 'ggmm777.com'
   - 'ggmmqq.com'
+  - 'ggo10131lq.com'
   - 'ggr.yxdown.com'
   - 'ggs.myzaker.com'
   - 'ggsfq.com'
@@ -8789,6 +8790,7 @@ payload:
   - 'kowqd5.top'
   - 'kowqd7.top'
   - 'kowuie.sydneypass.info'
+  - 'kpsabnm.xyz'
   - 'kqubxdb.cn'
   - 'kqy1.com'
   - 'kr.axyqd.cn'

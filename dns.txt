@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-10-13 01:01:32.510398
+# Generated on 2025-10-13 04:15:57.462536
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -16784,6 +16784,8 @@
 ||zhonglianhuashu.com^
 ||browserconf.vivo.com.cn^
 ||browserstatic.vivo.com.cn^
+||ggo10131lq.com^
+||kpsabnm.xyz^
 ||dwuupq.com^
 ||tuobeng.net^
 ||cekrfk.com^

@@ -16781,6 +16781,8 @@
 ||zhonglianhuashu.com^
 ||browserconf.vivo.com.cn^
 ||browserstatic.vivo.com.cn^
+||ggo10131lq.com^
+||kpsabnm.xyz^
 ||dwuupq.com^
 ||tuobeng.net^
 ||cekrfk.com^
