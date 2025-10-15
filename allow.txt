@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-10-15 20:27:22
-! 有效规则数量: 2728 条
+! 规则更新时间: 2025-10-16 00:13:41
+! 有效规则数量: 2730 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
+@@||p4-ad.adukwai.com^$important
 @@||m.jf.10010.com^
 @@||aisite.wejianzhan.com^
 @@||smarthome-drcn.dbankcdn.com^
@@ -399,6 +400,7 @@
 @@||m.dianping.com^
 @@||osp.meituan.net^
 @@||s0.meituan.net^
+@@||isite.baidu.com^$important
 @@||api.map.baidu.com^
 @@||dss0.bdstatic.com^
 @@||www.dxmpay.com^
