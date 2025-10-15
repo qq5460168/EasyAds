@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-10-15 08:59:26
-! 有效规则数量: 2713 条
+! 规则更新时间: 2025-10-15 12:15:36
+! 有效规则数量: 2728 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -2472,6 +2472,23 @@
 @@||pic.mairuan.com^$important
 @@||quapp.shenbabao.com^$important
 @@||dataprajna.net^$important
+@@||dns.weixin.qq.com.cn^$important
+@@||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
+@@||wxsnsdy.wxs.qq.com^$important
+@@||guid.tpns.tencent.com^$important
+@@||log.tpns.tencent.com^$important
+@@||game.eve.mdt.qq.com^$important
+@@||pgdt.gtimg.cn^$important
+@@||otheve.beacon.qq.com^$important
+@@||monsetting.toutiao.com^$important
+@@||mon.snssdk.com^$important
+@@||log.snssdk.com^$important
+@@||i.snssdk.com^$important
+@@||toblog.ctobsnssdk.com^$important
+@@||tobapplog.ctobsnssdk.com^$important
+@@||mssdk.volces.com^$important
+@@||mon.zijieapi.com^$important
+@@||openmonitor.alipay-eco.com^$important
 @@||dw-online.ksosoft.com^$important
 @@||isee.weishi.qq.com^$important
 @@||apd-pcdnwxstat.teg.tencent-cloud.net^$important
@@ -2494,7 +2511,6 @@
 @@||fxgate.baidu.com^$important
 @@||mcs.zijieapi.com^$important
 @@||mssdk.bytedance.com^$important
-@@||mon.zijieapi.com^$important
 @@||pc-mon.zijieapi.com^$important
 @@||ii.gdt.qq.com^$important
 @@||qqdata.ab.qq.com^$important
@@ -2595,7 +2611,6 @@
 @@||beaconcdn.qq.com^$important
 @@||tpstelemetry.tencent.com^$important
 @@||rumt-zh.com^$important
-@@||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
 @@||oth.str.beacon.qq.com^$important
 @@||pingfore.wegame.com.cn^$important
 @@||data.bilibili.com

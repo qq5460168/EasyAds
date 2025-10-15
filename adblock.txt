@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-10-15 08:59:26
-! 有效规则数量: 26314 条
+! 规则更新时间: 2025-10-15 12:15:36
+! 有效规则数量: 26329 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -858,9 +858,9 @@
 ||vlion.cn^
 ||yfanads.com^
 ||zhangyuyidong.cn^
-140.82.114.25                 alive.github.com
+140.82.113.26                 alive.github.com
 20.205.243.168                api.github.com
-140.82.114.22                 api.individual.githubcopilot.com
+140.82.112.21                 api.individual.githubcopilot.com
 185.199.111.133               avatars.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
@@ -869,34 +869,34 @@
 185.199.111.133               avatars4.githubusercontent.com
 185.199.111.133               avatars5.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
-140.82.113.21                 central.github.com
+140.82.113.22                 central.github.com
 185.199.111.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.112.22                 collector.github.com
+140.82.112.21                 collector.github.com
 185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com
-54.231.225.241                github-cloud.s3.amazonaws.com
-16.15.188.60                  github-com.s3.amazonaws.com
-52.216.218.121                github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.210.121                github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.227.57                 github-production-user-asset-6210df.s3.amazonaws.com
+52.216.207.11                 github-cloud.s3.amazonaws.com
+54.231.234.97                 github-com.s3.amazonaws.com
+3.5.28.237                    github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.19.138                    github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.234.169                github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.114.18                 github.community
+140.82.114.17                 github.community
 185.199.110.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
 185.199.109.153               github.io
 185.199.111.133               github.map.fastly.net
 185.199.109.153               githubstatus.com
-140.82.112.25                 live.github.com
+140.82.112.26                 live.github.com
 185.199.111.133               media.githubusercontent.com
 185.199.111.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
 185.199.111.133               user-images.githubusercontent.com
 13.107.213.73                 vscode.dev  # Timeout
-140.82.113.22                 education.github.com
+140.82.114.22                 education.github.com
 185.199.111.133               private-user-images.githubusercontent.com
 127.0.0.1 localhost
 108.177.125.188 mtalk.google.com  #台湾
@@ -26073,6 +26073,23 @@
 @@||pic.mairuan.com^$important
 @@||quapp.shenbabao.com^$important
 @@||dataprajna.net^$important
+@@||dns.weixin.qq.com.cn^$important
+@@||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
+@@||wxsnsdy.wxs.qq.com^$important
+@@||guid.tpns.tencent.com^$important
+@@||log.tpns.tencent.com^$important
+@@||game.eve.mdt.qq.com^$important
+@@||pgdt.gtimg.cn^$important
+@@||otheve.beacon.qq.com^$important
+@@||monsetting.toutiao.com^$important
+@@||mon.snssdk.com^$important
+@@||log.snssdk.com^$important
+@@||i.snssdk.com^$important
+@@||toblog.ctobsnssdk.com^$important
+@@||tobapplog.ctobsnssdk.com^$important
+@@||mssdk.volces.com^$important
+@@||mon.zijieapi.com^$important
+@@||openmonitor.alipay-eco.com^$important
 @@||dw-online.ksosoft.com^$important
 @@||isee.weishi.qq.com^$important
 @@||apd-pcdnwxstat.teg.tencent-cloud.net^$important
@@ -26095,7 +26112,6 @@
 @@||fxgate.baidu.com^$important
 @@||mcs.zijieapi.com^$important
 @@||mssdk.bytedance.com^$important
-@@||mon.zijieapi.com^$important
 @@||pc-mon.zijieapi.com^$important
 @@||ii.gdt.qq.com^$important
 @@||qqdata.ab.qq.com^$important
@@ -26196,7 +26212,6 @@
 @@||beaconcdn.qq.com^$important
 @@||tpstelemetry.tencent.com^$important
 @@||rumt-zh.com^$important
-@@||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
 @@||oth.str.beacon.qq.com^$important
 @@||pingfore.wegame.com.cn^$important
 @@||data.bilibili.com
