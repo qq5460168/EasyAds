@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-10-16 00:58:47
-# 规则总数: 16927
+# 更新时间: 2025-10-16 04:15:15
+# 规则总数: 16926
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -11547,7 +11547,6 @@ payload:
   - 'planet-vids.online'
   - 'plat.videojj.com'
   - 'platform.wondershare.com'
-  - 'play.kakao.com'
   - 'playad.xjmg.com'
   - 'player-mob-lg.cp31.ott.cibntv.net'
   - 'player.1800coupon.com'

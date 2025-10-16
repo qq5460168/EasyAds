@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-10-16 00:58:47
-# 规则总数: 16927
+# 更新时间: 2025-10-16 04:15:15
+# 规则总数: 16926
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -11546,7 +11546,6 @@ domain, pl14369502.puserving.com
 domain, planet-vids.online
 domain, plat.videojj.com
 domain, platform.wondershare.com
-domain, play.kakao.com
 domain, playad.xjmg.com
 domain, player-mob-lg.cp31.ott.cibntv.net
 domain, player.1800coupon.com

@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-10-16 00:58:47
-# 规则总数: 16927
+# 更新时间: 2025-10-16 04:15:15
+# 规则总数: 16926
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -11546,7 +11546,6 @@ pl14369502.puserving.com block
 planet-vids.online block
 plat.videojj.com block
 platform.wondershare.com block
-play.kakao.com block
 playad.xjmg.com block
 player-mob-lg.cp31.ott.cibntv.net block
 player.1800coupon.com block

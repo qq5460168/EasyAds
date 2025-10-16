@@ -16884,7 +16884,6 @@
 ||p1-play.edge4k.com^
 ||p2-play.edge4k.com^
 ||p1-play.kgslb.com^
-||play.kakao.com^
 ||mmgame.qpic.cn^
 ||adlaunch.qingting.fm^
 ||applog.ucdns.uc.cn^

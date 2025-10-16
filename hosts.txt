@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-10-16 00:58:47
-# 规则总数: 16927
+# 更新时间: 2025-10-16 04:15:15
+# 规则总数: 16926
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -11546,7 +11546,6 @@
 0.0.0.0 planet-vids.online
 0.0.0.0 plat.videojj.com
 0.0.0.0 platform.wondershare.com
-0.0.0.0 play.kakao.com
 0.0.0.0 playad.xjmg.com
 0.0.0.0 player-mob-lg.cp31.ott.cibntv.net
 0.0.0.0 player.1800coupon.com
