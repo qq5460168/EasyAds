@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-10-22 08:19:40
-# 规则总数: 16926
+# 更新时间: 2025-10-22 12:26:56
+# 规则总数: 16927
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -7776,6 +7776,7 @@ domain, imgsreview.dftoutiao.com
 domain, imgwdyey.com
 domain, imgxxx.shunxincar.cn
 domain, imindmap.cc
+domain, imjtv.cc
 domain, immob.cn
 domain, imneinei.com
 domain, imp-toutiao-data.37.com.cn

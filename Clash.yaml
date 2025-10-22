@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-10-22 08:19:39
-# 规则总数: 16926
+# 更新时间: 2025-10-22 12:26:55
+# 规则总数: 16927
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -7777,6 +7777,7 @@ payload:
   - 'imgwdyey.com'
   - 'imgxxx.shunxincar.cn'
   - 'imindmap.cc'
+  - 'imjtv.cc'
   - 'immob.cn'
   - 'imneinei.com'
   - 'imp-toutiao-data.37.com.cn'

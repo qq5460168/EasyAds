@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-10-22 08:19:40
-# 规则总数: 16926
+# 更新时间: 2025-10-22 12:26:56
+# 规则总数: 16927
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -7776,6 +7776,7 @@
 0.0.0.0 imgwdyey.com
 0.0.0.0 imgxxx.shunxincar.cn
 0.0.0.0 imindmap.cc
+0.0.0.0 imjtv.cc
 0.0.0.0 immob.cn
 0.0.0.0 imneinei.com
 0.0.0.0 imp-toutiao-data.37.com.cn
