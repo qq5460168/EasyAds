@@ -1455,7 +1455,6 @@
 ||p.mb.qq.com^
 ||p.ssp.qq.com^
 ||pagespeed.report.qq.com^
-||pnewsapp.tc.qq.com^
 ||prom.b.qq.com^
 ||ps.browser.qq.com^
 ||ptlogin2.bugly.qq.com^
@@ -12378,6 +12377,7 @@
 ||pingma.qq.com^
 ||pingtas.qq.com^
 ||pingtcss.qq.com^
+||pnewsapp.tc.qq.com^
 ||qappcenterv6.3g.qq.com^
 ||qq.8368661.com^
 ||qzs.qq.com^

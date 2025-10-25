@@ -1437,7 +1437,6 @@ DOMAIN,oth.update.mdt.qq.com,reject
 DOMAIN,p.mb.qq.com,reject
 DOMAIN,p.ssp.qq.com,reject
 DOMAIN,pagespeed.report.qq.com,reject
-DOMAIN,pnewsapp.tc.qq.com,reject
 DOMAIN,prom.b.qq.com,reject
 DOMAIN,ps.browser.qq.com,reject
 DOMAIN,ptlogin2.bugly.qq.com,reject
@@ -12338,6 +12337,7 @@ DOMAIN,pingjs.qq.com,reject
 DOMAIN,pingma.qq.com,reject
 DOMAIN,pingtas.qq.com,reject
 DOMAIN,pingtcss.qq.com,reject
+DOMAIN,pnewsapp.tc.qq.com,reject
 DOMAIN,qappcenterv6.3g.qq.com,reject
 DOMAIN,qq.8368661.com,reject
 DOMAIN,qzs.qq.com,reject
