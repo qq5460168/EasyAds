@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-10-26 16:15:47
-! 有效规则数量: 2736 条
+! 规则更新时间: 2025-10-26 20:22:51
+! 有效规则数量: 2737 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -2496,6 +2496,7 @@
 @@||mssdk.volces.com^$important
 @@||mon.zijieapi.com^$important
 @@||openmonitor.alipay-eco.com^$important
+@@||quark.cn^$important
 @@||dw-online.ksosoft.com^$important
 @@||isee.weishi.qq.com^$important
 @@||apd-pcdnwxstat.teg.tencent-cloud.net^$important
