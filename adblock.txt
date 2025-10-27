@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-10-27 12:23:28
-! 有效规则数量: 26338 条
+! 规则更新时间: 2025-10-27 16:18:48
+! 有效规则数量: 26337 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -496,7 +496,6 @@
 ||m-adnet.hiaiabc.com^
 ||m.ad.zhangyue.com^
 ||m.atm.youku.com^
-||m.iqiyipic.com^
 ||m1.ad.10010.com^
 ||mapi.m.jd.com^
 ||masdkv6.3g.qq.com^
@@ -860,7 +859,7 @@
 ||zhangyuyidong.cn^
 140.82.112.26                 alive.github.com
 20.205.243.168                api.github.com
-140.82.114.21                 api.individual.githubcopilot.com
+140.82.114.22                 api.individual.githubcopilot.com
 185.199.108.133               avatars.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars1.githubusercontent.com
@@ -869,21 +868,21 @@
 185.199.108.133               avatars4.githubusercontent.com
 185.199.108.133               avatars5.githubusercontent.com
 185.199.108.133               camo.githubusercontent.com
-140.82.113.21                 central.github.com
+140.82.114.21                 central.github.com
 185.199.108.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.114.22                 collector.github.com
+140.82.112.21                 collector.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com
-16.15.180.144                 github-cloud.s3.amazonaws.com
-52.217.133.201                github-com.s3.amazonaws.com
-52.217.136.225                github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.76.28                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.174.161                github-production-user-asset-6210df.s3.amazonaws.com
+52.217.196.249                github-cloud.s3.amazonaws.com
+16.15.179.236                 github-com.s3.amazonaws.com
+52.216.93.155                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.47.148                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.234.225                github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.114.18                 github.community
+140.82.112.18                 github.community
 185.199.110.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
 185.199.109.153               github.io
@@ -896,7 +895,7 @@
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 13.107.213.73                 vscode.dev  # Timeout
-140.82.113.21                 education.github.com
+140.82.113.22                 education.github.com
 185.199.108.133               private-user-images.githubusercontent.com
 127.0.0.1 localhost
 108.177.125.188 mtalk.google.com  #台湾

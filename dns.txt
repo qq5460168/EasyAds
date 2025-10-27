@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-10-27 04:23:26.198077
+# Generated on 2025-10-27 08:18:46.450905
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -493,7 +493,6 @@
 ||m-adnet.hiaiabc.com^
 ||m.ad.zhangyue.com^
 ||m.atm.youku.com^
-||m.iqiyipic.com^
 ||m1.ad.10010.com^
 ||mapi.m.jd.com^
 ||masdkv6.3g.qq.com^

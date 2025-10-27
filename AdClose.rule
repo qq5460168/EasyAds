@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-10-27 04:23:28
-# 规则总数: 16927
+# 更新时间: 2025-10-27 08:18:48
+# 规则总数: 16926
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -9614,7 +9614,6 @@ domain, m.icyrd.com
 domain, m.ienkdaged.cn
 domain, m.ienkdago.cn
 domain, m.infvb.com
-domain, m.iqiyipic.com
 domain, m.irauz.com
 domain, m.irkuj.com
 domain, m.iruad.com
