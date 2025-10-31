@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-10-31 09:00:23
-! 有效规则数量: 38858 条
+! 规则更新时间: 2025-10-31 12:16:48
+! 有效规则数量: 38885 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -857,9 +857,9 @@
 ||vlion.cn^
 ||yfanads.com^
 ||zhangyuyidong.cn^
-140.82.112.25                 alive.github.com
+140.82.113.26                 alive.github.com
 20.205.243.168                api.github.com
-140.82.114.22                 api.individual.githubcopilot.com
+140.82.112.21                 api.individual.githubcopilot.com
 185.199.108.133               avatars.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars1.githubusercontent.com
@@ -868,34 +868,34 @@
 185.199.108.133               avatars4.githubusercontent.com
 185.199.108.133               avatars5.githubusercontent.com
 185.199.108.133               camo.githubusercontent.com
-140.82.114.22                 central.github.com
+140.82.114.21                 central.github.com
 185.199.108.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
 140.82.112.22                 collector.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
-140.82.113.4                  gist.github.com
-52.217.195.57                 github-cloud.s3.amazonaws.com
-16.182.105.225                github-com.s3.amazonaws.com
-3.5.11.202                    github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.49.92                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.7.153                     github-production-user-asset-6210df.s3.amazonaws.com
+20.205.243.166                gist.github.com
+52.217.47.132                 github-cloud.s3.amazonaws.com
+16.182.70.185                 github-com.s3.amazonaws.com
+52.216.61.153                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.41.41                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.11.146                    github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.113.18                 github.community
+140.82.114.18                 github.community
 185.199.110.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
-185.199.109.153               github.io
+185.199.110.153               github.io
 185.199.108.133               github.map.fastly.net
-185.199.109.153               githubstatus.com
-140.82.112.25                 live.github.com
+185.199.110.153               githubstatus.com
+140.82.113.26                 live.github.com
 185.199.108.133               media.githubusercontent.com
 185.199.108.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 13.107.213.73                 vscode.dev  # Timeout
-140.82.114.21                 education.github.com
+140.82.112.22                 education.github.com
 185.199.108.133               private-user-images.githubusercontent.com
 127.0.0.1 localhost
 108.177.125.188 mtalk.google.com  #台湾
@@ -1047,6 +1047,8 @@
 0.0.0.0 mfp.deliver.ifeng.com
 0.0.0.0 stadig.ifeng.com
 0.0.0.0 api.newad.ifeng.com #信息流广告图
+0.0.0.0 bdmap1.ifeng.com  #网页信息流广告位+文字，显示的一片空白布局去不掉
+0.0.0.0 survey.news.ifeng.com  #网页底部横幅轮播新闻+“打开”按钮
 0.0.0.0 m.ads.sohu.com
 0.0.0.0 r.ads.sohu.com
 0.0.0.0 s.ads.sohu.com
@@ -1138,12 +1140,10 @@
 0.0.0.0 aiad-aisuda.cdn.bcebos.com
 0.0.0.0 optimus-ads.amap.com
 0.0.0.0 store.is.autonavi.com
-0.0.0.0 adiu.amap.com
 0.0.0.0 cgicol.amap.com
 0.0.0.0 awaken.amap.com
 0.0.0.0 amap-aos-info-nogw.amap.com
 0.0.0.0 optimus-ads-ykx.amap.com
-0.0.0.0 adtrack.xiaojukeji.com  #追踪
 0.0.0.0 homefront.qunar.com
 0.0.0.0 minislugger.qunar.com
 0.0.0.0 dimg04.c-ctrip.com
@@ -1265,12 +1265,21 @@
 0.0.0.0 adm.zookingsoft.com
 0.0.0.0 docerad.wps.cn
 0.0.0.0 update.thread0.com  #自定义水印相机更新？
-0.0.0.0 udpolimenew.baidu.com
 0.0.0.0 udpolimeok.baidu.com
 0.0.0.0 upl.baidu.com
 0.0.0.0 ads.uutest.cn  #【测网速】
 0.0.0.0 offfurreton.com
 0.0.0.0 gloaphoo.net
+0.0.0.0 firsecuckoo.com
+0.0.0.0 api-user.dalyfeds.com  #屏蔽底栏[发现]页的短视频和[游戏]裡满屏的小游戏
+0.0.0.0 mcds.dalyfeds.com  #开屏广告、[我的]页面广告、主页右下角伸缩贴图广告
+0.0.0.0 rs.dalyfeds.com  #广告素材
+0.0.0.0 www.pullcf.com  #首页的广告
+0.0.0.0 www.pullcm.com  #好像没影响
+0.0.0.0 adconf.rqmob.com
+0.0.0.0 adcs.rqmob.com
+0.0.0.0 api.rqmob.com
+0.0.0.0 static.rqmob.com  #首页上半部分的横幅视频、点进文件全屏弹窗、搜索小横幅广告
 0.0.0.0 storage-public.zhaopin.cn
 0.0.0.0 static1.keepcdn.com
 0.0.0.0 v1.keepcdn.com
@@ -1656,6 +1665,7 @@
 0.0.0.0 qcwx.medproad.com
 0.0.0.0 update0.qquanquan.com  #韩小圈更新？
 0.0.0.0 httpdns.c.cdnhwc2.com
+0.0.0.0 httpdns1.cc.cdnhwc5.com
 0.0.0.0 httpdns.pro
 0.0.0.0 httpdns.alicdn.com
 0.0.0.0 dns.qq.com
@@ -1681,7 +1691,6 @@
 0.0.0.0 httpdns.platform.dbankcloud.com
 0.0.0.0 httpdns.volcengineapi.com
 0.0.0.0 httpdns.zybang.com
-0.0.0.0 httpdns1.cc.cdnhwc5.com
 0.0.0.0 lofter.httpdns.c.163.com
 0.0.0.0 music.httpdns.c.163.com
 0.0.0.0 httpdns.immomo.com
@@ -2432,7 +2441,6 @@
 0.0.0.0 sjh.baidu.com
 0.0.0.0 ns-strategy.cdn.bcebos.com
 0.0.0.0 fc1tn.baidu.com
-0.0.0.0 bj.bcebos.com
 0.0.0.0 fc-image.cdn.bcebos.com
 0.0.0.0 fc2tn.baidu.com
 0.0.0.0 fc4tn.baidu.com
@@ -3316,7 +3324,6 @@
 0.0.0.0 miav-cse.avlyun.com
 127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 cn.app.chat.xiaomi.net
-0.0.0.0 update.miui.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
 0.0.0.0 qr.quickapp.cn
@@ -4036,6 +4043,7 @@
 0.0.0.0 events.ads.vungle.com
 0.0.0.0 logs.ads.vungle.com
 0.0.0.0 cdn-lb.vungle.com
+0.0.0.0 logs-cn.ads.vungle.com
 0.0.0.0 cm.adkmob.com
 0.0.0.0 ssdk.adkmob.com
 0.0.0.0 bigdata.advmob.cn
@@ -4087,6 +4095,20 @@
 0.0.0.0 c.bidtoolads.com
 0.0.0.0 api.yfanads.com
 0.0.0.0 nl-new-cdn-ssplib-europe-west4-b-hb.rayjump.com
+0.0.0.0 noti-asia.adsmoloco.com
+0.0.0.0 plutus.lacunads.com
+0.0.0.0 adx.mossru.com
+0.0.0.0 tk.mossru.com
+0.0.0.0 tkda.mossru.com
+0.0.0.0 sg-new-ssplib-asia-southeast1-b-hb.rayjump.com
+0.0.0.0 sg-new-ssplib-asia-southeast1-c-hb.rayjump.com
+0.0.0.0 log.sgsnssdk.com
+0.0.0.0 mediation-sg.pangle.io
+0.0.0.0 mediation-sg2-log.pangle.io
+0.0.0.0 api.dollphoin.site
+0.0.0.0 api.inmense.site
+0.0.0.0 api.kickoffo.site
+0.0.0.0 api.onegg.site
 0.0.0.0 www.igexin.com
 0.0.0.0 20.igexin.com
 0.0.0.0 api.bz.igexin.com
@@ -4595,6 +4617,7 @@
 0.0.0.0 ujoy.anythinktech.com
 0.0.0.0 aa.birdgesdk.com
 0.0.0.0 pitk.birdgesdk.com
+0.0.0.0 api.bridgeoos.com
 0.0.0.0 www.admobile.top
 0.0.0.0 a.admobile.top
 0.0.0.0 adctl.admobile.top
@@ -34762,6 +34785,7 @@
 0.0.0.0 appupgrade.cp12.ott.cibntv.net
 0.0.0.0 base.music.qq.com
 0.0.0.0 bes-mtj.baidu.com
+0.0.0.0 bj.bcebos.com
 0.0.0.0 bkappad.189.cn
 0.0.0.0 c6.y.qq.com
 185.199.110.133 camo.githubusercontent.com
@@ -34871,6 +34895,7 @@
 0.0.0.0 qadx.qinlinad.com
 0.0.0.0 rapi.cmgadx.com
 0.0.0.0 rtbapi.douyucdn.cn
+0.0.0.0 update.miui.com
 0.0.0.0 world.qpic.cn
 0.0.0.0 wxsmw.wxs.qq.com
 0.0.0.0 gw.365you.com
@@ -35522,6 +35547,7 @@
 0.0.0.0 ad.zhuanzhuan.com
 0.0.0.0 adcdn6.tencentmusic.com
 0.0.0.0 adimage.bwton.com
+0.0.0.0 adiu.amap.com
 0.0.0.0 ads.95516.com
 0.0.0.0 adsdk.idmzj.com
 0.0.0.0 adstatic.peopleapp.com
@@ -35929,6 +35955,7 @@
 184.85.65.125 steamcommunity.com
 23.58.97.230 store.steampowered.com
 23.49.100.232 trk.pinterest.com
+0.0.0.0 udpolimenew.baidu.com
 0.0.0.0 update.thread0.com
 23.49.100.232 v1.pinimg.com
 0.0.0.0 vdn6.vzuu.com
