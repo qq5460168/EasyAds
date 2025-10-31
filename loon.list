@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2025-10-31 20:26:35
-# 规则统计: 总计29415条 (IP:1029 DOMAIN:0 SUFFIX:28386 KEYWORD:0)
+# 更新时间(北京时间): 2025-11-01 00:15:48
+# 规则统计: 总计29404条 (IP:1029 DOMAIN:0 SUFFIX:28375 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -5234,8 +5234,6 @@ DOMAIN-SUFFIX,alhy.7790.com,REJECT
 DOMAIN-SUFFIX,ali-ad.a.yximgs.com,REJECT
 DOMAIN-SUFFIX,ali-adaptive-pull.live-voip.com,REJECT
 DOMAIN-SUFFIX,ali-adaptive.pull.yximgs.com,REJECT
-DOMAIN-SUFFIX,ali-bj-pcdn-16.biliapi.net,REJECT
-DOMAIN-SUFFIX,ali-bj-pcdn-27.biliapi.net,REJECT
 DOMAIN-SUFFIX,ali-ky.static.yximgs.com,REJECT
 DOMAIN-SUFFIX,ali-ky.video.yximgs.com,REJECT
 DOMAIN-SUFFIX,ali-origin-pull.live-voip.com,REJECT
@@ -12554,7 +12552,6 @@ DOMAIN-SUFFIX,growth-support.applovin.com,REJECT
 DOMAIN-SUFFIX,growth-tracker.guazi.com,REJECT
 DOMAIN-SUFFIX,growth.umeng.com,REJECT
 DOMAIN-SUFFIX,growthpic.weishi.qq.com,REJECT
-DOMAIN-SUFFIX,grpc.biliapi.net,REJECT
 DOMAIN-SUFFIX,grs.dbankcloud.com,REJECT
 DOMAIN-SUFFIX,grs.hicloud.com,REJECT
 DOMAIN-SUFFIX,grs.platform.dbankcloud.ru,REJECT
@@ -13525,13 +13522,6 @@ DOMAIN-SUFFIX,hw-ot-ad.a.yximgs.com,REJECT
 DOMAIN-SUFFIX,hw-p2p-pull.video-voip.com,REJECT
 DOMAIN-SUFFIX,hw-p2p.pull.yximgs.com,REJECT
 DOMAIN-SUFFIX,hw-sdk.open.talk.getui.cn,REJECT
-DOMAIN-SUFFIX,hw-sh-pcdn-09.biliapi.net,REJECT
-DOMAIN-SUFFIX,hw-sh-pcdn-14.biliapi.net,REJECT
-DOMAIN-SUFFIX,hw-sh-pcdn-17.biliapi.net,REJECT
-DOMAIN-SUFFIX,hw-sh-pcdn-19.biliapi.net,REJECT
-DOMAIN-SUFFIX,hw-sh-pcdn-29.biliapi.net,REJECT
-DOMAIN-SUFFIX,hw-sh-pcdn-36.biliapi.net,REJECT
-DOMAIN-SUFFIX,hw-sh-pcdn-93.biliapi.net,REJECT
 DOMAIN-SUFFIX,hw.pull.yximgs.com,REJECT
 DOMAIN-SUFFIX,hw.wts999.com,REJECT
 DOMAIN-SUFFIX,hw.zuimeitianqi.com,REJECT
@@ -18656,7 +18646,6 @@ DOMAIN-SUFFIX,network.sofeminine.co.uk,REJECT
 DOMAIN-SUFFIX,network.tingyun.com,REJECT
 DOMAIN-SUFFIX,networkbench.com,REJECT
 DOMAIN-SUFFIX,new-api.meiqia.com,REJECT
-DOMAIN-SUFFIX,new-service.biliapi.net,REJECT
 DOMAIN-SUFFIX,new.api.ad.xiaomi.com,REJECT
 DOMAIN-SUFFIX,new.cnzz.com,REJECT
 DOMAIN-SUFFIX,new.dashboard.mob.com,REJECT

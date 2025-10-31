@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-10-31 12:26:36
-# 规则总数: 29420
+# 更新时间: 2025-10-31 16:15:49
+# 规则总数: 29409
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -5216,8 +5216,6 @@ domain: alhy.7790.com, policy: reject
 domain: ali-ad.a.yximgs.com, policy: reject
 domain: ali-adaptive-pull.live-voip.com, policy: reject
 domain: ali-adaptive.pull.yximgs.com, policy: reject
-domain: ali-bj-pcdn-16.biliapi.net, policy: reject
-domain: ali-bj-pcdn-27.biliapi.net, policy: reject
 domain: ali-ky.static.yximgs.com, policy: reject
 domain: ali-ky.video.yximgs.com, policy: reject
 domain: ali-origin-pull.live-voip.com, policy: reject
@@ -12543,7 +12541,6 @@ domain: growth-support.applovin.com, policy: reject
 domain: growth-tracker.guazi.com, policy: reject
 domain: growth.umeng.com, policy: reject
 domain: growthpic.weishi.qq.com, policy: reject
-domain: grpc.biliapi.net, policy: reject
 domain: grs.dbankcloud.com, policy: reject
 domain: grs.hicloud.com, policy: reject
 domain: grs.platform.dbankcloud.ru, policy: reject
@@ -13514,13 +13511,6 @@ domain: hw-ot-ad.a.yximgs.com, policy: reject
 domain: hw-p2p-pull.video-voip.com, policy: reject
 domain: hw-p2p.pull.yximgs.com, policy: reject
 domain: hw-sdk.open.talk.getui.cn, policy: reject
-domain: hw-sh-pcdn-09.biliapi.net, policy: reject
-domain: hw-sh-pcdn-14.biliapi.net, policy: reject
-domain: hw-sh-pcdn-17.biliapi.net, policy: reject
-domain: hw-sh-pcdn-19.biliapi.net, policy: reject
-domain: hw-sh-pcdn-29.biliapi.net, policy: reject
-domain: hw-sh-pcdn-36.biliapi.net, policy: reject
-domain: hw-sh-pcdn-93.biliapi.net, policy: reject
 domain: hw.pull.yximgs.com, policy: reject
 domain: hw.wts999.com, policy: reject
 domain: hw.zuimeitianqi.com, policy: reject
@@ -18649,7 +18639,6 @@ domain: network.sofeminine.co.uk, policy: reject
 domain: network.tingyun.com, policy: reject
 domain: networkbench.com, policy: reject
 domain: new-api.meiqia.com, policy: reject
-domain: new-service.biliapi.net, policy: reject
 domain: new.api.ad.xiaomi.com, policy: reject
 domain: new.cnzz.com, policy: reject
 domain: new.dashboard.mob.com, policy: reject

@@ -19598,8 +19598,6 @@ DOMAIN,ald-lamp.alicdn.com,reject
 DOMAIN,alhy.7790.com,reject
 DOMAIN,ali-adaptive-pull.live-voip.com,reject
 DOMAIN,ali-adaptive.pull.yximgs.com,reject
-DOMAIN,ali-bj-pcdn-16.biliapi.net,reject
-DOMAIN,ali-bj-pcdn-27.biliapi.net,reject
 DOMAIN,ali-ky.video.yximgs.com,reject
 DOMAIN,ali-origin-pull.live-voip.com,reject
 DOMAIN,ali-origin.pull.yximgs.com,reject
@@ -22487,7 +22485,6 @@ DOMAIN,group2-live.easyliao.com,reject
 DOMAIN,growth-support.applovin.com,reject
 DOMAIN,growth-tracker.guazi.com,reject
 DOMAIN,growth.umeng.com,reject
-DOMAIN,grpc.biliapi.net,reject
 DOMAIN,grs.platform.dbankcloud.ru,reject
 DOMAIN,gs.gepush.com,reject
 DOMAIN,gs.getui.net,reject
@@ -22897,13 +22894,6 @@ DOMAIN,hvm0.365111.com,reject
 DOMAIN,hvzx.6t.com,reject
 DOMAIN,hw-origin.pull.yximgs.com,reject
 DOMAIN,hw-sdk.open.talk.getui.cn,reject
-DOMAIN,hw-sh-pcdn-09.biliapi.net,reject
-DOMAIN,hw-sh-pcdn-14.biliapi.net,reject
-DOMAIN,hw-sh-pcdn-17.biliapi.net,reject
-DOMAIN,hw-sh-pcdn-19.biliapi.net,reject
-DOMAIN,hw-sh-pcdn-29.biliapi.net,reject
-DOMAIN,hw-sh-pcdn-36.biliapi.net,reject
-DOMAIN,hw-sh-pcdn-93.biliapi.net,reject
 DOMAIN,hw.pull.yximgs.com,reject
 DOMAIN,hw.wts999.com,reject
 DOMAIN,hw.zuimeitianqi.com,reject
@@ -24801,7 +24791,6 @@ DOMAIN,netdna.reporo.net,reject
 DOMAIN,netease.jump.8le8le.com,reject
 DOMAIN,network.nutaku.net,reject
 DOMAIN,network.tingyun.com,reject
-DOMAIN,new-service.biliapi.net,reject
 DOMAIN,new.api.ad.xiaomi.com,reject
 DOMAIN,new.cnzz.com,reject
 DOMAIN,new.dashboard.mob.com,reject

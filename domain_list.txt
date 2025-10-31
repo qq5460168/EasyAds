@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-10-31 12:26:35（北京时间）
-# 共 29403 个域名
+# 生成时间: 2025-10-31 16:15:48（北京时间）
+# 共 29392 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -5221,8 +5221,6 @@ alhy.7790.com
 ali-ad.a.yximgs.com
 ali-adaptive-pull.live-voip.com
 ali-adaptive.pull.yximgs.com
-ali-bj-pcdn-16.biliapi.net
-ali-bj-pcdn-27.biliapi.net
 ali-ky.static.yximgs.com
 ali-ky.video.yximgs.com
 ali-origin-pull.live-voip.com
@@ -12539,7 +12537,6 @@ growth-support.applovin.com
 growth-tracker.guazi.com
 growth.umeng.com
 growthpic.weishi.qq.com
-grpc.biliapi.net
 grs.dbankcloud.com
 grs.hicloud.com
 grs.platform.dbankcloud.ru
@@ -13512,13 +13509,6 @@ hw-ot-ad.a.yximgs.com
 hw-p2p-pull.video-voip.com
 hw-p2p.pull.yximgs.com
 hw-sdk.open.talk.getui.cn
-hw-sh-pcdn-09.biliapi.net
-hw-sh-pcdn-14.biliapi.net
-hw-sh-pcdn-17.biliapi.net
-hw-sh-pcdn-19.biliapi.net
-hw-sh-pcdn-29.biliapi.net
-hw-sh-pcdn-36.biliapi.net
-hw-sh-pcdn-93.biliapi.net
 hw.pull.yximgs.com
 hw.wts999.com
 hw.zuimeitianqi.com
@@ -18645,7 +18635,6 @@ network.sofeminine.co.uk
 network.tingyun.com
 networkbench.com
 new-api.meiqia.com
-new-service.biliapi.net
 new.api.ad.xiaomi.com
 new.cnzz.com
 new.dashboard.mob.com

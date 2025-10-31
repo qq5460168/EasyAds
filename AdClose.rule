@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-10-31 12:26:37
-# 规则总数: 29420
+# 更新时间: 2025-10-31 16:15:50
+# 规则总数: 29409
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -5216,8 +5216,6 @@ domain, alhy.7790.com
 domain, ali-ad.a.yximgs.com
 domain, ali-adaptive-pull.live-voip.com
 domain, ali-adaptive.pull.yximgs.com
-domain, ali-bj-pcdn-16.biliapi.net
-domain, ali-bj-pcdn-27.biliapi.net
 domain, ali-ky.static.yximgs.com
 domain, ali-ky.video.yximgs.com
 domain, ali-origin-pull.live-voip.com
@@ -12543,7 +12541,6 @@ domain, growth-support.applovin.com
 domain, growth-tracker.guazi.com
 domain, growth.umeng.com
 domain, growthpic.weishi.qq.com
-domain, grpc.biliapi.net
 domain, grs.dbankcloud.com
 domain, grs.hicloud.com
 domain, grs.platform.dbankcloud.ru
@@ -13514,13 +13511,6 @@ domain, hw-ot-ad.a.yximgs.com
 domain, hw-p2p-pull.video-voip.com
 domain, hw-p2p.pull.yximgs.com
 domain, hw-sdk.open.talk.getui.cn
-domain, hw-sh-pcdn-09.biliapi.net
-domain, hw-sh-pcdn-14.biliapi.net
-domain, hw-sh-pcdn-17.biliapi.net
-domain, hw-sh-pcdn-19.biliapi.net
-domain, hw-sh-pcdn-29.biliapi.net
-domain, hw-sh-pcdn-36.biliapi.net
-domain, hw-sh-pcdn-93.biliapi.net
 domain, hw.pull.yximgs.com
 domain, hw.wts999.com
 domain, hw.zuimeitianqi.com
@@ -18649,7 +18639,6 @@ domain, network.sofeminine.co.uk
 domain, network.tingyun.com
 domain, networkbench.com
 domain, new-api.meiqia.com
-domain, new-service.biliapi.net
 domain, new.api.ad.xiaomi.com
 domain, new.cnzz.com
 domain, new.dashboard.mob.com

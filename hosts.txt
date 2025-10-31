@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-10-31 12:26:37
-# 规则总数: 29420
+# 更新时间: 2025-10-31 16:15:49
+# 规则总数: 29409
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -5216,8 +5216,6 @@
 0.0.0.0 ali-ad.a.yximgs.com
 0.0.0.0 ali-adaptive-pull.live-voip.com
 0.0.0.0 ali-adaptive.pull.yximgs.com
-0.0.0.0 ali-bj-pcdn-16.biliapi.net
-0.0.0.0 ali-bj-pcdn-27.biliapi.net
 0.0.0.0 ali-ky.static.yximgs.com
 0.0.0.0 ali-ky.video.yximgs.com
 0.0.0.0 ali-origin-pull.live-voip.com
@@ -12543,7 +12541,6 @@
 0.0.0.0 growth-tracker.guazi.com
 0.0.0.0 growth.umeng.com
 0.0.0.0 growthpic.weishi.qq.com
-0.0.0.0 grpc.biliapi.net
 0.0.0.0 grs.dbankcloud.com
 0.0.0.0 grs.hicloud.com
 0.0.0.0 grs.platform.dbankcloud.ru
@@ -13514,13 +13511,6 @@
 0.0.0.0 hw-p2p-pull.video-voip.com
 0.0.0.0 hw-p2p.pull.yximgs.com
 0.0.0.0 hw-sdk.open.talk.getui.cn
-0.0.0.0 hw-sh-pcdn-09.biliapi.net
-0.0.0.0 hw-sh-pcdn-14.biliapi.net
-0.0.0.0 hw-sh-pcdn-17.biliapi.net
-0.0.0.0 hw-sh-pcdn-19.biliapi.net
-0.0.0.0 hw-sh-pcdn-29.biliapi.net
-0.0.0.0 hw-sh-pcdn-36.biliapi.net
-0.0.0.0 hw-sh-pcdn-93.biliapi.net
 0.0.0.0 hw.pull.yximgs.com
 0.0.0.0 hw.wts999.com
 0.0.0.0 hw.zuimeitianqi.com
@@ -18649,7 +18639,6 @@
 0.0.0.0 network.tingyun.com
 0.0.0.0 networkbench.com
 0.0.0.0 new-api.meiqia.com
-0.0.0.0 new-service.biliapi.net
 0.0.0.0 new.api.ad.xiaomi.com
 0.0.0.0 new.cnzz.com
 0.0.0.0 new.dashboard.mob.com

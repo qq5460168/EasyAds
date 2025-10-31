@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-10-31 12:26:35.474757
+# Generated on 2025-10-31 16:15:47.870556
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -19650,8 +19650,6 @@
 ||alhy.7790.com^
 ||ali-adaptive-pull.live-voip.com^
 ||ali-adaptive.pull.yximgs.com^
-||ali-bj-pcdn-16.biliapi.net^
-||ali-bj-pcdn-27.biliapi.net^
 ||ali-ky.static.yximgs.com^
 ||ali-ky.video.yximgs.com^
 ||ali-origin-pull.live-voip.com^
@@ -22556,7 +22554,6 @@
 ||growth-support.applovin.com^
 ||growth-tracker.guazi.com^
 ||growth.umeng.com^
-||grpc.biliapi.net^
 ||grs.platform.dbankcloud.ru^
 ||gs.gepush.com^
 ||gs.getui.net^
@@ -22967,13 +22964,6 @@
 ||hvzx.6t.com^
 ||hw-origin.pull.yximgs.com^
 ||hw-sdk.open.talk.getui.cn^
-||hw-sh-pcdn-09.biliapi.net^
-||hw-sh-pcdn-14.biliapi.net^
-||hw-sh-pcdn-17.biliapi.net^
-||hw-sh-pcdn-19.biliapi.net^
-||hw-sh-pcdn-29.biliapi.net^
-||hw-sh-pcdn-36.biliapi.net^
-||hw-sh-pcdn-93.biliapi.net^
 ||hw.pull.yximgs.com^
 ||hw.wts999.com^
 ||hw.zuimeitianqi.com^
@@ -24877,7 +24867,6 @@
 ||netease.jump.8le8le.com^
 ||network.nutaku.net^
 ||network.tingyun.com^
-||new-service.biliapi.net^
 ||new.api.ad.xiaomi.com^
 ||new.cnzz.com^
 ||new.dashboard.mob.com^

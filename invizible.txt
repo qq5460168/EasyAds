@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-10-31 12:26:37
-# 规则总数: 29420
+# 更新时间: 2025-10-31 16:15:49
+# 规则总数: 29409
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -5216,8 +5216,6 @@ alhy.7790.com block
 ali-ad.a.yximgs.com block
 ali-adaptive-pull.live-voip.com block
 ali-adaptive.pull.yximgs.com block
-ali-bj-pcdn-16.biliapi.net block
-ali-bj-pcdn-27.biliapi.net block
 ali-ky.static.yximgs.com block
 ali-ky.video.yximgs.com block
 ali-origin-pull.live-voip.com block
@@ -12543,7 +12541,6 @@ growth-support.applovin.com block
 growth-tracker.guazi.com block
 growth.umeng.com block
 growthpic.weishi.qq.com block
-grpc.biliapi.net block
 grs.dbankcloud.com block
 grs.hicloud.com block
 grs.platform.dbankcloud.ru block
@@ -13514,13 +13511,6 @@ hw-ot-ad.a.yximgs.com block
 hw-p2p-pull.video-voip.com block
 hw-p2p.pull.yximgs.com block
 hw-sdk.open.talk.getui.cn block
-hw-sh-pcdn-09.biliapi.net block
-hw-sh-pcdn-14.biliapi.net block
-hw-sh-pcdn-17.biliapi.net block
-hw-sh-pcdn-19.biliapi.net block
-hw-sh-pcdn-29.biliapi.net block
-hw-sh-pcdn-36.biliapi.net block
-hw-sh-pcdn-93.biliapi.net block
 hw.pull.yximgs.com block
 hw.wts999.com block
 hw.zuimeitianqi.com block
@@ -18649,7 +18639,6 @@ network.sofeminine.co.uk block
 network.tingyun.com block
 networkbench.com block
 new-api.meiqia.com block
-new-service.biliapi.net block
 new.api.ad.xiaomi.com block
 new.cnzz.com block
 new.dashboard.mob.com block
