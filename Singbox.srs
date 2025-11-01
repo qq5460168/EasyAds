@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-11-01 08:15:29
-# 规则总数: 29409
+# 更新时间: 2025-11-01 12:22:25
+# 规则总数: 29426
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -5926,6 +5926,7 @@ domain: apib.shanhutech.cn, policy: reject
 domain: apicdn.viglink.com, policy: reject
 domain: apicloud.mob.com, policy: reject
 domain: apicloud.zol.com.cn, policy: reject
+domain: apidns-js.kwd.inkuai.com, policy: reject
 domain: apidns.kwd.inkuai.com, policy: reject
 domain: apidt.my91app.com, policy: reject
 domain: apidy.vaas.jiguang.cn, policy: reject
@@ -10055,6 +10056,7 @@ domain: dnightwish.xyz, policy: reject
 domain: dnl382.com, policy: reject
 domain: dnms.getui.com, policy: reject
 domain: dnrf0215.com, policy: reject
+domain: dns.iqiyi.com, policy: reject
 domain: dns.jd.com, policy: reject
 domain: dns.jdbcdn.net, policy: reject
 domain: dns.m.sm.cn, policy: reject
@@ -10065,6 +10067,7 @@ domain: dns.weibo.cn, policy: reject
 domain: dns.weixin.qq.com, policy: reject
 domain: dns.weixin.qq.com.cn, policy: reject
 domain: dns1.os20231222.com, policy: reject
+domain: dns2.q2cdn.com, policy: reject
 domain: dnstest.weixin.qq.com, policy: reject
 domain: dnvus.com, policy: reject
 domain: dnyzbp.cn, policy: reject
@@ -10121,6 +10124,7 @@ domain: dotcounter.douyucdn.cn, policy: reject
 domain: dotcounter.douyutv.com, policy: reject
 domain: doting.shouji.360.cn, policy: reject
 domain: dotmore.com.tw, policy: reject
+domain: dotser.douyucdn.cn, policy: reject
 domain: dotserver.douyucdn.cn, policy: reject
 domain: dou777.com, policy: reject
 domain: doubanio.top, policy: reject
@@ -12978,6 +12982,7 @@ domain: hd.hupu.com, policy: reject
 domain: hd.jiedaibao.com, policy: reject
 domain: hd.mall.meizu.com, policy: reject
 domain: hd.mmstat.com, policy: reject
+domain: hd.xiaojukeji.com, policy: reject
 domain: hd.xmy5g.cn, policy: reject
 domain: hd.ylddq.com, policy: reject
 domain: hd2.3g.qq.com, policy: reject
@@ -13384,19 +13389,24 @@ domain: html.yuntzs.com, policy: reject
 domain: html5adkit.plusmo.s3.amazonaws.com, policy: reject
 domain: htqd.k8.com, policy: reject
 domain: htseca.top, policy: reject
+domain: http.kwd.inkuai.com, policy: reject
 domain: httpbin.org, policy: reject
+domain: httpdns-ac.aliyuncs.com, policy: reject
 domain: httpdns-api.aliyuncs.com, policy: reject
 domain: httpdns-browser.platform.dbankcloud.cn, policy: reject
 domain: httpdns-sc.aliyuncs.com, policy: reject
 domain: httpdns-sdk.n.netease.com, policy: reject
+domain: httpdns-v6.gslb.yy.com, policy: reject
 domain: httpdns.alicdn.com, policy: reject
 domain: httpdns.baidu.com, policy: reject
 domain: httpdns.baidubce.com, policy: reject
+domain: httpdns.bcelice.com, policy: reject
 domain: httpdns.bcelive.com, policy: reject
 domain: httpdns.bilivideo.com, policy: reject
 domain: httpdns.browser.miui.com, policy: reject
 domain: httpdns.bz.mgtv.com, policy: reject
 domain: httpdns.c.cdnhwc2.com, policy: reject
+domain: httpdns.calorietech.com, policy: reject
 domain: httpdns.cctv.com, policy: reject
 domain: httpdns.danuoyi.tbcache.com, policy: reject
 domain: httpdns.gslb.yy.com, policy: reject
@@ -13421,10 +13431,13 @@ domain: httpdns.volcengineapi.com, policy: reject
 domain: httpdns.yunxindns.com, policy: reject
 domain: httpdns.zybang.com, policy: reject
 domain: httpdns1.cc.cdnhwc5.com, policy: reject
+domain: httpdnsmultiapi.meituan.com, policy: reject
+domain: httpdnsmultiapivip.meituan.com, policy: reject
 domain: httpkafka.unityads.unity3d.com, policy: reject
 domain: httpring.qq.com, policy: reject
 domain: https-apple.com, policy: reject
 domain: httpsdns.baidu.com, policy: reject
+domain: httpsdns.baidubce.com, policy: reject
 domain: httpsjs.com, policy: reject
 domain: htvixv.xyz, policy: reject
 domain: hu05.7790.com, policy: reject
@@ -21417,6 +21430,7 @@ domain: reshub.qqvideo.gtimg.com, policy: reject
 domain: resolve.umeng.com, policy: reject
 domain: resolver.gslb.mi-idc.com, policy: reject
 domain: resolver.msg.global.xiaomi.net, policy: reject
+domain: resolver.msg.xiaomi.net, policy: reject
 domain: resource.baomihua.com, policy: reject
 domain: resource.f4c99ai.com, policy: reject
 domain: resource.jianli.com, policy: reject
@@ -24122,6 +24136,7 @@ domain: tend.io, policy: reject
 domain: tenddata.com, policy: reject
 domain: tenekslu.com, policy: reject
 domain: tenkaso-ad.oss-cn-shenzhen.aliyuncs.com, policy: reject
+domain: tens.p2p.tun.qq.com, policy: reject
 domain: tepusi888.cn, policy: reject
 domain: terms-drcn.platform.dbankcloud.cn, policy: reject
 domain: terms.alicdn.com, policy: reject
@@ -25257,6 +25272,7 @@ domain: uniformer.biz, policy: reject
 domain: unilog.wostore.cn, policy: reject
 domain: unimhk.com, policy: reject
 domain: union-click.jd.com, policy: reject
+domain: union-httpdns.gslb.yy.com, policy: reject
 domain: union-mlog.bigda.com, policy: reject
 domain: union-wifi.com, policy: reject
 domain: union.360.cn, policy: reject
@@ -28812,6 +28828,7 @@ domain: yy38vip.com, policy: reject
 domain: yy4480qpgyy.com, policy: reject
 domain: yy58ju.com, policy: reject
 domain: yy9vv.com, policy: reject
+domain: yyapp-httpdns.gslb.yy.com, policy: reject
 domain: yyb.pc6.com, policy: reject
 domain: yybadaccess.3g.qq.com, policy: reject
 domain: yyc.10jqka.com.cn, policy: reject

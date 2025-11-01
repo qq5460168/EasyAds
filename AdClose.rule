@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-11-01 08:15:29
-# 规则总数: 29409
+# 更新时间: 2025-11-01 12:22:25
+# 规则总数: 29426
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -5926,6 +5926,7 @@ domain, apib.shanhutech.cn
 domain, apicdn.viglink.com
 domain, apicloud.mob.com
 domain, apicloud.zol.com.cn
+domain, apidns-js.kwd.inkuai.com
 domain, apidns.kwd.inkuai.com
 domain, apidt.my91app.com
 domain, apidy.vaas.jiguang.cn
@@ -10055,6 +10056,7 @@ domain, dnightwish.xyz
 domain, dnl382.com
 domain, dnms.getui.com
 domain, dnrf0215.com
+domain, dns.iqiyi.com
 domain, dns.jd.com
 domain, dns.jdbcdn.net
 domain, dns.m.sm.cn
@@ -10065,6 +10067,7 @@ domain, dns.weibo.cn
 domain, dns.weixin.qq.com
 domain, dns.weixin.qq.com.cn
 domain, dns1.os20231222.com
+domain, dns2.q2cdn.com
 domain, dnstest.weixin.qq.com
 domain, dnvus.com
 domain, dnyzbp.cn
@@ -10121,6 +10124,7 @@ domain, dotcounter.douyucdn.cn
 domain, dotcounter.douyutv.com
 domain, doting.shouji.360.cn
 domain, dotmore.com.tw
+domain, dotser.douyucdn.cn
 domain, dotserver.douyucdn.cn
 domain, dou777.com
 domain, doubanio.top
@@ -12978,6 +12982,7 @@ domain, hd.hupu.com
 domain, hd.jiedaibao.com
 domain, hd.mall.meizu.com
 domain, hd.mmstat.com
+domain, hd.xiaojukeji.com
 domain, hd.xmy5g.cn
 domain, hd.ylddq.com
 domain, hd2.3g.qq.com
@@ -13384,19 +13389,24 @@ domain, html.yuntzs.com
 domain, html5adkit.plusmo.s3.amazonaws.com
 domain, htqd.k8.com
 domain, htseca.top
+domain, http.kwd.inkuai.com
 domain, httpbin.org
+domain, httpdns-ac.aliyuncs.com
 domain, httpdns-api.aliyuncs.com
 domain, httpdns-browser.platform.dbankcloud.cn
 domain, httpdns-sc.aliyuncs.com
 domain, httpdns-sdk.n.netease.com
+domain, httpdns-v6.gslb.yy.com
 domain, httpdns.alicdn.com
 domain, httpdns.baidu.com
 domain, httpdns.baidubce.com
+domain, httpdns.bcelice.com
 domain, httpdns.bcelive.com
 domain, httpdns.bilivideo.com
 domain, httpdns.browser.miui.com
 domain, httpdns.bz.mgtv.com
 domain, httpdns.c.cdnhwc2.com
+domain, httpdns.calorietech.com
 domain, httpdns.cctv.com
 domain, httpdns.danuoyi.tbcache.com
 domain, httpdns.gslb.yy.com
@@ -13421,10 +13431,13 @@ domain, httpdns.volcengineapi.com
 domain, httpdns.yunxindns.com
 domain, httpdns.zybang.com
 domain, httpdns1.cc.cdnhwc5.com
+domain, httpdnsmultiapi.meituan.com
+domain, httpdnsmultiapivip.meituan.com
 domain, httpkafka.unityads.unity3d.com
 domain, httpring.qq.com
 domain, https-apple.com
 domain, httpsdns.baidu.com
+domain, httpsdns.baidubce.com
 domain, httpsjs.com
 domain, htvixv.xyz
 domain, hu05.7790.com
@@ -21417,6 +21430,7 @@ domain, reshub.qqvideo.gtimg.com
 domain, resolve.umeng.com
 domain, resolver.gslb.mi-idc.com
 domain, resolver.msg.global.xiaomi.net
+domain, resolver.msg.xiaomi.net
 domain, resource.baomihua.com
 domain, resource.f4c99ai.com
 domain, resource.jianli.com
@@ -24122,6 +24136,7 @@ domain, tend.io
 domain, tenddata.com
 domain, tenekslu.com
 domain, tenkaso-ad.oss-cn-shenzhen.aliyuncs.com
+domain, tens.p2p.tun.qq.com
 domain, tepusi888.cn
 domain, terms-drcn.platform.dbankcloud.cn
 domain, terms.alicdn.com
@@ -25257,6 +25272,7 @@ domain, uniformer.biz
 domain, unilog.wostore.cn
 domain, unimhk.com
 domain, union-click.jd.com
+domain, union-httpdns.gslb.yy.com
 domain, union-mlog.bigda.com
 domain, union-wifi.com
 domain, union.360.cn
@@ -28812,6 +28828,7 @@ domain, yy38vip.com
 domain, yy4480qpgyy.com
 domain, yy58ju.com
 domain, yy9vv.com
+domain, yyapp-httpdns.gslb.yy.com
 domain, yyb.pc6.com
 domain, yybadaccess.3g.qq.com
 domain, yyc.10jqka.com.cn

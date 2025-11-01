@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-11-01 16:15:29
-! 有效规则数量: 38878 条
+! 规则更新时间: 2025-11-01 20:22:26
+! 有效规则数量: 38893 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -857,8 +857,8 @@
 ||vlion.cn^
 ||yfanads.com^
 ||zhangyuyidong.cn^
-140.82.114.26                 alive.github.com
-20.205.243.168                api.github.com
+140.82.112.26                 alive.github.com
+140.82.113.5                  api.github.com
 140.82.114.22                 api.individual.githubcopilot.com
 185.199.108.133               avatars.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
@@ -871,31 +871,31 @@
 140.82.114.22                 central.github.com
 185.199.108.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.113.22                 collector.github.com
+140.82.112.22                 collector.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com
-3.5.21.127                    github-cloud.s3.amazonaws.com
-3.5.2.1                       github-com.s3.amazonaws.com
-16.15.184.238                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.203.185                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.182.12                  github-production-user-asset-6210df.s3.amazonaws.com
+3.5.0.210                     github-cloud.s3.amazonaws.com
+3.5.8.131                     github-com.s3.amazonaws.com
+16.15.179.106                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.105.105                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.102.20                 github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.112.17                 github.community
+140.82.114.18                 github.community
 185.199.110.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
 185.199.110.153               github.io
 185.199.108.133               github.map.fastly.net
 185.199.110.153               githubstatus.com
-140.82.113.25                 live.github.com
+140.82.113.26                 live.github.com
 185.199.108.133               media.githubusercontent.com
 185.199.108.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 13.107.213.73                 vscode.dev  # Timeout
-140.82.113.21                 education.github.com
+140.82.112.22                 education.github.com
 185.199.108.133               private-user-images.githubusercontent.com
 127.0.0.1 localhost
 108.177.125.188 mtalk.google.com  #台湾
@@ -6005,6 +6005,61 @@
 0.0.0.0 adshows.21cn.com  #天翼云盘抓出来的，有他没他都不影响开屏、弹窗广告
 0.0.0.0 tk2.xfadx.com  #安兔兔
 0.0.0.0 t.ag.b9ad.com  #安兔兔
+||yyapp-httpdns.gslb.yy.com^
+||union-httpdns.gslb.yy.com^
+||httpdns-v6.gslb.yy.com^
+||dns2.q2cdn.com^
+||dns.weixin.qq.com^
+||dns.weixin.qq.com.cn^
+||httpdns.kg.qq.com^
+||httpdns.browser.miui.com^
+||resolver.msg.xiaomi.net^
+||httpdns.alicdn.com^
+||httpdns-api.aliyuncs.com^
+||httpdns-ac.aliyuncs.com^
+||httpdns.danuoyi.tbcache.com^
+||httpdns.cctv.com^
+||httpdns-browser.platform.dbankcloud.cn^
+||httpdns.huaweicloud.com^
+||httpdns.c.cdnhwc2.com^
+||httpdns.platform.dbankcloud.cn^
+||httpdns.platform.dbankcloud.com^
+||httpdns1.cc.cdnhwc5.com^
+||doh.ptqy.gitv.tv^
+||httpdns.baidu.com^
+||httpsdns.baidu.com^
+||httpdns.bcelice.com^
+||httpsdns.baidubce.com^
+||dns.iqiyi.com^
+||doh.iqiyi.com^
+||dns.qiyipic.iqiyi.com^
+||httpdns.n.shifen.com^
+||httpdns.ocloud.heytapmobi.com^
+||httpdns.push.heytapmobi.com^
+||dns.jd.com^
+||dotser.douyucdn.cn^
+||hdns.ksyun.com^
+||httpdns.push.oppomobile.com^
+||kuaishou.httpdns.pro^
+||http.kwd.inkuai.com^
+||apidns.kwd.inkuai.com^
+||apidns-js.kwd.inkuai.com^
+||httpdns.meituan.com^
+||httpdnsmultiapi.meituan.com^
+||httpdnsmultiapivip.meituan.com^
+||httpdns.music.163.com^
+||httpdns.n.netease.com^
+||httpdns-sdk.n.netease.com^
+||httpdns.yunxindns.com^
+||lofter.httpdns.c.163.com^
+||music.httpdns.c.163.com^
+||httpdns.zybang.com^
+||httpdns.calorietech.com^
+||dns.weibo.cn^
+||hd.xiaojukeji.com^
+||serveraddr.service.kugou.com^
+||tens.p2p.tun.qq.com^
+||tp2p.kg.qq.com^
 ||httpdns.bilivideo.com^
 ||dataflow.biliapi.com^
 ||impression.biligame.com^
@@ -6450,7 +6505,6 @@
 ||musicps.p2p.qq.com^
 ||musicstun.p2p.qq.com^
 ||musicpunch.p2p.qq.com^
-||tp2p.kg.qq.com^
 ||twns.p2ptun.qq.com^
 ||configsvr.msf.3g.qq.com^
 ||up-hl.3g.qq.com^
@@ -6535,7 +6589,6 @@
 ||as.yyymvp.com^
 ||aedns.weixin.qq.com^
 ||udns.weixin.qq.com^
-||dns.weixin.qq.com^
 ||oth.eve.qq.com^
 ||access.toggle.qq.com^
 ||3gsoftfile.tc.qq.com^
@@ -6657,7 +6710,6 @@
 ||apollo.map.qq.com^
 ||confinfo.map.qq.com^
 ||corssdk.map.qq.com^
-||httpdns.kg.qq.com^
 ||ssp.tencentmusic.com^
 ||adtest.tencentmusic.com^
 ||symphony-1253690380.cos.ap-guangzhou.myqcloud.com^
@@ -6892,7 +6944,6 @@
 ||maplocatesdksnapshot.d.meituan.net^
 ||metrics-picture.d.meituan.net^
 ||route-stats.d.meituan.net^
-||httpdns.meituan.com^
 ||meituanwang.metaaircraftcarrier.com^  
 ||mads.meituan.com^
 ||v6-adashx.ut.cainiao.com^
@@ -7402,7 +7453,7 @@
 ||zd.fzmf.cn^
 ||j5z.cn^
 ||j5z.cn.w.kunlunaq.com^
-||uk.sgrrz.cn^$important
+||uk.sgrrz.cn^
 ||k3l.cn^
 ||k3l.cn.w.kunlunpi.com^
 ||vip.k3l.cn^
@@ -14979,7 +15030,6 @@
 ||adsor.openrunner.com^
 ||imagzine.oppomobile.com^
 ||i.flow.browser.oppomobile.com^
-||httpdns.push.oppomobile.com^
 ||e.opqsr.com^
 ||m.opqsr.com^
 ||cdn.optaim.com^
@@ -17565,11 +17615,7 @@
 ||zhizi.qq.com^
 ||proxy.svc.litv.tv^
 ||static.hae123.cn^
-||httpdns.alicdn.com^
-||httpdns-browser.platform.dbankcloud.cn^
 ||edge.wshttpdns.com^
-||kuaishou.httpdns.pro^
-||httpdns.platform.dbankcloud.com^
 ||ulogjs.ksapisrv.com^
 ||log5-applog-hl.fqnovel.com^
 ||rtlog5-applog-hl.fqnovel.com^
@@ -18606,7 +18652,6 @@
 ||dncvj.cn^
 ||dnightwish.xyz^
 ||dnrf0215.com^
-||dns.weibo.cn^
 ||dnyzbp.cn^
 ||dnzmhr.xyz^
 ||doccd.xyz^
@@ -25190,7 +25235,6 @@
 ||apicdn.viglink.com^
 ||apicloud.mob.com^
 ||apicloud.zol.com.cn^
-||apidns.kwd.inkuai.com^
 ||apidt.my91app.com^
 ||apidy.vaas.jiguang.cn^
 ||apihb6.gifshow.com^
@@ -26810,12 +26854,9 @@
 ||dnciy.rwzuspf.com^
 ||dnet.mb.qq.com^
 ||dnms.getui.com^
-||dns.jd.com^
 ||dns.jdbcdn.net^
 ||dns.m.sm.cn^
-||dns.qiyipic.iqiyi.com^
 ||dns.wechat.com^
-||dns.weixin.qq.com.cn^
 ||dns1.os20231222.com^
 ||dnstest.weixin.qq.com^
 ||doc.admobile.top^
@@ -26828,8 +26869,6 @@
 ||docs.jpush.cn^
 ||docs.tradplusad.com^
 ||doh.dns.apple.com^
-||doh.iqiyi.com^
-||doh.ptqy.gitv.tv^
 ||doh.pub^
 ||doll-public.huiyuewang.cn^
 ||domainsguardian.com.^
@@ -27948,7 +27987,6 @@
 ||hd.xmy5g.cn^
 ||hdc49.cc^
 ||hdmzf.cn^
-||hdns.ksyun.com^
 ||hds03.net^
 ||hdty.ag8.com^
 ||hdw0c0d.cc^
@@ -28104,32 +28142,14 @@
 ||html5adkit.plusmo.s3.amazonaws.com^
 ||htqd.k8.com^
 ||httpbin.org^
-||httpdns-api.aliyuncs.com^
 ||httpdns-sc.aliyuncs.com^
-||httpdns-sdk.n.netease.com^
-||httpdns.baidu.com^
 ||httpdns.baidubce.com^
-||httpdns.browser.miui.com^
 ||httpdns.bz.mgtv.com^
-||httpdns.c.cdnhwc2.com^
-||httpdns.cctv.com^
-||httpdns.danuoyi.tbcache.com^
 ||httpdns.gslb.yy.com^
-||httpdns.huaweicloud.com^
 ||httpdns.immomo.com^
-||httpdns.music.163.com^
-||httpdns.n.netease.com^
-||httpdns.n.shifen.com^
 ||httpdns.ng.imgo.tv^
-||httpdns.ocloud.heytapmobi.com^
-||httpdns.platform.dbankcloud.cn^
-||httpdns.push.heytapmobi.com^
 ||httpdns.tantanapp.com^
 ||httpdns.volcengineapi.com^
-||httpdns.yunxindns.com^
-||httpdns.zybang.com^
-||httpdns1.cc.cdnhwc5.com^
-||httpsdns.baidu.com^
 ||hu05.7790.com^
 ||hua.com^
 ||hua8889.top^
@@ -29291,7 +29311,6 @@
 ||lo.swt.gold^
 ||lobby1-live.cn.codm.qq.com^
 ||location.ximalaya.com^
-||lofter.httpdns.c.163.com^
 ||log-api.aplus.emas-poc.com^
 ||log-api.oceanengine.com^
 ||log-auth.flysleep.cn^
@@ -29966,7 +29985,6 @@
 ||mum.alibabachengdun.com^
 ||mum.hzchengdun.com^
 ||mum.m.alibaba.com^
-||music.httpdns.c.163.com^
 ||musical-6633-amxpj-vip.japaneast.cloudapp.azure.com^
 ||musical-929-vnsr-vip.japaneast.cloudapp.azure.com^
 ||muvk.720lu.com^
@@ -31740,7 +31758,6 @@
 ||server-tx.cklou.com^
 ||server.taofen8.com^
 ||server.zqdjy.cn^
-||serveraddr.service.kugou.com^
 ||serverip.sdk.quicksdk.net^
 ||service.codeffect.top^
 ||service.jiagu.360.cn^
@@ -32829,6 +32846,7 @@
 ||uiyerdsdf.lb54hon504ke.com^
 ||ujoy.anythinktech.com^
 ||ujpi.154.com^
+||uk.sgrrz.cn^$important
 ||uk.umengcloud.com^
 ||uk8f.cl.app^
 ||ul.soulapp.cn^
@@ -35182,10 +35200,7 @@
 0.0.0.0 ntp.nc.gifshow.com
 0.0.0.0 bd-livemate.pull.yximgs.com
 0.0.0.0 pull.yximgs.com
-0.0.0.0 yximgs.com
 0.0.0.0 etoote.com
-0.0.0.0 bcelive.com
-0.0.0.0 gifshow.com
 0.0.0.0 jscmmov.a.etoote.com
 0.0.0.0 bdcm.a.etoote.com
 0.0.0.0 bdcmmov.a.etoote.com

@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-11-01 08:15:29
-# 规则总数: 29409
+# 更新时间: 2025-11-01 12:22:25
+# 规则总数: 29426
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -5926,6 +5926,7 @@ apib.shanhutech.cn block
 apicdn.viglink.com block
 apicloud.mob.com block
 apicloud.zol.com.cn block
+apidns-js.kwd.inkuai.com block
 apidns.kwd.inkuai.com block
 apidt.my91app.com block
 apidy.vaas.jiguang.cn block
@@ -10055,6 +10056,7 @@ dnightwish.xyz block
 dnl382.com block
 dnms.getui.com block
 dnrf0215.com block
+dns.iqiyi.com block
 dns.jd.com block
 dns.jdbcdn.net block
 dns.m.sm.cn block
@@ -10065,6 +10067,7 @@ dns.weibo.cn block
 dns.weixin.qq.com block
 dns.weixin.qq.com.cn block
 dns1.os20231222.com block
+dns2.q2cdn.com block
 dnstest.weixin.qq.com block
 dnvus.com block
 dnyzbp.cn block
@@ -10121,6 +10124,7 @@ dotcounter.douyucdn.cn block
 dotcounter.douyutv.com block
 doting.shouji.360.cn block
 dotmore.com.tw block
+dotser.douyucdn.cn block
 dotserver.douyucdn.cn block
 dou777.com block
 doubanio.top block
@@ -12978,6 +12982,7 @@ hd.hupu.com block
 hd.jiedaibao.com block
 hd.mall.meizu.com block
 hd.mmstat.com block
+hd.xiaojukeji.com block
 hd.xmy5g.cn block
 hd.ylddq.com block
 hd2.3g.qq.com block
@@ -13384,19 +13389,24 @@ html.yuntzs.com block
 html5adkit.plusmo.s3.amazonaws.com block
 htqd.k8.com block
 htseca.top block
+http.kwd.inkuai.com block
 httpbin.org block
+httpdns-ac.aliyuncs.com block
 httpdns-api.aliyuncs.com block
 httpdns-browser.platform.dbankcloud.cn block
 httpdns-sc.aliyuncs.com block
 httpdns-sdk.n.netease.com block
+httpdns-v6.gslb.yy.com block
 httpdns.alicdn.com block
 httpdns.baidu.com block
 httpdns.baidubce.com block
+httpdns.bcelice.com block
 httpdns.bcelive.com block
 httpdns.bilivideo.com block
 httpdns.browser.miui.com block
 httpdns.bz.mgtv.com block
 httpdns.c.cdnhwc2.com block
+httpdns.calorietech.com block
 httpdns.cctv.com block
 httpdns.danuoyi.tbcache.com block
 httpdns.gslb.yy.com block
@@ -13421,10 +13431,13 @@ httpdns.volcengineapi.com block
 httpdns.yunxindns.com block
 httpdns.zybang.com block
 httpdns1.cc.cdnhwc5.com block
+httpdnsmultiapi.meituan.com block
+httpdnsmultiapivip.meituan.com block
 httpkafka.unityads.unity3d.com block
 httpring.qq.com block
 https-apple.com block
 httpsdns.baidu.com block
+httpsdns.baidubce.com block
 httpsjs.com block
 htvixv.xyz block
 hu05.7790.com block
@@ -21417,6 +21430,7 @@ reshub.qqvideo.gtimg.com block
 resolve.umeng.com block
 resolver.gslb.mi-idc.com block
 resolver.msg.global.xiaomi.net block
+resolver.msg.xiaomi.net block
 resource.baomihua.com block
 resource.f4c99ai.com block
 resource.jianli.com block
@@ -24122,6 +24136,7 @@ tend.io block
 tenddata.com block
 tenekslu.com block
 tenkaso-ad.oss-cn-shenzhen.aliyuncs.com block
+tens.p2p.tun.qq.com block
 tepusi888.cn block
 terms-drcn.platform.dbankcloud.cn block
 terms.alicdn.com block
@@ -25257,6 +25272,7 @@ uniformer.biz block
 unilog.wostore.cn block
 unimhk.com block
 union-click.jd.com block
+union-httpdns.gslb.yy.com block
 union-mlog.bigda.com block
 union-wifi.com block
 union.360.cn block
@@ -28812,6 +28828,7 @@ yy38vip.com block
 yy4480qpgyy.com block
 yy58ju.com block
 yy9vv.com block
+yyapp-httpdns.gslb.yy.com block
 yyb.pc6.com block
 yybadaccess.3g.qq.com block
 yyc.10jqka.com.cn block
