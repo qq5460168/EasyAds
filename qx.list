@@ -34,6 +34,7 @@ DOMAIN,ad.zijieapi.com,reject
 DOMAIN,adapi.izuiyou.com,reject
 DOMAIN,adapi.yynetwk.com,reject
 DOMAIN,adashbc.ut.taobao.com,reject
+DOMAIN,adashx.m.taobao.com,reject
 DOMAIN,adc.hpplay.cn,reject
 DOMAIN,adcdn.hpplay.cn,reject
 DOMAIN,adcdn.tencentmusic.com,reject
@@ -1311,7 +1312,6 @@ DOMAIN,h-adashx4bc.ut.taobao.com,reject
 DOMAIN,trade.taobao.com,reject
 DOMAIN,taobao.qq.com,reject
 DOMAIN,sjarvis.taobao.com,reject
-DOMAIN,adashx.m.taobao.com,reject
 DOMAIN,tns.simba.taobao.com,reject
 DOMAIN,ud.click.taobao.com,reject
 DOMAIN,r.release.qq.com,reject

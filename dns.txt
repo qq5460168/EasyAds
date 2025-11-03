@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-11-03 08:19:36.143266
+# Generated on 2025-11-03 12:27:20.876399
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -37,6 +37,7 @@
 ||adapi.izuiyou.com^
 ||adapi.yynetwk.com^
 ||adashbc.ut.taobao.com^
+||adashx.m.taobao.com^
 ||adc.hpplay.cn^
 ||adcdn.hpplay.cn^
 ||adcdn.tencentmusic.com^
@@ -1332,7 +1333,6 @@
 ||trade.taobao.com^
 ||taobao.qq.com^
 ||sjarvis.taobao.com^
-||adashx.m.taobao.com^
 ||tns.simba.taobao.com^
 ||ud.click.taobao.com^
 ||r.release.qq.com^

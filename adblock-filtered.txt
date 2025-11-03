@@ -34,6 +34,7 @@
 ||adapi.izuiyou.com^
 ||adapi.yynetwk.com^
 ||adashbc.ut.taobao.com^
+||adashx.m.taobao.com^
 ||adc.hpplay.cn^
 ||adcdn.hpplay.cn^
 ||adcdn.tencentmusic.com^
@@ -1329,7 +1330,6 @@
 ||trade.taobao.com^
 ||taobao.qq.com^
 ||sjarvis.taobao.com^
-||adashx.m.taobao.com^
 ||tns.simba.taobao.com^
 ||ud.click.taobao.com^
 ||r.release.qq.com^
