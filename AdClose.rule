@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-11-05 04:16:40
-# 规则总数: 29426
+# 更新时间: 2025-11-05 08:18:24
+# 规则总数: 29427
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -13864,6 +13864,7 @@ domain, ie8ao7fh.cm1z6sdrdb3g5eb.loan
 domain, ie8eamus.com
 domain, iebar.baidu.com
 domain, ieeod0.com
+domain, iefmvk.cn
 domain, iemwbu.cn
 domain, ieog201d211jvdfbjk.com
 domain, ieonline.microsoft.com

@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-11-05 04:16:40
-# 规则总数: 29426
+# 更新时间: 2025-11-05 08:18:24
+# 规则总数: 29427
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -13864,6 +13864,7 @@
 0.0.0.0 ie8eamus.com
 0.0.0.0 iebar.baidu.com
 0.0.0.0 ieeod0.com
+0.0.0.0 iefmvk.cn
 0.0.0.0 iemwbu.cn
 0.0.0.0 ieog201d211jvdfbjk.com
 0.0.0.0 ieonline.microsoft.com

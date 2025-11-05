@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-11-05 04:16:40
-# 规则总数: 29426
+# 更新时间: 2025-11-05 08:18:24
+# 规则总数: 29427
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -13864,6 +13864,7 @@ domain: ie8ao7fh.cm1z6sdrdb3g5eb.loan, policy: reject
 domain: ie8eamus.com, policy: reject
 domain: iebar.baidu.com, policy: reject
 domain: ieeod0.com, policy: reject
+domain: iefmvk.cn, policy: reject
 domain: iemwbu.cn, policy: reject
 domain: ieog201d211jvdfbjk.com, policy: reject
 domain: ieonline.microsoft.com, policy: reject

@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-11-05 04:16:39
-# 规则总数: 29426
+# 更新时间: 2025-11-05 08:18:24
+# 规则总数: 29427
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -13865,6 +13865,7 @@ payload:
   - 'ie8eamus.com'
   - 'iebar.baidu.com'
   - 'ieeod0.com'
+  - 'iefmvk.cn'
   - 'iemwbu.cn'
   - 'ieog201d211jvdfbjk.com'
   - 'ieonline.microsoft.com'
