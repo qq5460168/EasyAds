@@ -3716,7 +3716,6 @@ DOMAIN,v6-adashx.ut.ele.me,reject
 DOMAIN,v6-adashx.ut.amap.com,reject
 DOMAIN,ad-audit-provider.soulapp.cn,reject
 DOMAIN,o2o-ad-log-gateway.alibaba.com,reject
-DOMAIN,default.cn.zb.wagbridge.ad.alibabacorp.com.gds.alibabadns.com,reject
 DOMAIN,secgw-default.cn.nt.wagbridge.ad.alibabacorp.com.gds.alibabadns.com,reject
 DOMAIN,m1.ad.10010.com.w.cdngslb.com,reject
 DOMAIN,business-ad.cdn-go.cn,reject
@@ -21481,6 +21480,7 @@ DOMAIN,de-nis-ner-mi-5.info,reject
 DOMAIN,de88deggtp89.com,reject
 DOMAIN,def.smartlifebr.com,reject
 DOMAIN,def.yhfi3.top,reject
+DOMAIN,default.cn.zb.wagbridge.ad.alibabacorp.com.gds.alibabadns.com,reject
 DOMAIN,dehx.011.com,reject
 DOMAIN,delivery-data.dewu.com,reject
 DOMAIN,delivery-node-aziz.voe-network.net,reject

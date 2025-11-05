@@ -3737,7 +3737,6 @@
 ||v6-adashx.ut.amap.com^
 ||ad-audit-provider.soulapp.cn^
 ||o2o-ad-log-gateway.alibaba.com^
-||default.cn.zb.wagbridge.ad.alibabacorp.com.gds.alibabadns.com^
 ||secgw-default.cn.nt.wagbridge.ad.alibabacorp.com.gds.alibabadns.com^
 ||m1.ad.10010.com.w.cdngslb.com^
 ||business-ad.cdn-go.cn^
@@ -21539,6 +21538,7 @@
 ||de88deggtp89.com^
 ||def.smartlifebr.com^
 ||def.yhfi3.top^
+||default.cn.zb.wagbridge.ad.alibabacorp.com.gds.alibabadns.com^
 ||dehx.011.com^
 ||delivery-data.dewu.com^
 ||delivery-node-aziz.voe-network.net^
