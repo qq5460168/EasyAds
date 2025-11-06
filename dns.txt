@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-11-06 12:26:19.147373
+# Generated on 2025-11-06 16:17:33.038404
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -3806,7 +3806,6 @@
 ||oceanengine.com^
 ||amcn.bytedance.com^
 ||api.megvii.com^
-||bytedanceapi.com^
 ||api.ads66.com^
 ||tradplusad.com^
 ||api.wqycq.com^
@@ -20647,6 +20646,7 @@
 ||by6pw.cc^
 ||bydsp30.com^
 ||byoc.143.cc^
+||bytedanceapi.com^
 ||bytetcc.com^
 ||bz5.sj8s0j7.cn^
 ||bzcnfwlqijtvdwvx.top^

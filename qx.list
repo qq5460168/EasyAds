@@ -3782,7 +3782,6 @@ DOMAIN,apps.bytesfield-b.com,reject
 DOMAIN,oceanengine.com,reject
 DOMAIN,amcn.bytedance.com,reject
 DOMAIN,api.megvii.com,reject
-DOMAIN,bytedanceapi.com,reject
 DOMAIN,api.ads66.com,reject
 DOMAIN,tradplusad.com,reject
 DOMAIN,api.wqycq.com,reject
@@ -20588,6 +20587,7 @@ DOMAIN,by2257.vip,reject
 DOMAIN,by6pw.cc,reject
 DOMAIN,bydsp30.com,reject
 DOMAIN,byoc.143.cc,reject
+DOMAIN,bytedanceapi.com,reject
 DOMAIN,bytetcc.com,reject
 DOMAIN,bz5.sj8s0j7.cn,reject
 DOMAIN,bzcnfwlqijtvdwvx.top,reject

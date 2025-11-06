@@ -3803,7 +3803,6 @@
 ||oceanengine.com^
 ||amcn.bytedance.com^
 ||api.megvii.com^
-||bytedanceapi.com^
 ||api.ads66.com^
 ||tradplusad.com^
 ||api.wqycq.com^
@@ -20644,6 +20643,7 @@
 ||by6pw.cc^
 ||bydsp30.com^
 ||byoc.143.cc^
+||bytedanceapi.com^
 ||bytetcc.com^
 ||bz5.sj8s0j7.cn^
 ||bzcnfwlqijtvdwvx.top^
