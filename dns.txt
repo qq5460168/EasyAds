@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-11-08 08:15:29.614183
+# Generated on 2025-11-08 12:22:36.734117
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -1569,7 +1569,6 @@
 ||privacy.qq.com^
 ||d3g.qq.com^
 ||mdc.html5.qq.com^
-||rule.tencent.com^
 ||diffpkg.browser.qq.com^
 ||news.l.qq.com^
 ||st.tencent-cloud.com^
@@ -26110,6 +26109,7 @@
 ||rtmretry.kugou.com^
 ||rttrack.ddxq.mobi^
 ||ru.mmstat.com^
+||rule.tencent.com^
 ||rv-gateway.supersonicads.com^
 ||rv68.cc^
 ||rvdr6u.cc^

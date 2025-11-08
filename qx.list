@@ -1548,7 +1548,6 @@ DOMAIN,h5.gdt.qq.com,reject
 DOMAIN,privacy.qq.com,reject
 DOMAIN,d3g.qq.com,reject
 DOMAIN,mdc.html5.qq.com,reject
-DOMAIN,rule.tencent.com,reject
 DOMAIN,diffpkg.browser.qq.com,reject
 DOMAIN,news.l.qq.com,reject
 DOMAIN,st.tencent-cloud.com,reject
@@ -26029,6 +26028,7 @@ DOMAIN,rtlog5-applog-lf.fqnovel.com,reject
 DOMAIN,rtmretry.kugou.com,reject
 DOMAIN,rttrack.ddxq.mobi,reject
 DOMAIN,ru.mmstat.com,reject
+DOMAIN,rule.tencent.com,reject
 DOMAIN,rv-gateway.supersonicads.com,reject
 DOMAIN,rv68.cc,reject
 DOMAIN,rvdr6u.cc,reject
