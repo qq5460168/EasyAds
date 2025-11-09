@@ -4992,7 +4992,6 @@ DOMAIN,hccms.com.cn,reject
 DOMAIN,huishenghuiying.com.cn,reject
 DOMAIN,jihehuaban.com.cn,reject
 DOMAIN,jj123.com.cn,reject
-DOMAIN,mairuan.com.cn,reject
 DOMAIN,maskbaby.com.cn,reject
 DOMAIN,moodoocrv.com.cn,reject
 DOMAIN,moonwish.com.cn,reject
@@ -24278,6 +24277,7 @@ DOMAIN,mail.domob.cn,reject
 DOMAIN,mail.jpush.cn,reject
 DOMAIN,mail.mps.gov.cn,reject
 DOMAIN,main.nextapistep.xyz,reject
+DOMAIN,mairuan.com.cn,reject
 DOMAIN,mala.cn,reject
 DOMAIN,mall-static.speedtest.cn,reject
 DOMAIN,mall.bilibili.com,reject

@@ -5013,7 +5013,6 @@
 ||huishenghuiying.com.cn^
 ||jihehuaban.com.cn^
 ||jj123.com.cn^
-||mairuan.com.cn^
 ||maskbaby.com.cn^
 ||moodoocrv.com.cn^
 ||moonwish.com.cn^
@@ -24350,6 +24349,7 @@
 ||mail.jpush.cn^
 ||mail.mps.gov.cn^
 ||main.nextapistep.xyz^
+||mairuan.com.cn^
 ||mala.cn^
 ||mall-static.speedtest.cn^
 ||mall.bilibili.com^
