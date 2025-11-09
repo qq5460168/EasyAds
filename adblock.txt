@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-11-09 16:14:48
-! 有效规则数量: 38906 条
+! 规则更新时间: 2025-11-09 20:22:30
+! 有效规则数量: 38912 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -858,46 +858,46 @@
 ||vlion.cn^
 ||yfanads.com^
 ||zhangyuyidong.cn^
-140.82.113.26                 alive.github.com
+140.82.114.25                 alive.github.com
 20.205.243.168                api.github.com
-140.82.112.21                 api.individual.githubcopilot.com
-185.199.111.133               avatars.githubusercontent.com
-185.199.111.133               avatars0.githubusercontent.com
-185.199.111.133               avatars1.githubusercontent.com
-185.199.111.133               avatars2.githubusercontent.com
-185.199.111.133               avatars3.githubusercontent.com
-185.199.111.133               avatars4.githubusercontent.com
-185.199.111.133               avatars5.githubusercontent.com
-185.199.111.133               camo.githubusercontent.com
-140.82.112.22                 central.github.com
-185.199.111.133               cloud.githubusercontent.com
+140.82.114.22                 api.individual.githubcopilot.com
+185.199.108.133               avatars.githubusercontent.com
+185.199.108.133               avatars0.githubusercontent.com
+185.199.108.133               avatars1.githubusercontent.com
+185.199.108.133               avatars2.githubusercontent.com
+185.199.108.133               avatars3.githubusercontent.com
+185.199.108.133               avatars4.githubusercontent.com
+185.199.108.133               avatars5.githubusercontent.com
+185.199.108.133               camo.githubusercontent.com
+140.82.113.21                 central.github.com
+185.199.108.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.113.21                 collector.github.com
-185.199.111.133               desktop.githubusercontent.com
-185.199.111.133               favicons.githubusercontent.com
+140.82.114.21                 collector.github.com
+185.199.108.133               desktop.githubusercontent.com
+185.199.108.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com
-52.217.224.1                  github-cloud.s3.amazonaws.com
-52.217.165.65                 github-com.s3.amazonaws.com
-52.217.18.220                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.204.225                github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.1.199                     github-production-user-asset-6210df.s3.amazonaws.com
+3.5.9.201                     github-cloud.s3.amazonaws.com
+3.5.21.131                    github-com.s3.amazonaws.com
+16.15.191.255                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.178.100                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.13.153                    github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
-20.205.243.166                github.com
+140.82.114.4                  github.com
 140.82.113.17                 github.community
 185.199.109.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
 185.199.109.153               github.io
-185.199.111.133               github.map.fastly.net
+185.199.108.133               github.map.fastly.net
 185.199.109.153               githubstatus.com
-140.82.114.26                 live.github.com
-185.199.111.133               media.githubusercontent.com
-185.199.111.133               objects.githubusercontent.com
+140.82.112.26                 live.github.com
+185.199.108.133               media.githubusercontent.com
+185.199.108.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.111.133               raw.githubusercontent.com
-185.199.111.133               user-images.githubusercontent.com
+185.199.108.133               raw.githubusercontent.com
+185.199.108.133               user-images.githubusercontent.com
 13.107.213.73                 vscode.dev  # Timeout
-140.82.114.22                 education.github.com
-185.199.111.133               private-user-images.githubusercontent.com
+140.82.112.21                 education.github.com
+185.199.108.133               private-user-images.githubusercontent.com
 127.0.0.1 localhost
 108.177.125.188 mtalk.google.com  #台湾
 142.251.170.188 alt1-mtalk.google.com #TW
@@ -36159,18 +36159,19 @@
 169.150.249.166 image.tmdb.org
 54.192.18.90 themoviedb.org
 23.48.224.239 oxygenos.oneplus.net
-@@||mini-game-gl.heytapmobile.com^$important
-@@||games-community-gl.heytapmobile.com^$important
-@@||jomodns.com^$important
-@@||bcelive.com^$important
-@@||p4-ad.adukwai.com^$important
+@@||www.sygjx.com^
+@@||mini-game-gl.heytapmobile.com^
+@@||games-community-gl.heytapmobile.com^
+@@||jomodns.com^
+@@||bcelive.com^
+@@||p4-ad.adukwai.com^
 @@||m.jf.10010.com^
 @@||aisite.wejianzhan.com^
 @@||smarthome-drcn.dbankcdn.com^
 @@||metrics1-drcn.dt.dbankcloud.cn^
 @@||mall.csdn.net^
 @@||free-aos-cdn-image.amap.com^
-@@||store.is.autonavi.com^$important
+@@||store.is.autonavi.com^
 @@||anythinktech.com^
 @@||h35.ynodd.cn^$
 @@||api.crashguard.me^
@@ -36327,7 +36328,7 @@
 @@||teams.live.com^
 @@||limbopro.com^
 @@||img.mp.itc.cn^
-@@||webapi.amap.com^$important
+@@||webapi.amap.com^
 @@||aps.amap.com^
 @@||mpsapi.amap.com^
 @@||40017.cn^
@@ -36439,7 +36440,7 @@
 @@||about.gitlab.cn^
 @@||increase-openapi.soulapp.cn^
 @@||api-pay.soulapp.cn^
-@@||api-chat.soulapp.cn^$important
+@@||api-chat.soulapp.cn^
 @@||img.jbzj.com^
 @@||p3-sign.bdxiguaimg.com^
 @@||p26-sign.bdxiguaimg.com^
@@ -36563,7 +36564,7 @@
 @@||m.dianping.com^
 @@||osp.meituan.net^
 @@||s0.meituan.net^
-@@||isite.baidu.com^$important
+@@||isite.baidu.com^
 @@||api.map.baidu.com^
 @@||dss0.bdstatic.com^
 @@||www.dxmpay.com^
@@ -36704,7 +36705,7 @@
 @@||sharechain.qq.com^
 @@||downv6.qq.com^
 @@||qzone-web-v2.cdn-go.cn^
-@@||info.zb.qq.com^$important
+@@||info.zb.qq.com^
 @@||npm.cdn-go.cn^
 @@||pub.idqqimg.com^
 @@||qq-web.cdn-go.cn^
@@ -36962,9 +36963,9 @@
 @@||gw-paopao.iqiyi.com^
 @@||pic*.iqiyipic.com^
 @@||cards.iqiyi.com^
-@@||p9-pc-sign.douyinpic.com^$important
-@@||imagex.bytedanceapi.com^$important
-@@||webcast.amemv.com^$important
+@@||p9-pc-sign.douyinpic.com^
+@@||imagex.bytedanceapi.com^
+@@||webcast.amemv.com^
 @@||log.snssdk.com^
 @@||p1.douyinpic.com^
 @@||p3.douyinpic.com^
@@ -37040,14 +37041,14 @@
 @@||s.click.alimama.com^
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
 @@||na61-na62.wagbridge.alibaba.tanx.com^
-@@||w2.kskwai.com^$important
+@@||w2.kskwai.com^
 @@||my.cainiao.com^
 @@||mmstat.com^
 @@||audid-api-sg.taobao.com^
 @@||acs.m.taobao.com^
 @@||dj.1688.com^
-@@||su.uc.cn^$important
-@@||pc-api.uc.cn^$important
+@@||su.uc.cn^
+@@||pc-api.uc.cn^
 @@||uczzd.cn^
 @@||cl2.webterren.com^
 @@||alissl.ucdl.pp.uc.cn^
@@ -37976,6 +37977,7 @@
 @@||develope-oss.lanzoug.com^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||aliyuncs.com/*.png
+@@||api-chat.soulapp.cn^$important
 @@||api.nocturnal-narwhal.buzz^$domain=webtor.io
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
@@ -37989,16 +37991,20 @@
 @@||guokr.com/apis/flowingboard/item/m_article
 @@||guokr.com/apis/flowingboard/item/m_home_
 @@||h5vv6.video.qq.com^
+@@||info.zb.qq.com^$important
+@@||isite.baidu.com^$important
 @@||jstatic.3.cn^$domain=m.jd.com
 @@||lobechat.com/_next/static/chunks/
 @@||manwa.me^
 @@||miaozhen.com^$domain=miaozhen.com
+@@||p4-ad.adukwai.com^$important
 @@||pic1.zhimg.com^
 @@||pica.zhimg.com^
 @@||picx.zhimg.com^
 @@||qhres2.com^$domain=baike.so.com
 @@||sobot.com^
 @@||stripe.com^$domain=pay.openai.com
+@@||w2.kskwai.com^$important
 @@||wan.douyu.com^
 @@||wxapp.tc.qq.com^
 @@||x2.ifengimg.com^

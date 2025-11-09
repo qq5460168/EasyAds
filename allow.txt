@@ -1,21 +1,22 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-11-09 16:14:48
-! 有效规则数量: 2751 条
+! 规则更新时间: 2025-11-09 20:22:30
+! 有效规则数量: 2757 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
-@@||mini-game-gl.heytapmobile.com^$important
-@@||games-community-gl.heytapmobile.com^$important
-@@||jomodns.com^$important
-@@||bcelive.com^$important
-@@||p4-ad.adukwai.com^$important
+@@||www.sygjx.com^
+@@||mini-game-gl.heytapmobile.com^
+@@||games-community-gl.heytapmobile.com^
+@@||jomodns.com^
+@@||bcelive.com^
+@@||p4-ad.adukwai.com^
 @@||m.jf.10010.com^
 @@||aisite.wejianzhan.com^
 @@||smarthome-drcn.dbankcdn.com^
 @@||metrics1-drcn.dt.dbankcloud.cn^
 @@||mall.csdn.net^
 @@||free-aos-cdn-image.amap.com^
-@@||store.is.autonavi.com^$important
+@@||store.is.autonavi.com^
 @@||anythinktech.com^
 @@||h35.ynodd.cn^$
 @@||api.crashguard.me^
@@ -172,7 +173,7 @@
 @@||teams.live.com^
 @@||limbopro.com^
 @@||img.mp.itc.cn^
-@@||webapi.amap.com^$important
+@@||webapi.amap.com^
 @@||aps.amap.com^
 @@||mpsapi.amap.com^
 @@||40017.cn^
@@ -284,7 +285,7 @@
 @@||about.gitlab.cn^
 @@||increase-openapi.soulapp.cn^
 @@||api-pay.soulapp.cn^
-@@||api-chat.soulapp.cn^$important
+@@||api-chat.soulapp.cn^
 @@||img.jbzj.com^
 @@||p3-sign.bdxiguaimg.com^
 @@||p26-sign.bdxiguaimg.com^
@@ -408,7 +409,7 @@
 @@||m.dianping.com^
 @@||osp.meituan.net^
 @@||s0.meituan.net^
-@@||isite.baidu.com^$important
+@@||isite.baidu.com^
 @@||api.map.baidu.com^
 @@||dss0.bdstatic.com^
 @@||www.dxmpay.com^
@@ -549,7 +550,7 @@
 @@||sharechain.qq.com^
 @@||downv6.qq.com^
 @@||qzone-web-v2.cdn-go.cn^
-@@||info.zb.qq.com^$important
+@@||info.zb.qq.com^
 @@||npm.cdn-go.cn^
 @@||pub.idqqimg.com^
 @@||qq-web.cdn-go.cn^
@@ -807,9 +808,9 @@
 @@||gw-paopao.iqiyi.com^
 @@||pic*.iqiyipic.com^
 @@||cards.iqiyi.com^
-@@||p9-pc-sign.douyinpic.com^$important
-@@||imagex.bytedanceapi.com^$important
-@@||webcast.amemv.com^$important
+@@||p9-pc-sign.douyinpic.com^
+@@||imagex.bytedanceapi.com^
+@@||webcast.amemv.com^
 @@||log.snssdk.com^
 @@||p1.douyinpic.com^
 @@||p3.douyinpic.com^
@@ -885,14 +886,14 @@
 @@||s.click.alimama.com^
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
 @@||na61-na62.wagbridge.alibaba.tanx.com^
-@@||w2.kskwai.com^$important
+@@||w2.kskwai.com^
 @@||my.cainiao.com^
 @@||mmstat.com^
 @@||audid-api-sg.taobao.com^
 @@||acs.m.taobao.com^
 @@||dj.1688.com^
-@@||su.uc.cn^$important
-@@||pc-api.uc.cn^$important
+@@||su.uc.cn^
+@@||pc-api.uc.cn^
 @@||uczzd.cn^
 @@||cl2.webterren.com^
 @@||alissl.ucdl.pp.uc.cn^
@@ -1821,6 +1822,7 @@
 @@||develope-oss.lanzoug.com^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||aliyuncs.com/*.png
+@@||api-chat.soulapp.cn^$important
 @@||api.nocturnal-narwhal.buzz^$domain=webtor.io
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
@@ -1834,16 +1836,20 @@
 @@||guokr.com/apis/flowingboard/item/m_article
 @@||guokr.com/apis/flowingboard/item/m_home_
 @@||h5vv6.video.qq.com^
+@@||info.zb.qq.com^$important
+@@||isite.baidu.com^$important
 @@||jstatic.3.cn^$domain=m.jd.com
 @@||lobechat.com/_next/static/chunks/
 @@||manwa.me^
 @@||miaozhen.com^$domain=miaozhen.com
+@@||p4-ad.adukwai.com^$important
 @@||pic1.zhimg.com^
 @@||pica.zhimg.com^
 @@||picx.zhimg.com^
 @@||qhres2.com^$domain=baike.so.com
 @@||sobot.com^
 @@||stripe.com^$domain=pay.openai.com
+@@||w2.kskwai.com^$important
 @@||wan.douyu.com^
 @@||wxapp.tc.qq.com^
 @@||x2.ifengimg.com^
