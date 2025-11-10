@@ -2189,7 +2189,6 @@ DOMAIN,cresauth.fenqile.cn,reject
 DOMAIN,cresauth2.fenqile.cn,reject
 DOMAIN,dc.fenqile.com,reject
 DOMAIN,coss-shark-down.fenqile.com,reject
-DOMAIN,hcdnw120.vip.global.cdnhwctnm107.com,reject
 DOMAIN,cm.m.fenqile.com,reject
 DOMAIN,coss-fit.fenqile.com,reject
 DOMAIN,bridge.fenqile.com,reject
@@ -22702,6 +22701,7 @@ DOMAIN,hbudrg-oss-cn-hangzhou.duhpuz.com,reject
 DOMAIN,hbx.media.net,reject
 DOMAIN,hcdnd101.sme,reject
 DOMAIN,hcdnw101.sme.foreign.cdnhwcaoc115.cn,reject
+DOMAIN,hcdnw120.vip.global.cdnhwctnm107.com,reject
 DOMAIN,hcdnw122.vip.foreign.cdnhwcibv122.com,reject
 DOMAIN,hcdnw122.vip.foreign,reject
 DOMAIN,hcdnwsa120.sme.foreign.global.cdnhwcaoc115.cn,reject

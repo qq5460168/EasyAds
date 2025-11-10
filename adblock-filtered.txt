@@ -2208,7 +2208,6 @@
 ||cresauth2.fenqile.cn^
 ||dc.fenqile.com^
 ||coss-shark-down.fenqile.com^
-||hcdnw120.vip.global.cdnhwctnm107.com^
 ||cm.m.fenqile.com^
 ||coss-fit.fenqile.com^
 ||bridge.fenqile.com^
@@ -22769,6 +22768,7 @@
 ||hbx.media.net^
 ||hcdnd101.sme^
 ||hcdnw101.sme.foreign.cdnhwcaoc115.cn^
+||hcdnw120.vip.global.cdnhwctnm107.com^
 ||hcdnw122.vip.foreign.cdnhwcibv122.com^
 ||hcdnw122.vip.foreign^
 ||hcdnwsa120.sme.foreign.global.cdnhwcaoc115.cn^
