@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-11-11 01:02:06
-# 规则总数: 29427
+# 更新时间: 2025-11-11 04:17:56
+# 规则总数: 29429
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -7174,6 +7174,7 @@ bluemoon-up-src.ezone-h5.com block
 blueprints.iad.apple.com block
 bluhostedbanners.blucigs.com block
 blvhq.com block
+blzgeuuz.icu block
 bmdz.011.com block
 bmg.wnbfw.com block
 bmglb.tuyoo.com block
@@ -13542,6 +13543,7 @@ hwnod.xyz block
 hwpub-s01-drcn.cloud.dbankcloud.cn block
 hwpy.hikedj.com block
 hwt.player888.cn block
+hwwzqi.cn block
 hx.freelynet.com block
 hx9.326vh9.com block
 hxadt.com block

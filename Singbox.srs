@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-11-11 01:02:06
-# 规则总数: 29427
+# 更新时间: 2025-11-11 04:17:56
+# 规则总数: 29429
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -7174,6 +7174,7 @@ domain: bluemoon-up-src.ezone-h5.com, policy: reject
 domain: blueprints.iad.apple.com, policy: reject
 domain: bluhostedbanners.blucigs.com, policy: reject
 domain: blvhq.com, policy: reject
+domain: blzgeuuz.icu, policy: reject
 domain: bmdz.011.com, policy: reject
 domain: bmg.wnbfw.com, policy: reject
 domain: bmglb.tuyoo.com, policy: reject
@@ -13542,6 +13543,7 @@ domain: hwnod.xyz, policy: reject
 domain: hwpub-s01-drcn.cloud.dbankcloud.cn, policy: reject
 domain: hwpy.hikedj.com, policy: reject
 domain: hwt.player888.cn, policy: reject
+domain: hwwzqi.cn, policy: reject
 domain: hx.freelynet.com, policy: reject
 domain: hx9.326vh9.com, policy: reject
 domain: hxadt.com, policy: reject

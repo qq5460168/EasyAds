@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-11-11 01:02:06
-# 规则总数: 29427
+# 更新时间: 2025-11-11 04:17:56
+# 规则总数: 29429
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -7175,6 +7175,7 @@ payload:
   - 'blueprints.iad.apple.com'
   - 'bluhostedbanners.blucigs.com'
   - 'blvhq.com'
+  - 'blzgeuuz.icu'
   - 'bmdz.011.com'
   - 'bmg.wnbfw.com'
   - 'bmglb.tuyoo.com'
@@ -13543,6 +13544,7 @@ payload:
   - 'hwpub-s01-drcn.cloud.dbankcloud.cn'
   - 'hwpy.hikedj.com'
   - 'hwt.player888.cn'
+  - 'hwwzqi.cn'
   - 'hx.freelynet.com'
   - 'hx9.326vh9.com'
   - 'hxadt.com'

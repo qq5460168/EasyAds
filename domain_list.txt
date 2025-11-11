@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-11-11 01:02:05（北京时间）
-# 共 29411 个域名
+# 生成时间: 2025-11-11 04:17:54（北京时间）
+# 共 29413 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -7179,6 +7179,7 @@ bluemoon-up-src.ezone-h5.com
 blueprints.iad.apple.com
 bluhostedbanners.blucigs.com
 blvhq.com
+blzgeuuz.icu
 bmdz.011.com
 bmg.wnbfw.com
 bmglb.tuyoo.com
@@ -13540,6 +13541,7 @@ hwnod.xyz
 hwpub-s01-drcn.cloud.dbankcloud.cn
 hwpy.hikedj.com
 hwt.player888.cn
+hwwzqi.cn
 hx.freelynet.com
 hx9.326vh9.com
 hxadt.com

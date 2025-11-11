@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2025-11-11 09:02:05
-# 规则统计: 总计29423条 (IP:1029 DOMAIN:0 SUFFIX:28394 KEYWORD:0)
+# 更新时间(北京时间): 2025-11-11 12:17:54
+# 规则统计: 总计29425条 (IP:1029 DOMAIN:0 SUFFIX:28396 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -7191,6 +7191,7 @@ DOMAIN-SUFFIX,bluemoon-up-src.ezone-h5.com,REJECT
 DOMAIN-SUFFIX,blueprints.iad.apple.com,REJECT
 DOMAIN-SUFFIX,bluhostedbanners.blucigs.com,REJECT
 DOMAIN-SUFFIX,blvhq.com,REJECT
+DOMAIN-SUFFIX,blzgeuuz.icu,REJECT
 DOMAIN-SUFFIX,bmdz.011.com,REJECT
 DOMAIN-SUFFIX,bmg.wnbfw.com,REJECT
 DOMAIN-SUFFIX,bmglb.tuyoo.com,REJECT
@@ -13553,6 +13554,7 @@ DOMAIN-SUFFIX,hwnod.xyz,REJECT
 DOMAIN-SUFFIX,hwpub-s01-drcn.cloud.dbankcloud.cn,REJECT
 DOMAIN-SUFFIX,hwpy.hikedj.com,REJECT
 DOMAIN-SUFFIX,hwt.player888.cn,REJECT
+DOMAIN-SUFFIX,hwwzqi.cn,REJECT
 DOMAIN-SUFFIX,hx.freelynet.com,REJECT
 DOMAIN-SUFFIX,hx9.326vh9.com,REJECT
 DOMAIN-SUFFIX,hxadt.com,REJECT

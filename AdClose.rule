@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-11-11 01:02:07
-# 规则总数: 29427
+# 更新时间: 2025-11-11 04:17:56
+# 规则总数: 29429
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -7174,6 +7174,7 @@ domain, bluemoon-up-src.ezone-h5.com
 domain, blueprints.iad.apple.com
 domain, bluhostedbanners.blucigs.com
 domain, blvhq.com
+domain, blzgeuuz.icu
 domain, bmdz.011.com
 domain, bmg.wnbfw.com
 domain, bmglb.tuyoo.com
@@ -13542,6 +13543,7 @@ domain, hwnod.xyz
 domain, hwpub-s01-drcn.cloud.dbankcloud.cn
 domain, hwpy.hikedj.com
 domain, hwt.player888.cn
+domain, hwwzqi.cn
 domain, hx.freelynet.com
 domain, hx9.326vh9.com
 domain, hxadt.com

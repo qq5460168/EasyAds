@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-11-11 01:02:07
-# 规则总数: 29427
+# 更新时间: 2025-11-11 04:17:56
+# 规则总数: 29429
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -7174,6 +7174,7 @@
 0.0.0.0 blueprints.iad.apple.com
 0.0.0.0 bluhostedbanners.blucigs.com
 0.0.0.0 blvhq.com
+0.0.0.0 blzgeuuz.icu
 0.0.0.0 bmdz.011.com
 0.0.0.0 bmg.wnbfw.com
 0.0.0.0 bmglb.tuyoo.com
@@ -13542,6 +13543,7 @@
 0.0.0.0 hwpub-s01-drcn.cloud.dbankcloud.cn
 0.0.0.0 hwpy.hikedj.com
 0.0.0.0 hwt.player888.cn
+0.0.0.0 hwwzqi.cn
 0.0.0.0 hx.freelynet.com
 0.0.0.0 hx9.326vh9.com
 0.0.0.0 hxadt.com
