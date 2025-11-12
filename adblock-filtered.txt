@@ -1422,7 +1422,6 @@
 ||analytics.map.qq.com^
 ||aeventlog.beacon.qq.com^
 ||cache.wuji.qq.com^
-||trpc.qianbao.qq.com^
 ||ltscsy.qq.com^
 ||data.ab.qq.com^
 ||ug.qbimg.qq.com^
@@ -27411,6 +27410,7 @@
 ||trk.bid-algorix.cn^
 ||trk.changan.com.cn^
 ||trk1.17admob.com^
+||trpc.qianbao.qq.com^
 ||trrsv2-web.50bangzh.com^
 ||truth.qchannel01.cn^
 ||truth.qchannel03.cn^
