@@ -95,7 +95,6 @@ DOMAIN,adse.ximalaya.com,reject
 DOMAIN,adsebs.ximalaya.com,reject
 DOMAIN,adsense.google.cn,reject
 DOMAIN,adserver.unityads.unity3d.com,reject
-DOMAIN,adservice.google.cn,reject
 DOMAIN,adservice.google.com,reject
 DOMAIN,adservice.sigmob.cn,reject
 DOMAIN,adserviceretry.kugou.com,reject
@@ -250,7 +249,6 @@ DOMAIN,catalog.fjwhcbsh.com,reject
 DOMAIN,cbjs.baidu.com,reject
 DOMAIN,ccc-x.jd.com,reject
 DOMAIN,ccs.umeng.com,reject
-DOMAIN,cctv.adsunion.com,reject
 DOMAIN,cdn-ad.wtzw.com,reject
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com,reject
 DOMAIN,cdn-f.adsmoloco.com,reject
@@ -263,7 +261,6 @@ DOMAIN,cdn.liftoff-creatives.io,reject
 DOMAIN,cfg.imtt.qq.com,reject
 DOMAIN,chat1.jd.com,reject
 DOMAIN,chiq-cloud.com,reject
-DOMAIN,cj.qidian.com,reject
 DOMAIN,ck.ads.oppomobile.com,reject
 DOMAIN,click.chinaliftoff.io,reject
 DOMAIN,click.googleanalytics.com,reject
@@ -285,7 +282,6 @@ DOMAIN,cpro.baidustatic.com,reject
 DOMAIN,crash2.zhihu.com,reject
 DOMAIN,crashlyticsreports-pa.googleapis.com,reject
 DOMAIN,csjplatform.com,reject
-DOMAIN,cws-cctv.conviva.com,reject
 DOMAIN,d.applovin.com,reject
 DOMAIN,d.applvn.com,reject
 DOMAIN,da.anythinktech.com,reject
@@ -349,7 +345,6 @@ DOMAIN,ggx03.miguvideo.com,reject
 DOMAIN,globalapi.ad.xiaomi.com,reject
 DOMAIN,google-analytics.com,reject
 DOMAIN,googleads.g.doubleclick-cn.net,reject
-DOMAIN,googleads.g.doubleclick.com,reject
 DOMAIN,googleads.g.doubleclick.net,reject
 DOMAIN,googleadservices-cn.com,reject
 DOMAIN,googleadservices.com,reject
@@ -414,7 +409,6 @@ DOMAIN,iot-eu-logser.realme.com,reject
 DOMAIN,iot-logser.realme.com,reject
 DOMAIN,ipv4.kkmh.com,reject
 DOMAIN,irc.qubiankeji.com,reject
-DOMAIN,itv2-up.openspeech.cn,reject
 DOMAIN,ixav-cse.avlyun.com,reject
 DOMAIN,iyfbodn.com,reject
 DOMAIN,janapi.jd.com,reject
@@ -597,7 +591,6 @@ DOMAIN,res1.hubcloud.com.cn,reject
 DOMAIN,res2.hubcloud.com.cn,reject
 DOMAIN,res3.hubcloud.com.cn,reject
 DOMAIN,resolve.umeng.com,reject
-DOMAIN,rev.aiclk.com,reject
 DOMAIN,review.gdtimg.com,reject
 DOMAIN,rlog.popin.cc,reject
 DOMAIN,rms-drcn.platform.dbankcloud.cn,reject
@@ -614,7 +607,6 @@ DOMAIN,saad.ms.zhangyue.net,reject
 DOMAIN,saas.hpplay.cn,reject
 DOMAIN,samsung-com.112.2o7.net,reject
 DOMAIN,samsungads.com,reject
-DOMAIN,sanme2.taisantech.com,reject
 DOMAIN,saxysec.com,reject
 DOMAIN,scs.openspeech.cn,reject
 DOMAIN,sdk-ab-config.qquanquan.com,reject
@@ -650,12 +642,10 @@ DOMAIN,service.vmos.cn,reject
 DOMAIN,sf16-static.i18n-pglstatp.com,reject
 DOMAIN,sf3-fe-tos.pglstatp-toutiao.com,reject
 DOMAIN,shouji.sogou.com,reject
-DOMAIN,sigmob.cn,reject
 DOMAIN,sigmob.com,reject
 DOMAIN,skdisplay.jd.com,reject
 DOMAIN,slb-p2p.vcloud.ks-live.com,reject
 DOMAIN,smad.ms.zhangyue.net,reject
-DOMAIN,smart-tv.cn,reject
 DOMAIN,smartad.10010.com,reject
 DOMAIN,smetrics.samsung.com,reject
 DOMAIN,sms.ads.oppomobile.com,reject
@@ -1792,6 +1782,7 @@ DOMAIN,admob.com,reject
 DOMAIN,adsense.com,reject
 DOMAIN,adsensecustomsearchads.com,reject
 DOMAIN,adsenseformobileapps.com,reject
+DOMAIN,adservice.google.cn,reject
 DOMAIN,advertisercommunity.com,reject
 DOMAIN,advertiserscommunity.com,reject
 DOMAIN,adwords-community.com,reject
@@ -3349,6 +3340,7 @@ DOMAIN,stats.g.doubleclick.net,reject
 DOMAIN,cdn.wwads.cn,reject
 DOMAIN,c.cnzz.com,reject
 DOMAIN,glores2.taisantech.com,reject
+DOMAIN,sanme2.taisantech.com,reject
 DOMAIN,mssdk-bu.bytedance.com,reject
 DOMAIN,ilce.alicdn.com,reject
 DOMAIN,kgb-ifs.tanx.com,reject
@@ -3519,6 +3511,7 @@ DOMAIN,sdk.open.phone.igexin.com,reject
 DOMAIN,sdk-open-phone.getui.com,reject
 DOMAIN,1rtb.net,reject
 DOMAIN,wanchuweilai.com,reject
+DOMAIN,sigmob.cn,reject
 DOMAIN,unioncom.cc,reject
 DOMAIN,log-verify.mob.com,reject
 DOMAIN,ali-stats.jpush.cn,reject
@@ -4432,9 +4425,11 @@ DOMAIN,ykrec.youku.com,reject
 DOMAIN,a.cctv.com,reject
 DOMAIN,ad.cntv.cn,reject
 DOMAIN,afp.qiyi.com,reject
+DOMAIN,cctv.adsunion.com,reject
 DOMAIN,d.cntv.cn,reject
 DOMAIN,de.pandora.xiaomi.com,reject
 DOMAIN,mishop.pandora.xiaomi.com,reject
+DOMAIN,cws-cctv.conviva.com,reject
 DOMAIN,mdrecv.app.cntvwb.cn,reject
 DOMAIN,sdapprecv.app.cntvwb.cn,reject
 DOMAIN,vdapprecv.app.cntvwb.cn,reject
@@ -9973,6 +9968,7 @@ DOMAIN,jsb.qianzhan.com,reject
 DOMAIN,a.qiao024.com,reject
 DOMAIN,e.qiaoyuwang.com,reject
 DOMAIN,undm.qibulo.com,reject
+DOMAIN,cj.qidian.com,reject
 DOMAIN,o.if.qidian.com,reject
 DOMAIN,haostat.qihoo.com,reject
 DOMAIN,sh.qihoo.com,reject
@@ -22496,6 +22492,7 @@ DOMAIN,go.stripchatgirls.com,reject
 DOMAIN,go.vrvm.com,reject
 DOMAIN,googleadapis.google.com,reject
 DOMAIN,googleadapis.l.google.com,reject
+DOMAIN,googleads.g.doubleclick.com,reject
 DOMAIN,googleads4.g.doubleclick.net,reject
 DOMAIN,googleoptimize.com,reject
 DOMAIN,gosspublic.alicdn.com,reject
@@ -23367,6 +23364,7 @@ DOMAIN,issuecdn.baidupcs.com,reject
 DOMAIN,it399.com,reject
 DOMAIN,iteuu.zldab60ujy.com,reject
 DOMAIN,ituibei.cn,reject
+DOMAIN,itv2-up.openspeech.cn,reject
 DOMAIN,itvm.154.com,reject
 DOMAIN,iu76d.cc,reject
 DOMAIN,iudd.shuzilm.cn,reject
@@ -25952,6 +25950,7 @@ DOMAIN,restapi.getui.com,reject
 DOMAIN,restsdk.amap.com,reject
 DOMAIN,reszqzs.xw66.top,reject
 DOMAIN,reuw.7790.com,reject
+DOMAIN,rev.aiclk.com,reject
 DOMAIN,revbvrgvr6br-trb22.kdjvjdfv.top,reject
 DOMAIN,reward-api.csjplatform.com,reject
 DOMAIN,rewards.jiguang.cn,reject
@@ -26620,6 +26619,7 @@ DOMAIN,sm.domob.cn,reject
 DOMAIN,sm.domobcdn.com,reject
 DOMAIN,sm.easysale.domobcdn.com,reject
 DOMAIN,smart-789.kakamobi.cn,reject
+DOMAIN,smart-tv.cn,reject
 DOMAIN,smartliving.vn,reject
 DOMAIN,smartop-sdkapi-ipv6.jiguang.cn,reject
 DOMAIN,smartopen.jd.com,reject

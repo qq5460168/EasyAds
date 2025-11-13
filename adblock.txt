@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-11-13 09:02:11
+! 规则更新时间: 2025-11-13 12:18:50
 ! 有效规则数量: 38921 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
@@ -101,7 +101,6 @@
 ||adsebs.ximalaya.com^
 ||adsense.google.cn^
 ||adserver.unityads.unity3d.com^
-||adservice.google.cn^
 ||adservice.google.com^
 ||adservice.sigmob.cn^
 ||adserviceretry.kugou.com^
@@ -257,7 +256,6 @@
 ||cbjs.baidu.com^
 ||ccc-x.jd.com^
 ||ccs.umeng.com^
-||cctv.adsunion.com^
 ||cdn-ad.wtzw.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||cdn-f.adsmoloco.com^
@@ -271,7 +269,6 @@
 ||cfg.imtt.qq.com^
 ||chat1.jd.com^
 ||chiq-cloud.com^
-||cj.qidian.com^
 ||ck.ads.oppomobile.com^
 ||click.chinaliftoff.io^
 ||click.googleanalytics.com^
@@ -294,7 +291,6 @@
 ||crash2.zhihu.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||csjplatform.com^
-||cws-cctv.conviva.com^
 ||d.applovin.com^
 ||d.applvn.com^
 ||da.anythinktech.com^
@@ -336,7 +332,6 @@
 ||events.reddit.com^
 ||events.redditmedia.com^
 ||fclog.baidu.com^
-||feed-image.baidu.com^
 ||file.daihuo.qq.com^
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
@@ -359,7 +354,6 @@
 ||globalapi.ad.xiaomi.com^
 ||google-analytics.com^
 ||googleads.g.doubleclick-cn.net^
-||googleads.g.doubleclick.com^
 ||googleads.g.doubleclick.net^
 ||googleadservices-cn.com^
 ||googleadservices.com^
@@ -425,7 +419,6 @@
 ||iot-logser.realme.com^
 ||ipv4.kkmh.com^
 ||irc.qubiankeji.com^
-||itv2-up.openspeech.cn^
 ||ixav-cse.avlyun.com^
 ||iyfbodn.com^
 ||janapi.jd.com^
@@ -612,7 +605,6 @@
 ||res2.hubcloud.com.cn^
 ||res3.hubcloud.com.cn^
 ||resolve.umeng.com^
-||rev.aiclk.com^
 ||review.gdtimg.com^
 ||rlog.popin.cc^
 ||rms-drcn.platform.dbankcloud.cn^
@@ -629,7 +621,6 @@
 ||saas.hpplay.cn^
 ||samsung-com.112.2o7.net^
 ||samsungads.com^
-||sanme2.taisantech.com^
 ||saxysec.com^
 ||scs.openspeech.cn^
 ||sdk-ab-config.qquanquan.com^
@@ -665,13 +656,11 @@
 ||sf16-static.i18n-pglstatp.com^
 ||sf3-fe-tos.pglstatp-toutiao.com^
 ||shouji.sogou.com^
-||sigmob.cn^
 ||sigmob.com^
 ||skdisplay.jd.com^
 ||sl.hpplay.cn^
 ||slb-p2p.vcloud.ks-live.com^
 ||smad.ms.zhangyue.net^
-||smart-tv.cn^
 ||smartad.10010.com^
 ||smetrics.samsung.com^
 ||sms.ads.oppomobile.com^
@@ -858,9 +847,9 @@
 ||vlion.cn^
 ||yfanads.com^
 ||zhangyuyidong.cn^
-140.82.113.25                 alive.github.com
-20.205.243.168                api.github.com
-140.82.114.21                 api.individual.githubcopilot.com
+140.82.114.25                 alive.github.com
+140.82.113.6                  api.github.com
+140.82.112.21                 api.individual.githubcopilot.com
 185.199.108.133               avatars.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars1.githubusercontent.com
@@ -869,34 +858,34 @@
 185.199.108.133               avatars4.githubusercontent.com
 185.199.108.133               avatars5.githubusercontent.com
 185.199.108.133               camo.githubusercontent.com
-140.82.112.21                 central.github.com
+140.82.113.22                 central.github.com
 185.199.108.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
 140.82.113.22                 collector.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
-20.205.243.166                gist.github.com
-52.217.66.108                 github-cloud.s3.amazonaws.com
-52.216.57.241                 github-com.s3.amazonaws.com
-16.15.192.104                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.204.27                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.229.185                github-production-user-asset-6210df.s3.amazonaws.com
+140.82.113.3                  gist.github.com
+16.182.39.113                 github-cloud.s3.amazonaws.com
+16.182.74.17                  github-com.s3.amazonaws.com
+54.231.193.121                github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.134.9                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.236.57                 github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.113.17                 github.community
+140.82.113.18                 github.community
 185.199.109.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
 185.199.109.153               github.io
 185.199.108.133               github.map.fastly.net
 185.199.109.153               githubstatus.com
-140.82.113.26                 live.github.com
+140.82.113.25                 live.github.com
 185.199.108.133               media.githubusercontent.com
 185.199.108.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 13.107.213.73                 vscode.dev  # Timeout
-140.82.114.21                 education.github.com
+140.82.112.22                 education.github.com
 185.199.108.133               private-user-images.githubusercontent.com
 127.0.0.1 localhost
 108.177.125.188 mtalk.google.com  #台湾
@@ -6964,6 +6953,7 @@
 ||adsense.com^
 ||adsensecustomsearchads.com^
 ||adsenseformobileapps.com^
+||adservice.google.cn^
 ||advertisercommunity.com^
 ||advertiserscommunity.com^
 ||adwords-community.com^
@@ -8523,6 +8513,7 @@
 ||cdn.wwads.cn^
 ||c.cnzz.com^
 ||glores2.taisantech.com^
+||sanme2.taisantech.com^
 ||mssdk-bu.bytedance.com^
 ||ilce.alicdn.com^
 ||kgb-ifs.tanx.com^
@@ -8693,6 +8684,7 @@
 ||sdk-open-phone.getui.com^
 ||1rtb.net^
 ||wanchuweilai.com^
+||sigmob.cn^
 ||unioncom.cc^
 ||log-verify.mob.com^
 ||ali-stats.jpush.cn^
@@ -9608,9 +9600,11 @@
 ||a.cctv.com^
 ||ad.cntv.cn^
 ||afp.qiyi.com^
+||cctv.adsunion.com^
 ||d.cntv.cn^
 ||de.pandora.xiaomi.com^
 ||mishop.pandora.xiaomi.com^
+||cws-cctv.conviva.com^
 ||mdrecv.app.cntvwb.cn^
 ||sdapprecv.app.cntvwb.cn^
 ||vdapprecv.app.cntvwb.cn^
@@ -15159,6 +15153,7 @@
 ||a.qiao024.com^
 ||e.qiaoyuwang.com^
 ||undm.qibulo.com^
+||cj.qidian.com^
 ||o.if.qidian.com^
 ||haostat.qihoo.com^
 ||sh.qihoo.com^
@@ -21822,6 +21817,7 @@
 ||default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com^
 ||default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com^
 ||dss0.bdstatic.com^
+||feed-image.baidu.com^
 ||feeds.vivo.com.cn^
 ||feedsplat.vivo.com.cn^
 ||fp-it.fengkongcloud.com^
@@ -27762,6 +27758,7 @@
 ||go.vrvm.com^
 ||googleadapis.google.com^
 ||googleadapis.l.google.com^
+||googleads.g.doubleclick.com^
 ||googleads4.g.doubleclick.net^
 ||googleoptimize.com^
 ||gosspublic.alicdn.com^
@@ -28637,6 +28634,7 @@
 ||it399.com^
 ||iteuu.zldab60ujy.com^
 ||ituibei.cn^
+||itv2-up.openspeech.cn^
 ||itvm.154.com^
 ||iu76d.cc^
 ||iudd.shuzilm.cn^
@@ -31250,6 +31248,7 @@
 ||restsdk.amap.com^
 ||reszqzs.xw66.top^
 ||reuw.7790.com^
+||rev.aiclk.com^
 ||revbvrgvr6br-trb22.kdjvjdfv.top^
 ||reward-api.csjplatform.com^
 ||rewards.jiguang.cn^
@@ -31920,6 +31919,7 @@
 ||sm.domobcdn.com^
 ||sm.easysale.domobcdn.com^
 ||smart-789.kakamobi.cn^
+||smart-tv.cn^
 ||smartliving.vn^
 ||smartop-sdkapi-ipv6.jiguang.cn^
 ||smartopen.jd.com^
