@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-11-13 12:18:50
-! 有效规则数量: 38921 条
+! 规则更新时间: 2025-11-13 16:18:14
+! 有效规则数量: 38931 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -31,6 +31,7 @@
 ||ad.qingting.fm^
 ||ad.qq.com^
 ||ad.richmob.cn^
+||ad.shunchangzhixing.com^
 ||ad.tencentmusic.com^
 ||ad.toutiao.com^
 ||ad.v3mh.com^
@@ -193,6 +194,7 @@
 ||api-htp.beizi.biz^
 ||api.ad.xiaomi.com^
 ||api.anythinktech.com^
+||api.aqyad.com^
 ||api.e.kuaishou.com^
 ||api.fu.xcultur.com^
 ||api.htp.hubcloud.com.cn^
@@ -200,6 +202,7 @@
 ||api.installer.xiaomi.com^
 ||api.jietuhb.com^
 ||api.kingdata.ksyun.com^
+||api.shanghailingye.cn^
 ||api.ssp.xcultur.com^
 ||api.statsig.com^
 ||api.touch-moblie.com^
@@ -213,6 +216,7 @@
 ||applog.zijieapi.com^
 ||applovin.com^
 ||appversion.115.com^
+||aqyad.com^
 ||aspect-upush.umeng.com^
 ||auction.unityads.unity3d.com^
 ||audid-api.taobao.com^
@@ -276,6 +280,7 @@
 ||click.oneplus.cn^
 ||click4.chinaliftoff.io^
 ||clog.miguvideo.com^
+||cloooud.com^
 ||cn-api.anythinktech.com^
 ||cnlogs.umeng.com^
 ||cnlogs.umengcloud.com^
@@ -331,7 +336,9 @@
 ||events-drcn.op.dbankcloud.cn^
 ||events.reddit.com^
 ||events.redditmedia.com^
+||fancyapi.com^
 ||fclog.baidu.com^
+||feed-image.baidu.com^
 ||file.daihuo.qq.com^
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
@@ -341,6 +348,7 @@
 ||g-adnet.hiaiabc.com^
 ||g-staic.ganjingworld.com^
 ||g.dtv.cn.miaozhen.com^
+||g.fancyapi.com^
 ||g2.ganjing.world^
 ||game.loveota.com^
 ||gdfp.gifshow.com^
@@ -436,10 +444,12 @@
 ||ks-p2p.pull.yximgs.com^
 ||ks.ferlytc.com^
 ||ks.pull.yximgs.com^
+||l6.fancyapi.com^
 ||launcher.smart-tv.cn^
 ||launcherimg.smart-tv.cn^
 ||lf3-ad-union-sdk.pglstatp-toutiao.com^
 ||lf6-ad-union-sdk.pglstatp-toutiao.com^
+||lftxali.fancyapi.com^
 ||lh3.googleadsserving.cn^
 ||litchiads.com^
 ||live-api.hktvmall.com^
@@ -547,6 +557,7 @@
 ||open.kuaishouzt.com^
 ||open.kwaizt.com^
 ||open.snssdk.com^
+||openadapi.fancydsp.com^
 ||optimus-ads.amap.com^
 ||orbit.jd.com^
 ||oss.cdn.aiclk.com^
@@ -628,12 +639,14 @@
 ||sdk.1rtb.net^
 ||sdk.ad.smaato.net^
 ||sdk.adx.adwangmai.com^
+||sdk.aqyad.com^
 ||sdk.beizi.biz^
 ||sdk.cferw.com^
 ||sdk.e.qq.com^
 ||sdk.hzsanjiaomao.com^
 ||sdk.markmedia.com.cn^
 ||sdk.mobads.adwangmai.com^
+||sdkapi.cloooud.com^
 ||sdkauth.hpplay.cn^
 ||sdkconf.avlyun.com^
 ||sdkconfig.ad.intl.xiaomi.com^
@@ -666,11 +679,13 @@
 ||sms.ads.oppomobile.com^
 ||sngmta.qq.com^
 ||snowflake.qq.com^
+||ssp.cloooud.com^
 ||staging-notify.sec.miui.com^
 ||stat.dongqiudi.com^
 ||stat.y.qq.com^
 ||static-s.iqiyi.com^
 ||static.ads-twitter.com^
+||statichf.shihuocdn.cn^
 ||statics.woozooo.com^
 ||stats.wp.com^
 ||statsigapi.net^
@@ -690,6 +705,7 @@
 ||t1.a.market.xiaomi.com^
 ||t1.teads.tv^
 ||t2.a.market.xiaomi.com^
+||t2.fancyapi.com^
 ||t3.a.market.xiaomi.com^
 ||t7z.cupid.iqiyi.com^
 ||t7z.cupid.ptqy.gitv.tv^
@@ -718,6 +734,7 @@
 ||tnc3-aliec2.bytedance.com^
 ||tnc3-aliec2.snssdk.com^
 ||tnc3-aliec2.toutiaoapi.com^
+||tnc3-aliec2.zijieapi.com^
 ||tnc3-alisc1.bytedance.com^
 ||tnc3-alisc1.snssdk.com^
 ||tnc3-alisc1.toutiaoapi.com^
@@ -732,6 +749,7 @@
 ||tpc.googlesyndication-cn.com^
 ||tpc.googlesyndication.com^
 ||tr-asia.adsmoloco.com^
+||trace.aqyad.com^
 ||trace.qq.com^
 ||tracelog-debug.aiclk.com^
 ||tracelog-debug.qquanquan.com^
@@ -771,6 +789,7 @@
 ||uranus.jd.com^
 ||us.l.qq.com^
 ||usr-api.aiclk.com^
+||utoken.umeng.com^
 ||v.110route.cn^
 ||v.adintl.cn^
 ||v.adx.hubcloud.com.cn^
@@ -847,9 +866,9 @@
 ||vlion.cn^
 ||yfanads.com^
 ||zhangyuyidong.cn^
-140.82.114.25                 alive.github.com
-140.82.113.6                  api.github.com
-140.82.112.21                 api.individual.githubcopilot.com
+140.82.114.26                 alive.github.com
+20.205.243.168                api.github.com
+140.82.114.22                 api.individual.githubcopilot.com
 185.199.108.133               avatars.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars1.githubusercontent.com
@@ -858,34 +877,34 @@
 185.199.108.133               avatars4.githubusercontent.com
 185.199.108.133               avatars5.githubusercontent.com
 185.199.108.133               camo.githubusercontent.com
-140.82.113.22                 central.github.com
+140.82.114.21                 central.github.com
 185.199.108.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.113.22                 collector.github.com
+140.82.112.21                 collector.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
-140.82.113.3                  gist.github.com
-16.182.39.113                 github-cloud.s3.amazonaws.com
-16.182.74.17                  github-com.s3.amazonaws.com
-54.231.193.121                github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.134.9                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.236.57                 github-production-user-asset-6210df.s3.amazonaws.com
+140.82.114.3                  gist.github.com
+3.5.10.151                    github-cloud.s3.amazonaws.com
+3.5.29.63                     github-com.s3.amazonaws.com
+52.216.76.100                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.46.236                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.163.233                github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
 140.82.113.18                 github.community
-185.199.109.154               github.githubassets.com
+185.199.110.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
 185.199.109.153               github.io
 185.199.108.133               github.map.fastly.net
 185.199.109.153               githubstatus.com
-140.82.113.25                 live.github.com
+140.82.114.26                 live.github.com
 185.199.108.133               media.githubusercontent.com
 185.199.108.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 13.107.213.73                 vscode.dev  # Timeout
-140.82.112.22                 education.github.com
+140.82.113.22                 education.github.com
 185.199.108.133               private-user-images.githubusercontent.com
 127.0.0.1 localhost
 108.177.125.188 mtalk.google.com  #台湾
@@ -6157,7 +6176,6 @@
 ||feedback-c.zijieapi.com^
 ||gecko5-lq.zijieapi.com^
 ||vcs.zijieapi.com^
-||tnc3-aliec2.zijieapi.com^
 ||saveu5-normal-lq.zijieapi.com^
 ||ma.zijieapi.com^
 ||bsync3-normal-lq.zijieapi.com^
@@ -6182,7 +6200,6 @@
 ||deeplink.umeng.com^
 ||umeng.com^
 ||umengcloud.com^
-||utoken.umeng.com^
 ||alogs.umengcloud.com^
 ||alogsus.umengcloud.com^
 ||au.umeng.com^
@@ -8490,7 +8507,6 @@
 ||msch.f.360.cn^
 ||viav-cse.avlyun.com^
 ||smvconf.f.360.cn^
-||ad.shunchangzhixing.com^
 ||cloud.shtac.cn^
 ||mon.ad.xelements.cn^
 ||imp.ad.xelements.cn^
@@ -9550,7 +9566,6 @@
 ||adwangmai.com^
 ||yunxinfw.com^
 ||bridgeoos.com^
-||cloooud.com^
 ||beacon.sina.com.cn^
 ||adserver.yahoo.com^
 ||adspecs.yahoo.com^
@@ -11466,7 +11481,6 @@
 ||faggrim.com^
 ||falundata.com^
 ||fan-yong.com^
-||fancyapi.com^
 ||fanqianbb.com^
 ||fansi365.com^
 ||farmcrapsubsist.com^
@@ -21817,7 +21831,6 @@
 ||default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com^
 ||default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com^
 ||dss0.bdstatic.com^
-||feed-image.baidu.com^
 ||feeds.vivo.com.cn^
 ||feedsplat.vivo.com.cn^
 ||fp-it.fengkongcloud.com^
@@ -29210,7 +29223,6 @@
 ||lf9-ttcdn-tos.pstatp.com^
 ||lf9-webcast-cdn-tos-ncdn.bytegecko.com^
 ||lfcontentcenterdev.hwcloudtest.cn^
-||lftxali.fancyapi.com^
 ||lfxzp633mdn.nmsaluw2404311.vip^
 ||lhy5.8890.com^
 ||liangliangchuanmei.com^
@@ -31642,7 +31654,6 @@
 ||sdk.a79h.cn^
 ||sdk.api.oaid.wocloud.cn^
 ||sdk.appsflyer.com^
-||sdk.aqyad.com^
 ||sdk.bbcfrbw.com^
 ||sdk.conf.getui.com^
 ||sdk.defiminings.com^
@@ -32560,7 +32571,6 @@
 ||tr29.gf.app^
 ||tr6.snapchat.com^
 ||trace-api.aiclk.com^
-||trace.aqyad.com^
 ||trace.jiuzhilan.com^
 ||trace.m1905.cn^
 ||trace.mediago.io^

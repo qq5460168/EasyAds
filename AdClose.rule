@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-11-13 04:18:50
-# 规则总数: 29429
+# 更新时间: 2025-11-13 08:18:14
+# 规则总数: 29439
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -5630,6 +5630,7 @@ domain, api.applink.mob.com
 domain, api.appodeal.com
 domain, api.apps.sina.cn
 domain, api.appsflyer.com
+domain, api.aqyad.com
 domain, api.bailingjiankang.com
 domain, api.banyunjuhe.com
 domain, api.branch.io
@@ -5804,6 +5805,7 @@ domain, api.sdk.admobile.top
 domain, api.sec.miui.com
 domain, api.segment.io
 domain, api.setting.intl.miui.com
+domain, api.shanghailingye.cn
 domain, api.shanhutech.cn
 domain, api.share.baidu.com
 domain, api.share.mob.com
@@ -6230,6 +6232,7 @@ domain, aqun17.oss-cn-shanghai.aliyuncs.com
 domain, aquvg.com
 domain, aqvwn18102h.com
 domain, aqw.quanliyouxi.cn
+domain, aqyad.com
 domain, ar.atwola.com
 domain, ar.umeng.com
 domain, ar1.atwola.com
@@ -11893,6 +11896,7 @@ domain, g.dtv.cn.miaozhen.com
 domain, g.dyi3h.id
 domain, g.f11w.com
 domain, g.f5gh.com
+domain, g.fancyapi.com
 domain, g.gridsum.com
 domain, g.gtimg.cn
 domain, g.h1v3fa.com
@@ -15975,6 +15979,7 @@ domain, l3r6p0d5.com
 domain, l4efwdtg.icu
 domain, l4kqnr.ynu.icu
 domain, l5p4.nvpuse.com
+domain, l6.fancyapi.com
 domain, l6o6.154.com
 domain, l6urqh27.sina.cn
 domain, l71.cn
@@ -19300,6 +19305,7 @@ domain, open.umeng.com
 domain, open.youzanyun.com
 domain, openacs.m.taobao.com
 domain, openacs4uc.m.taobao.com
+domain, openadapi.fancydsp.com
 domain, openapi-gy.getui.com
 domain, openapi-news.meizu.com
 domain, openapi-smsp.getui.com
@@ -22390,6 +22396,7 @@ domain, sdk1xyajs.data.kuiniuca.com
 domain, sdk2api.getui.com
 domain, sdk3api.getui.com
 domain, sdkapi-smartop.jiguang.cn
+domain, sdkapi.cloooud.com
 domain, sdkapi.ezjhy.com
 domain, sdkapi.sms.mob.com
 domain, sdkapp.mobile.sina.cn
@@ -23254,6 +23261,7 @@ domain, ssp.4hw.com.cn
 domain, ssp.86str.com
 domain, ssp.chaohutechan.com
 domain, ssp.cibn.starschina.com
+domain, ssp.cloooud.com
 domain, ssp.daxueshengqiandai.com
 domain, ssp.dmpdsp.com
 domain, ssp.dzh.com.cn
@@ -23507,6 +23515,7 @@ domain, staticadm.leju.com
 domain, staticadm.leju.sina.com.cn
 domain, staticali.wi-fi.cn
 domain, staticcdntx.xwtec.cn
+domain, statichf.shihuocdn.cn
 domain, staticjs.cn
 domain, staticplat.cdn.bcebos.com
 domain, staticrxycdn.ugilaufgk50bfnlsb.com
@@ -23921,6 +23930,7 @@ domain, t1z1et.tpe76.com
 domain, t2.04703601.com
 domain, t2.58cdn.com.cn
 domain, t2.a.market.xiaomi.com
+domain, t2.fancyapi.com
 domain, t2.jzkapp.com
 domain, t2.vbxx.net
 domain, t2.wshufa.com

@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-11-13 04:18:48（北京时间）
-# 共 29413 个域名
+# 生成时间: 2025-11-13 08:18:12（北京时间）
+# 共 29423 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -5636,6 +5636,7 @@ api.applink.mob.com
 api.appodeal.com
 api.apps.sina.cn
 api.appsflyer.com
+api.aqyad.com
 api.bailingjiankang.com
 api.banyunjuhe.com
 api.branch.io
@@ -5810,6 +5811,7 @@ api.sdk.admobile.top
 api.sec.miui.com
 api.segment.io
 api.setting.intl.miui.com
+api.shanghailingye.cn
 api.shanhutech.cn
 api.share.baidu.com
 api.share.mob.com
@@ -6236,6 +6238,7 @@ aqun17.oss-cn-shanghai.aliyuncs.com
 aquvg.com
 aqvwn18102h.com
 aqw.quanliyouxi.cn
+aqyad.com
 ar.atwola.com
 ar.umeng.com
 ar1.atwola.com
@@ -11890,6 +11893,7 @@ g.dtv.cn.miaozhen.com
 g.dyi3h.id
 g.f11w.com
 g.f5gh.com
+g.fancyapi.com
 g.gridsum.com
 g.gtimg.cn
 g.h1v3fa.com
@@ -15972,6 +15976,7 @@ l3r6p0d5.com
 l4efwdtg.icu
 l4kqnr.ynu.icu
 l5p4.nvpuse.com
+l6.fancyapi.com
 l6o6.154.com
 l6urqh27.sina.cn
 l71.cn
@@ -19293,6 +19298,7 @@ open.umeng.com
 open.youzanyun.com
 openacs.m.taobao.com
 openacs4uc.m.taobao.com
+openadapi.fancydsp.com
 openapi-gy.getui.com
 openapi-news.meizu.com
 openapi-smsp.getui.com
@@ -22378,6 +22384,7 @@ sdk1xyajs.data.kuiniuca.com
 sdk2api.getui.com
 sdk3api.getui.com
 sdkapi-smartop.jiguang.cn
+sdkapi.cloooud.com
 sdkapi.ezjhy.com
 sdkapi.sms.mob.com
 sdkapp.mobile.sina.cn
@@ -23242,6 +23249,7 @@ ssp.4hw.com.cn
 ssp.86str.com
 ssp.chaohutechan.com
 ssp.cibn.starschina.com
+ssp.cloooud.com
 ssp.daxueshengqiandai.com
 ssp.dmpdsp.com
 ssp.dzh.com.cn
@@ -23495,6 +23503,7 @@ staticadm.leju.com
 staticadm.leju.sina.com.cn
 staticali.wi-fi.cn
 staticcdntx.xwtec.cn
+statichf.shihuocdn.cn
 staticjs.cn
 staticplat.cdn.bcebos.com
 staticrxycdn.ugilaufgk50bfnlsb.com
@@ -23908,6 +23917,7 @@ t1z1et.tpe76.com
 t2.04703601.com
 t2.58cdn.com.cn
 t2.a.market.xiaomi.com
+t2.fancyapi.com
 t2.jzkapp.com
 t2.vbxx.net
 t2.wshufa.com

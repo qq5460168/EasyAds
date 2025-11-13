@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-11-13 04:18:50
-# 规则总数: 29429
+# 更新时间: 2025-11-13 08:18:13
+# 规则总数: 29439
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -5630,6 +5630,7 @@ domain: api.applink.mob.com, policy: reject
 domain: api.appodeal.com, policy: reject
 domain: api.apps.sina.cn, policy: reject
 domain: api.appsflyer.com, policy: reject
+domain: api.aqyad.com, policy: reject
 domain: api.bailingjiankang.com, policy: reject
 domain: api.banyunjuhe.com, policy: reject
 domain: api.branch.io, policy: reject
@@ -5804,6 +5805,7 @@ domain: api.sdk.admobile.top, policy: reject
 domain: api.sec.miui.com, policy: reject
 domain: api.segment.io, policy: reject
 domain: api.setting.intl.miui.com, policy: reject
+domain: api.shanghailingye.cn, policy: reject
 domain: api.shanhutech.cn, policy: reject
 domain: api.share.baidu.com, policy: reject
 domain: api.share.mob.com, policy: reject
@@ -6230,6 +6232,7 @@ domain: aqun17.oss-cn-shanghai.aliyuncs.com, policy: reject
 domain: aquvg.com, policy: reject
 domain: aqvwn18102h.com, policy: reject
 domain: aqw.quanliyouxi.cn, policy: reject
+domain: aqyad.com, policy: reject
 domain: ar.atwola.com, policy: reject
 domain: ar.umeng.com, policy: reject
 domain: ar1.atwola.com, policy: reject
@@ -11893,6 +11896,7 @@ domain: g.dtv.cn.miaozhen.com, policy: reject
 domain: g.dyi3h.id, policy: reject
 domain: g.f11w.com, policy: reject
 domain: g.f5gh.com, policy: reject
+domain: g.fancyapi.com, policy: reject
 domain: g.gridsum.com, policy: reject
 domain: g.gtimg.cn, policy: reject
 domain: g.h1v3fa.com, policy: reject
@@ -15975,6 +15979,7 @@ domain: l3r6p0d5.com, policy: reject
 domain: l4efwdtg.icu, policy: reject
 domain: l4kqnr.ynu.icu, policy: reject
 domain: l5p4.nvpuse.com, policy: reject
+domain: l6.fancyapi.com, policy: reject
 domain: l6o6.154.com, policy: reject
 domain: l6urqh27.sina.cn, policy: reject
 domain: l71.cn, policy: reject
@@ -19300,6 +19305,7 @@ domain: open.umeng.com, policy: reject
 domain: open.youzanyun.com, policy: reject
 domain: openacs.m.taobao.com, policy: reject
 domain: openacs4uc.m.taobao.com, policy: reject
+domain: openadapi.fancydsp.com, policy: reject
 domain: openapi-gy.getui.com, policy: reject
 domain: openapi-news.meizu.com, policy: reject
 domain: openapi-smsp.getui.com, policy: reject
@@ -22390,6 +22396,7 @@ domain: sdk1xyajs.data.kuiniuca.com, policy: reject
 domain: sdk2api.getui.com, policy: reject
 domain: sdk3api.getui.com, policy: reject
 domain: sdkapi-smartop.jiguang.cn, policy: reject
+domain: sdkapi.cloooud.com, policy: reject
 domain: sdkapi.ezjhy.com, policy: reject
 domain: sdkapi.sms.mob.com, policy: reject
 domain: sdkapp.mobile.sina.cn, policy: reject
@@ -23254,6 +23261,7 @@ domain: ssp.4hw.com.cn, policy: reject
 domain: ssp.86str.com, policy: reject
 domain: ssp.chaohutechan.com, policy: reject
 domain: ssp.cibn.starschina.com, policy: reject
+domain: ssp.cloooud.com, policy: reject
 domain: ssp.daxueshengqiandai.com, policy: reject
 domain: ssp.dmpdsp.com, policy: reject
 domain: ssp.dzh.com.cn, policy: reject
@@ -23507,6 +23515,7 @@ domain: staticadm.leju.com, policy: reject
 domain: staticadm.leju.sina.com.cn, policy: reject
 domain: staticali.wi-fi.cn, policy: reject
 domain: staticcdntx.xwtec.cn, policy: reject
+domain: statichf.shihuocdn.cn, policy: reject
 domain: staticjs.cn, policy: reject
 domain: staticplat.cdn.bcebos.com, policy: reject
 domain: staticrxycdn.ugilaufgk50bfnlsb.com, policy: reject
@@ -23921,6 +23930,7 @@ domain: t1z1et.tpe76.com, policy: reject
 domain: t2.04703601.com, policy: reject
 domain: t2.58cdn.com.cn, policy: reject
 domain: t2.a.market.xiaomi.com, policy: reject
+domain: t2.fancyapi.com, policy: reject
 domain: t2.jzkapp.com, policy: reject
 domain: t2.vbxx.net, policy: reject
 domain: t2.wshufa.com, policy: reject

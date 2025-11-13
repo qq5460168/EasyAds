@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-11-13 04:18:50
-# 规则总数: 29429
+# 更新时间: 2025-11-13 08:18:13
+# 规则总数: 29439
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -5630,6 +5630,7 @@ api.applink.mob.com block
 api.appodeal.com block
 api.apps.sina.cn block
 api.appsflyer.com block
+api.aqyad.com block
 api.bailingjiankang.com block
 api.banyunjuhe.com block
 api.branch.io block
@@ -5804,6 +5805,7 @@ api.sdk.admobile.top block
 api.sec.miui.com block
 api.segment.io block
 api.setting.intl.miui.com block
+api.shanghailingye.cn block
 api.shanhutech.cn block
 api.share.baidu.com block
 api.share.mob.com block
@@ -6230,6 +6232,7 @@ aqun17.oss-cn-shanghai.aliyuncs.com block
 aquvg.com block
 aqvwn18102h.com block
 aqw.quanliyouxi.cn block
+aqyad.com block
 ar.atwola.com block
 ar.umeng.com block
 ar1.atwola.com block
@@ -11893,6 +11896,7 @@ g.dtv.cn.miaozhen.com block
 g.dyi3h.id block
 g.f11w.com block
 g.f5gh.com block
+g.fancyapi.com block
 g.gridsum.com block
 g.gtimg.cn block
 g.h1v3fa.com block
@@ -15975,6 +15979,7 @@ l3r6p0d5.com block
 l4efwdtg.icu block
 l4kqnr.ynu.icu block
 l5p4.nvpuse.com block
+l6.fancyapi.com block
 l6o6.154.com block
 l6urqh27.sina.cn block
 l71.cn block
@@ -19300,6 +19305,7 @@ open.umeng.com block
 open.youzanyun.com block
 openacs.m.taobao.com block
 openacs4uc.m.taobao.com block
+openadapi.fancydsp.com block
 openapi-gy.getui.com block
 openapi-news.meizu.com block
 openapi-smsp.getui.com block
@@ -22390,6 +22396,7 @@ sdk1xyajs.data.kuiniuca.com block
 sdk2api.getui.com block
 sdk3api.getui.com block
 sdkapi-smartop.jiguang.cn block
+sdkapi.cloooud.com block
 sdkapi.ezjhy.com block
 sdkapi.sms.mob.com block
 sdkapp.mobile.sina.cn block
@@ -23254,6 +23261,7 @@ ssp.4hw.com.cn block
 ssp.86str.com block
 ssp.chaohutechan.com block
 ssp.cibn.starschina.com block
+ssp.cloooud.com block
 ssp.daxueshengqiandai.com block
 ssp.dmpdsp.com block
 ssp.dzh.com.cn block
@@ -23507,6 +23515,7 @@ staticadm.leju.com block
 staticadm.leju.sina.com.cn block
 staticali.wi-fi.cn block
 staticcdntx.xwtec.cn block
+statichf.shihuocdn.cn block
 staticjs.cn block
 staticplat.cdn.bcebos.com block
 staticrxycdn.ugilaufgk50bfnlsb.com block
@@ -23921,6 +23930,7 @@ t1z1et.tpe76.com block
 t2.04703601.com block
 t2.58cdn.com.cn block
 t2.a.market.xiaomi.com block
+t2.fancyapi.com block
 t2.jzkapp.com block
 t2.vbxx.net block
 t2.wshufa.com block

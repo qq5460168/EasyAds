@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-11-13 04:18:50
-# 规则总数: 29429
+# 更新时间: 2025-11-13 08:18:13
+# 规则总数: 29439
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -5630,6 +5630,7 @@
 0.0.0.0 api.appodeal.com
 0.0.0.0 api.apps.sina.cn
 0.0.0.0 api.appsflyer.com
+0.0.0.0 api.aqyad.com
 0.0.0.0 api.bailingjiankang.com
 0.0.0.0 api.banyunjuhe.com
 0.0.0.0 api.branch.io
@@ -5804,6 +5805,7 @@
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.setting.intl.miui.com
+0.0.0.0 api.shanghailingye.cn
 0.0.0.0 api.shanhutech.cn
 0.0.0.0 api.share.baidu.com
 0.0.0.0 api.share.mob.com
@@ -6230,6 +6232,7 @@
 0.0.0.0 aquvg.com
 0.0.0.0 aqvwn18102h.com
 0.0.0.0 aqw.quanliyouxi.cn
+0.0.0.0 aqyad.com
 0.0.0.0 ar.atwola.com
 0.0.0.0 ar.umeng.com
 0.0.0.0 ar1.atwola.com
@@ -11893,6 +11896,7 @@
 0.0.0.0 g.dyi3h.id
 0.0.0.0 g.f11w.com
 0.0.0.0 g.f5gh.com
+0.0.0.0 g.fancyapi.com
 0.0.0.0 g.gridsum.com
 0.0.0.0 g.gtimg.cn
 0.0.0.0 g.h1v3fa.com
@@ -15975,6 +15979,7 @@
 0.0.0.0 l4efwdtg.icu
 0.0.0.0 l4kqnr.ynu.icu
 0.0.0.0 l5p4.nvpuse.com
+0.0.0.0 l6.fancyapi.com
 0.0.0.0 l6o6.154.com
 0.0.0.0 l6urqh27.sina.cn
 0.0.0.0 l71.cn
@@ -19300,6 +19305,7 @@
 0.0.0.0 open.youzanyun.com
 0.0.0.0 openacs.m.taobao.com
 0.0.0.0 openacs4uc.m.taobao.com
+0.0.0.0 openadapi.fancydsp.com
 0.0.0.0 openapi-gy.getui.com
 0.0.0.0 openapi-news.meizu.com
 0.0.0.0 openapi-smsp.getui.com
@@ -22390,6 +22396,7 @@
 0.0.0.0 sdk2api.getui.com
 0.0.0.0 sdk3api.getui.com
 0.0.0.0 sdkapi-smartop.jiguang.cn
+0.0.0.0 sdkapi.cloooud.com
 0.0.0.0 sdkapi.ezjhy.com
 0.0.0.0 sdkapi.sms.mob.com
 0.0.0.0 sdkapp.mobile.sina.cn
@@ -23254,6 +23261,7 @@
 0.0.0.0 ssp.86str.com
 0.0.0.0 ssp.chaohutechan.com
 0.0.0.0 ssp.cibn.starschina.com
+0.0.0.0 ssp.cloooud.com
 0.0.0.0 ssp.daxueshengqiandai.com
 0.0.0.0 ssp.dmpdsp.com
 0.0.0.0 ssp.dzh.com.cn
@@ -23507,6 +23515,7 @@
 0.0.0.0 staticadm.leju.sina.com.cn
 0.0.0.0 staticali.wi-fi.cn
 0.0.0.0 staticcdntx.xwtec.cn
+0.0.0.0 statichf.shihuocdn.cn
 0.0.0.0 staticjs.cn
 0.0.0.0 staticplat.cdn.bcebos.com
 0.0.0.0 staticrxycdn.ugilaufgk50bfnlsb.com
@@ -23921,6 +23930,7 @@
 0.0.0.0 t2.04703601.com
 0.0.0.0 t2.58cdn.com.cn
 0.0.0.0 t2.a.market.xiaomi.com
+0.0.0.0 t2.fancyapi.com
 0.0.0.0 t2.jzkapp.com
 0.0.0.0 t2.vbxx.net
 0.0.0.0 t2.wshufa.com

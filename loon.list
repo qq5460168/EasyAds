@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2025-11-13 12:18:49
-# 规则统计: 总计29425条 (IP:1029 DOMAIN:0 SUFFIX:28396 KEYWORD:0)
+# 更新时间(北京时间): 2025-11-13 16:18:12
+# 规则统计: 总计29435条 (IP:1029 DOMAIN:0 SUFFIX:28406 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -5649,6 +5649,7 @@ DOMAIN-SUFFIX,api.applink.mob.com,REJECT
 DOMAIN-SUFFIX,api.appodeal.com,REJECT
 DOMAIN-SUFFIX,api.apps.sina.cn,REJECT
 DOMAIN-SUFFIX,api.appsflyer.com,REJECT
+DOMAIN-SUFFIX,api.aqyad.com,REJECT
 DOMAIN-SUFFIX,api.bailingjiankang.com,REJECT
 DOMAIN-SUFFIX,api.banyunjuhe.com,REJECT
 DOMAIN-SUFFIX,api.branch.io,REJECT
@@ -5823,6 +5824,7 @@ DOMAIN-SUFFIX,api.sdk.admobile.top,REJECT
 DOMAIN-SUFFIX,api.sec.miui.com,REJECT
 DOMAIN-SUFFIX,api.segment.io,REJECT
 DOMAIN-SUFFIX,api.setting.intl.miui.com,REJECT
+DOMAIN-SUFFIX,api.shanghailingye.cn,REJECT
 DOMAIN-SUFFIX,api.shanhutech.cn,REJECT
 DOMAIN-SUFFIX,api.share.baidu.com,REJECT
 DOMAIN-SUFFIX,api.share.mob.com,REJECT
@@ -6249,6 +6251,7 @@ DOMAIN-SUFFIX,aqun17.oss-cn-shanghai.aliyuncs.com,REJECT
 DOMAIN-SUFFIX,aquvg.com,REJECT
 DOMAIN-SUFFIX,aqvwn18102h.com,REJECT
 DOMAIN-SUFFIX,aqw.quanliyouxi.cn,REJECT
+DOMAIN-SUFFIX,aqyad.com,REJECT
 DOMAIN-SUFFIX,ar.atwola.com,REJECT
 DOMAIN-SUFFIX,ar.umeng.com,REJECT
 DOMAIN-SUFFIX,ar1.atwola.com,REJECT
@@ -11905,6 +11908,7 @@ DOMAIN-SUFFIX,g.dtv.cn.miaozhen.com,REJECT
 DOMAIN-SUFFIX,g.dyi3h.id,REJECT
 DOMAIN-SUFFIX,g.f11w.com,REJECT
 DOMAIN-SUFFIX,g.f5gh.com,REJECT
+DOMAIN-SUFFIX,g.fancyapi.com,REJECT
 DOMAIN-SUFFIX,g.gridsum.com,REJECT
 DOMAIN-SUFFIX,g.gtimg.cn,REJECT
 DOMAIN-SUFFIX,g.h1v3fa.com,REJECT
@@ -15983,6 +15987,7 @@ DOMAIN-SUFFIX,l3r6p0d5.com,REJECT
 DOMAIN-SUFFIX,l4efwdtg.icu,REJECT
 DOMAIN-SUFFIX,l4kqnr.ynu.icu,REJECT
 DOMAIN-SUFFIX,l5p4.nvpuse.com,REJECT
+DOMAIN-SUFFIX,l6.fancyapi.com,REJECT
 DOMAIN-SUFFIX,l6o6.154.com,REJECT
 DOMAIN-SUFFIX,l6urqh27.sina.cn,REJECT
 DOMAIN-SUFFIX,l71.cn,REJECT
@@ -19304,6 +19309,7 @@ DOMAIN-SUFFIX,open.umeng.com,REJECT
 DOMAIN-SUFFIX,open.youzanyun.com,REJECT
 DOMAIN-SUFFIX,openacs.m.taobao.com,REJECT
 DOMAIN-SUFFIX,openacs4uc.m.taobao.com,REJECT
+DOMAIN-SUFFIX,openadapi.fancydsp.com,REJECT
 DOMAIN-SUFFIX,openapi-gy.getui.com,REJECT
 DOMAIN-SUFFIX,openapi-news.meizu.com,REJECT
 DOMAIN-SUFFIX,openapi-smsp.getui.com,REJECT
@@ -22390,6 +22396,7 @@ DOMAIN-SUFFIX,sdk1xyajs.data.kuiniuca.com,REJECT
 DOMAIN-SUFFIX,sdk2api.getui.com,REJECT
 DOMAIN-SUFFIX,sdk3api.getui.com,REJECT
 DOMAIN-SUFFIX,sdkapi-smartop.jiguang.cn,REJECT
+DOMAIN-SUFFIX,sdkapi.cloooud.com,REJECT
 DOMAIN-SUFFIX,sdkapi.ezjhy.com,REJECT
 DOMAIN-SUFFIX,sdkapi.sms.mob.com,REJECT
 DOMAIN-SUFFIX,sdkapp.mobile.sina.cn,REJECT
@@ -23254,6 +23261,7 @@ DOMAIN-SUFFIX,ssp.4hw.com.cn,REJECT
 DOMAIN-SUFFIX,ssp.86str.com,REJECT
 DOMAIN-SUFFIX,ssp.chaohutechan.com,REJECT
 DOMAIN-SUFFIX,ssp.cibn.starschina.com,REJECT
+DOMAIN-SUFFIX,ssp.cloooud.com,REJECT
 DOMAIN-SUFFIX,ssp.daxueshengqiandai.com,REJECT
 DOMAIN-SUFFIX,ssp.dmpdsp.com,REJECT
 DOMAIN-SUFFIX,ssp.dzh.com.cn,REJECT
@@ -23507,6 +23515,7 @@ DOMAIN-SUFFIX,staticadm.leju.com,REJECT
 DOMAIN-SUFFIX,staticadm.leju.sina.com.cn,REJECT
 DOMAIN-SUFFIX,staticali.wi-fi.cn,REJECT
 DOMAIN-SUFFIX,staticcdntx.xwtec.cn,REJECT
+DOMAIN-SUFFIX,statichf.shihuocdn.cn,REJECT
 DOMAIN-SUFFIX,staticjs.cn,REJECT
 DOMAIN-SUFFIX,staticplat.cdn.bcebos.com,REJECT
 DOMAIN-SUFFIX,staticrxycdn.ugilaufgk50bfnlsb.com,REJECT
@@ -23921,6 +23930,7 @@ DOMAIN-SUFFIX,t1z1et.tpe76.com,REJECT
 DOMAIN-SUFFIX,t2.04703601.com,REJECT
 DOMAIN-SUFFIX,t2.58cdn.com.cn,REJECT
 DOMAIN-SUFFIX,t2.a.market.xiaomi.com,REJECT
+DOMAIN-SUFFIX,t2.fancyapi.com,REJECT
 DOMAIN-SUFFIX,t2.jzkapp.com,REJECT
 DOMAIN-SUFFIX,t2.vbxx.net,REJECT
 DOMAIN-SUFFIX,t2.wshufa.com,REJECT
