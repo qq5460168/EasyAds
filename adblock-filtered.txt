@@ -950,7 +950,6 @@
 ||arm.z74d.com^
 ||www.z74d.com^
 ||q.z74d.com^
-||snssdk.com^
 ||security.snssdk.com^
 ||ctobsnssdk.com^
 ||pangolin.snssdk.com^
@@ -26730,6 +26729,7 @@
 ||snippet.pos.baidu.com^
 ||sns-img-qn.xhscdn.com^
 ||sns.api.moji.com^
+||snssdk.com^
 ||snssdk.huazhu.com^
 ||soagw-live-ssl.xunlei.com^
 ||social.blued.cn^

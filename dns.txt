@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-11-13 12:28:00.596025
+# Generated on 2025-11-13 16:16:37.055286
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -953,7 +953,6 @@
 ||arm.z74d.com^
 ||www.z74d.com^
 ||q.z74d.com^
-||snssdk.com^
 ||security.snssdk.com^
 ||ctobsnssdk.com^
 ||pangolin.snssdk.com^
@@ -26733,6 +26732,7 @@
 ||snippet.pos.baidu.com^
 ||sns-img-qn.xhscdn.com^
 ||sns.api.moji.com^
+||snssdk.com^
 ||snssdk.huazhu.com^
 ||soagw-live-ssl.xunlei.com^
 ||social.blued.cn^

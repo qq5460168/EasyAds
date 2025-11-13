@@ -936,7 +936,6 @@ DOMAIN,sbkh5.z74d.com,reject
 DOMAIN,arm.z74d.com,reject
 DOMAIN,www.z74d.com,reject
 DOMAIN,q.z74d.com,reject
-DOMAIN,snssdk.com,reject
 DOMAIN,security.snssdk.com,reject
 DOMAIN,ctobsnssdk.com,reject
 DOMAIN,pangolin.snssdk.com,reject
@@ -26652,6 +26651,7 @@ DOMAIN,snapads.com,reject
 DOMAIN,snippet.pos.baidu.com,reject
 DOMAIN,sns-img-qn.xhscdn.com,reject
 DOMAIN,sns.api.moji.com,reject
+DOMAIN,snssdk.com,reject
 DOMAIN,snssdk.huazhu.com,reject
 DOMAIN,soagw-live-ssl.xunlei.com,reject
 DOMAIN,social.blued.cn,reject
