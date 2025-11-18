@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-11-18 04:17:16
-# 规则总数: 29439
+# 更新时间: 2025-11-18 08:18:34
+# 规则总数: 29444
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -4933,6 +4933,7 @@ domain: adwordsexpress.com, policy: reject
 domain: adx-ad-prod.wkanx.com, policy: reject
 domain: adx-ad.smart-tv.cn, policy: reject
 domain: adx-api.hupu.com, policy: reject
+domain: adx-api.jinmo.tech, policy: reject
 domain: adx-bid.tianzhuobj.com, policy: reject
 domain: adx-bj-req.anythinktech.com, policy: reject
 domain: adx-bj.anythinktech.com, policy: reject
@@ -18129,6 +18130,7 @@ domain: monitor-tools.cn.miaozhen.com, policy: reject
 domain: monitor-uu.play.aiseet.atianqi.com, policy: reject
 domain: monitor.43wan.com, policy: reject
 domain: monitor.ads.8le8le.com, policy: reject
+domain: monitor.adxsenmeng.com, policy: reject
 domain: monitor.dsp.mob.com, policy: reject
 domain: monitor.flourish-fs.com, policy: reject
 domain: monitor.kg.qq.com, policy: reject
@@ -20911,6 +20913,7 @@ domain: qmfcybwbf19.com, policy: reject
 domain: qmfcybwbf28.com, policy: reject
 domain: qmhw27212.xyz, policy: reject
 domain: qmkdy.com, policy: reject
+domain: qmlog.baertt.com, policy: reject
 domain: qmlog.cn, policy: reject
 domain: qn-cdnfile1pcdn.msstatic.com, policy: reject
 domain: qn-livewebbs2pcdn.msstatic.com, policy: reject
@@ -21648,6 +21651,7 @@ domain: rtb-csync.smartadserver.com, policy: reject
 domain: rtb-p.kejet.net, policy: reject
 domain: rtb-tk-cn.rayjump.com, policy: reject
 domain: rtb.adentifi.com, policy: reject
+domain: rtb.adxsenmeng.com, policy: reject
 domain: rtb.com.ru, policy: reject
 domain: rtb.eanalyzer.de, policy: reject
 domain: rtb.getui.com, policy: reject
@@ -24051,6 +24055,7 @@ domain: tappile.com, policy: reject
 domain: tappx.com, policy: reject
 domain: tapstream.com, policy: reject
 domain: tapwhigwy.com, policy: reject
+domain: target.ads.jihuoniao.com, policy: reject
 domain: targetedinfo.com, policy: reject
 domain: targetedmedia.com.cn, policy: reject
 domain: targetedtopic.com, policy: reject

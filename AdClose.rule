@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-11-18 04:17:16
-# 规则总数: 29439
+# 更新时间: 2025-11-18 08:18:34
+# 规则总数: 29444
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -4933,6 +4933,7 @@ domain, adwordsexpress.com
 domain, adx-ad-prod.wkanx.com
 domain, adx-ad.smart-tv.cn
 domain, adx-api.hupu.com
+domain, adx-api.jinmo.tech
 domain, adx-bid.tianzhuobj.com
 domain, adx-bj-req.anythinktech.com
 domain, adx-bj.anythinktech.com
@@ -18129,6 +18130,7 @@ domain, monitor-tools.cn.miaozhen.com
 domain, monitor-uu.play.aiseet.atianqi.com
 domain, monitor.43wan.com
 domain, monitor.ads.8le8le.com
+domain, monitor.adxsenmeng.com
 domain, monitor.dsp.mob.com
 domain, monitor.flourish-fs.com
 domain, monitor.kg.qq.com
@@ -20911,6 +20913,7 @@ domain, qmfcybwbf19.com
 domain, qmfcybwbf28.com
 domain, qmhw27212.xyz
 domain, qmkdy.com
+domain, qmlog.baertt.com
 domain, qmlog.cn
 domain, qn-cdnfile1pcdn.msstatic.com
 domain, qn-livewebbs2pcdn.msstatic.com
@@ -21648,6 +21651,7 @@ domain, rtb-csync.smartadserver.com
 domain, rtb-p.kejet.net
 domain, rtb-tk-cn.rayjump.com
 domain, rtb.adentifi.com
+domain, rtb.adxsenmeng.com
 domain, rtb.com.ru
 domain, rtb.eanalyzer.de
 domain, rtb.getui.com
@@ -24051,6 +24055,7 @@ domain, tappile.com
 domain, tappx.com
 domain, tapstream.com
 domain, tapwhigwy.com
+domain, target.ads.jihuoniao.com
 domain, targetedinfo.com
 domain, targetedmedia.com.cn
 domain, targetedtopic.com

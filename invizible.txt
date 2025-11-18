@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-11-18 04:17:16
-# 规则总数: 29439
+# 更新时间: 2025-11-18 08:18:34
+# 规则总数: 29444
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -4933,6 +4933,7 @@ adwordsexpress.com block
 adx-ad-prod.wkanx.com block
 adx-ad.smart-tv.cn block
 adx-api.hupu.com block
+adx-api.jinmo.tech block
 adx-bid.tianzhuobj.com block
 adx-bj-req.anythinktech.com block
 adx-bj.anythinktech.com block
@@ -18129,6 +18130,7 @@ monitor-tools.cn.miaozhen.com block
 monitor-uu.play.aiseet.atianqi.com block
 monitor.43wan.com block
 monitor.ads.8le8le.com block
+monitor.adxsenmeng.com block
 monitor.dsp.mob.com block
 monitor.flourish-fs.com block
 monitor.kg.qq.com block
@@ -20911,6 +20913,7 @@ qmfcybwbf19.com block
 qmfcybwbf28.com block
 qmhw27212.xyz block
 qmkdy.com block
+qmlog.baertt.com block
 qmlog.cn block
 qn-cdnfile1pcdn.msstatic.com block
 qn-livewebbs2pcdn.msstatic.com block
@@ -21648,6 +21651,7 @@ rtb-csync.smartadserver.com block
 rtb-p.kejet.net block
 rtb-tk-cn.rayjump.com block
 rtb.adentifi.com block
+rtb.adxsenmeng.com block
 rtb.com.ru block
 rtb.eanalyzer.de block
 rtb.getui.com block
@@ -24051,6 +24055,7 @@ tappile.com block
 tappx.com block
 tapstream.com block
 tapwhigwy.com block
+target.ads.jihuoniao.com block
 targetedinfo.com block
 targetedmedia.com.cn block
 targetedtopic.com block

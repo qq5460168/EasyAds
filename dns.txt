@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-11-18 04:17:14.692832
+# Generated on 2025-11-18 08:18:32.021335
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -133,12 +133,14 @@
 ||advice-ads.s3.amazonaws.com^
 ||adview.cn^
 ||adx-ad.smart-tv.cn^
+||adx-api.jinmo.tech^
 ||adx-bj-req.anythinktech.com^
 ||adx-bj.anythinktech.com^
 ||adx-cn.anythinktech.com^
 ||adx-drcn.op.dbankcloud.cn^
 ||adx-open-service.youku.com^
 ||adx-os.anythinktech.com^
+||adx-saas.advlion.com^
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
 ||adx.appsdk.com.cn^
@@ -237,6 +239,7 @@
 ||bianxian.com^
 ||bingads.microsoft.com^
 ||biz.weibo.com^
+||bj-td-menta-01-callback.advlion.com^
 ||bj.ad.track.66mobi.com^
 ||books-analytics-events.apple.com^
 ||bootpreload.uve.weibo.com^
@@ -247,6 +250,7 @@
 ||bugly.qq.com^
 ||business-api.tiktok.com^
 ||c.bidtoolads.com^
+||c.etoolads.cn^
 ||c.evidon.com^
 ||c.gj.qq.com^
 ||c.kuaiduizuoye.com^
@@ -526,6 +530,7 @@
 ||mobilelog.upqzfile.com^
 ||monitor-ads-test.huan.tv^
 ||monitor-uu.play.aiseet.atianqi.com^
+||monitor.adxsenmeng.com^
 ||monitor.music.qq.com^
 ||monitor.uu.qq.com^
 ||monsetting.toutiao.com^
@@ -602,6 +607,7 @@
 ||proxy.advp.apple.com^
 ||public.gdtimg.com^
 ||q.i.gdt.qq.com^
+||qmlog.baertt.com^
 ||qn-cdnfile1pcdn.msstatic.com^
 ||qqdata.ab.qq.com^
 ||qzs.gdtimg.com^
@@ -622,8 +628,10 @@
 ||rpt.gdt.qq.com^
 ||rt.applovin.com^
 ||rt.applvn.com^
+||rtb.adxsenmeng.com^
 ||rtb.voiceads.cn^
 ||s.amazon-adsystem.com^
+||s1.cdn-sg.advlion.com^
 ||s8t.teads.tv^
 ||saad.ms.zhangyue.net^
 ||saas.hpplay.cn^
@@ -707,6 +715,7 @@
 ||t7z.cupid.iqiyi.com^
 ||t7z.cupid.ptqy.gitv.tv^
 ||tangram.e.qq.com^
+||target.ads.jihuoniao.com^
 ||tdc.qq.com^
 ||tdsdk.cpatrk.net^
 ||tdsdk.xdrig.com^
@@ -16653,7 +16662,6 @@
 ||api5-normal-sinfonlineb.dcarapi.com^
 ||appcloud2.zhihu.com^
 ||bossaudioandcomic-1252317822.image.myqcloud.com^
-||c.etoolads.cn^
 ||cards.iqiyi.com^
 ||chat-platform-open.kakamobi.cn^
 ||ctrmi.cn^
@@ -19624,7 +19632,6 @@
 ||adx-fb.wandoujia.com^
 ||adx-os-req.anythinktech.com^
 ||adx-os.toponadss.com^
-||adx-saas.advlion.com^
 ||adx-tk.rayjump.com^
 ||adx.ads.vungle.com^
 ||adx.adubest.com^
@@ -20522,7 +20529,6 @@
 ||bj-new-hb-bid-feedback.rayjump.com^
 ||bj-superset.oa.vlion.cn^
 ||bj-td-01-callback.advlion.com^
-||bj-td-menta-01-callback.advlion.com^
 ||bj.bcebos.com^
 ||bj.cdyrjygs.com^
 ||bj.qchannel03.cn^
@@ -26193,7 +26199,6 @@
 ||s0fanxing.kugou.com^
 ||s1-11289.kwimgs.com^
 ||s1-11661.kwimgs.com^
-||s1.cdn-sg.advlion.com^
 ||s1.cnzz.com^
 ||s1.dcloud.net.cn^
 ||s1.irs03.com^

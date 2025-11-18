@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2025-11-18 12:17:15
-# 规则统计: 总计29435条 (IP:1029 DOMAIN:0 SUFFIX:28406 KEYWORD:0)
+# 更新时间(北京时间): 2025-11-18 16:18:32
+# 规则统计: 总计29440条 (IP:1029 DOMAIN:0 SUFFIX:28411 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -4951,6 +4951,7 @@ DOMAIN-SUFFIX,adwordsexpress.com,REJECT
 DOMAIN-SUFFIX,adx-ad-prod.wkanx.com,REJECT
 DOMAIN-SUFFIX,adx-ad.smart-tv.cn,REJECT
 DOMAIN-SUFFIX,adx-api.hupu.com,REJECT
+DOMAIN-SUFFIX,adx-api.jinmo.tech,REJECT
 DOMAIN-SUFFIX,adx-bid.tianzhuobj.com,REJECT
 DOMAIN-SUFFIX,adx-bj-req.anythinktech.com,REJECT
 DOMAIN-SUFFIX,adx-bj.anythinktech.com,REJECT
@@ -18136,6 +18137,7 @@ DOMAIN-SUFFIX,monitor-tools.cn.miaozhen.com,REJECT
 DOMAIN-SUFFIX,monitor-uu.play.aiseet.atianqi.com,REJECT
 DOMAIN-SUFFIX,monitor.43wan.com,REJECT
 DOMAIN-SUFFIX,monitor.ads.8le8le.com,REJECT
+DOMAIN-SUFFIX,monitor.adxsenmeng.com,REJECT
 DOMAIN-SUFFIX,monitor.dsp.mob.com,REJECT
 DOMAIN-SUFFIX,monitor.flourish-fs.com,REJECT
 DOMAIN-SUFFIX,monitor.kg.qq.com,REJECT
@@ -20913,6 +20915,7 @@ DOMAIN-SUFFIX,qmfcybwbf19.com,REJECT
 DOMAIN-SUFFIX,qmfcybwbf28.com,REJECT
 DOMAIN-SUFFIX,qmhw27212.xyz,REJECT
 DOMAIN-SUFFIX,qmkdy.com,REJECT
+DOMAIN-SUFFIX,qmlog.baertt.com,REJECT
 DOMAIN-SUFFIX,qmlog.cn,REJECT
 DOMAIN-SUFFIX,qn-cdnfile1pcdn.msstatic.com,REJECT
 DOMAIN-SUFFIX,qn-livewebbs2pcdn.msstatic.com,REJECT
@@ -21648,6 +21651,7 @@ DOMAIN-SUFFIX,rtb-csync.smartadserver.com,REJECT
 DOMAIN-SUFFIX,rtb-p.kejet.net,REJECT
 DOMAIN-SUFFIX,rtb-tk-cn.rayjump.com,REJECT
 DOMAIN-SUFFIX,rtb.adentifi.com,REJECT
+DOMAIN-SUFFIX,rtb.adxsenmeng.com,REJECT
 DOMAIN-SUFFIX,rtb.com.ru,REJECT
 DOMAIN-SUFFIX,rtb.eanalyzer.de,REJECT
 DOMAIN-SUFFIX,rtb.getui.com,REJECT
@@ -24051,6 +24055,7 @@ DOMAIN-SUFFIX,tappile.com,REJECT
 DOMAIN-SUFFIX,tappx.com,REJECT
 DOMAIN-SUFFIX,tapstream.com,REJECT
 DOMAIN-SUFFIX,tapwhigwy.com,REJECT
+DOMAIN-SUFFIX,target.ads.jihuoniao.com,REJECT
 DOMAIN-SUFFIX,targetedinfo.com,REJECT
 DOMAIN-SUFFIX,targetedmedia.com.cn,REJECT
 DOMAIN-SUFFIX,targetedtopic.com,REJECT

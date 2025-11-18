@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-11-18 04:17:16
-# 规则总数: 29439
+# 更新时间: 2025-11-18 08:18:33
+# 规则总数: 29444
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -4934,6 +4934,7 @@ payload:
   - 'adx-ad-prod.wkanx.com'
   - 'adx-ad.smart-tv.cn'
   - 'adx-api.hupu.com'
+  - 'adx-api.jinmo.tech'
   - 'adx-bid.tianzhuobj.com'
   - 'adx-bj-req.anythinktech.com'
   - 'adx-bj.anythinktech.com'
@@ -18130,6 +18131,7 @@ payload:
   - 'monitor-uu.play.aiseet.atianqi.com'
   - 'monitor.43wan.com'
   - 'monitor.ads.8le8le.com'
+  - 'monitor.adxsenmeng.com'
   - 'monitor.dsp.mob.com'
   - 'monitor.flourish-fs.com'
   - 'monitor.kg.qq.com'
@@ -20912,6 +20914,7 @@ payload:
   - 'qmfcybwbf28.com'
   - 'qmhw27212.xyz'
   - 'qmkdy.com'
+  - 'qmlog.baertt.com'
   - 'qmlog.cn'
   - 'qn-cdnfile1pcdn.msstatic.com'
   - 'qn-livewebbs2pcdn.msstatic.com'
@@ -21649,6 +21652,7 @@ payload:
   - 'rtb-p.kejet.net'
   - 'rtb-tk-cn.rayjump.com'
   - 'rtb.adentifi.com'
+  - 'rtb.adxsenmeng.com'
   - 'rtb.com.ru'
   - 'rtb.eanalyzer.de'
   - 'rtb.getui.com'
@@ -24052,6 +24056,7 @@ payload:
   - 'tappx.com'
   - 'tapstream.com'
   - 'tapwhigwy.com'
+  - 'target.ads.jihuoniao.com'
   - 'targetedinfo.com'
   - 'targetedmedia.com.cn'
   - 'targetedtopic.com'
