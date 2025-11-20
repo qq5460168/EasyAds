@@ -1,14 +1,15 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-11-20 20:26:53
-! 有效规则数量: 2768 条
+! 规则更新时间: 2025-11-21 00:17:13
+! 有效规则数量: 2770 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
-@@||static.deepseek.com^$important
-@@||cdn.deepseek.com^$important
-@@||www.uzzf.com^$important
-@@||uzzf.com^$important
-@@||www.mairuan.com^$important
+@@||woocall.sina.com.cn^
+@@||static.deepseek.com^
+@@||cdn.deepseek.com^
+@@||www.uzzf.com^
+@@||uzzf.com^
+@@||www.mairuan.com^
 @@||mairuan.com^
 @@||www.sygjx.com^
 @@||mini-game-gl.heytapmobile.com^
@@ -70,7 +71,7 @@
 @@||p2-lm.adbkwai.com^
 @@||p1-lm.adukwai.com^
 @@||appgoad.189.cn^
-@@||xbk.189.cn^$important
+@@||xbk.189.cn^
 @@||aihuishou.com^
 @@||www.yuketang.cn^
 @@||changjiang.yuketang.cn^
@@ -547,7 +548,7 @@
 @@||qzs.qq.com^
 @@||v6.pic.upqzfile.com^
 @@||qm.qq.com^
-@@||trpc.qianbao.qq.com^$important
+@@||trpc.qianbao.qq.com^
 @@||tianshu.gtimg.cn^
 @@||stat6.y.qq.com^
 @@||y.qq.com^
@@ -856,7 +857,7 @@
 @@||vcs.snssdk.com^
 @@||pitaya.bytedance.com^
 @@||p6.douyinpic.com^
-@@||guide-acs.m.taobao.com^$important
+@@||guide-acs.m.taobao.com^
 @@||dcms.1688.com^
 @@||gm.mmstat.com^
 @@||wgo.mmstat.com^
@@ -2524,6 +2525,7 @@
 @@||mssdk.volces.com^$important
 @@||mon.zijieapi.com^$important
 @@||openmonitor.alipay-eco.com^$important
+@@||zijieapi.com^$important
 @@||qpic.cn^$important
 @@||qq.com.cn^$important
 @@||pgdt.ugdtimg.com^$important
