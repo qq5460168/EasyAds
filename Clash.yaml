@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-11-20 20:15:18
-# 规则总数: 29444
+# 更新时间: 2025-11-21 01:00:51
+# 规则总数: 29445
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -23986,6 +23986,7 @@ payload:
   - 'tags.growingio.com'
   - 'tags2.adshell.net'
   - 'tags4.revdepo.com'
+  - 'tagtd.cn'
   - 'tahltanboutell.com'
   - 'taichi.51y5.net'
   - 'tailscale.io'

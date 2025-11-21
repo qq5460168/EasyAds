@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-11-20 20:15:18
-# 规则总数: 29444
+# 更新时间: 2025-11-21 01:00:52
+# 规则总数: 29445
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -23985,6 +23985,7 @@
 0.0.0.0 tags.growingio.com
 0.0.0.0 tags2.adshell.net
 0.0.0.0 tags4.revdepo.com
+0.0.0.0 tagtd.cn
 0.0.0.0 tahltanboutell.com
 0.0.0.0 taichi.51y5.net
 0.0.0.0 tailscale.io

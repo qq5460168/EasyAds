@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-11-20 20:15:18
-# 规则总数: 29444
+# 更新时间: 2025-11-21 01:00:52
+# 规则总数: 29445
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -23985,6 +23985,7 @@ domain: tags.crwdcntrl.net, policy: reject
 domain: tags.growingio.com, policy: reject
 domain: tags2.adshell.net, policy: reject
 domain: tags4.revdepo.com, policy: reject
+domain: tagtd.cn, policy: reject
 domain: tahltanboutell.com, policy: reject
 domain: taichi.51y5.net, policy: reject
 domain: tailscale.io, policy: reject

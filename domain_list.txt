@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-11-20 20:15:16（北京时间）
-# 共 29428 个域名
+# 生成时间: 2025-11-21 01:00:50（北京时间）
+# 共 29429 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -23972,6 +23972,7 @@ tags.crwdcntrl.net
 tags.growingio.com
 tags2.adshell.net
 tags4.revdepo.com
+tagtd.cn
 tahltanboutell.com
 taichi.51y5.net
 tailscale.io

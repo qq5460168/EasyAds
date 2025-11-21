@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-11-20 20:15:18
-# 规则总数: 29444
+# 更新时间: 2025-11-21 01:00:52
+# 规则总数: 29445
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -23985,6 +23985,7 @@ tags.crwdcntrl.net block
 tags.growingio.com block
 tags2.adshell.net block
 tags4.revdepo.com block
+tagtd.cn block
 tahltanboutell.com block
 taichi.51y5.net block
 tailscale.io block

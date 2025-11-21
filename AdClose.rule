@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-11-20 20:15:18
-# 规则总数: 29444
+# 更新时间: 2025-11-21 01:00:52
+# 规则总数: 29445
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -23985,6 +23985,7 @@ domain, tags.crwdcntrl.net
 domain, tags.growingio.com
 domain, tags2.adshell.net
 domain, tags4.revdepo.com
+domain, tagtd.cn
 domain, tahltanboutell.com
 domain, taichi.51y5.net
 domain, tailscale.io
