@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-11-21 04:16:37
-# 规则总数: 29445
+# 更新时间: 2025-11-21 08:19:17
+# 规则总数: 29446
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -5451,6 +5451,7 @@ domain: aombjl099.com, policy: reject
 domain: aoodoo.feng.com, policy: reject
 domain: aoodoo.weiphone.com, policy: reject
 domain: aoqinglv.cn, policy: reject
+domain: aorlpi.cn, policy: reject
 domain: aornkmae.com, policy: reject
 domain: aos-creative.prf.hn, policy: reject
 domain: aos.wall.youmi.net, policy: reject

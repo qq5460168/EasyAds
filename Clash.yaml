@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-11-21 04:16:37
-# 规则总数: 29445
+# 更新时间: 2025-11-21 08:19:17
+# 规则总数: 29446
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -5452,6 +5452,7 @@ payload:
   - 'aoodoo.feng.com'
   - 'aoodoo.weiphone.com'
   - 'aoqinglv.cn'
+  - 'aorlpi.cn'
   - 'aornkmae.com'
   - 'aos-creative.prf.hn'
   - 'aos.wall.youmi.net'

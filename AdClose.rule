@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-11-21 04:16:37
-# 规则总数: 29445
+# 更新时间: 2025-11-21 08:19:17
+# 规则总数: 29446
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -5451,6 +5451,7 @@ domain, aombjl099.com
 domain, aoodoo.feng.com
 domain, aoodoo.weiphone.com
 domain, aoqinglv.cn
+domain, aorlpi.cn
 domain, aornkmae.com
 domain, aos-creative.prf.hn
 domain, aos.wall.youmi.net

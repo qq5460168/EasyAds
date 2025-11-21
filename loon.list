@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2025-11-21 12:16:36
-# 规则统计: 总计29441条 (IP:1029 DOMAIN:0 SUFFIX:28412 KEYWORD:0)
+# 更新时间(北京时间): 2025-11-21 16:19:15
+# 规则统计: 总计29442条 (IP:1029 DOMAIN:0 SUFFIX:28413 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -5469,6 +5469,7 @@ DOMAIN-SUFFIX,aombjl099.com,REJECT
 DOMAIN-SUFFIX,aoodoo.feng.com,REJECT
 DOMAIN-SUFFIX,aoodoo.weiphone.com,REJECT
 DOMAIN-SUFFIX,aoqinglv.cn,REJECT
+DOMAIN-SUFFIX,aorlpi.cn,REJECT
 DOMAIN-SUFFIX,aornkmae.com,REJECT
 DOMAIN-SUFFIX,aos-creative.prf.hn,REJECT
 DOMAIN-SUFFIX,aos.wall.youmi.net,REJECT

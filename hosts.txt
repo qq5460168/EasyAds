@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-11-21 04:16:37
-# 规则总数: 29445
+# 更新时间: 2025-11-21 08:19:17
+# 规则总数: 29446
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -5451,6 +5451,7 @@
 0.0.0.0 aoodoo.feng.com
 0.0.0.0 aoodoo.weiphone.com
 0.0.0.0 aoqinglv.cn
+0.0.0.0 aorlpi.cn
 0.0.0.0 aornkmae.com
 0.0.0.0 aos-creative.prf.hn
 0.0.0.0 aos.wall.youmi.net
