@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-11-23 09:09:45
-! 有效规则数量: 38945 条
+! 规则更新时间: 2025-11-23 12:27:44
+! 有效规则数量: 38947 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -875,9 +875,9 @@
 ||vlion.cn^
 ||yfanads.com^
 ||zhangyuyidong.cn^
-140.82.112.25                 alive.github.com
+140.82.114.25                 alive.github.com
 20.205.243.168                api.github.com
-140.82.113.21                 api.individual.githubcopilot.com
+140.82.114.21                 api.individual.githubcopilot.com
 185.199.109.133               avatars.githubusercontent.com
 185.199.109.133               avatars0.githubusercontent.com
 185.199.109.133               avatars1.githubusercontent.com
@@ -886,23 +886,23 @@
 185.199.109.133               avatars4.githubusercontent.com
 185.199.109.133               avatars5.githubusercontent.com
 185.199.109.133               camo.githubusercontent.com
-140.82.114.21                 central.github.com
+140.82.113.21                 central.github.com
 185.199.109.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
 140.82.113.22                 collector.github.com
 185.199.109.133               desktop.githubusercontent.com
 185.199.109.133               favicons.githubusercontent.com
-20.205.243.166                gist.github.com
-3.5.8.118                     github-cloud.s3.amazonaws.com
-16.15.180.61                  github-com.s3.amazonaws.com
-16.15.188.235                 github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.20.157                    github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.193.217                github-production-user-asset-6210df.s3.amazonaws.com
+140.82.113.3                  gist.github.com
+52.217.101.252                github-cloud.s3.amazonaws.com
+3.5.28.155                    github-com.s3.amazonaws.com
+16.15.207.90                  github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.28.61                     github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.195.59                  github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
-20.205.243.166                github.com
-140.82.112.18                 github.community
+140.82.114.4                  github.com
+140.82.113.18                 github.community
 185.199.110.154               github.githubassets.com
-151.101.65.194                github.global.ssl.fastly.net
+151.101.193.194               github.global.ssl.fastly.net
 185.199.111.153               github.io
 185.199.109.133               github.map.fastly.net
 185.199.111.153               githubstatus.com
@@ -913,7 +913,7 @@
 185.199.109.133               raw.githubusercontent.com
 185.199.109.133               user-images.githubusercontent.com
 13.107.213.73                 vscode.dev  # Timeout
-140.82.112.22                 education.github.com
+140.82.114.22                 education.github.com
 185.199.109.133               private-user-images.githubusercontent.com
 127.0.0.1 localhost
 108.177.125.188 mtalk.google.com  #台湾
@@ -34746,6 +34746,8 @@
 /static/2biqu/twgdh.js
 /v2/stats/1*/1*$third-party
 /theme/damn_b.js$~third-party
+/xx/d.js
+/xx/f12.js
 /assets/js/se.js$~third-party
 /assets/publish/*.2.js$~third-party
 /assets/publish/*.1.js$~third-party
