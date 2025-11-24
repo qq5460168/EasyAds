@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-11-24 12:27:16
-# 规则总数: 29447
+# 更新时间: 2025-11-24 16:14:50
+# 规则总数: 29622
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -83,6 +83,7 @@ domain, 04101115zzqzzq.metalnews.cn
 domain, 04203048.com
 domain, 0451106.com
 domain, 04766414.com
+domain, 04kai.org
 domain, 04to5m.cn
 domain, 0519.xrked01.xyz
 domain, 05198.cn
@@ -111,6 +112,7 @@ domain, 0710-kk-1324970764.cos.accelerate.myqcloud.com
 domain, 074adzx.com
 domain, 0756sjlm.com.cn
 domain, 07697.pink
+domain, 07879.com
 domain, 079.cc
 domain, 07b04.cc
 domain, 080999.cn
@@ -352,6 +354,7 @@ domain, 10y1d19m6z.m62hvi.top
 domain, 11.271y.com
 domain, 11.hydcd.com
 domain, 110.40.77.188
+domain, 11000.vip
 domain, 1104piaoba2022.xyz
 domain, 1105yh.com
 domain, 1106.l.mob.com
@@ -407,6 +410,7 @@ domain, 114.119.189.26
 domain, 114.132.216.51
 domain, 114.67.213.149
 domain, 114la.com
+domain, 1156.com
 domain, 1156dns.com
 domain, 116.136.15.135
 domain, 116.196.136.100
@@ -1309,6 +1313,10 @@ domain, 2317786.com
 domain, 23263.ooo
 domain, 2330.com
 domain, 2330fh.lzbmfwh.top
+domain, 233leyuan.cn
+domain, 233leyuan.com
+domain, 233lyly.cn
+domain, 233lyly.com
 domain, 233wo.com
 domain, 2345.cn
 domain, 2345.oadz.com
@@ -1561,12 +1569,14 @@ domain, 3.cn
 domain, 3.guidaye.com
 domain, 3.hlg102a.cc
 domain, 3.ssqzj.com
+domain, 300hu.com
 domain, 3017dc.umqlyy.com
 domain, 302.cndway.com
 domain, 3022.fohbgjv.com
 domain, 3022dc.jtoxume.com
 domain, 30350f.com
 domain, 30407799.com
+domain, 3044.com
 domain, 3079018211.ietheivaicai.com
 domain, 3083602563.ahdohpiechei.com
 domain, 3084794460.ietheivaicai.com
@@ -1591,7 +1601,9 @@ domain, 323659.50817150.top
 domain, 32414.com
 domain, 32666099.com
 domain, 3269x.com
+domain, 3280.com
 domain, 328wo.5dj8dhdg2dada.top
+domain, 3290.com
 domain, 32c7.7790.com
 domain, 32sms.cn
 domain, 33.autohome.com.cn
@@ -1610,6 +1622,7 @@ domain, 3338637.com
 domain, 3338652.com
 domain, 333bbb555kkk.com
 domain, 33544444.com
+domain, 3359.com
 domain, 336.com
 domain, 336698.com
 domain, 3377248c.app
@@ -1701,8 +1714,11 @@ domain, 360vip.front99.com
 domain, 361.trafficmanager.net
 domain, 361315.cc
 domain, 361ct9.vip
+domain, 365111.com
 domain, 3656.run
+domain, 3658888.com
 domain, 365bibi.com
+domain, 365dmp.com
 domain, 365safego.com
 domain, 3667kk.com
 domain, 366safego.com
@@ -1790,6 +1806,7 @@ domain, 39xc.net
 domain, 3a4f.ag8.com
 domain, 3a7o.720lu.com
 domain, 3ad5iot.com
+domain, 3adtjg.com
 domain, 3adxtalp.cloud.sqpd.opendun.com
 domain, 3baa.ag8.com
 domain, 3bnu9r57999u.xbsahcasfasfasdf.sacvcr.com.eo.dnse5.com
@@ -1797,6 +1814,7 @@ domain, 3csa1grj0ve9.wusuoxmhjas.nbybgy.com.eo.dnse3.com
 domain, 3dm.huya.com
 domain, 3dns-2.adobe.com
 domain, 3dns-3.adobe.com
+domain, 3dqvcli.xyz
 domain, 3ds6.cl.app
 domain, 3dwwwgame.com
 domain, 3er88wn.com
@@ -1832,6 +1850,7 @@ domain, 3pkf5m0gd.com
 domain, 3prndxd.cn
 domain, 3q3l.cn
 domain, 3qmh.com
+domain, 3r5ia7l.xyz
 domain, 3rd.t.sohu.com
 domain, 3rsppty.cn
 domain, 3t2j.k8.com
@@ -1926,6 +1945,7 @@ domain, 43648398.com
 domain, 4366.com
 domain, 4366cq.381pk.com
 domain, 4366cq.yutaoyouxi.com
+domain, 4393.cc
 domain, 43h9.com
 domain, 43sjmq3hg.com
 domain, 440a.8890.com
@@ -2045,6 +2065,7 @@ domain, 4dyt.cn
 domain, 4e7b8.iuqsjr.xyz
 domain, 4e9b0b8a-0d44-42fd-983d-27d991ddd232.bspapp.com
 domain, 4e9c7527ey.greycdn.net
+domain, 4egscv.com
 domain, 4etsr.xyz
 domain, 4f9455d8.u.kanejwo.com
 domain, 4fd174f9.tx1.amoywine.com.cdn.dnsv1.com
@@ -2104,6 +2125,7 @@ domain, 51.wxapp.tc.qq.com
 domain, 510tl.com
 domain, 5125129.com
 domain, 513hch.com
+domain, 5163.com
 domain, 517heiya.com
 domain, 517m.cn
 domain, 518.sdinfo.net
@@ -2338,6 +2360,7 @@ domain, 597773zzr.com
 domain, 59be.cl.app
 domain, 59gt.cn
 domain, 59nb.k8.com
+domain, 59p643.com
 domain, 5a1m.yl.ag
 domain, 5a4r.011.com
 domain, 5afc8f3239.com
@@ -2397,6 +2420,7 @@ domain, 5wv3.6t.com
 domain, 5wzb.yide.com
 domain, 5y9nfpes.52pk.com
 domain, 5yrra.deshuangwang.cn
+domain, 5z6h6b.cn
 domain, 5zjl.6t.com
 domain, 6.52gao3143d.cc
 domain, 60.188.118.105
@@ -2419,6 +2443,8 @@ domain, 601693711.508747.top
 domain, 603.vip
 domain, 60513.baby
 domain, 60608787.com
+domain, 608.com
+domain, 608.vip
 domain, 60buyimg.com
 domain, 61.156.170.132
 domain, 61.160.192.70
@@ -2432,6 +2458,7 @@ domain, 61.164.242.57
 domain, 61.164.242.61
 domain, 61466wsmg.zltskq.com
 domain, 6151538.com
+domain, 6163.com
 domain, 61948.com
 domain, 61af141f.888cdn.vip
 domain, 61hhdp.com
@@ -2608,6 +2635,7 @@ domain, 6kwan.com
 domain, 6m9.co
 domain, 6mh8.com
 domain, 6nk6.011.com
+domain, 6nxa6g.com
 domain, 6nxdfc.top
 domain, 6osurvos.fn.bytedance.net
 domain, 6p7t.cl.app
@@ -2656,6 +2684,7 @@ domain, 7116dns.com
 domain, 711kk.com
 domain, 71360.com
 domain, 71507.net
+domain, 7163.com
 domain, 716703.com
 domain, 71813965.com
 domain, 71913788.com
@@ -2665,8 +2694,10 @@ domain, 7218ywf.com
 domain, 7277.cn
 domain, 72y96.com
 domain, 73.sinawap.com
+domain, 731.tv
 domain, 7348068270.cc
 domain, 7372b4ec.skr001.cc
+domain, 73788685.com
 domain, 737qq.pw
 domain, 737s.pw
 domain, 74.226.208.51
@@ -2690,6 +2721,7 @@ domain, 7566dh9.com
 domain, 75to.com
 domain, 75v3.com
 domain, 76.223.54.146
+domain, 76065.com
 domain, 7631.com
 domain, 764223.net
 domain, 76579451.com
@@ -2849,6 +2881,7 @@ domain, 8066hg.com
 domain, 80d8.7790.com
 domain, 80dg.6t.com
 domain, 80jn.720lu.com
+domain, 80ritc.com
 domain, 80sg.ag8.com
 domain, 80sjw.com
 domain, 80vn.cn
@@ -2880,6 +2913,7 @@ domain, 828239sam.com
 domain, 82869.pictures
 domain, 829355rff.com
 domain, 83082308.com
+domain, 83084.com
 domain, 830sp.com
 domain, 831kaiyun.net
 domain, 831l153.6yrc3b.top
@@ -3035,6 +3069,7 @@ domain, 8t5j.720lu.com
 domain, 8u4u.6t.com
 domain, 8ufq.8890.com
 domain, 8vpg.8890.com
+domain, 8vx3zks.xyz
 domain, 8vyv2z9mcpoyy.top
 domain, 8w6p.com
 domain, 8wv904gv1cjof.com
@@ -3116,12 +3151,14 @@ domain, 95.82.48.181
 domain, 95105012.com
 domain, 9519.net
 domain, 95230825.com
+domain, 9527.com
 domain, 95336910.com
 domain, 95558000.com
 domain, 95591.loan
 domain, 9565365.com
 domain, 9566180.com
 domain, 9569999.com
+domain, 9570.me
 domain, 959628.cn
 domain, 95c1eea2.74067120.com
 domain, 95dns.cc
@@ -3217,6 +3254,7 @@ domain, 9982.xuekazhijia.com
 domain, 9982app.net
 domain, 9982dh1.top
 domain, 9982dh2.top
+domain, 99839966.com
 domain, 999.haofu333.com
 domain, 99909988.com
 domain, 999233jj.com
@@ -3286,6 +3324,7 @@ domain, 9snw.yide.com
 domain, 9ssd.cn
 domain, 9t1j.yxzb.tv
 domain, 9t7t.com
+domain, 9tjoj6.com
 domain, 9tn.cc
 domain, 9u5.cn
 domain, 9u7i.yl.ag
@@ -3444,6 +3483,7 @@ domain, a.yangshengtang123.com
 domain, a.yixie8.com
 domain, a.yjbys.com
 domain, a.youdao.com
+domain, a.yximgs.com
 domain, a0.aifabu.com
 domain, a0.app.xiaomi.com
 domain, a0702.ky308tc0702.vip
@@ -3714,6 +3754,7 @@ domain, acm.dzwww.com
 domain, acnd.adnxs.com
 domain, acqc9.com
 domain, acquirethem.com
+domain, acs.m.taobao.com
 domain, acs.youku.com
 domain, acs4baichuan.m.taobao.com
 domain, acs4public.m.taobao.com
@@ -4190,6 +4231,7 @@ domain, adashx.ut.dingtalk.com
 domain, adashx.ut.ele.me
 domain, adashx.ut.hzshudian.com
 domain, adashx.ut.shuqi.com
+domain, adashx.ut.taobao.com
 domain, adashx.ut.uc.cn
 domain, adashx.ut.youku.com
 domain, adashx4ae.ut.taobao.com
@@ -5341,6 +5383,7 @@ domain, amsapp.yicai.com
 domain, amsweb-cdn-gz-1258344696.file.myqcloud.com
 domain, amung.us
 domain, amvecurt.cn
+domain, amwexgj.com
 domain, amxcsxj.pl.haohaohao17.xyz
 domain, amxpj.pl.haohaohao17.xyz
 domain, amxwqv.com
@@ -5417,6 +5460,7 @@ domain, androidlog.shouji.baofeng.com
 domain, andrqd.play.aiseet.atianqi.com
 domain, anfeng.com
 domain, angsrvr.com
+domain, anhuyj.cn
 domain, anian1.weebly.com
 domain, animal-graylog.happyelements.cn
 domain, anioscp.com
@@ -5430,6 +5474,7 @@ domain, anquan.org
 domain, anreson.net
 domain, ant.pingan.com.cn
 domain, antheaceliacd.com
+domain, anti-sdk-css-pre.m.jd.com
 domain, anti-sdk-report.m.jd.com
 domain, anti448.cdn.anti8.net
 domain, antivirus.baidu.com
@@ -5748,8 +5793,10 @@ domain, api.leadbolt.net
 domain, api.liuliangguo.com
 domain, api.liumingye.cn
 domain, api.look.360.cn
+domain, api.m.jd.com
 domain, api.mapps.uve.weibo.com
 domain, api.megvii.com
+domain, api.miguvideo.com
 domain, api.mob.com
 domain, api.mobgi.com
 domain, api.mobile.cnzz.com
@@ -5991,6 +6038,8 @@ domain, apm-collect.hzins.net
 domain, apm-log-upload-os.hoyoverse.com
 domain, apm-rum.inf.miui.com
 domain, apm-track.xiaohongshu.com
+domain, apm.app.coc.10086.cn
+domain, apm.clientaccess.10086.cn
 domain, apm.gotokeep.com
 domain, apm.hexin.cn
 domain, apm.suning.cn
@@ -6369,6 +6418,7 @@ domain, assp1cn2w.bensiea.com
 domain, astat.bugly.qq.com
 domain, astra.qhfsh.com
 domain, astrategy.beacon.qq.com
+domain, asuj.cn
 domain, asv.nuggad.net
 domain, asvysvxr.com
 domain, aswgbzsw.xingtangshuo.com
@@ -6402,6 +6452,7 @@ domain, atm.youku.com
 domain, atm.yoyi.com.cn
 domain, atmib.com
 domain, atnnf.xyz
+domain, atoken.m.taobao.com
 domain, atom.adjust.com
 domain, atomhike.com
 domain, atomicblast.lol
@@ -6484,6 +6535,7 @@ domain, aweme.snssdk.com
 domain, awempire.com
 domain, awiudbyqbpo.com
 domain, awkjs.com
+domain, awkwla.cn
 domain, awsins.3wf32emgd3.com
 domain, awsins.wetv92fc.com
 domain, aww5.net
@@ -6631,6 +6683,7 @@ domain, b59.xyz
 domain, b5b8fe6d.hii-go.com
 domain, b5dac791-dnsotls-ds.metric.gstatic.com
 domain, b5g.cn
+domain, b5gvpk5.com
 domain, b5i.cn
 domain, b5kbg2ggog.adobe.io
 domain, b5nd.cl.app
@@ -6762,6 +6815,7 @@ domain, bartender.cc
 domain, bas1.dcloud.net.cn
 domain, base-growth.soulapp.cn
 domain, base.filedot.xyz
+domain, base.hjq.komect.com
 domain, base.music.qq.com
 domain, basil.atcloudbox.com
 domain, bat.bing.com
@@ -6991,7 +7045,9 @@ domain, bes-progfree.com
 domain, besmeargleor.com
 domain, besqk.vqwjucmfdsqznfn.in
 domain, beste1.icu
+domain, bet333.com
 domain, bet36500050.com
+domain, bet555.com
 domain, beta.umeng.com
 domain, beta.vpon.com
 domain, beta2-ad-open-api.test.gifshow.com
@@ -7018,6 +7074,7 @@ domain, bfue12szsu.nz9bzbx9.com
 domain, bfugui.com
 domain, bg04y.xyz
 domain, bg4nxu2u5t.com
+domain, bgbjjtd.com
 domain, bgbyzv.xyz
 domain, bgdizsay.icu
 domain, bgfyhfcd.com
@@ -7050,6 +7107,7 @@ domain, bid.g.doubleclick.net
 domain, bidder.tradplusad.com
 domain, biddingos.com
 domain, biddingx.com
+domain, bidjora.com
 domain, bidmad.adop.cc
 domain, bidtoolads.com
 domain, bidvertiser.com
@@ -7127,6 +7185,8 @@ domain, bjfsk.xyz
 domain, bjim64.jpush.cn
 domain, bjimp.voiceads.cn
 domain, bjm.1vkx.cn
+domain, bjmantis.net
+domain, bjnxo.cn
 domain, bjql.bet555.com
 domain, bjrh.sixteens.cn
 domain, bjs.9669.cn
@@ -7209,6 +7269,7 @@ domain, boao101.app
 domain, boao9920.com
 domain, boardx.huanqiu.com
 domain, boats8.top
+domain, bob.com
 domain, bob.crazyshit.com
 domain, bob4892.com
 domain, bobo.163.com
@@ -7345,6 +7406,7 @@ domain, bt.xitongmonitor.com
 domain, bt5490044.cc
 domain, bt5y.8890.com
 domain, bt641499.gotoip4.com
+domain, bt66.tv
 domain, btcili.top
 domain, btescs.fun
 domain, btggafie.a.mgqhau.top
@@ -7440,6 +7502,7 @@ domain, by.tel.cdndm.com
 domain, by01.app
 domain, by04.app
 domain, by2257.vip
+domain, by6.app
 domain, by6pw.cc
 domain, by8428.com
 domain, by8974.com
@@ -7860,6 +7923,8 @@ domain, ccdx66.com
 domain, ccdx67.com
 domain, ccf.l.mob.com
 domain, ccfeedback.qulang123.com
+domain, ccfjma.m.jd.com
+domain, ccflbs.m.jd.com
 domain, cchguoji.com
 domain, cchvc.net
 domain, cck.ppkkll6655.com
@@ -8150,6 +8215,7 @@ domain, cdnbbb.net
 domain, cdncloud.asia
 domain, cdndns66.com
 domain, cdnfilev1.qukufun.com
+domain, cdnhwc22.com
 domain, cdnhwc22.com.
 domain, cdnimg.liehu.ijinshan.com
 domain, cdnis.hyperpromote.com
@@ -8572,6 +8638,7 @@ domain, cmbkgmx.cn
 domain, cmc.tanx.com
 domain, cmcdl.cmcm.com
 domain, cmcore.com
+domain, cmgadx.com
 domain, cmgjqqu.cn
 domain, cmh2pw.com
 domain, cmhd.cscmgg.com
@@ -9135,6 +9202,7 @@ domain, cyad123.com
 domain, cyberpolice.mps.gov.cn
 domain, cycy.kxrxh.com
 domain, cyek128.top
+domain, cyfupnq.com
 domain, cyhbrjf.cn
 domain, cylinderlongcheng.com
 domain, cypcb.net
@@ -9359,6 +9427,7 @@ domain, d7.sinaimg.cn
 domain, d7368772.u.fn03.vip.
 domain, d7368772.u.kanejwo.com
 domain, d77777777.com
+domain, d7a3fb6.com
 domain, d7qaevr22d96h.cloudfront.net
 domain, d7tif5m5alcud.cloudfront.net
 domain, d8.sina.com.cn
@@ -9795,6 +9864,7 @@ domain, dfx.shhuixiangwuliu.com
 domain, dfx.vnnv777.cn
 domain, dfxwdc.com
 domain, dfyl.s456jdkfjkgh.com
+domain, dg.k.jd.com
 domain, dg186.cn
 domain, dgaxxjq.cn
 domain, dgayibf.icu
@@ -9903,6 +9973,7 @@ domain, displaycatalog.mp.microsoft.com
 domain, disqusads.com
 domain, distf.kankan.com
 domain, ditorialproce.biz
+domain, diwodiwo.xyz
 domain, diyibanzhu
 domain, diyxjd.com
 domain, dizhensubao.getui.com
@@ -10023,6 +10094,7 @@ domain, dmacore.kejet.net
 domain, dmapp.chinadegi.com
 domain, dmapp.youku.com
 domain, dmapp2.chinadegi.com
+domain, dmcduio.com
 domain, dmd-ilp-hd.youku.com
 domain, dmd.metaservices.microsoft.com
 domain, dme.lchzwz.com
@@ -10060,6 +10132,7 @@ domain, dncvj.cn
 domain, dnet.mb.qq.com
 domain, dnightwish.xyz
 domain, dnl382.com
+domain, dnlog.cmpassport.com
 domain, dnms.getui.com
 domain, dnrf0215.com
 domain, dns.iqiyi.com
@@ -10344,6 +10417,7 @@ domain, dtrcw.cc
 domain, dtrk.slimcdn.com
 domain, dts.akamai.startappexchange.com
 domain, dtscout.com
+domain, dtsmndu.com
 domain, dtsxn.cn
 domain, du-feige.iqiyi.com
 domain, du.163.com
@@ -10781,10 +10855,12 @@ domain, eapi.ybren.com
 domain, earmasterchina.cn
 domain, earn-api.shengqu99.com
 domain, easou.irs01.com
+domain, easyland.club
 domain, easyrecoverychina.com
 domain, easytomessage.com
 domain, eaus2watcab01.blob.core.windows.net
 domain, eaus2watcab02.blob.core.windows.net
+domain, eavztdi.com
 domain, eb2.3lift.com
 domain, ebb22.922-992.icu
 domain, eblnzoq.cn
@@ -10822,6 +10898,7 @@ domain, ecom.pangolin-sdk-toutiao.com
 domain, ecom3-normal-lq.ecombdapi.com
 domain, ecom5-normal-lf.ecombdapi.com
 domain, ecom5-normal-lq.ecombdapi.com
+domain, ecombdimg.com
 domain, ecp1z.sgbh6.com
 domain, ecs-113-45-175-45.compute.hwclouds-dns.com
 domain, ecs.daikuan.360.cn
@@ -11149,6 +11226,7 @@ domain, events.wan.360.cn
 domain, events3alt.adcolony.com
 domain, evidhjksdtgyxrh.xyz
 domain, eviltracker.net
+domain, evqvxuq.com
 domain, evtubescms.phncdn.com
 domain, ew16d.package12.com
 domain, ew3jd68.vip
@@ -11162,6 +11240,7 @@ domain, ewrwf.com
 domain, ewtakg.getwakeup.com
 domain, ewtyewj.com
 domain, ex.as.pptv.com
+domain, ex.m.jd.com
 domain, ex.mobmore.com
 domain, ex.puata.info
 domain, ex.qq.com
@@ -11254,6 +11333,7 @@ domain, f1190.com
 domain, f12stag.kkmh.com
 domain, f1c.i.biquge5200.com
 domain, f1gt.yl.ag
+domain, f1k4eil.xyz
 domain, f1tfmxzg.icu
 domain, f2.mob.com
 domain, f2.p0y.cn
@@ -11359,6 +11439,7 @@ domain, fastclick.com
 domain, fastclick.net
 domain, fasthuyitool.jidiandian.cn
 domain, fastimage.uve.weibo.com
+domain, fastliii.com
 domain, fastly.bench.cedexis.com
 domain, fastpopunder.com
 domain, fathionmall.com
@@ -11470,6 +11551,7 @@ domain, fengchao-api.mgp.mi.com
 domain, fenggejiaju.com
 domain, fengyukun03.cn
 domain, fenqihome.com
+domain, fenqile.com
 domain, fenvm.com
 domain, fenxi.com
 domain, fenxiao.xbvw.com
@@ -11653,6 +11735,7 @@ domain, fmkm.cn
 domain, fmre1.com
 domain, fms.ipinyou.com
 domain, fmtu.sltusl.com
+domain, fn03.vip
 domain, fnapi.adshishi.com
 domain, fnapi.aiysm.com
 domain, fnfhjka.xyz
@@ -11670,8 +11753,10 @@ domain, focuscat.com
 domain, focusprolight.com
 domain, fodder.qq.com
 domain, fodder.tc.qq.com
+domain, fohbgjv.com
 domain, foirkrt.icu
 domain, foisml.com
+domain, fokm37.cn
 domain, folxchina.cn
 domain, fonts.googleapis.com
 domain, fonts.gstatic.com
@@ -12073,6 +12158,7 @@ domain, ganjituiguang.ganji.com
 domain, ganon.yahoo.com
 domain, gao.ynet.com
 domain, gao1asdjws.
+domain, gaode-acs.m.taobao.com
 domain, gaode-jmacs.m.taobao.com
 domain, gaodun.com
 domain, gaodunwangxiao.com
@@ -12163,6 +12249,7 @@ domain, gdloc2.qchannel03.cn
 domain, gdls114.com
 domain, gdmc.yl.ag
 domain, gdoibwfvjqf.com
+domain, gdolr.cn
 domain, gdskywings.com
 domain, gdsns1.cnzz.com
 domain, gdsns2.cnzz.com
@@ -12242,6 +12329,7 @@ domain, gewuwen.com
 domain, geyan.getui.com
 domain, gezhen-api.getui.com
 domain, geziyd.com
+domain, gf.app
 domain, gf108.com
 domain, gf1352.com
 domain, gf2022.com
@@ -12340,6 +12428,7 @@ domain, gi.getui.net
 domain, gi.xi.gxabj.com
 domain, gi7w.880.net
 domain, gia.jd.com
+domain, gias.jd.com
 domain, gif.fpaixfl.com
 domain, gif.lu.sogoucdn.com
 domain, gif.thegalaxy01.com
@@ -12351,6 +12440,7 @@ domain, gimg.bitauto.com
 domain, gini.snssdk.com
 domain, gio-hub.jirongyunke.com
 domain, giocdn.com
+domain, giqnyl.cn
 domain, girlcc.cc
 domain, gj.applog.uc.cn
 domain, gj.mmstat.com
@@ -12605,6 +12695,7 @@ domain, gtvpn.getui.com
 domain, gu.qlogo.cn
 domain, gu46.7790.com
 domain, gu627mo8.33slthiy.vip
+domain, guanaibao.com
 domain, guang.lesports.com
 domain, guang.sdsgwy.com
 domain, guangdong-5.zos.ctyun.cn
@@ -12746,6 +12837,7 @@ domain, h-adashx.ut.uc.cn
 domain, h-adashx.ut.youku.com
 domain, h-adashx4bc.ut.taobao.com
 domain, h-adashx4yt.ut.taobao.com
+domain, h.app.coc.10086.cn
 domain, h.baminw.cn
 domain, h.canmg.cn
 domain, h.holder.com.ua
@@ -13346,6 +13438,7 @@ domain, hqzcths.cn
 domain, hr41.cn
 domain, hr44.com
 domain, hr60.yide.com
+domain, hrdhej.xyz
 domain, hrngmf.com
 domain, hs-analytics.net
 domain, hs.hzwxbz3.cn
@@ -13796,6 +13889,7 @@ domain, ibozys.cn
 domain, ibqkjbw.com
 domain, ibreeno.com
 domain, ibrowser.feeds.heytapmobi.com
+domain, iburtq.xyz
 domain, ibwqfpo.xyz
 domain, ic.adobe.io
 domain, ic.adsl.cn
@@ -13890,6 +13984,7 @@ domain, ifacelog.iqiyi.com
 domain, ifdvlh.cn
 domain, ifengad.3g.ifeng.com
 domain, ifewo.xyz
+domain, ifllqc.cn
 domain, iflow.uczzd.cn
 domain, iflow.uczzd.com
 domain, iflow.uczzd.com.cn
@@ -14645,6 +14740,7 @@ domain, iweiweb.com
 domain, ixav-cse.avlyun.com
 domain, ixbua.xyz
 domain, ixelrsd.cn
+domain, ixigua.com
 domain, ixinyou.com
 domain, ixisivomer.com
 domain, ixjr.154.com
@@ -14756,6 +14852,7 @@ domain, jashautchord.com
 domain, jau.xdplt.com
 domain, jauql.top
 domain, jav23.com
+domain, javadvi.com
 domain, javascript.trafficmanager.net
 domain, javase.top
 domain, javhd.com
@@ -14830,6 +14927,7 @@ domain, jebe.xnimg.cn
 domain, jec5.xb.app
 domain, jellyfish.pandora.xiaomi.com
 domain, jenkins.tradplusad.com
+domain, jennylisnerphotography.com
 domain, jermr.com
 domain, jert.154.com
 domain, jesgoo.com
@@ -14918,6 +15016,7 @@ domain, jifen.2345.com
 domain, jifen.cnzz.com
 domain, jifyelda.top
 domain, jiguang.cn
+domain, jiguang.coc.10086.cn
 domain, jihehuaban.com
 domain, jihehuaban.com.cn
 domain, jihq.mm51-tbsg1542.cc
@@ -14972,6 +15071,7 @@ domain, jjnew.tlxxw.cc
 domain, jjx.xjtxcj.com
 domain, jjxgly.com
 domain, jjyy.gaopengqcdz.cn
+domain, jjzemoc3ca.top
 domain, jjztrz.xyz
 domain, jk.c.sdk.kwad.com
 domain, jk939.com
@@ -15041,6 +15141,7 @@ domain, joiwnq2.cn
 domain, jojog.com
 domain, jokerlulm.com
 domain, jollytestpartying.com
+domain, jomoxc.com
 domain, jomwihn.cn
 domain, joopt.gppxp.com
 domain, jossuer.net
@@ -15071,6 +15172,7 @@ domain, jpush.io
 domain, jpush0b.xyz
 domain, jpushjd.m.jd.com
 domain, jpushoa.com
+domain, jpushsc.m.jd.com
 domain, jpvrbt.xyz
 domain, jq-ww.com
 domain, jq2zzja-20.zhngxi.com
@@ -15320,6 +15422,7 @@ domain, juggler.services.disqus.com
 domain, juhe.cn
 domain, juicyads.com
 domain, juicyads.in
+domain, juicyads.me
 domain, jujcjz.xyz
 domain, jump.admobile.top
 domain, jumpe.58xmgys.com
@@ -15349,6 +15452,7 @@ domain, juzilm.com
 domain, jv0rlf.com
 domain, jvav.top
 domain, jvazw20250060227mdn.nmlsigk22256401.mom
+domain, jvere.xyz
 domain, jverification.jiguang.cn
 domain, jvjlkih.com
 domain, jvljnb.xyz
@@ -15481,6 +15585,7 @@ domain, kaishq.top
 domain, kaitongyewu.com
 domain, kaiwqp-04-94224751.ap-northeast-2.elb.amazonaws.com
 domain, kaiwqp-05-1192817015.ap-northeast-2.elb.amazonaws.com
+domain, kaiyun.com
 domain, kaiyun.io
 domain, kaiyun.ky
 domain, kaka.wcwlcl12.cn
@@ -15505,6 +15610,7 @@ domain, kb1ve043.top
 domain, kb5ke.xyz
 domain, kb8ixcm.cn
 domain, kbae.qiqqh.cn
+domain, kbddftp.cn
 domain, kbneks00.online
 domain, kbnetworkz.s3.amazonaws.com
 domain, kbv40.com
@@ -15887,7 +15993,9 @@ domain, kwc.kbuu217.cc
 domain, kwcdn.000dn.com
 domain, kwcmrfb.cn
 domain, kwdgudw.cn
+domain, kweisid.top
 domain, kweuf6k.oseiwiweep.com
+domain, kwilmid.top
 domain, kwimg3.kuwo.cn
 domain, kwji.880.net
 domain, kwmsg.kuwo.cn
@@ -15895,6 +16003,7 @@ domain, kwo-0115.cc
 domain, kwofjwo.ssyymy.com
 domain, kwurl.ucweb.com
 domain, kx82kdajlkjsdngjxaas.ldka6232.pictures
+domain, kxayxw.cn
 domain, kxcp365.com
 domain, kxdo.yl.ag
 domain, kxeze.mxoshg.com
@@ -15999,6 +16108,7 @@ domain, la-wf.taboola.com
 domain, laawmmy.cn
 domain, labs.ra.icast.cn
 domain, lady2.ink
+domain, laebu.cn
 domain, lageideceec.com
 domain, laibuji.xiahou.xyz
 domain, laigame7.com
@@ -16066,6 +16176,7 @@ domain, lbnqnp.xyz
 domain, lbprjdi.cn
 domain, lbs-qiyu.netease.im
 domain, lbs.netease.im
+domain, lbsapi.m.jd.com
 domain, lbszb.tongbu.com
 domain, lc-push.zhihu.com
 domain, lc.getui.com
@@ -16135,6 +16246,7 @@ domain, leniugame.com
 domain, lens.zhihu.com
 domain, lenzmx.com
 domain, leoot2thill.github.io
+domain, leqi2015.com
 domain, lerze.qcbtyn.xyz
 domain, lessplay.com
 domain, lestv1.icu
@@ -17766,6 +17878,7 @@ domain, mgogo.com
 domain, mgpay-api.kltb.com.cn
 domain, mgscj.efw884.vip
 domain, mgsdk-sign
+domain, mgsv.miguvideo.com
 domain, mgvrst.mi-shop.com
 domain, mgwcn.com
 domain, mgwkbrs.tingyun.com
@@ -18327,6 +18440,7 @@ domain, mssp.baidu.com
 domain, msta.hbstkj123.com
 domain, msta.moyicp.com
 domain, msta.zuhuaizhijia.com
+domain, mstat.tpdns.tencent.com
 domain, mstat.zol.com.cn
 domain, mstzym.com
 domain, mswd00602.xz.ajshs.cn
@@ -18930,9 +19044,11 @@ domain, nspc28.com
 domain, nspt.bdstatic.com
 domain, nstool.netease.com
 domain, nstx.1ttytxdtapi.com
+domain, nswsu.com
 domain, nswtojdi.icu
 domain, nswz029.com
 domain, nsy.hnzyfs.com
+domain, nt.app
 domain, nt.phpwind.com
 domain, nterbx.com
 domain, ntfsformac.cc
@@ -18957,6 +19073,8 @@ domain, nuucmzuc.com
 domain, nuxpj.com
 domain, nv.souid.com
 domain, nv00.cdn.bcebos.com
+domain, nvpuse.com
+domain, nvpuwo.com
 domain, nvrentao8.com
 domain, nvshenfan.com
 domain, nvxea.mipewft.com
@@ -19063,6 +19181,7 @@ domain, obey11.com
 domain, obeyter.com
 domain, obgbok.com
 domain, obj.test.ttwifi.net
+domain, obj23q.com
 domain, obl74.xyz
 domain, obmphi.xyz
 domain, obs-helf.cucloud.cn
@@ -19225,6 +19344,7 @@ domain, oneid.mmstat.com
 domain, onekey.cmpassport.com
 domain, onekey1.cmpassport.com
 domain, onekey2.cmpassport.com
+domain, oneliner.cn
 domain, onemob.mobi
 domain, onepass.geetest.com
 domain, onepic.s-qec.com
@@ -19502,6 +19622,7 @@ domain, ow.s2.shuhuangge.org
 domain, ow0zfd8f.i4brlaioofvw.com
 domain, owads.audioadx.com
 domain, oweeiyw.icu
+domain, oweisik.top
 domain, owin.biqugego.com
 domain, owiurjngsd.com
 domain, owlfolk.com
@@ -19681,6 +19802,7 @@ domain, p3fx.kgimg.com
 domain, p3p.mmstat.com
 domain, p3p.sogou.com
 domain, p3p.yahoo.com
+domain, p3q0tt.com
 domain, p3tt.com
 domain, p3yw7u.innittapp.com
 domain, p3yw7u.innittapp.com.download.ks-cdn.com
@@ -19951,6 +20073,7 @@ domain, peo1.kaiyun.com
 domain, peplle.cn
 domain, pepnsnq.cn
 domain, perf-events.cloud.unity3d.com
+domain, perf.m.jd.com
 domain, perf.mmstat.com
 domain, perm-api.vivo.com.cn
 domain, petametrics.com
@@ -20009,6 +20132,7 @@ domain, phcjf.com
 domain, phef2h2csf.adobe.io
 domain, phfqumvi.xyz
 domain, phh0.7790.com
+domain, phire.cn
 domain, phloxsub73ulata.com
 domain, phnpush.iqiyi.com
 domain, phone.getui.com
@@ -20265,6 +20389,7 @@ domain, pnzhpb.xyz
 domain, po18ad.com
 domain, poae2klya.icu
 domain, poasotha.com
+domain, poeme.cn
 domain, poereawer.top
 domain, pofang.com
 domain, pogwua.cn
@@ -20358,6 +20483,7 @@ domain, ppdaicdn.com
 domain, ppdn.bzszyy123.com
 domain, ppedp.cn
 domain, ppezijkacga.com
+domain, ppfu3m.com
 domain, ppg.m.etoote.com
 domain, ppg.viviv.com
 domain, ppjia55.com
@@ -20581,6 +20707,7 @@ domain, push.com2us.net
 domain, push.feng.com
 domain, push.gifshow.com
 domain, push.hexin.cn
+domain, push.it.10086.cn
 domain, push.ksapisrv.com
 domain, push.m.youku.com
 domain, push.mob.com
@@ -20767,6 +20894,7 @@ domain, qcmm05.com
 domain, qcskloej.zhema1688.com
 domain, qctcu.com
 domain, qcwx.medproad.com
+domain, qczb.app
 domain, qczcxe.cn
 domain, qd-update.qq.com
 domain, qd.dhzw.org
@@ -20806,6 +20934,7 @@ domain, qfnoyix.cn
 domain, qfu9.143.cc
 domain, qg-1gw5q2le2e96fbfc-1332757360.tcloudbaseapp.com
 domain, qg11.maszyxx.cn
+domain, qgivvd.cn
 domain, qgnu18wo.sina.cn
 domain, qgo.mmstat.com
 domain, qgqz.011.com
@@ -20880,6 +21009,7 @@ domain, qiyem.ejunshi.com
 domain, qiyeshangpu.net
 domain, qiyezs.ejunshi.com
 domain, qiyou.com
+domain, qiyouzy.com
 domain, qiytsgd.fyryaoh.com
 domain, qjekt0c.xyz
 domain, qjfcdn1220.0101122.com
@@ -20940,6 +21070,7 @@ domain, qosp.msg.71.am
 domain, qowfknlds.net
 domain, qp.bet
 domain, qp.yunanfuwuqi.com
+domain, qp666.com
 domain, qp7f.yide.com
 domain, qp89pj.com
 domain, qpappkf.emyzsg.com
@@ -21289,6 +21420,7 @@ domain, rdufuxr.icu
 domain, rdx.autohome.com.cn
 domain, rdyxektri884.wusuoxmhjas.nbybgy.com
 domain, re.fddcpxg.cn
+domain, re.m.jd.com
 domain, re.m.taobao.com
 domain, re.taobao.com
 domain, re.taotaosou.com
@@ -21353,6 +21485,7 @@ domain, remote88.com
 domain, remoteads.oss-cn-beijing.aliyuncs.com
 domain, remotedu.cn
 domain, rencai56.com
+domain, render-prod-backup-tile.amap.com
 domain, render-resource.11222.cn
 domain, render-server.cdn.bcebos.com
 domain, rengbali.fun
@@ -21491,6 +21624,7 @@ domain, rhdc-acs.youku.com
 domain, rhesed.site
 domain, rhgyg.com
 domain, rhinogo.cn
+domain, rhjdc.com
 domain, rhlxm.top
 domain, rhtc.quanminyouxi.cn
 domain, rhwx.yxzb.tv
@@ -22490,6 +22624,7 @@ domain, searchlog.html5.qq.com
 domain, searchpstatp.com
 domain, searchrecommend.kugou.com
 domain, searchswapper.com
+domain, searesource.top
 domain, seavideo-ak.espn.go.com
 domain, sebar.thand.info
 domain, sec-cdn.gifshow.com
@@ -22850,6 +22985,7 @@ domain, sigmob.com
 domain, signaltower.gdt.qq.com
 domain, signup.taboola.com
 domain, sigo99.com
+domain, siigck.xyz
 domain, sijiha.oss-cn-hongkong.aliyuncs.com
 domain, sikaq.top
 domain, sikelocci.com
@@ -22915,6 +23051,7 @@ domain, sjh.baidu.com
 domain, sjj.jsyjwj.com
 domain, sjkfihtwnd293687baksfnat8rsadklanfaiai.com
 domain, sjoy7rq.cn
+domain, sjpxfz.xyz
 domain, sjrank.cdluyi.cn
 domain, sjtv.500.voto
 domain, sjws.ssl.qihucdn.com
@@ -23743,6 +23880,7 @@ domain, sxkjsm.com
 domain, sxl.39axccbx7.cc
 domain, sxundrh.cn
 domain, sxz67.com
+domain, sxzb.app
 domain, sy-cdn.gzxxyx.cn
 domain, sy-cdnres.unionsy.com
 domain, sy-static.hzwxbz3.cn
@@ -24080,6 +24218,7 @@ domain, tbl258ym4.cc
 domain, tbm.snssdk.com
 domain, tbonline.tk.cn
 domain, tbsrecovery.imtt.qq.com
+domain, tbyfz.xyz
 domain, tc-cdn.com
 domain, tc.51la.net
 domain, tc.ci123.com
@@ -24197,6 +24336,7 @@ domain, testwn.baidu.com
 domain, tetiao9.com
 domain, tetrack.qq.com
 domain, teusyxz.icu
+domain, texcn.cn
 domain, textlink.simba.taobao.com
 domain, tezf.143.cc
 domain, tf.360.cn
@@ -24259,6 +24399,7 @@ domain, tgw-sasdk.3g.qq.com
 domain, tgymhwt.cn
 domain, tgyxpfjws.com
 domain, tgzi5ex188.japaneast.cloudapp.azure.com
+domain, th.app
 domain, th21333.com
 domain, th7.cn
 domain, thallus.net
@@ -24306,6 +24447,7 @@ domain, tiandiren0031.xyz
 domain, tiangoutai.com
 domain, tiangu99.com
 domain, tianmidian.com
+domain, tianmu.mobi
 domain, tianqi777.com
 domain, tianqin.qq.com
 domain, tianshu.gtimg.cn
@@ -24394,6 +24536,7 @@ domain, tkcloud.iqiyi.com
 domain, tkd777.cn
 domain, tkda.anythinktech.com
 domain, tkmdng.cn
+domain, tkmihh.xyz
 domain, tknkfd.xyz
 domain, tkodoczxfrie.yuchengxinxia.xyz
 domain, tkqwurl.icu
@@ -24725,6 +24868,7 @@ domain, truxalsl.com
 domain, trwa116u.xyz
 domain, trwba.com
 domain, trzina.com
+domain, ts.amap.com
 domain, ts.crwdcntrl.net
 domain, ts.hivecn.cn
 domain, ts.kyw4y0s.com
@@ -24952,6 +25096,7 @@ domain, txt.go.sohu.com
 domain, txtad.jijiplayer.com
 domain, txwk.10010.com
 domain, txx99.top
+domain, txzb.app
 domain, ty.a.yximgs.com
 domain, ty.svipapp.cn
 domain, ty8bz.com
@@ -24983,6 +25128,7 @@ domain, tyx.xtzxmy.com
 domain, tz-dsp.com
 domain, tz-t.quluyx.cn
 domain, tz.1688988.com
+domain, tz.app
 domain, tz.sec.xiaomi.com
 domain, tz.wlfx8.cn
 domain, tz.zjhoudao.com
@@ -25215,6 +25361,7 @@ domain, ukeiae.com
 domain, ukjwyv.icu
 domain, ukpsal.icu
 domain, ul.soulapp.cn
+domain, ul2tos.cn
 domain, uland.taobao.com
 domain, uland.tb-api.com
 domain, ulic.baidu.com
@@ -25278,6 +25425,7 @@ domain, un.winasdaq.com
 domain, un1.takefoto.cn
 domain, unconf.mobad.ijinshan.com
 domain, undm.qibulo.com
+domain, unet.quark.cn
 domain, unet.ucweb.com
 domain, unetall.com
 domain, ung73.top
@@ -25471,6 +25619,7 @@ domain, urlaw.cn
 domain, urlet.cn
 domain, urlkwqi.cn
 domain, urls.api.twitter.com
+domain, urlshare.cn
 domain, urs.microsoft.com.nsatc.net
 domain, ursegreatm.fun
 domain, urtr4hrq.com
@@ -25576,6 +25725,7 @@ domain, uw9377.com
 domain, uwadakest.cyou
 domain, uwan.dad
 domain, uweb.umeng.com
+domain, uweisit.top
 domain, uwge590.com
 domain, uwgnpkd.cn
 domain, uwjipbbq.6lb09l.autos
@@ -25623,6 +25773,7 @@ domain, v.irs01.com
 domain, v.jianyufu.com
 domain, v.jingwoxin.com
 domain, v.l.youku.com
+domain, v.miguvideo.com
 domain, v.oq68.com
 domain, v.qidian.qq.com
 domain, v.rmbn.net
@@ -25735,6 +25886,7 @@ domain, v492.6t.com
 domain, v4dwkcv.com
 domain, v4g.cn
 domain, v4ki.880.net
+domain, v4v6v4.com
 domain, v5-be-pack.pglstatp-toutiao.com
 domain, v5-gz-a.douyinvod.com
 domain, v5-hl-ali-reading-video.fqnovelvod.com
@@ -26123,6 +26275,7 @@ domain, volc.bj.ad.track.66mobi.com
 domain, volceapplog.com
 domain, volces.com
 domain, volcsirius.com
+domain, volcsiriusbd.com
 domain, volctracer.com
 domain, volctrack.com
 domain, volgreal.com
@@ -26325,6 +26478,7 @@ domain, w8f.hw766.top
 domain, w8k102.uxjortw.com
 domain, w9ez.cl.app
 domain, w9if.hikedj.com
+domain, w9k.cn
 domain, w9r9.143.cc
 domain, w9t.cn
 domain, wa.appsflyer.com
@@ -26436,6 +26590,7 @@ domain, wd.602.com.volcgslb.com
 domain, wd.adcolony.com
 domain, wda.ydt.com.cn
 domain, wdaa.shuzilm.cn
+domain, wdadad.cn
 domain, wdb.cn.miaozhen.com
 domain, wddsva0.com
 domain, wdgsl.com
@@ -26536,6 +26691,7 @@ domain, wedvmr.xyz
 domain, wefly-m.52tt.com
 domain, wefoidnknsl.net
 domain, wegowan.com
+domain, weibointl.api.weibo.cn
 domain, weibomingzi.com
 domain, weifengtianxia.com
 domain, weiguizhizuo.com
@@ -26576,6 +26732,7 @@ domain, wf58.yide.com
 domain, wfes.yl.ag
 domain, wfk.tcyhjfwb.xyz
 domain, wfndponfd.com
+domain, wfojsm.com
 domain, wfsh.026o.cn
 domain, wg5b.hikedj.com
 domain, wgie.0z5jn.cn
@@ -27699,6 +27856,7 @@ domain, x4sm.ag8.com
 domain, x54.com
 domain, x54323.com
 domain, x54media.lymum.com
+domain, x586di.com
 domain, x5cz.yide.com
 domain, x5hnj21.com
 domain, x61.inyvf.top
@@ -27738,6 +27896,7 @@ domain, xau.sxmutan.com
 domain, xavingtsun.com
 domain, xawop.com
 domain, xazbts.com
+domain, xb.app
 domain, xb1.tanan119.com
 domain, xb20823xbt.bzosdqj.com
 domain, xb4l.5163.com
@@ -27867,6 +28026,7 @@ domain, xia.jihehuaban.com
 domain, xiacai.com
 domain, xiacaidd.com
 domain, xiangchaokankan.m.cn.miaozhen.com
+domain, xiangde.top
 domain, xiangwangdesh.com
 domain, xianliao.me
 domain, xianpowei.com
@@ -28130,6 +28290,7 @@ domain, xq6.co
 domain, xqblnei.cn
 domain, xqcjfcb.cn
 domain, xqingse.com
+domain, xqojux.xyz
 domain, xrain.net
 domain, xray.jebe.renren.com
 domain, xrb0owc.icu
@@ -28148,6 +28309,7 @@ domain, xs.hmjhnkas.com
 domain, xs.houyi.baofeng.net
 domain, xs.lyjy9.cn
 domain, xs.swagger1.com
+domain, xs163.net
 domain, xsbdy.com
 domain, xscdn-gdt.play.aiseet.atianqi.com
 domain, xscdn.gdt.qq.com
@@ -28335,6 +28497,7 @@ domain, y8rb4.com
 domain, y96lo.com
 domain, yaacdn.top
 domain, yaaumqa.top
+domain, yabo.com
 domain, yabo729.com
 domain, yac5t.cn
 domain, yadp.cl.app
@@ -28376,6 +28539,7 @@ domain, ybkf.143.cc
 domain, ybp.getui.com
 domain, ybren.com
 domain, ybtianxi.com
+domain, ybvip.com
 domain, yby6.cn
 domain, ybze.7790.com
 domain, yc0q.7790.com
@@ -28412,6 +28576,7 @@ domain, ydpushserver.youdao.com
 domain, ydqzkj.com
 domain, yds85c24nfky.com
 domain, ydtykj.net
+domain, ydxdg.xyz
 domain, yea.uploadimagex.com
 domain, yeabble.com
 domain, yeah.qq.com
@@ -28448,6 +28613,7 @@ domain, yfks4.1law.vip
 domain, yft192.com
 domain, yfxpcode.m.gxwztv.com
 domain, yfycy.com
+domain, yghd360.com
 domain, ygim.6t.com
 domain, ygwdai.cn
 domain, ygwi024.xyz
@@ -28550,6 +28716,8 @@ domain, yjnhndt.com
 domain, yjnkas.com
 domain, yjqiqi.com
 domain, yjuhqy.xyz
+domain, yjzb.app
+domain, yjzb.tv
 domain, yk-ssp-ad.cp12.wasu.tv
 domain, yk-ssp-ad.cp31.ott.cibntv.net
 domain, yk-ssp.ad.youku.com
@@ -28577,6 +28745,7 @@ domain, yl.hbwangluokeji.top
 domain, yl.jcyeah.com
 domain, yl.niceloo.com
 domain, yl.top
+domain, yl.vip
 domain, yl290300.cc
 domain, yl290346.cc
 domain, yl7h-250923.ytbdmhy.com
@@ -28627,6 +28796,7 @@ domain, yndianju.com
 domain, yne3.720lu.com
 domain, ynfxxbp.xyz
 domain, ynmbz.com
+domain, ynrsksw.cn
 domain, ynslvyou.com
 domain, ynuf.aliapp.org
 domain, ynus.cl.app
@@ -28842,6 +29012,7 @@ domain, yxxwyz.com
 domain, yxy06183.cc
 domain, yxz101.gclgu.cn
 domain, yxz111.65be74a.com
+domain, yxzb.tv
 domain, yy.bei-min.cn
 domain, yy.co8sjjs1y.com
 domain, yy112233.imsow.com
@@ -29179,6 +29350,7 @@ domain, zhipuaishengchan.datasink.sensorsdata.cn
 domain, zhishangsoft.com
 domain, zhisuyunonline.cn
 domain, zhixin.host
+domain, zhiyileiju.cn
 domain, zhiyileijus.cn
 domain, zhiyuanteam.com
 domain, zhizeu.com
@@ -29215,6 +29387,7 @@ domain, zifyeldq.top
 domain, zigv.3qj49.cyou
 domain, zihuiguochao.top
 domain, zijie.yolly.cn
+domain, zijieapi.com
 domain, zipposadfadsal.com
 domain, ziravd.xyz
 domain, zisnuthz.com
@@ -29334,6 +29507,7 @@ domain, zt.jd.com
 domain, zt2088.com
 domain, zt64.6t.com
 domain, zt7x.154.com
+domain, ztgha.xyz
 domain, zth5.ztgame.com
 domain, ztidu.com
 domain, ztqdkzn.cn
@@ -29388,6 +29562,7 @@ domain, zxjjzx.com
 domain, zxpq.8890.com
 domain, zxr.fzxrjx.com
 domain, zxrcfw.com
+domain, zxscn.com
 domain, zxsnllo.cn
 domain, zxt7.8890.com
 domain, zxuyj111-1.32b2yjhrzxe8.com

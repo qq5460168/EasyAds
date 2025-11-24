@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-11-24 20:27:16
-! 有效规则数量: 2772 条
+! 规则更新时间: 2025-11-25 00:14:50
+! 有效规则数量: 2774 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -544,7 +544,7 @@
 @@||py.qlogo.cn^
 @@||py2.qlogo.cn^
 @@||p.qlogo.cn^
-@@||tcdn.qq.com^
+@@||vpic.cms.qq.com^$important
 @@||qzs.qq.com^
 @@||v6.pic.upqzfile.com^
 @@||qm.qq.com^
@@ -559,6 +559,8 @@
 @@||sharechain.qq.com^
 @@||downv6.qq.com^
 @@||qzone-web-v2.cdn-go.cn^
+@@||soft.imtt.qq.com^$important
+@@||tcdn.qq.com^
 @@||info.zb.qq.com^
 @@||npm.cdn-go.cn^
 @@||pub.idqqimg.com^
@@ -1830,25 +1832,16 @@
 @@||v*.kwaicdn.com^
 @@||develope-oss.lanzoug.com^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
-@@||aliyuncs.com/*.png
 @@||api-chat.soulapp.cn^$important
 @@||api.nocturnal-narwhal.buzz^$domain=webtor.io
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
-@@||cloudflare.com/cdn-cgi/trace$domain=net.ljxnet.cn
-@@||cqshuda.com/template/conch/asset/js/conch.vip.js
 @@||css.yhdmtu.xyz^$domain=iyinghua.io|yinghua8.tv
 @@||developer.apple.com$generichide
-@@||ecmb.bdimg.com/*.jpg
-@@||ecmb.bdimg.com/*.png
-@@||f*.baidu.com/it/u=*,*&fm=$domain=baidu.com
-@@||guokr.com/apis/flowingboard/item/m_article
-@@||guokr.com/apis/flowingboard/item/m_home_
 @@||h5vv6.video.qq.com^
 @@||info.zb.qq.com^$important
 @@||isite.baidu.com^$important
 @@||jstatic.3.cn^$domain=m.jd.com
-@@||lobechat.com/_next/static/chunks/
 @@||manwa.me^
 @@||miaozhen.com^$domain=miaozhen.com
 @@||music.163.com^
@@ -1863,6 +1856,15 @@
 @@||wan.douyu.com^
 @@||wxapp.tc.qq.com^
 @@||x2.ifengimg.com^
+@@||lobechat.com/_next/static/chunks/
+@@||cqshuda.com/template/conch/asset/js/conch.vip.js
+@@||cloudflare.com/cdn-cgi/trace$domain=net.ljxnet.cn
+@@||ecmb.bdimg.com/*.jpg
+@@||ecmb.bdimg.com/*.png
+@@||aliyuncs.com/*.png
+@@||f*.baidu.com/it/u=*,*&fm=$domain=baidu.com
+@@||guokr.com/apis/flowingboard/item/m_article
+@@||guokr.com/apis/flowingboard/item/m_home_
 @@||img.zbt.com*/market-$script
 @@||apm.zhihu.com^
 @@||app.zhuanzhuan.com^$important

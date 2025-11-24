@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-11-24 12:27:14.757274
+# Generated on 2025-11-24 16:14:48.847574
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -16776,6 +16776,7 @@
 ||040943c9.qo4.net^
 ||04203048.com^
 ||04766414.com^
+||04kai.org^
 ||04to5m.cn^
 ||0519.xrked01.xyz^
 ||05198.cn^
@@ -16792,6 +16793,7 @@
 ||0686vns.com^
 ||0710-kk-1324970764.cos.accelerate.myqcloud.com^
 ||07697.pink^
+||07879.com^
 ||079.cc^
 ||07b04.cc^
 ||0811.nc2ldk5e.cc^
@@ -16959,6 +16961,7 @@
 ||10y1d19m6z.m62hvi.top^
 ||11.271y.com^
 ||110.40.77.188^
+||11000.vip^
 ||1106.l.mob.com^
 ||111.170.35.4^
 ||111.231.186.31^
@@ -17001,6 +17004,7 @@
 ||114.118.67.110^
 ||114.119.189.26^
 ||114.67.213.149^
+||1156.com^
 ||1156dns.com^
 ||116.136.15.135^
 ||116.196.136.100^
@@ -17732,6 +17736,10 @@
 ||23263.ooo^
 ||2330.com^
 ||2330fh.lzbmfwh.top^
+||233leyuan.cn^
+||233leyuan.com^
+||233lyly.cn^
+||233lyly.com^
 ||2345.oadz.com^
 ||23859159.com^
 ||240461.com^
@@ -17926,8 +17934,10 @@
 ||3.34.123.206^
 ||3.37.136.203^
 ||3.cn^
+||300hu.com^
 ||3017dc.umqlyy.com^
 ||302.cndway.com^
+||3044.com^
 ||3079018211.ietheivaicai.com^
 ||3083602563.ahdohpiechei.com^
 ||3084794460.ietheivaicai.com^
@@ -17943,7 +17953,9 @@
 ||31ml.6t.com^
 ||32.customlogobag.com^
 ||323659.50817150.top^
+||3280.com^
 ||328wo.5dj8dhdg2dada.top^
+||3290.com^
 ||32c7.7790.com^
 ||32sms.cn^
 ||33000.vip^
@@ -17956,6 +17968,7 @@
 ||3335665.com^
 ||3337192.com^
 ||333bbb555kkk.com^
+||3359.com^
 ||336698.com^
 ||3377248c.app^
 ||33bnzb.fbore.cn^
@@ -18024,7 +18037,10 @@
 ||360mixup.com^
 ||360tg.37.com^
 ||361ct9.vip^
+||365111.com^
 ||3656.run^
+||3658888.com^
+||365dmp.com^
 ||3667kk.com^
 ||3703321455.ietheivaicai.com^
 ||3754327399.ietheivaicai.com^
@@ -18083,10 +18099,12 @@
 ||39rq.qczb.app^
 ||3a4f.ag8.com^
 ||3a7o.720lu.com^
+||3adtjg.com^
 ||3adxtalp.cloud.sqpd.opendun.com^
 ||3baa.ag8.com^
 ||3bnu9r57999u.xbsahcasfasfasdf.sacvcr.com.eo.dnse5.com^
 ||3csa1grj0ve9.wusuoxmhjas.nbybgy.com.eo.dnse3.com^
+||3dqvcli.xyz^
 ||3ds6.cl.app^
 ||3eyk.6t.com^
 ||3f099b7ae467517e7af72bbe0fd3ee31.rdt.tfogc.com^
@@ -18107,6 +18125,7 @@
 ||3p-geo.yahoo.com^
 ||3p-udc.yahoo.com^
 ||3pk2.yide.com^
+||3r5ia7l.xyz^
 ||3t2j.k8.com^
 ||3t5m.cn^
 ||3tds.720lu.com^
@@ -18179,6 +18198,7 @@
 ||4366.com^
 ||4366cq.381pk.com^
 ||4366cq.yutaoyouxi.com^
+||4393.cc^
 ||43h9.com^
 ||43sjmq3hg.com^
 ||440a.8890.com^
@@ -18284,6 +18304,7 @@
 ||4e7b8.iuqsjr.xyz^
 ||4e9b0b8a-0d44-42fd-983d-27d991ddd232.bspapp.com^
 ||4e9c7527ey.greycdn.net^
+||4egscv.com^
 ||4f9455d8.u.kanejwo.com^
 ||4fd174f9.tx1.amoywine.com.cdn.dnsv1.com^
 ||4ga24.bppcrtptxynuxusd.in^
@@ -18321,6 +18342,7 @@
 ||50d2557cbde5f1fe7041db723da8ebd63331ba59e82648fa.dlied1.cdntips.net^
 ||51.com^
 ||51.wxapp.tc.qq.com^
+||5163.com^
 ||5187.wya4fcb0bd.vip^
 ||51889.com.cn^
 ||51hl.vip.987dns.com^
@@ -18484,6 +18506,7 @@
 ||597773zzr.com^
 ||59be.cl.app^
 ||59nb.k8.com^
+||59p643.com^
 ||5a1m.yl.ag^
 ||5a4r.011.com^
 ||5b3z.6t.com^
@@ -18518,6 +18541,7 @@
 ||5wm4.1156.com^
 ||5wv3.6t.com^
 ||5wzb.yide.com^
+||5z6h6b.cn^
 ||5zjl.6t.com^
 ||6.52gao3143d.cc^
 ||60.188.118.105^
@@ -18537,6 +18561,8 @@
 ||601693711.508747.top^
 ||603.vip^
 ||60513.baby^
+||608.com^
+||608.vip^
 ||60buyimg.com^
 ||61.156.170.132^
 ||61.160.192.70^
@@ -18550,6 +18576,7 @@
 ||61.164.242.61^
 ||61466wsmg.zltskq.com^
 ||6151538.com^
+||6163.com^
 ||61948.com^
 ||61af141f.888cdn.vip^
 ||62246003.com^
@@ -18676,6 +18703,7 @@
 ||6kuu.me^
 ||6m9.co^
 ||6nk6.011.com^
+||6nxa6g.com^
 ||6p7t.cl.app^
 ||6qkw.k8.com^
 ||6r4z.th.app^
@@ -18702,14 +18730,17 @@
 ||70dc.yide.com^
 ||7116.com^
 ||7116dns.com^
+||7163.com^
 ||71813965.com^
 ||71913788.com^
 ||71974262.com^
 ||7218ywf.com^
 ||7277.cn^
 ||72y96.com^
+||731.tv^
 ||7348068270.cc^
 ||7372b4ec.skr001.cc^
+||73788685.com^
 ||74.226.208.51^
 ||74.86.12.173^
 ||742.7000742.com^
@@ -18724,6 +18755,7 @@
 ||75406908.4466kk66.com^
 ||75v3.com^
 ||76.223.54.146^
+||76065.com^
 ||764223.net^
 ||76579451.com^
 ||76f05576.56822017.com^
@@ -18822,6 +18854,7 @@
 ||80d8.7790.com^
 ||80dg.6t.com^
 ||80jn.720lu.com^
+||80ritc.com^
 ||80sg.ag8.com^
 ||80vn.cn^
 ||81.69.246.108^
@@ -18843,6 +18876,7 @@
 ||828239sam.com^
 ||82869.pictures^
 ||829355rff.com^
+||83084.com^
 ||831l153.6yrc3b.top^
 ||831ym092.ftuju3.top^
 ||8397396.fls.doubleclick.net^
@@ -18937,6 +18971,7 @@
 ||8u4u.6t.com^
 ||8ufq.8890.com^
 ||8vpg.8890.com^
+||8vx3zks.xyz^
 ||8vyv2z9mcpoyy.top^
 ||8w6p.com^
 ||8wv904gv1cjof.com^
@@ -18990,9 +19025,11 @@
 ||94c3a789.888cdn.vip^
 ||95.82.48.181^
 ||95230825.com^
+||9527.com^
 ||95336910.com^
 ||95591.loan^
 ||9569999.com^
+||9570.me^
 ||959628.cn^
 ||95c1eea2.74067120.com^
 ||95dns.cc^
@@ -19074,6 +19111,7 @@
 ||9982app.net^
 ||9982dh1.top^
 ||9982dh2.top^
+||99839966.com^
 ||999.haofu333.com^
 ||999233jj.com^
 ||999abc999abc.com^
@@ -19119,6 +19157,7 @@
 ||9ssd.cn^
 ||9t1j.yxzb.tv^
 ||9t7t.com^
+||9tjoj6.com^
 ||9u5.cn^
 ||9u7i.yl.ag^
 ||9uu333.com^
@@ -19187,6 +19226,7 @@
 ||a.vmll.cn^
 ||a.vserv.mobi^
 ||a.wlturl.cn^
+||a.yximgs.com^
 ||a0.aifabu.com^
 ||a0702.ky308tc0702.vip^
 ||a1143.dscco.w.tl88.net^
@@ -19313,6 +19353,7 @@
 ||acg.youku.com^
 ||acjs.aliyun.com^
 ||acnd.adnxs.com^
+||acs.m.taobao.com^
 ||acs.youku.com^
 ||acs4public.m.taobao.com^
 ||acstatic-dun.126.net^
@@ -19434,6 +19475,7 @@
 ||adashx.ut.amap.com^
 ||adashx.ut.ele.me^
 ||adashx.ut.hzshudian.com^
+||adashx.ut.taobao.com^
 ||adashx.ut.uc.cn^
 ||adashx4ae.ut.taobao.com^
 ||adavideo.baidu.com^
@@ -19759,6 +19801,7 @@
 ||ampproject.org^
 ||ams1-ib.adnxs.com^
 ||amsapp.yicai.com^
+||amwexgj.com^
 ||an.funlight133.top^
 ||analytic.woozooo.com^
 ||analytics-api.smzdm.com^
@@ -19784,9 +19827,11 @@
 ||android.dfssdf43534.xyz^
 ||android.jjwxc.com^
 ||androidads4-6.adcolony.com^
+||anhuyj.cn^
 ||animal-graylog.happyelements.cn^
 ||anp5.720lu.com^
 ||ant.pingan.com.cn^
+||anti-sdk-css-pre.m.jd.com^
 ||anti-sdk-report.m.jd.com^
 ||anti448.cdn.anti8.net^
 ||anwang.ntd4j0b1.top^
@@ -19958,7 +20003,9 @@
 ||api.kuaishouzt.com^
 ||api.liuliangguo.com^
 ||api.look.360.cn^
+||api.m.jd.com^
 ||api.mapps.uve.weibo.com^
+||api.miguvideo.com^
 ||api.mob.com^
 ||api.mobile.cnzz.com^
 ||api.moblink.mob.com^
@@ -20105,6 +20152,8 @@
 ||apm-collect.hzins.net^
 ||apm-log-upload-os.hoyoverse.com^
 ||apm-rum.inf.miui.com^
+||apm.app.coc.10086.cn^
+||apm.clientaccess.10086.cn^
 ||apm.gotokeep.com^
 ||apm.hexin.cn^
 ||apm.umeng.com^
@@ -20269,6 +20318,7 @@
 ||assp15cn2w.bensiea.com^
 ||assp1cn2w.bensiea.com^
 ||astra.qhfsh.com^
+||asuj.cn^
 ||at.mba301.com^
 ||at.umeng.com^
 ||at.umtrack.com^
@@ -20276,6 +20326,7 @@
 ||ate.cklou.com^
 ||ate.qmb313.com^
 ||athena-api.oceanengine.com^
+||atoken.m.taobao.com^
 ||atom.adjust.com^
 ||atomhike.com^
 ||atongdao.sgqykj.com^
@@ -20315,6 +20366,7 @@
 ||awaken.amap.com^
 ||aweme-hl.snssdk.com^
 ||aweme.snssdk.com^
+||awkwla.cn^
 ||awsins.3wf32emgd3.com^
 ||awsins.wetv92fc.com^
 ||aww5.net^
@@ -20383,6 +20435,7 @@
 ||b5b8fe6d.hii-go.com^
 ||b5dac791-dnsotls-ds.metric.gstatic.com^
 ||b5g.cn^
+||b5gvpk5.com^
 ||b5i.cn^
 ||b5nd.cl.app^
 ||b6d4.7790.com^
@@ -20418,6 +20471,7 @@
 ||banners.itunes.apple.com^
 ||baobao.getui.com^
 ||base-growth.soulapp.cn^
+||base.hjq.komect.com^
 ||base.music.qq.com^
 ||basil.atcloudbox.com^
 ||bats.video.yahoo.com^
@@ -20486,6 +20540,8 @@
 ||beqp.880.net^
 ||bes-api.oceanengine.com^
 ||besqk.vqwjucmfdsqznfn.in^
+||bet333.com^
+||bet555.com^
 ||beta.umeng.com^
 ||beud.k8.com^
 ||bfeo.143.cc^
@@ -20493,6 +20549,7 @@
 ||bfg9.yl.vip^
 ||bfmu.720lu.com^
 ||bfue12szsu.nz9bzbx9.com^
+||bgbjjtd.com^
 ||bgfyhfcd.com^
 ||bha5.011.com^
 ||bhss.oclkj.com^
@@ -20504,6 +20561,7 @@
 ||bics.8890.com^
 ||bid.g.doubleclick.net^
 ||bidder.tradplusad.com^
+||bidjora.com^
 ||bidmad.adop.cc^
 ||bidtoolads.com^
 ||bieming8gg9.com^
@@ -20538,6 +20596,8 @@
 ||bjb.openstorage.cn^
 ||bjim64.jpush.cn^
 ||bjimp.voiceads.cn^
+||bjmantis.net^
+||bjnxo.cn^
 ||bjql.bet555.com^
 ||bjrh.sixteens.cn^
 ||bjuser-ipv6.jpush.cn^
@@ -20569,6 +20629,7 @@
 ||bnmjkiopefdfs3dfdfvcfd89.dyp012.com^
 ||boao101.app^
 ||boao9920.com^
+||bob.com^
 ||bohe.sfo-tx-shanghai-01.saas.sensorsdata.cn^
 ||bolinhhhhhh.ifxs6c.com.w.kunlunpi.com^
 ||bolinhhhhhh.ifxs6c.com^
@@ -20621,6 +20682,7 @@
 ||bt.appokset.com^
 ||bt5490044.cc^
 ||bt5y.8890.com^
+||bt66.tv^
 ||btrace.play.aiseet.atianqi.com^
 ||btrace.yangshipin.cn^
 ||btyimg.oss-accelerate.aliyuncs.com^
@@ -20653,6 +20715,7 @@
 ||by01.app^
 ||by04.app^
 ||by2257.vip^
+||by6.app^
 ||by6pw.cc^
 ||bydsp30.com^
 ||byoc.143.cc^
@@ -20809,6 +20872,8 @@
 ||ccdx67.com^
 ||ccf.l.mob.com^
 ||ccfeedback.qulang123.com^
+||ccfjma.m.jd.com^
+||ccflbs.m.jd.com^
 ||cchguoji.com^
 ||cck.ppkkll6655.com^
 ||ccs-mipdx.cn.miaozhen.com^
@@ -20971,6 +21036,7 @@
 ||cdndns66.com^
 ||cdnfilev1.qukufun.com^
 ||cdnhwc22.com.^
+||cdnhwc22.com^
 ||cdnjs8888.com^
 ||cdnqhzs.51aiwan.com^
 ||cdp.cloud.unity3d.com^
@@ -21145,6 +21211,7 @@
 ||cm29.dustctr.cn^
 ||cmbi.s-qec.com^
 ||cmc.tanx.com^
+||cmgadx.com^
 ||cmhd.cscmgg.com^
 ||cmhdoss.cscmgg.com^
 ||cmonitor.iqiyi.com^
@@ -21345,6 +21412,7 @@
 ||cxju.uiuin.cn^
 ||cyberpolice.mps.gov.cn^
 ||cyek128.top^
+||cyfupnq.com^
 ||cz2.351pay.com^
 ||cz446.7api.cn^
 ||czald.com^
@@ -21458,6 +21526,7 @@
 ||d6883.com^
 ||d7368772.u.fn03.vip.^
 ||d7368772.u.kanejwo.com^
+||d7a3fb6.com^
 ||d7qaevr22d96h.cloudfront.net^
 ||d7tif5m5alcud.cloudfront.net^
 ||d80i5k.tdum.alibaba.com^
@@ -21595,6 +21664,7 @@
 ||dfppdrtgckrj.lewojianzhiwang.com^
 ||dfubkrdlsodmgosnslksdkhfgddf112.pyd20.com^
 ||dfyl.s456jdkfjkgh.com^
+||dg.k.jd.com^
 ||dgg04.xn--xkrq9fuu0f31h.cn^
 ||dgl8a0mtdvm74.cloudfront.net^
 ||dh1dh.top^
@@ -21625,6 +21695,7 @@
 ||dispatcher.360in.com^
 ||display.wting.info^
 ||displayads-formats.googleusercontent.com^
+||diwodiwo.xyz^
 ||dizhensubao.getui.com^
 ||dj4opyunomy06.cloudfront.net^
 ||djqv8ngllpa78.cloudfront.net^
@@ -21659,6 +21730,7 @@
 ||dma.shuzilm.cn^
 ||dmapp.chinadegi.com^
 ||dmapp2.chinadegi.com^
+||dmcduio.com^
 ||dmd-ilp-hd.youku.com^
 ||dmguardian.com^
 ||dmm-ph-core.brmyx.com^
@@ -21673,6 +21745,7 @@
 ||dn.oneway.mobi^
 ||dnciy.rwzuspf.com^
 ||dnet.mb.qq.com^
+||dnlog.cmpassport.com^
 ||dnms.getui.com^
 ||dns.jdbcdn.net^
 ||dns.m.sm.cn^
@@ -21764,6 +21837,7 @@
 ||dt.huifengxinxi.com^
 ||dt039.com^
 ||dtfe.154.com^
+||dtsmndu.com^
 ||du-feige.iqiyi.com^
 ||du.163.com^
 ||du.vread.mobi^
@@ -21859,7 +21933,9 @@
 ||eapi.ybren.com^
 ||earn-api.shengqu99.com^
 ||easou.irs01.com^
+||easyland.club^
 ||easytomessage.com^
+||eavztdi.com^
 ||eb2.3lift.com^
 ||ebook-res.meizu.com^
 ||ebru.8890.com^
@@ -21874,6 +21950,7 @@
 ||ecmb.bdimg.com^
 ||ecom.pangolin-sdk-toutiao.com^
 ||ecom5-normal-lf.ecombdapi.com^
+||ecombdimg.com^
 ||ecs-113-45-175-45.compute.hwclouds-dns.com^
 ||ecs.daikuan.360.cn^
 ||ectandroid.yxqiche.com^
@@ -22001,6 +22078,7 @@
 ||events.op.hicloud.com^
 ||events.umeng.com^
 ||events.wan.360.cn^
+||evqvxuq.com^
 ||ew3jd68.vip^
 ||ewclcuhe.vip.gfddosdns.com^
 ||eweb03.anhuidingyue.com.bsclink.cn^
@@ -22009,6 +22087,7 @@
 ||ewnn.143.cc^
 ||ewtakg.getwakeup.com^
 ||ex.as.pptv.com^
+||ex.m.jd.com^
 ||ex.umengcloud.com^
 ||ex9xe.cyou^
 ||exceptionlog.kugou.com^
@@ -22042,6 +22121,7 @@
 ||f1.webshare.mob.com^
 ||f12stag.kkmh.com^
 ||f1gt.yl.ag^
+||f1k4eil.xyz^
 ||f2.mob.com^
 ||f268n.com^
 ||f2ts.8890.com^
@@ -22083,6 +22163,7 @@
 ||fanxing.kugou.com^
 ||fast.com^
 ||fasthuyitool.jidiandian.cn^
+||fastliii.com^
 ||fawiad-dv.faw.cn^
 ||fawulu.com^
 ||fb.umeng.com^
@@ -22135,6 +22216,7 @@
 ||feicuiq.com^
 ||feiyu.oceanengine.com^
 ||fengchao-api.mgp.mi.com^
+||fenqile.com^
 ||fenxi.com^
 ||fenxiao.xbvw.com^
 ||feq3.143.cc^
@@ -22222,6 +22304,7 @@
 ||fmkm.cn^
 ||fms.ipinyou.com^
 ||fmtu.sltusl.com^
+||fn03.vip^
 ||fnapi.adshishi.com^
 ||fnapi.aiysm.com^
 ||fngqf5.com^
@@ -22230,6 +22313,8 @@
 ||fnsdk.123hala.com^
 ||fnvip100.com^
 ||fockrt.yuewen.com^
+||fohbgjv.com^
+||fokm37.cn^
 ||fonts.googleapis.com^
 ||fonts.gstatic.com^
 ||fonts.yinxiang.com^
@@ -22408,6 +22493,7 @@
 ||gamestatic.kkmh.com^
 ||ganon.yahoo.com^
 ||gao1asdjws.^
+||gaode-acs.m.taobao.com^
 ||gaode-jmacs.m.taobao.com^
 ||gaodun.com^
 ||gaodunwangxiao.com^
@@ -22464,6 +22550,7 @@
 ||gdloc.qchannel03.cn^
 ||gdloc2.qchannel03.cn^
 ||gdmc.yl.ag^
+||gdolr.cn^
 ||gdsns1.cnzz.com^
 ||gdsns2.cnzz.com^
 ||gdt-cm.cn.miaozhen.com^
@@ -22495,6 +22582,7 @@
 ||gewge.sn.aqhmd.com^
 ||geyan.getui.com^
 ||gezhen-api.getui.com^
+||gf.app^
 ||gf2022.com^
 ||gf2022ssl.com^
 ||gf5x.ag8.com^
@@ -22522,9 +22610,11 @@
 ||gi.gepush.com^
 ||gi.getui.net^
 ||gi7w.880.net^
+||gias.jd.com^
 ||gif.fpaixfl.com^
 ||gifshow.com^
 ||gini.snssdk.com^
+||giqnyl.cn^
 ||gj.applog.uc.cn^
 ||gj.mmstat.com^
 ||gj.track.uc.cn^
@@ -22629,6 +22719,7 @@
 ||gts-ads.twistbox.com^
 ||gtvpn.getui.com^
 ||gu46.7790.com^
+||guanaibao.com^
 ||guangdong-5.zos.ctyun.cn^
 ||guangguang.cloudvideocdn.taobao.com^
 ||guanghua.com^
@@ -22677,6 +22768,7 @@
 ||h-adashx.ut.ele.me^
 ||h-adashx.ut.hzshudian.com^
 ||h-adashx.ut.uc.cn^
+||h.app.coc.10086.cn^
 ||h.huabianyl.com^
 ||h.m.mpl.dutils.com^
 ||h.safe.360.cn^
@@ -22931,6 +23023,7 @@
 ||hqs7.cnzz.com^
 ||hqs9.cnzz.com^
 ||hr60.yide.com^
+||hrdhej.xyz^
 ||hs.hzwxbz3.cn^
 ||hsbcfts.com.cn^
 ||hsbclifeservices.com.cn^
@@ -23122,6 +23215,7 @@
 ||ib04.k8.com^
 ||ib302.zjcdn.com^
 ||ibrowser.feeds.heytapmobi.com^
+||iburtq.xyz^
 ||ic.adsl.cn^
 ||ic.de.inmobi.com^
 ||ic6c.yide.com^
@@ -23166,6 +23260,7 @@
 ||if6v.8890.com^
 ||iface.iqiyi.com^
 ||iface2.iqiyi.com^
+||ifllqc.cn^
 ||iflow.uczzd.cn^
 ||iflow.uczzd.com.cn^
 ||iflow.uczzd.com^
@@ -23468,6 +23563,7 @@
 ||iwbf8yazxosand7j.costdns.com^
 ||iwdtv.chuangwei.iwangding.com^
 ||iwdtv.iwangding.com^
+||ixigua.com^
 ||ixinyou.com^
 ||ixjr.154.com^
 ||iydxre.cc^
@@ -23510,6 +23606,7 @@
 ||jao1.yide.com^
 ||jap4qfdk.wcjsph911.com^
 ||jau.xdplt.com^
+||javadvi.com^
 ||jbddmbjt.cc^
 ||jbokht.com^
 ||jc-sensors.baidao.com^
@@ -23522,6 +23619,7 @@
 ||jdpay01.com^
 ||jec5.xb.app^
 ||jenkins.tradplusad.com^
+||jennylisnerphotography.com^
 ||jert.154.com^
 ||jetmobo.com^
 ||jfapi.chiq-cloud.com^
@@ -23549,6 +23647,7 @@
 ||jiatoutrade.com^
 ||jiayuan.com^
 ||jifen.cnzz.com^
+||jiguang.coc.10086.cn^
 ||jim.dtyd.com.cn^
 ||jimu.zhema1688.com^
 ||jingbvip.com^
@@ -23562,6 +23661,7 @@
 ||jiuwan-2.cazcdz8fyag1.com^
 ||jixinvip.com^
 ||jjnew.tlxxw.cc^
+||jjzemoc3ca.top^
 ||jkaz.yide.com^
 ||jklhgfg.varlt.com^
 ||jkry.8890.com^
@@ -23590,6 +23690,7 @@
 ||job.getui.com^
 ||job.sdjuliangnet.com^
 ||jocr7u68ud.7uxokjaz.com^
+||jomoxc.com^
 ||joopt.gppxp.com^
 ||jp-api-fc.dutils.com^
 ||jp-api-fd.dutils.com^
@@ -23603,6 +23704,7 @@
 ||jptj127.9cskr.com^
 ||jpushjd.m.jd.com^
 ||jpushoa.com^
+||jpushsc.m.jd.com^
 ||jq2zzja-20.zhngxi.com^
 ||jr.if.iqiyi.com^
 ||jr1.cc^
@@ -23652,6 +23754,7 @@
 ||ju.mmstat.com^
 ||juggler.services.disqus.com^
 ||juhe.cn^
+||juicyads.me^
 ||jump.admobile.top^
 ||junb.freelynet.com^
 ||jupiter.appads.com^
@@ -23666,6 +23769,7 @@
 ||juxiao.mediav.com^
 ||jvav.top^
 ||jvazw20250060227mdn.nmlsigk22256401.mom^
+||jvere.xyz^
 ||jverification.jiguang.cn^
 ||jvoc.143.cc^
 ||jvod.300hu.com^
@@ -23717,12 +23821,14 @@
 ||kainosiuorod3mtfgnvbq4icptsdn2vb89jrbji0asics86ar0u87im.siomxity.net^
 ||kaiwqp-04-94224751.ap-northeast-2.elb.amazonaws.com^
 ||kaiwqp-05-1192817015.ap-northeast-2.elb.amazonaws.com^
+||kaiyun.com^
 ||kaka.wcwlcl12.cn^
 ||kale28.xyz^
 ||kandian.youth.cn^
 ||kaoyan365.cn^
 ||kaoyao.nidaye.pw^
 ||kashichang.cn^
+||kbddftp.cn^
 ||kbv40.com^
 ||kc56.880.net^
 ||kcdwu1008.com^
@@ -23867,11 +23973,14 @@
 ||kwaixiaodian.com^
 ||kwaizt.com^
 ||kwcdn.000dn.com^
+||kweisid.top^
 ||kweuf6k.oseiwiweep.com^
+||kwilmid.top^
 ||kwimg3.kuwo.cn^
 ||kwji.880.net^
 ||kwofjwo.ssyymy.com^
 ||kx82kdajlkjsdngjxaas.ldka6232.pictures^
+||kxayxw.cn^
 ||kxdo.yl.ag^
 ||kxeze.mxoshg.com^
 ||kxiaodian.com^
@@ -23928,6 +24037,7 @@
 ||la-vid-events.taboola.com^
 ||la-wf.taboola.com^
 ||lady2.ink^
+||laebu.cn^
 ||lageideceec.com^
 ||laibuji.xiahou.xyz^
 ||land.uufan.com.cn^
@@ -23959,6 +24069,7 @@
 ||lban.spdb.com.cn^
 ||lbgs.hismarttv.com^
 ||lbs-qiyu.netease.im^
+||lbsapi.m.jd.com^
 ||lc-push.zhihu.com^
 ||lc.getui.com^
 ||lc.map.baidu.com^
@@ -23985,6 +24096,7 @@
 ||lemonbox.com.cn^
 ||leniugame.com^
 ||leoot2thill.github.io^
+||leqi2015.com^
 ||lerze.qcbtyn.xyz^
 ||letv-mipdx.cn.miaozhen.com^
 ||letv.axp.admaster.com.cn^
@@ -24506,6 +24618,7 @@
 ||mgmweb4.com^
 ||mgnho.reutu.com^
 ||mgpay-api.kltb.com.cn^
+||mgsv.miguvideo.com^
 ||mgvrst.mi-shop.com^
 ||mgwkbrs.tingyun.com^
 ||mgwkm.tingyun.com^
@@ -24755,6 +24868,7 @@
 ||msta.hbstkj123.com^
 ||msta.moyicp.com^
 ||msta.zuhuaizhijia.com^
+||mstat.tpdns.tencent.com^
 ||msync-im1-vip6-std.easemob.com^
 ||mt.505006665.com^
 ||mt.cnzz.com^
@@ -24992,7 +25106,9 @@
 ||nspt.bdstatic.com^
 ||nstool.netease.com^
 ||nstx.1ttytxdtapi.com^
+||nswsu.com^
 ||nswz029.com^
+||nt.app^
 ||ntp.en.gifshow.com^
 ||ntp.nc.gifshow.com^
 ||ntrsfdj.online^
@@ -25003,6 +25119,8 @@
 ||nuperfect.net^
 ||nuxpj.com^
 ||nv00.cdn.bcebos.com^
+||nvpuse.com^
+||nvpuwo.com^
 ||nvxea.mipewft.com^
 ||nvxea.mokuylv.com^
 ||nwapi.nhk.jp^
@@ -25047,6 +25165,7 @@
 ||obe8.yl.ag^
 ||obey11.com^
 ||obj.test.ttwifi.net^
+||obj23q.com^
 ||obs-helf.cucloud.cn^
 ||obs-tysearch-wisesearchctrl-p01-drcn.obs.cn-north-2.myhuaweicloud.cn^
 ||observe-tcp.mtgglobals.com^
@@ -25114,6 +25233,7 @@
 ||onekey.cmpassport.com^
 ||onekey1.cmpassport.com^
 ||onekey2.cmpassport.com^
+||oneliner.cn^
 ||onepass.geetest.com^
 ||onepic.s-qec.com^
 ||onglinhhhh.nmgdfwl.com.w.kunlunpi.com^
@@ -25269,6 +25389,7 @@
 ||ow-gateway.supersonicads.com^
 ||ow0zfd8f.i4brlaioofvw.com^
 ||owads.audioadx.com^
+||oweisik.top^
 ||owtk.audioadx.com^
 ||ozcoa6hlr.com^
 ||ozone.10jqka.com.cn^
@@ -25337,6 +25458,7 @@
 ||p3.ssl.qhimgs0.com^
 ||p304.k8.com^
 ||p3fx.kgimg.com^
+||p3q0tt.com^
 ||p3yw7u.innittapp.com.download.ks-cdn.com^
 ||p3yw7u.innittapp.com^
 ||p4-lm.adkwai.com^
@@ -25440,6 +25562,7 @@
 ||pedp.k8.com^
 ||peo1.kaiyun.com^
 ||perf-events.cloud.unity3d.com^
+||perf.m.jd.com^
 ||perf.mmstat.com^
 ||perm-api.vivo.com.cn^
 ||pf5r.hikedj.com^
@@ -25470,6 +25593,7 @@
 ||phc7aps.gthrtrjh.cn^
 ||phcjf.com^
 ||phh0.7790.com^
+||phire.cn^
 ||phone.getui.com^
 ||phone.igexin.com^
 ||phoniex.toutiao.com^
@@ -25559,6 +25683,7 @@
 ||pnrt.stsdk.vivo.com.cn^
 ||pns.alicdn.com^
 ||po18ad.com^
+||poeme.cn^
 ||poi.10jqka.com.cn^
 ||pok.mintegral.net^
 ||polar-sdk-api.jiguang.cn^
@@ -25598,6 +25723,7 @@
 ||ppdai.com^
 ||ppdaicdn.com^
 ||ppdn.bzszyy123.com^
+||ppfu3m.com^
 ||ppg.m.etoote.com^
 ||pps.1064m2m.cn^
 ||pptv.m.cn.miaozhen.com^
@@ -25687,6 +25813,7 @@
 ||puruiwangluo.com^
 ||push.10jqka.com.cn^
 ||push.hexin.cn^
+||push.it.10086.cn^
 ||push.mob.com^
 ||push.skysrt.com^
 ||push.umeng.com^
@@ -25769,6 +25896,7 @@
 ||qcdi.cl.app^
 ||qchsnb.10086cn.vip^
 ||qcskloej.zhema1688.com^
+||qczb.app^
 ||qd-update.qq.com^
 ||qd.siyutui.com^
 ||qd84.nvpuwo.com^
@@ -25788,6 +25916,7 @@
 ||qfu9.143.cc^
 ||qg-1gw5q2le2e96fbfc-1332757360.tcloudbaseapp.com^
 ||qg11.maszyxx.cn^
+||qgivvd.cn^
 ||qgnu18wo.sina.cn^
 ||qgo.mmstat.com^
 ||qgqz.011.com^
@@ -25817,6 +25946,7 @@
 ||qinshy04.xyz^
 ||qisx68.xyz^
 ||qiufacai.top^
+||qiyouzy.com^
 ||qiytsgd.fyryaoh.com^
 ||qjjjjjbsnvhsbvk-kk.gzmf5.com.cdn.dnsv1.com^
 ||qjjjjjbsnvhsbvk-kk.gzmf5.com^
@@ -25837,6 +25967,7 @@
 ||qo4.net^
 ||qonrrsea.com^
 ||qp.bet^
+||qp666.com^
 ||qp7f.yide.com^
 ||qpappkf.emyzsg.com.w.cdngslb.com^
 ||qpappkf.emyzsg.com^
@@ -25965,6 +26096,7 @@
 ||rdstat.tanx.com^
 ||rdtgateway.shengpay.com^
 ||rdyxektri884.wusuoxmhjas.nbybgy.com^
+||re.m.jd.com^
 ||reader-res.mzres.com^
 ||reader.browser.miui.com^
 ||reading.snssdk.com^
@@ -25982,6 +26114,7 @@
 ||regapi.37.com^
 ||register.appsflyer.com^
 ||reksaidnslog.security.mihoyo.com^
+||render-prod-backup-tile.amap.com^
 ||renrenjihua.com^
 ||report-stats.ad.jiguang.cn^
 ||report-sy.adview.cn^
@@ -26057,6 +26190,7 @@
 ||rg7f.cqhzgs.cn.eo.dnse5.com^
 ||rg7f.cqhzgs.cn^
 ||rgeo-aloc.amap.com^
+||rhjdc.com^
 ||rhwx.yxzb.tv^
 ||richie2ee2e.de^
 ||richmanapi.jxedt.com^
@@ -26524,6 +26658,7 @@
 ||searchads.apple.com^
 ||searchlog.html5.qq.com^
 ||searchrecommend.kugou.com^
+||searesource.top^
 ||sec-cdn.gifshow.com^
 ||secure.adnxs.com^
 ||secure.mediav.com^
@@ -26664,6 +26799,7 @@
 ||sidebar-apps-cn.allawntech.com^
 ||sigmob.ads.8le8le.com^
 ||signup.taboola.com^
+||siigck.xyz^
 ||sijiha.oss-cn-hongkong.aliyuncs.com^
 ||sikelocci.com^
 ||simaba.taobao.com^
@@ -26691,6 +26827,7 @@
 ||sj666yc1.otcloufront30.top^
 ||sjh.baidu.com^
 ||sjkfihtwnd293687baksfnat8rsadklanfaiai.com^
+||sjpxfz.xyz^
 ||sjrank.cdluyi.cn^
 ||sjtv.500.voto^
 ||sjws.ssl.qihucdn.com^
@@ -27054,6 +27191,7 @@
 ||sxhqx.com^
 ||sxkjsm.com^
 ||sxl.39axccbx7.cc^
+||sxzb.app^
 ||sy-cdn.gzxxyx.cn^
 ||sy-static.hzwxbz3.cn^
 ||sy.cl2009.com^
@@ -27163,6 +27301,7 @@
 ||tbexpand.alicdn.com^
 ||tbonline.tk.cn^
 ||tbsrecovery.imtt.qq.com^
+||tbyfz.xyz^
 ||tc-cdn.com^
 ||tcb-api.tencentcloudapi.com^
 ||tcd-log.m.jd.com^
@@ -27217,6 +27356,7 @@
 ||testserver.zoosnet.net^
 ||testwn.baidu.com^
 ||tetrack.qq.com^
+||texcn.cn^
 ||tezf.143.cc^
 ||tf.360.cn^
 ||tf.feibians.com^
@@ -27243,6 +27383,7 @@
 ||tgonly-image-hk.tgchat111.com^
 ||tgptefpt.orionxyz.com^
 ||tgzi5ex188.japaneast.cloudapp.azure.com^
+||th.app^
 ||the-most-feared.com^
 ||theversi165.oss-accelerate.aliyuncs.com^
 ||thgssdagdgdy.dnxkgy136894.vip^
@@ -27253,6 +27394,7 @@
 ||thugouf.shop^
 ||thumb.qschou.com^
 ||ti1f.yl.ag^
+||tianmu.mobi^
 ||tianqin.qq.com^
 ||tianshu.gtimg.cn^
 ||tianyancha.com^
@@ -27293,6 +27435,7 @@
 ||tk3.app^
 ||tkchatn5.bjmantis.net^
 ||tkda.anythinktech.com^
+||tkmihh.xyz^
 ||tl.oneway.mobi^
 ||tl.oway.mobi^
 ||tl99.720lu.com^
@@ -27432,6 +27575,7 @@
 ||trrsv2-web.50bangzh.com^
 ||truth.qchannel01.cn^
 ||truth.qchannel03.cn^
+||ts.amap.com^
 ||ts.crwdcntrl.net^
 ||ts.kyw4y0s.com^
 ||ts.market^
@@ -27531,6 +27675,7 @@
 ||txqcmmov.a.etoote.com^
 ||txsm.s6bv53uz.top^
 ||txwk.10010.com^
+||txzb.app^
 ||ty.a.yximgs.com^
 ||ty.svipapp.cn^
 ||tyacwhhi.jixingcdn.com^
@@ -27545,6 +27690,7 @@
 ||tysk.a.yximgs.com^
 ||tyx.haiyu.shop^
 ||tz-t.quluyx.cn^
+||tz.app^
 ||tz.wlfx8.cn^
 ||tz301.50868571.top^
 ||tzcdn-0905.qglfldr.cn^
@@ -27642,6 +27788,7 @@
 ||uk.umengcloud.com^
 ||uk8f.cl.app^
 ||ul.soulapp.cn^
+||ul2tos.cn^
 ||uland.taobao.com^
 ||uland.tb-api.com^
 ||ulike-api3.faceu.mobi^
@@ -27659,6 +27806,7 @@
 ||umsns.com^
 ||umso.niceloo.com^
 ||umtrack.com^
+||unet.quark.cn^
 ||unet.ucweb.com^
 ||uni-shumeng.zhipin.com^
 ||union-click.jd.com^
@@ -27729,6 +27877,7 @@
 ||ur94.143.cc^
 ||uri6.com^
 ||url8807.global.passport.xiaomi.com^
+||urlshare.cn^
 ||urxnn.lnffwci.com^
 ||us-api-d.dutils.com^
 ||us-api-fc.dutils.com^
@@ -27775,6 +27924,7 @@
 ||uvu.nojmlxq.cn^
 ||uwan.dad^
 ||uweb.umeng.com^
+||uweisit.top^
 ||uwjipbbq.6lb09l.autos^
 ||uwlcxw.mentionee.uodbsly.com^
 ||ux54.143.cc^
@@ -27795,6 +27945,7 @@
 ||v.chatabc.xyz^
 ||v.data.mob.com^
 ||v.jianyufu.com^
+||v.miguvideo.com^
 ||v.qidian.qq.com^
 ||v.sogowan.com^
 ||v.uc.cn^
@@ -27859,6 +28010,7 @@
 ||v492.6t.com^
 ||v4g.cn^
 ||v4ki.880.net^
+||v4v6v4.com^
 ||v5-hl-ali-reading-video.fqnovelvod.com^
 ||v5-hl-hw-reading-video.fqnovelvod.com^
 ||v5-ks.a.bdycdn.cn^
@@ -28025,6 +28177,7 @@
 ||vol.bczcdn.com^
 ||volc-track-dsp.66mobi.com^
 ||volces.com^
+||volcsiriusbd.com^
 ||volctracer.com^
 ||vortex-sandbox.data.microsoft.com^
 ||vortex-win.data.microsoft.com^
@@ -28120,6 +28273,7 @@
 ||w8k102.uxjortw.com^
 ||w9ez.cl.app^
 ||w9if.hikedj.com^
+||w9k.cn^
 ||w9r9.143.cc^
 ||wa.appsflyer.com^
 ||wa1j.6t.com^
@@ -28155,6 +28309,7 @@
 ||wcpbsld.xdplt.com^
 ||wd.602.com.volcgslb.com^
 ||wdaa.shuzilm.cn^
+||wdadad.cn^
 ||wdb.cn.miaozhen.com^
 ||wdpro-mkt-prod2-lb.campaign.adobe.com^
 ||wds.ecsxs.com^
@@ -28205,6 +28360,7 @@
 ||websocket.kh686.com^
 ||wedl.cl.app^
 ||wefly-m.52tt.com^
+||weibointl.api.weibo.cn^
 ||weimiaocaishang.com^
 ||weitietl.com^
 ||weixin.miaozhen.com^
@@ -28218,6 +28374,7 @@
 ||wf58.yide.com^
 ||wfes.yl.ag^
 ||wfk.tcyhjfwb.xyz^
+||wfojsm.com^
 ||wg5b.hikedj.com^
 ||wgo.mmstat.com^
 ||wgpwe031h.xyz^
@@ -28821,6 +28978,7 @@
 ||x54.com^
 ||x54323.com^
 ||x54media.lymum.com^
+||x586di.com^
 ||x5cz.yide.com^
 ||x66957.com^
 ||x6754.com^
@@ -28848,6 +29006,7 @@
 ||xapi.yi1228.com^
 ||xaqt.ag8.com^
 ||xawop.com^
+||xb.app^
 ||xb20823xbt.bzosdqj.com^
 ||xb4l.5163.com^
 ||xbaeq00823.xz.shmxqx.com^
@@ -28896,6 +29055,7 @@
 ||xhuc39225.cc^
 ||xi8x.texcn.cn^
 ||xiangchaokankan.m.cn.miaozhen.com^
+||xiangde.top^
 ||xiansuo.kuaishou.com^
 ||xiansuokeji.com^
 ||xiaoliao.im^
@@ -28978,10 +29138,12 @@
 ||xq1n.yl.ag^
 ||xq6.co^
 ||xqingse.com^
+||xqojux.xyz^
 ||xreach.miaozhen.com^
 ||xrzp.cl.app^
 ||xs.hmjhnkas.com^
 ||xs.lyjy9.cn^
+||xs163.net^
 ||xsbdy.com^
 ||xshy4729.cc^
 ||xslcn.cn^
@@ -29052,6 +29214,7 @@
 ||y84k.8890.com^
 ||y96lo.com^
 ||yaaumqa.top^
+||yabo.com^
 ||yadp.cl.app^
 ||yafa.880.net^
 ||yandex.ru^
@@ -29066,6 +29229,7 @@
 ||ybkf.143.cc^
 ||ybp.getui.com^
 ||ybren.com^
+||ybvip.com^
 ||yby6.cn^
 ||ybze.7790.com^
 ||yc0q.7790.com^
@@ -29087,6 +29251,7 @@
 ||ydh5res.onlineweixin.com^
 ||ydhd.yundun20hd5.cc^
 ||yds85c24nfky.com^
+||ydxdg.xyz^
 ||yenbackfi.49pb4602.com^
 ||yenbackfi.kitctte.com^
 ||yenbackfi.mo6i2p.com^
@@ -29099,6 +29264,7 @@
 ||yfks17.1law.vip^
 ||yfks4.1law.vip^
 ||yft192.com^
+||yghd360.com^
 ||ygim.6t.com^
 ||ygwi024.xyz^
 ||ygwsxkky.com^
@@ -29136,6 +29302,8 @@
 ||yizhantongimage.oss-accelerate.aliyuncs.com^
 ||yizhizaiyiqi.com^
 ||yjkr.ag8.com^
+||yjzb.app^
+||yjzb.tv^
 ||yk6a.880.net^
 ||ykar.731.tv^
 ||ykji.jfdh168.com^
@@ -29145,6 +29313,7 @@
 ||yl.jcyeah.com^
 ||yl.niceloo.com^
 ||yl.top^
+||yl.vip^
 ||yl290300.cc^
 ||yl290346.cc^
 ||yl7h-250923.ytbdmhy.com^
@@ -29171,6 +29340,7 @@
 ||yn1f.yl.ag^
 ||yn1l.8890.com^
 ||yne3.720lu.com^
+||ynrsksw.cn^
 ||ynuf.aliapp.org^
 ||ynus.cl.app^
 ||ynwssw.cn^
@@ -29249,6 +29419,7 @@
 ||yxtg.taojike.com.cn^
 ||yxy06183.cc^
 ||yxz111.65be74a.com^
+||yxzb.tv^
 ||yy.bei-min.cn^
 ||yy.co8sjjs1y.com^
 ||yy112233.imsow.com^
@@ -29364,6 +29535,7 @@
 ||zhipu-static.oss-cn-shanghai.aliyuncs.com^
 ||zhipuaishengchan.datasink.sensorsdata.cn^
 ||zhishangsoft.com^
+||zhiyileiju.cn^
 ||zhiyileijus.cn^
 ||zhizeu.com^
 ||zhizhoukeji.com^
@@ -29380,6 +29552,7 @@
 ||zhwx.yl.ag^
 ||zigv.3qj49.cyou^
 ||zijie.yolly.cn^
+||zijieapi.com^
 ||zipposadfadsal.com^
 ||zj77783.com^
 ||zjinfo.cn^
@@ -29422,6 +29595,7 @@
 ||zt.diyring.cc^
 ||zt64.6t.com^
 ||zt7x.154.com^
+||ztgha.xyz^
 ||zth5.ztgame.com^
 ||zttvc-1.v.bsgslb.com^
 ||ztxh-bj.com^
@@ -29445,6 +29619,7 @@
 ||zx6s3.cqhzgs.cn^
 ||zxbyy.ugurl.cn^
 ||zxpq.8890.com^
+||zxscn.com^
 ||zxt7.8890.com^
 ||zxuyj111-1.32b2yjhrzxe8.com^
 ||zxz.eeaabb.top^
