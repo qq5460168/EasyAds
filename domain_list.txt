@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-11-24 01:05:51（北京时间）
-# 共 29430 个域名
+# 生成时间: 2025-11-24 04:28:29（北京时间）
+# 共 29431 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -25165,6 +25165,7 @@ ugfe111.top
 ugg.keefung-zs.com
 ugg66.com
 ugh5.cn
+ugox.cn
 ugsdk.cn
 ugugct.xyz
 ugvip.com

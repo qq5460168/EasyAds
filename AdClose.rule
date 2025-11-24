@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-11-24 01:05:53
-# 规则总数: 29446
+# 更新时间: 2025-11-24 04:28:32
+# 规则总数: 29447
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -25178,6 +25178,7 @@ domain, ugfe111.top
 domain, ugg.keefung-zs.com
 domain, ugg66.com
 domain, ugh5.cn
+domain, ugox.cn
 domain, ugsdk.cn
 domain, ugugct.xyz
 domain, ugvip.com

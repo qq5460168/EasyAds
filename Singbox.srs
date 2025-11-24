@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-11-24 01:05:53
-# 规则总数: 29446
+# 更新时间: 2025-11-24 04:28:31
+# 规则总数: 29447
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -25178,6 +25178,7 @@ domain: ugfe111.top, policy: reject
 domain: ugg.keefung-zs.com, policy: reject
 domain: ugg66.com, policy: reject
 domain: ugh5.cn, policy: reject
+domain: ugox.cn, policy: reject
 domain: ugsdk.cn, policy: reject
 domain: ugugct.xyz, policy: reject
 domain: ugvip.com, policy: reject

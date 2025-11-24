@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-11-24 01:05:53
-# 规则总数: 29446
+# 更新时间: 2025-11-24 04:28:31
+# 规则总数: 29447
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -25179,6 +25179,7 @@ payload:
   - 'ugg.keefung-zs.com'
   - 'ugg66.com'
   - 'ugh5.cn'
+  - 'ugox.cn'
   - 'ugsdk.cn'
   - 'ugugct.xyz'
   - 'ugvip.com'

@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-11-24 01:05:53
-# 规则总数: 29446
+# 更新时间: 2025-11-24 04:28:32
+# 规则总数: 29447
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -25178,6 +25178,7 @@
 0.0.0.0 ugg.keefung-zs.com
 0.0.0.0 ugg66.com
 0.0.0.0 ugh5.cn
+0.0.0.0 ugox.cn
 0.0.0.0 ugsdk.cn
 0.0.0.0 ugugct.xyz
 0.0.0.0 ugvip.com

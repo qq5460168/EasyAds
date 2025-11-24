@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-11-24 01:05:53
-# 规则总数: 29446
+# 更新时间: 2025-11-24 04:28:31
+# 规则总数: 29447
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -25178,6 +25178,7 @@ ugfe111.top block
 ugg.keefung-zs.com block
 ugg66.com block
 ugh5.cn block
+ugox.cn block
 ugsdk.cn block
 ugugct.xyz block
 ugvip.com block
