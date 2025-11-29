@@ -1851,7 +1851,6 @@
 ||adbehavior.ximalaya.com^
 ||pns.ximalaya.com^
 ||xuid-server.ximalaya.com^
-||award.xmcdn.com^
 ||api.verify.mob.com^
 ||mermaid.ximalaya.com^
 ||adsehera.ximalaya.com^
@@ -20361,6 +20360,7 @@
 ||aw.mic.mob.com^
 ||awake-stats.jpush.cn^
 ||awaken.amap.com^
+||award.xmcdn.com^
 ||aweme-hl.snssdk.com^
 ||aweme.snssdk.com^
 ||awkwla.cn^

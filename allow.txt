@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-11-29 20:24:26
-! 有效规则数量: 2775 条
+! 规则更新时间: 2025-11-30 00:14:52
+! 有效规则数量: 2777 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
+@@||gamezop.com^$important
 @@||woocall.sina.com.cn^
 @@||static.deepseek.com^
 @@||cdn.deepseek.com^
@@ -380,10 +381,10 @@
 @@||www.ip138.com^
 @@||m.ip138.com^
 @@||cache.ip138.com^
-@@||www.ximalaya.com^
 @@||audiopay.pcdn.xmcdn.com^
 @@||aod.cos.tx.xmcdn.com^
 @@||fdfs.xmcdn.com^
+@@||award.xmcdn.com^$important
 @@||www.bmcx.com^
 @@||dianfeijisuanqi.bmcx.com^
 @@||wannianrili.bmcx.com^
@@ -1855,6 +1856,7 @@
 @@||stripe.com^$domain=pay.openai.com
 @@||w2.kskwai.com^$important
 @@||wan.douyu.com^
+@@||www.ximalaya.com^
 @@||wxapp.tc.qq.com^
 @@||x2.ifengimg.com^
 @@||lobechat.com/_next/static/chunks/

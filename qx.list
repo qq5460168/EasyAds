@@ -1833,7 +1833,6 @@ DOMAIN,test.18bit.cn,reject
 DOMAIN,adbehavior.ximalaya.com,reject
 DOMAIN,pns.ximalaya.com,reject
 DOMAIN,xuid-server.ximalaya.com,reject
-DOMAIN,award.xmcdn.com,reject
 DOMAIN,api.verify.mob.com,reject
 DOMAIN,mermaid.ximalaya.com,reject
 DOMAIN,adsehera.ximalaya.com,reject
@@ -20309,6 +20308,7 @@ DOMAIN,aw-mic.teeen.cn,reject
 DOMAIN,aw.mic.mob.com,reject
 DOMAIN,awake-stats.jpush.cn,reject
 DOMAIN,awaken.amap.com,reject
+DOMAIN,award.xmcdn.com,reject
 DOMAIN,aweme-hl.snssdk.com,reject
 DOMAIN,awkwla.cn,reject
 DOMAIN,awsins.3wf32emgd3.com,reject

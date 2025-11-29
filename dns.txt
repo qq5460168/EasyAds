@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-11-29 12:24:23.532216
+# Generated on 2025-11-29 16:14:50.060648
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -1854,7 +1854,6 @@
 ||adbehavior.ximalaya.com^
 ||pns.ximalaya.com^
 ||xuid-server.ximalaya.com^
-||award.xmcdn.com^
 ||api.verify.mob.com^
 ||mermaid.ximalaya.com^
 ||adsehera.ximalaya.com^
@@ -20364,6 +20363,7 @@
 ||aw.mic.mob.com^
 ||awake-stats.jpush.cn^
 ||awaken.amap.com^
+||award.xmcdn.com^
 ||aweme-hl.snssdk.com^
 ||aweme.snssdk.com^
 ||awkwla.cn^
