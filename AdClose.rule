@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-11-30 04:29:01
-# 规则总数: 29622
+# 更新时间: 2025-11-30 08:16:14
+# 规则总数: 29631
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -4103,6 +4103,7 @@ domain, ad.search.ch
 domain, ad.seeyouyima.com
 domain, ad.sensismediasmart.com.au
 domain, ad.services.distractify.com
+domain, ad.shenshiads.com
 domain, ad.shunchangzhixing.com
 domain, ad.shuoshuomi.com
 domain, ad.sina.com.cn
@@ -4920,6 +4921,7 @@ domain, adutp.com
 domain, aduu.cn
 domain, adv-adlog.variflight.com
 domain, adv-ads.variflight.com
+domain, adv-api.shenshiads.com
 domain, adv-font-pt.4366.com
 domain, adv-sv-show.focus.cn
 domain, adv-sv-stat.focus.cn
@@ -11053,6 +11055,7 @@ domain, endpoint.zhuishushenqi.com
 domain, enduser.adsrvr.org
 domain, enennsa.gushiwen.cn
 domain, engine.data.cnzz.com
+domain, engine.dcad01.com
 domain, engine.kuailexuexiga.cn
 domain, engine.kuainiu000.com
 domain, engine.liandaomobi.com
@@ -16651,6 +16654,7 @@ domain, log.haiwanwl.com
 domain, log.he2d.com
 domain, log.hunantv.com
 domain, log.iflytek.com
+domain, log.ireader.com
 domain, log.isnssdk.com
 domain, log.jd.com
 domain, log.kajicam.com
@@ -16748,6 +16752,7 @@ domain, logoshejishi.com
 domain, logpym201.luckystar001.top
 domain, logrcv.aiclk.com
 domain, logrcv.qquanquan.com
+domain, logrcv.yunxish.com
 domain, logs-service.luobo.cn
 domain, logs.ads.vungle.com
 domain, logs.amap.com
@@ -17284,6 +17289,7 @@ domain, m.sanygroup.com
 domain, m.sbenx.com
 domain, m.sbinx.com
 domain, m.sewxi.com
+domain, m.shenshiads.com
 domain, m.shenyunkeji.com
 domain, m.shilian168.cn
 domain, m.sigmob.com
@@ -22273,6 +22279,7 @@ domain, safe.ucweb.com
 domain, safebrowsing.apple
 domain, safebrowsing.g.applimg.com
 domain, safebrowsing.googleapis.com
+domain, safebrowsing.urlsec.gg.com
 domain, safebrowsing.urlsec.qq.com
 domain, saferwet.com
 domain, sahqoo.com
@@ -24729,6 +24736,7 @@ domain, trace.tctpwebank.com
 domain, trace.webank.com
 domain, tracelog-debug.aiclk.com
 domain, tracelog-debug.qquanquan.com
+domain, tracelog-debug.yunxish.com
 domain, track-config.y5kfpt.com
 domain, track-dsp.adwangmai.com
 domain, track-east.mobileadtrading.com
@@ -27946,6 +27954,7 @@ domain, xctianyuan.com
 domain, xcvwrj.xyz
 domain, xcwl.tech
 domain, xcwzq.xyz
+domain, xcx.dcad01.com
 domain, xcx.koolearn.com
 domain, xcy8.com
 domain, xcyjzs.net

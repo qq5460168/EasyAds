@@ -21,21 +21,27 @@
 ||ad.doubleclick.net^
 ||ad.gameley.com^
 ||ad.hpplay.cn^
+||ad.iot.360.cn^
+||ad.jia.360.cn^
+||ad.life.360.cn^
 ||ad.partner.gifshow.com^
 ||ad.qingting.fm^
 ||ad.qq.com^
 ||ad.richmob.cn^
+||ad.shenshiads.com^
 ||ad.shunchangzhixing.com^
 ||ad.tencentmusic.com^
 ||ad.toutiao.com^
 ||ad.v3mh.com^
 ||ad.winrar.com.cn^
 ||ad.ximalaya.com^
+||ad.xunkids.com^
 ||ad.zijieapi.com^
 ||adapi.izuiyou.com^
 ||adapi.yynetwk.com^
 ||adashbc.ut.taobao.com^
 ||adashx.m.taobao.com^
+||adashxgc.ut.taobao.com^
 ||adc.hpplay.cn^
 ||adcdn.hpplay.cn^
 ||adcdn.tencentmusic.com^
@@ -66,6 +72,7 @@
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
 ||ads.95516.com^
+||ads.cup.com.cn^
 ||ads.google.cn^
 ||ads.huan.tv^
 ||ads.huantest.com^
@@ -119,6 +126,7 @@
 ||adtago.s3.amazonaws.com^
 ||adtech.yahooinc.com^
 ||adtrack.quark.cn^
+||adv-api.shenshiads.com^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
 ||advertising-api-eu.amazon.com^
@@ -163,6 +171,7 @@
 ||analysis.yozocloud.cn^
 ||analytics-api.samsunghealthcn.com^
 ||analytics.adjust.cn^
+||analytics.oceanengine.com^
 ||analytics.pinterest.com^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.query.yahoo.com^
@@ -184,7 +193,9 @@
 ||api-access.pangolin-sdk-toutiao3.com^
 ||api-access.pangolin-sdk-toutiao4.com^
 ||api-access.pangolin-sdk-toutiao5.com^
+||api-ad-data.kajicam.com^
 ||api-ad-product.huxiu.com^
+||api-ad.kajicam.com^
 ||api-adservices.apple.com^
 ||api-gd.hiaiabc.com^
 ||api-htp.beizi.biz^
@@ -207,6 +218,7 @@
 ||apiyd.my91app.com^
 ||app-measurement.com^
 ||appcfg.v.qq.com^
+||applog-perf.uc.cn^
 ||applog.lc.quark.cn^
 ||applog.uc.cn^
 ||applog.zijieapi.com^
@@ -326,6 +338,7 @@
 ||eclick.baidu.com^
 ||edge.ads.twitch.tv^
 ||ef-dongfeng.tanx.com^
+||engine.dcad01.com^
 ||entry.baidu.com^
 ||errlog.umeng.com^
 ||errnewlog.umeng.com^
@@ -402,6 +415,7 @@
 ||iad.apple.com^
 ||iad.g.163.com^
 ||iadctest.qwapi.com^
+||iadmusicmat.music.126.net^
 ||iadsdk.apple.com^
 ||iadworkbench.apple.com^
 ||ifacelog.iqiyi.com^
@@ -477,6 +491,7 @@
 ||log.byteoversea.com^
 ||log.fc.yahoo.com^
 ||log.iflytek.com^
+||log.ireader.com^
 ||log.kuwo.cn^
 ||log.pinterest.com^
 ||log.popin.cc^
@@ -489,15 +504,18 @@
 ||log1.cmpassport.com^
 ||logbak.hicloud.com^
 ||logrcv.aiclk.com^
+||logrcv.yunxish.com^
 ||logs.amap.com^
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
 ||logtj.kugou.com^
 ||logupdate.avlyun.sec.miui.com^
+||logwebs.kugou.com^
 ||luimg.baidu.com^
 ||m-adnet.hiaiabc.com^
 ||m.ad.zhangyue.com^
 ||m.atm.youku.com^
+||m.shenshiads.com^
 ||m1.ad.10010.com^
 ||mapi.m.jd.com^
 ||masdkv6.3g.qq.com^
@@ -524,6 +542,7 @@
 ||mobaliyun.res.mgtv.com^
 ||mobile.da.mgtv.com^
 ||mobilead.kuwo.cn^
+||mobilelog.kugou.com^
 ||mobilelog.upqzfile.com^
 ||monitor-ads-test.huan.tv^
 ||monitor-uu.play.aiseet.atianqi.com^
@@ -551,6 +570,7 @@
 ||offerwall.yandex.net^
 ||ogads-pa.clients6.google.com^
 ||omgmta.play.aiseet.atianqi.com^
+||open-set-api.shenshiads.com^
 ||open.e.kuaishou.cn^
 ||open.e.kuaishou.com^
 ||open.kuaishouzt.com^
@@ -580,6 +600,7 @@
 ||p4-be-pack-sign.pglstatp-toutiao.com^
 ||p5-be-pack-sign.pglstatp-toutiao.com^
 ||p6-be-pack-sign.pglstatp-toutiao.com^
+||p66-ad.adkwai.com^
 ||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com^
 ||pangolin-sdk-toutiao-b.com^
@@ -632,6 +653,8 @@
 ||s8t.teads.tv^
 ||saad.ms.zhangyue.net^
 ||saas.hpplay.cn^
+||safebrowsing.googleapis.com^
+||safebrowsing.urlsec.gg.com^
 ||samsung-com.112.2o7.net^
 ||samsungads.com^
 ||saxysec.com^
@@ -656,6 +679,7 @@
 ||sdkconfig.play.aiseet.atianqi.com^
 ||sdkconfig.video.qq.com^
 ||sdkoptedge.chinanetcenter.com^
+||sdkreport.e.qq.com^
 ||sdktmp.hubcloud.com.cn^
 ||sdownload.stargame.com^
 ||search.ixigua.com^
@@ -756,6 +780,7 @@
 ||trace.qq.com^
 ||tracelog-debug.aiclk.com^
 ||tracelog-debug.qquanquan.com^
+||tracelog-debug.yunxish.com^
 ||track.lc.quark.cn^
 ||track.uc.cn^
 ||tracker.ai.xiaomi.com^
@@ -844,6 +869,7 @@
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
 ||xc.gdt.qq.com^
+||xcx.dcad01.com^
 ||xiaomi-dtv.m.cn.miaozhen.com^
 ||xlog.jd.com^
 ||xlviiirdr.com^
@@ -858,6 +884,7 @@
 ||ytx-file.110route.cn^
 ||zeus.ad.xiaomi.com^
 ||zhihu-web-analytics.zhihu.com^
+||zjres-ad.kajicam.com^
 ||zxid-m.mobileservice.cn^
 ||1rtb.com^
 ||a.market.xiaomi.com^
@@ -1214,7 +1241,6 @@
 ||gatecollect.kugou.com^
 ||kgipadstat.kugou.com^
 ||kgipadstatbak.kugou.com^
-||logwebs.kugou.com^
 ||nbcollect.kugou.com^
 ||nbcollectretry.kugou.com^
 ||pcstat.kugou.com^
@@ -1410,7 +1436,6 @@
 ||livep.l.qq.com^
 ||mtrace.qq.com^
 ||prewxacode.wxqcloud.qq.com.cn^
-||sdkreport.e.qq.com^
 ||vr.gdt.qq.com^
 ||ex.qq.com^
 ||finderydy.video.qq.com^
@@ -1752,7 +1777,6 @@
 ||api-zhibo.qtfm.cn^
 ||upload-up.qtfm.cn^
 ||adtrack.uc.cn^
-||applog-perf.uc.cn^
 ||site.uc.cn^
 ||adn.insight.ucweb.com^
 ||sdkupgrade.insight.ucweb.com^
@@ -3667,7 +3691,6 @@
 ||telemetry-sdk-metrics.inmobi.cn^
 ||union.w.inmobi.cn^
 ||adskp.org^
-||ads.cup.com.cn^
 ||bdapi.ads.heytapmobi.com^
 ||adx-cn.ads.vungle.com^
 ||config.ads.vungle.com^
@@ -3711,7 +3734,6 @@
 ||ads.chuanmeixing.com^
 ||ads.bjlxin.cn^
 ||sis.jpush.io^
-||open-set-api.shenshiads.com^
 ||adsdkapi.dxys.pro^
 ||adsdk.9imobi.com^
 ||uploads1.gifshow.com^
@@ -3926,7 +3948,6 @@
 ||view-apple.com^
 ||www.fmiphone-apple.com^
 ||www.view-apple.com^
-||p66-ad.adkwai.com^
 ||openlog.cashcatads.com^
 ||activity.inads.cn^
 ||cdn.inads.cn^
@@ -3962,7 +3983,6 @@
 ||avapp.calvapid.me^
 ||eleven.bayescom.cn^
 ||cloudconf.fengkongcloud.com^
-||adashxgc.ut.taobao.com^
 ||www.qchannel01.cn^
 ||av1.xdrig.com^
 ||acf.huaerdadi.com^
@@ -12382,7 +12402,6 @@
 ||ae.iads.unity3d.com^
 ||o.iads.unity3d.com^
 ||ads.ubestkid.com^
-||ad.xunkids.com^
 ||ads.lejuliang.cn^
 ||vegslb.com^
 ||weilayun.com^
@@ -19431,12 +19450,9 @@
 ||ad.hunyuan.tencent.com^
 ||ad.ikonke.com^
 ||ad.imlianai.com^
-||ad.iot.360.cn^
-||ad.jia.360.cn^
 ||ad.jiukagame.com^
 ||ad.kmrxgs.cn^
 ||ad.lflucky.com^
-||ad.life.360.cn^
 ||ad.lofter.com^
 ||ad.maoyan.com^
 ||ad.mh.163.com^
@@ -19809,7 +19825,6 @@
 ||analytics.hz.netease.com^
 ||analytics.jbravo.co^
 ||analytics.miui.com^
-||analytics.oceanengine.com^
 ||analytics.slashdotmedia.com^
 ||analytics.twitter.com^
 ||analytics.ws.126.net^
@@ -19842,8 +19857,6 @@
 ||apac.miaozhen.com^
 ||apd-vlive.apdcdn.tc.qq.com^
 ||aphone_pv_log.kltb.com.cn^
-||api-ad-data.kajicam.com^
-||api-ad.kajicam.com^
 ||api-ads.tiantianqutao.com^
 ||api-adtrace-asp.yiye.ai^
 ||api-adx.52qumao.com^
@@ -23202,7 +23215,6 @@
 ||iadcontent.apple.com^
 ||iadmat.nosdn.127.net^
 ||iadmoo.apple.com^
-||iadmusicmat.music.126.net^
 ||iam.inmobi.com^
 ||iasia99.com^
 ||ib-lq.snssdk.com^
@@ -24760,7 +24772,6 @@
 ||mobile.yandexadexchange.net^
 ||mobile2.10jqka.com.cn^
 ||mobileanalytics.us-east-1.amazonaws.com^
-||mobilelog.kugou.com^
 ||mobileservice.cn^
 ||mobileso.bz.mgtv.com^
 ||mobpartner.mobi^
@@ -26498,7 +26509,6 @@
 ||safe.res.meizu.com^
 ||safe.ucweb.com^
 ||safebrowsing.g.applimg.com^
-||safebrowsing.googleapis.com^
 ||safebrowsing.urlsec.qq.com^
 ||samsung88.dk.yhcdn88.com^
 ||san.myadssupport.com^
@@ -29554,7 +29564,6 @@
 ||zj77783.com^
 ||zjinfo.cn^
 ||zjjywang.cn^
-||zjres-ad.kajicam.com^
 ||zjrl.zjjywang.com^
 ||zjse.880.net^
 ||zk7pzh.com^

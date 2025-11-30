@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2025-11-30 12:29:00
-# 规则统计: 总计29618条 (IP:1029 DOMAIN:0 SUFFIX:28589 KEYWORD:0)
+# 更新时间(北京时间): 2025-11-30 16:16:13
+# 规则统计: 总计29627条 (IP:1029 DOMAIN:0 SUFFIX:28598 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -4122,6 +4122,7 @@ DOMAIN-SUFFIX,ad.search.ch,REJECT
 DOMAIN-SUFFIX,ad.seeyouyima.com,REJECT
 DOMAIN-SUFFIX,ad.sensismediasmart.com.au,REJECT
 DOMAIN-SUFFIX,ad.services.distractify.com,REJECT
+DOMAIN-SUFFIX,ad.shenshiads.com,REJECT
 DOMAIN-SUFFIX,ad.shunchangzhixing.com,REJECT
 DOMAIN-SUFFIX,ad.shuoshuomi.com,REJECT
 DOMAIN-SUFFIX,ad.sina.com.cn,REJECT
@@ -4938,6 +4939,7 @@ DOMAIN-SUFFIX,adups.com,REJECT
 DOMAIN-SUFFIX,aduu.cn,REJECT
 DOMAIN-SUFFIX,adv-adlog.variflight.com,REJECT
 DOMAIN-SUFFIX,adv-ads.variflight.com,REJECT
+DOMAIN-SUFFIX,adv-api.shenshiads.com,REJECT
 DOMAIN-SUFFIX,adv-font-pt.4366.com,REJECT
 DOMAIN-SUFFIX,adv-sv-show.focus.cn,REJECT
 DOMAIN-SUFFIX,adv-sv-stat.focus.cn,REJECT
@@ -11065,6 +11067,7 @@ DOMAIN-SUFFIX,endpoint.zhuishushenqi.com,REJECT
 DOMAIN-SUFFIX,enduser.adsrvr.org,REJECT
 DOMAIN-SUFFIX,enennsa.gushiwen.cn,REJECT
 DOMAIN-SUFFIX,engine.data.cnzz.com,REJECT
+DOMAIN-SUFFIX,engine.dcad01.com,REJECT
 DOMAIN-SUFFIX,engine.kuailexuexiga.cn,REJECT
 DOMAIN-SUFFIX,engine.kuainiu000.com,REJECT
 DOMAIN-SUFFIX,engine.liandaomobi.com,REJECT
@@ -16659,6 +16662,7 @@ DOMAIN-SUFFIX,log.haiwanwl.com,REJECT
 DOMAIN-SUFFIX,log.he2d.com,REJECT
 DOMAIN-SUFFIX,log.hunantv.com,REJECT
 DOMAIN-SUFFIX,log.iflytek.com,REJECT
+DOMAIN-SUFFIX,log.ireader.com,REJECT
 DOMAIN-SUFFIX,log.isnssdk.com,REJECT
 DOMAIN-SUFFIX,log.jd.com,REJECT
 DOMAIN-SUFFIX,log.kajicam.com,REJECT
@@ -16756,6 +16760,7 @@ DOMAIN-SUFFIX,logoshejishi.com,REJECT
 DOMAIN-SUFFIX,logpym201.luckystar001.top,REJECT
 DOMAIN-SUFFIX,logrcv.aiclk.com,REJECT
 DOMAIN-SUFFIX,logrcv.qquanquan.com,REJECT
+DOMAIN-SUFFIX,logrcv.yunxish.com,REJECT
 DOMAIN-SUFFIX,logs-service.luobo.cn,REJECT
 DOMAIN-SUFFIX,logs.ads.vungle.com,REJECT
 DOMAIN-SUFFIX,logs.amap.com,REJECT
@@ -17292,6 +17297,7 @@ DOMAIN-SUFFIX,m.sanygroup.com,REJECT
 DOMAIN-SUFFIX,m.sbenx.com,REJECT
 DOMAIN-SUFFIX,m.sbinx.com,REJECT
 DOMAIN-SUFFIX,m.sewxi.com,REJECT
+DOMAIN-SUFFIX,m.shenshiads.com,REJECT
 DOMAIN-SUFFIX,m.shenyunkeji.com,REJECT
 DOMAIN-SUFFIX,m.shilian168.cn,REJECT
 DOMAIN-SUFFIX,m.sigmob.com,REJECT
@@ -22273,6 +22279,7 @@ DOMAIN-SUFFIX,safe.ucweb.com,REJECT
 DOMAIN-SUFFIX,safebrowsing.apple,REJECT
 DOMAIN-SUFFIX,safebrowsing.g.applimg.com,REJECT
 DOMAIN-SUFFIX,safebrowsing.googleapis.com,REJECT
+DOMAIN-SUFFIX,safebrowsing.urlsec.gg.com,REJECT
 DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com,REJECT
 DOMAIN-SUFFIX,saferwet.com,REJECT
 DOMAIN-SUFFIX,sahqoo.com,REJECT
@@ -24729,6 +24736,7 @@ DOMAIN-SUFFIX,trace.tctpwebank.com,REJECT
 DOMAIN-SUFFIX,trace.webank.com,REJECT
 DOMAIN-SUFFIX,tracelog-debug.aiclk.com,REJECT
 DOMAIN-SUFFIX,tracelog-debug.qquanquan.com,REJECT
+DOMAIN-SUFFIX,tracelog-debug.yunxish.com,REJECT
 DOMAIN-SUFFIX,track-config.y5kfpt.com,REJECT
 DOMAIN-SUFFIX,track-dsp.adwangmai.com,REJECT
 DOMAIN-SUFFIX,track-east.mobileadtrading.com,REJECT
@@ -27943,6 +27951,7 @@ DOMAIN-SUFFIX,xctianyuan.com,REJECT
 DOMAIN-SUFFIX,xcvwrj.xyz,REJECT
 DOMAIN-SUFFIX,xcwl.tech,REJECT
 DOMAIN-SUFFIX,xcwzq.xyz,REJECT
+DOMAIN-SUFFIX,xcx.dcad01.com,REJECT
 DOMAIN-SUFFIX,xcx.koolearn.com,REJECT
 DOMAIN-SUFFIX,xcy8.com,REJECT
 DOMAIN-SUFFIX,xcyjzs.net,REJECT

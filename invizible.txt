@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-11-30 04:29:01
-# 规则总数: 29622
+# 更新时间: 2025-11-30 08:16:14
+# 规则总数: 29631
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -4103,6 +4103,7 @@ ad.search.ch block
 ad.seeyouyima.com block
 ad.sensismediasmart.com.au block
 ad.services.distractify.com block
+ad.shenshiads.com block
 ad.shunchangzhixing.com block
 ad.shuoshuomi.com block
 ad.sina.com.cn block
@@ -4920,6 +4921,7 @@ adutp.com block
 aduu.cn block
 adv-adlog.variflight.com block
 adv-ads.variflight.com block
+adv-api.shenshiads.com block
 adv-font-pt.4366.com block
 adv-sv-show.focus.cn block
 adv-sv-stat.focus.cn block
@@ -11053,6 +11055,7 @@ endpoint.zhuishushenqi.com block
 enduser.adsrvr.org block
 enennsa.gushiwen.cn block
 engine.data.cnzz.com block
+engine.dcad01.com block
 engine.kuailexuexiga.cn block
 engine.kuainiu000.com block
 engine.liandaomobi.com block
@@ -16651,6 +16654,7 @@ log.haiwanwl.com block
 log.he2d.com block
 log.hunantv.com block
 log.iflytek.com block
+log.ireader.com block
 log.isnssdk.com block
 log.jd.com block
 log.kajicam.com block
@@ -16748,6 +16752,7 @@ logoshejishi.com block
 logpym201.luckystar001.top block
 logrcv.aiclk.com block
 logrcv.qquanquan.com block
+logrcv.yunxish.com block
 logs-service.luobo.cn block
 logs.ads.vungle.com block
 logs.amap.com block
@@ -17284,6 +17289,7 @@ m.sanygroup.com block
 m.sbenx.com block
 m.sbinx.com block
 m.sewxi.com block
+m.shenshiads.com block
 m.shenyunkeji.com block
 m.shilian168.cn block
 m.sigmob.com block
@@ -22273,6 +22279,7 @@ safe.ucweb.com block
 safebrowsing.apple block
 safebrowsing.g.applimg.com block
 safebrowsing.googleapis.com block
+safebrowsing.urlsec.gg.com block
 safebrowsing.urlsec.qq.com block
 saferwet.com block
 sahqoo.com block
@@ -24729,6 +24736,7 @@ trace.tctpwebank.com block
 trace.webank.com block
 tracelog-debug.aiclk.com block
 tracelog-debug.qquanquan.com block
+tracelog-debug.yunxish.com block
 track-config.y5kfpt.com block
 track-dsp.adwangmai.com block
 track-east.mobileadtrading.com block
@@ -27946,6 +27954,7 @@ xctianyuan.com block
 xcvwrj.xyz block
 xcwl.tech block
 xcwzq.xyz block
+xcx.dcad01.com block
 xcx.koolearn.com block
 xcy8.com block
 xcyjzs.net block

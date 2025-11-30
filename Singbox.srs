@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-11-30 04:29:01
-# 规则总数: 29622
+# 更新时间: 2025-11-30 08:16:14
+# 规则总数: 29631
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -4103,6 +4103,7 @@ domain: ad.search.ch, policy: reject
 domain: ad.seeyouyima.com, policy: reject
 domain: ad.sensismediasmart.com.au, policy: reject
 domain: ad.services.distractify.com, policy: reject
+domain: ad.shenshiads.com, policy: reject
 domain: ad.shunchangzhixing.com, policy: reject
 domain: ad.shuoshuomi.com, policy: reject
 domain: ad.sina.com.cn, policy: reject
@@ -4920,6 +4921,7 @@ domain: adutp.com, policy: reject
 domain: aduu.cn, policy: reject
 domain: adv-adlog.variflight.com, policy: reject
 domain: adv-ads.variflight.com, policy: reject
+domain: adv-api.shenshiads.com, policy: reject
 domain: adv-font-pt.4366.com, policy: reject
 domain: adv-sv-show.focus.cn, policy: reject
 domain: adv-sv-stat.focus.cn, policy: reject
@@ -11053,6 +11055,7 @@ domain: endpoint.zhuishushenqi.com, policy: reject
 domain: enduser.adsrvr.org, policy: reject
 domain: enennsa.gushiwen.cn, policy: reject
 domain: engine.data.cnzz.com, policy: reject
+domain: engine.dcad01.com, policy: reject
 domain: engine.kuailexuexiga.cn, policy: reject
 domain: engine.kuainiu000.com, policy: reject
 domain: engine.liandaomobi.com, policy: reject
@@ -16651,6 +16654,7 @@ domain: log.haiwanwl.com, policy: reject
 domain: log.he2d.com, policy: reject
 domain: log.hunantv.com, policy: reject
 domain: log.iflytek.com, policy: reject
+domain: log.ireader.com, policy: reject
 domain: log.isnssdk.com, policy: reject
 domain: log.jd.com, policy: reject
 domain: log.kajicam.com, policy: reject
@@ -16748,6 +16752,7 @@ domain: logoshejishi.com, policy: reject
 domain: logpym201.luckystar001.top, policy: reject
 domain: logrcv.aiclk.com, policy: reject
 domain: logrcv.qquanquan.com, policy: reject
+domain: logrcv.yunxish.com, policy: reject
 domain: logs-service.luobo.cn, policy: reject
 domain: logs.ads.vungle.com, policy: reject
 domain: logs.amap.com, policy: reject
@@ -17284,6 +17289,7 @@ domain: m.sanygroup.com, policy: reject
 domain: m.sbenx.com, policy: reject
 domain: m.sbinx.com, policy: reject
 domain: m.sewxi.com, policy: reject
+domain: m.shenshiads.com, policy: reject
 domain: m.shenyunkeji.com, policy: reject
 domain: m.shilian168.cn, policy: reject
 domain: m.sigmob.com, policy: reject
@@ -22273,6 +22279,7 @@ domain: safe.ucweb.com, policy: reject
 domain: safebrowsing.apple, policy: reject
 domain: safebrowsing.g.applimg.com, policy: reject
 domain: safebrowsing.googleapis.com, policy: reject
+domain: safebrowsing.urlsec.gg.com, policy: reject
 domain: safebrowsing.urlsec.qq.com, policy: reject
 domain: saferwet.com, policy: reject
 domain: sahqoo.com, policy: reject
@@ -24729,6 +24736,7 @@ domain: trace.tctpwebank.com, policy: reject
 domain: trace.webank.com, policy: reject
 domain: tracelog-debug.aiclk.com, policy: reject
 domain: tracelog-debug.qquanquan.com, policy: reject
+domain: tracelog-debug.yunxish.com, policy: reject
 domain: track-config.y5kfpt.com, policy: reject
 domain: track-dsp.adwangmai.com, policy: reject
 domain: track-east.mobileadtrading.com, policy: reject
@@ -27946,6 +27954,7 @@ domain: xctianyuan.com, policy: reject
 domain: xcvwrj.xyz, policy: reject
 domain: xcwl.tech, policy: reject
 domain: xcwzq.xyz, policy: reject
+domain: xcx.dcad01.com, policy: reject
 domain: xcx.koolearn.com, policy: reject
 domain: xcy8.com, policy: reject
 domain: xcyjzs.net, policy: reject

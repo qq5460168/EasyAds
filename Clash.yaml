@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-11-30 04:29:01
-# 规则总数: 29622
+# 更新时间: 2025-11-30 08:16:14
+# 规则总数: 29631
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -4104,6 +4104,7 @@ payload:
   - 'ad.seeyouyima.com'
   - 'ad.sensismediasmart.com.au'
   - 'ad.services.distractify.com'
+  - 'ad.shenshiads.com'
   - 'ad.shunchangzhixing.com'
   - 'ad.shuoshuomi.com'
   - 'ad.sina.com.cn'
@@ -4921,6 +4922,7 @@ payload:
   - 'aduu.cn'
   - 'adv-adlog.variflight.com'
   - 'adv-ads.variflight.com'
+  - 'adv-api.shenshiads.com'
   - 'adv-font-pt.4366.com'
   - 'adv-sv-show.focus.cn'
   - 'adv-sv-stat.focus.cn'
@@ -11054,6 +11056,7 @@ payload:
   - 'enduser.adsrvr.org'
   - 'enennsa.gushiwen.cn'
   - 'engine.data.cnzz.com'
+  - 'engine.dcad01.com'
   - 'engine.kuailexuexiga.cn'
   - 'engine.kuainiu000.com'
   - 'engine.liandaomobi.com'
@@ -16652,6 +16655,7 @@ payload:
   - 'log.he2d.com'
   - 'log.hunantv.com'
   - 'log.iflytek.com'
+  - 'log.ireader.com'
   - 'log.isnssdk.com'
   - 'log.jd.com'
   - 'log.kajicam.com'
@@ -16749,6 +16753,7 @@ payload:
   - 'logpym201.luckystar001.top'
   - 'logrcv.aiclk.com'
   - 'logrcv.qquanquan.com'
+  - 'logrcv.yunxish.com'
   - 'logs-service.luobo.cn'
   - 'logs.ads.vungle.com'
   - 'logs.amap.com'
@@ -17285,6 +17290,7 @@ payload:
   - 'm.sbenx.com'
   - 'm.sbinx.com'
   - 'm.sewxi.com'
+  - 'm.shenshiads.com'
   - 'm.shenyunkeji.com'
   - 'm.shilian168.cn'
   - 'm.sigmob.com'
@@ -22274,6 +22280,7 @@ payload:
   - 'safebrowsing.apple'
   - 'safebrowsing.g.applimg.com'
   - 'safebrowsing.googleapis.com'
+  - 'safebrowsing.urlsec.gg.com'
   - 'safebrowsing.urlsec.qq.com'
   - 'saferwet.com'
   - 'sahqoo.com'
@@ -24730,6 +24737,7 @@ payload:
   - 'trace.webank.com'
   - 'tracelog-debug.aiclk.com'
   - 'tracelog-debug.qquanquan.com'
+  - 'tracelog-debug.yunxish.com'
   - 'track-config.y5kfpt.com'
   - 'track-dsp.adwangmai.com'
   - 'track-east.mobileadtrading.com'
@@ -27947,6 +27955,7 @@ payload:
   - 'xcvwrj.xyz'
   - 'xcwl.tech'
   - 'xcwzq.xyz'
+  - 'xcx.dcad01.com'
   - 'xcx.koolearn.com'
   - 'xcy8.com'
   - 'xcyjzs.net'

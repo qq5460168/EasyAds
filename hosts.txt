@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-11-30 04:29:01
-# 规则总数: 29622
+# 更新时间: 2025-11-30 08:16:14
+# 规则总数: 29631
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -4103,6 +4103,7 @@
 0.0.0.0 ad.seeyouyima.com
 0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 ad.services.distractify.com
+0.0.0.0 ad.shenshiads.com
 0.0.0.0 ad.shunchangzhixing.com
 0.0.0.0 ad.shuoshuomi.com
 0.0.0.0 ad.sina.com.cn
@@ -4920,6 +4921,7 @@
 0.0.0.0 aduu.cn
 0.0.0.0 adv-adlog.variflight.com
 0.0.0.0 adv-ads.variflight.com
+0.0.0.0 adv-api.shenshiads.com
 0.0.0.0 adv-font-pt.4366.com
 0.0.0.0 adv-sv-show.focus.cn
 0.0.0.0 adv-sv-stat.focus.cn
@@ -11053,6 +11055,7 @@
 0.0.0.0 enduser.adsrvr.org
 0.0.0.0 enennsa.gushiwen.cn
 0.0.0.0 engine.data.cnzz.com
+0.0.0.0 engine.dcad01.com
 0.0.0.0 engine.kuailexuexiga.cn
 0.0.0.0 engine.kuainiu000.com
 0.0.0.0 engine.liandaomobi.com
@@ -16651,6 +16654,7 @@
 0.0.0.0 log.he2d.com
 0.0.0.0 log.hunantv.com
 0.0.0.0 log.iflytek.com
+0.0.0.0 log.ireader.com
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.jd.com
 0.0.0.0 log.kajicam.com
@@ -16748,6 +16752,7 @@
 0.0.0.0 logpym201.luckystar001.top
 0.0.0.0 logrcv.aiclk.com
 0.0.0.0 logrcv.qquanquan.com
+0.0.0.0 logrcv.yunxish.com
 0.0.0.0 logs-service.luobo.cn
 0.0.0.0 logs.ads.vungle.com
 0.0.0.0 logs.amap.com
@@ -17284,6 +17289,7 @@
 0.0.0.0 m.sbenx.com
 0.0.0.0 m.sbinx.com
 0.0.0.0 m.sewxi.com
+0.0.0.0 m.shenshiads.com
 0.0.0.0 m.shenyunkeji.com
 0.0.0.0 m.shilian168.cn
 0.0.0.0 m.sigmob.com
@@ -22273,6 +22279,7 @@
 0.0.0.0 safebrowsing.apple
 0.0.0.0 safebrowsing.g.applimg.com
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 safebrowsing.urlsec.gg.com
 0.0.0.0 safebrowsing.urlsec.qq.com
 0.0.0.0 saferwet.com
 0.0.0.0 sahqoo.com
@@ -24729,6 +24736,7 @@
 0.0.0.0 trace.webank.com
 0.0.0.0 tracelog-debug.aiclk.com
 0.0.0.0 tracelog-debug.qquanquan.com
+0.0.0.0 tracelog-debug.yunxish.com
 0.0.0.0 track-config.y5kfpt.com
 0.0.0.0 track-dsp.adwangmai.com
 0.0.0.0 track-east.mobileadtrading.com
@@ -27946,6 +27954,7 @@
 0.0.0.0 xcvwrj.xyz
 0.0.0.0 xcwl.tech
 0.0.0.0 xcwzq.xyz
+0.0.0.0 xcx.dcad01.com
 0.0.0.0 xcx.koolearn.com
 0.0.0.0 xcy8.com
 0.0.0.0 xcyjzs.net
