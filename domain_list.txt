@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-12-01 08:21:16（北京时间）
-# 共 29615 个域名
+# 生成时间: 2025-12-01 12:28:34（北京时间）
+# 共 29617 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -11269,6 +11269,7 @@ exporteducationprogram.googlecnapps.cn
 exquisite.shouji.360.cn
 ext-adv.kaixinyf.cn
 ext.1360.com
+ext.baidu.com
 ext.immomo.com
 ext.mediav.com
 ext.theglobalweb.com
@@ -13115,6 +13116,7 @@ heartapi.douyucdn.cn
 heavenmedia.v3g4s.com
 hebstsmgs.com
 hechaocheng.cn
+hectorstatic.baidu.com
 heefwozhlxgz.com
 hefan365.com
 hefei64.com

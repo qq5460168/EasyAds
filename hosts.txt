@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-12-01 08:21:18
-# 规则总数: 29631
+# 更新时间: 2025-12-01 12:28:36
+# 规则总数: 29633
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -11271,6 +11271,7 @@
 0.0.0.0 exquisite.shouji.360.cn
 0.0.0.0 ext-adv.kaixinyf.cn
 0.0.0.0 ext.1360.com
+0.0.0.0 ext.baidu.com
 0.0.0.0 ext.immomo.com
 0.0.0.0 ext.mediav.com
 0.0.0.0 ext.theglobalweb.com
@@ -13118,6 +13119,7 @@
 0.0.0.0 heavenmedia.v3g4s.com
 0.0.0.0 hebstsmgs.com
 0.0.0.0 hechaocheng.cn
+0.0.0.0 hectorstatic.baidu.com
 0.0.0.0 heefwozhlxgz.com
 0.0.0.0 hefan365.com
 0.0.0.0 hefei64.com

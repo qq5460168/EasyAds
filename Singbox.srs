@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-12-01 08:21:18
-# 规则总数: 29631
+# 更新时间: 2025-12-01 12:28:36
+# 规则总数: 29633
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -11271,6 +11271,7 @@ domain: exporteducationprogram.googlecnapps.cn, policy: reject
 domain: exquisite.shouji.360.cn, policy: reject
 domain: ext-adv.kaixinyf.cn, policy: reject
 domain: ext.1360.com, policy: reject
+domain: ext.baidu.com, policy: reject
 domain: ext.immomo.com, policy: reject
 domain: ext.mediav.com, policy: reject
 domain: ext.theglobalweb.com, policy: reject
@@ -13118,6 +13119,7 @@ domain: heartapi.douyucdn.cn, policy: reject
 domain: heavenmedia.v3g4s.com, policy: reject
 domain: hebstsmgs.com, policy: reject
 domain: hechaocheng.cn, policy: reject
+domain: hectorstatic.baidu.com, policy: reject
 domain: heefwozhlxgz.com, policy: reject
 domain: hefan365.com, policy: reject
 domain: hefei64.com, policy: reject

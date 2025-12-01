@@ -29642,6 +29642,8 @@
 ||zzg7.yide.com^
 ||zzjq.720lu.com^
 ||zzzu.ag8.com^
+||hectorstatic.baidu.com^
+||ext.baidu.com^
 ||ugox.cn^
 ||aorlpi.cn^
 ||tagtd.cn^

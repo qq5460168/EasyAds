@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-12-01 08:21:18
-# 规则总数: 29631
+# 更新时间: 2025-12-01 12:28:36
+# 规则总数: 29633
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -11272,6 +11272,7 @@ payload:
   - 'exquisite.shouji.360.cn'
   - 'ext-adv.kaixinyf.cn'
   - 'ext.1360.com'
+  - 'ext.baidu.com'
   - 'ext.immomo.com'
   - 'ext.mediav.com'
   - 'ext.theglobalweb.com'
@@ -13119,6 +13120,7 @@ payload:
   - 'heavenmedia.v3g4s.com'
   - 'hebstsmgs.com'
   - 'hechaocheng.cn'
+  - 'hectorstatic.baidu.com'
   - 'heefwozhlxgz.com'
   - 'hefan365.com'
   - 'hefei64.com'

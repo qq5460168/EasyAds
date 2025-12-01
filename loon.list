@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2025-12-01 16:21:16
-# 规则统计: 总计29627条 (IP:1029 DOMAIN:0 SUFFIX:28598 KEYWORD:0)
+# 更新时间(北京时间): 2025-12-01 20:28:34
+# 规则统计: 总计29629条 (IP:1029 DOMAIN:0 SUFFIX:28600 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -11283,6 +11283,7 @@ DOMAIN-SUFFIX,exporteducationprogram.googlecnapps.cn,REJECT
 DOMAIN-SUFFIX,exquisite.shouji.360.cn,REJECT
 DOMAIN-SUFFIX,ext-adv.kaixinyf.cn,REJECT
 DOMAIN-SUFFIX,ext.1360.com,REJECT
+DOMAIN-SUFFIX,ext.baidu.com,REJECT
 DOMAIN-SUFFIX,ext.immomo.com,REJECT
 DOMAIN-SUFFIX,ext.mediav.com,REJECT
 DOMAIN-SUFFIX,ext.theglobalweb.com,REJECT
@@ -13129,6 +13130,7 @@ DOMAIN-SUFFIX,heartapi.douyucdn.cn,REJECT
 DOMAIN-SUFFIX,heavenmedia.v3g4s.com,REJECT
 DOMAIN-SUFFIX,hebstsmgs.com,REJECT
 DOMAIN-SUFFIX,hechaocheng.cn,REJECT
+DOMAIN-SUFFIX,hectorstatic.baidu.com,REJECT
 DOMAIN-SUFFIX,heefwozhlxgz.com,REJECT
 DOMAIN-SUFFIX,hefan365.com,REJECT
 DOMAIN-SUFFIX,hefei64.com,REJECT

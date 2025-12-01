@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-12-01 08:21:18
-# 规则总数: 29631
+# 更新时间: 2025-12-01 12:28:36
+# 规则总数: 29633
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -11271,6 +11271,7 @@ domain, exporteducationprogram.googlecnapps.cn
 domain, exquisite.shouji.360.cn
 domain, ext-adv.kaixinyf.cn
 domain, ext.1360.com
+domain, ext.baidu.com
 domain, ext.immomo.com
 domain, ext.mediav.com
 domain, ext.theglobalweb.com
@@ -13118,6 +13119,7 @@ domain, heartapi.douyucdn.cn
 domain, heavenmedia.v3g4s.com
 domain, hebstsmgs.com
 domain, hechaocheng.cn
+domain, hectorstatic.baidu.com
 domain, heefwozhlxgz.com
 domain, hefan365.com
 domain, hefei64.com

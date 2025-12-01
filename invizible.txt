@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-12-01 08:21:18
-# 规则总数: 29631
+# 更新时间: 2025-12-01 12:28:36
+# 规则总数: 29633
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -11271,6 +11271,7 @@ exporteducationprogram.googlecnapps.cn block
 exquisite.shouji.360.cn block
 ext-adv.kaixinyf.cn block
 ext.1360.com block
+ext.baidu.com block
 ext.immomo.com block
 ext.mediav.com block
 ext.theglobalweb.com block
@@ -13118,6 +13119,7 @@ heartapi.douyucdn.cn block
 heavenmedia.v3g4s.com block
 hebstsmgs.com block
 hechaocheng.cn block
+hectorstatic.baidu.com block
 heefwozhlxgz.com block
 hefan365.com block
 hefei64.com block
