@@ -29650,3 +29650,6 @@
 ||hwwzqi.cn^
 ||blzgeuuz.icu^
 ||iefmvk.cn^
+||expendablekmr.kugou.com^
+||expendablekmrcdn.kugou.com^
+||kmrcdn.service.kugou.com^

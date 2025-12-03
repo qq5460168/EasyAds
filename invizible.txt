@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-12-03 12:28:14
-# 规则总数: 29633
+# 更新时间: 2025-12-03 16:19:50
+# 规则总数: 29636
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -11264,6 +11264,8 @@ exp.17wo.cn block
 exp.360in.com block
 exp.3g.ifeng.com block
 exp.qumi.com block
+expendablekmr.kugou.com block
+expendablekmrcdn.kugou.com block
 expendablekmrcdnretry.kugou.com block
 expo123.net block
 export.bjadmix.com block
@@ -15812,6 +15814,7 @@ kmpxq.cn block
 kmr.enrosr.cn block
 kmr.mjnbrt.xyz block
 kmr.service.kugou.com block
+kmrcdn.service.kugou.com block
 kmrcdnretry.service.kugou.com block
 kmt.zhwpg.cn block
 kmwatsonc.events.data.microsoft.com block

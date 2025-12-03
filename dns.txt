@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-12-03 12:28:12.469237
+# Generated on 2025-12-03 16:19:48.882615
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -29653,3 +29653,6 @@
 ||hwwzqi.cn^
 ||blzgeuuz.icu^
 ||iefmvk.cn^
+||expendablekmr.kugou.com^
+||expendablekmrcdn.kugou.com^
+||kmrcdn.service.kugou.com^

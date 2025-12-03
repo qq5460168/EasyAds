@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-12-03 12:28:14
-# 规则总数: 29633
+# 更新时间: 2025-12-03 16:19:50
+# 规则总数: 29636
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -11264,6 +11264,8 @@ domain: exp.17wo.cn, policy: reject
 domain: exp.360in.com, policy: reject
 domain: exp.3g.ifeng.com, policy: reject
 domain: exp.qumi.com, policy: reject
+domain: expendablekmr.kugou.com, policy: reject
+domain: expendablekmrcdn.kugou.com, policy: reject
 domain: expendablekmrcdnretry.kugou.com, policy: reject
 domain: expo123.net, policy: reject
 domain: export.bjadmix.com, policy: reject
@@ -15812,6 +15814,7 @@ domain: kmpxq.cn, policy: reject
 domain: kmr.enrosr.cn, policy: reject
 domain: kmr.mjnbrt.xyz, policy: reject
 domain: kmr.service.kugou.com, policy: reject
+domain: kmrcdn.service.kugou.com, policy: reject
 domain: kmrcdnretry.service.kugou.com, policy: reject
 domain: kmt.zhwpg.cn, policy: reject
 domain: kmwatsonc.events.data.microsoft.com, policy: reject

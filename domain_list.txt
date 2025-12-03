@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-12-03 12:28:12（北京时间）
-# 共 29617 个域名
+# 生成时间: 2025-12-03 16:19:49（北京时间）
+# 共 29620 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -11262,6 +11262,8 @@ exp.17wo.cn
 exp.360in.com
 exp.3g.ifeng.com
 exp.qumi.com
+expendablekmr.kugou.com
+expendablekmrcdn.kugou.com
 expendablekmrcdnretry.kugou.com
 expo123.net
 export.bjadmix.com
@@ -15809,6 +15811,7 @@ kmpxq.cn
 kmr.enrosr.cn
 kmr.mjnbrt.xyz
 kmr.service.kugou.com
+kmrcdn.service.kugou.com
 kmrcdnretry.service.kugou.com
 kmt.zhwpg.cn
 kmwatsonc.events.data.microsoft.com

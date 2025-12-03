@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-12-03 12:28:14
-# 规则总数: 29633
+# 更新时间: 2025-12-03 16:19:50
+# 规则总数: 29636
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -11264,6 +11264,8 @@
 0.0.0.0 exp.360in.com
 0.0.0.0 exp.3g.ifeng.com
 0.0.0.0 exp.qumi.com
+0.0.0.0 expendablekmr.kugou.com
+0.0.0.0 expendablekmrcdn.kugou.com
 0.0.0.0 expendablekmrcdnretry.kugou.com
 0.0.0.0 expo123.net
 0.0.0.0 export.bjadmix.com
@@ -15812,6 +15814,7 @@
 0.0.0.0 kmr.enrosr.cn
 0.0.0.0 kmr.mjnbrt.xyz
 0.0.0.0 kmr.service.kugou.com
+0.0.0.0 kmrcdn.service.kugou.com
 0.0.0.0 kmrcdnretry.service.kugou.com
 0.0.0.0 kmt.zhwpg.cn
 0.0.0.0 kmwatsonc.events.data.microsoft.com

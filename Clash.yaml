@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-12-03 12:28:14
-# 规则总数: 29633
+# 更新时间: 2025-12-03 16:19:50
+# 规则总数: 29636
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -11265,6 +11265,8 @@ payload:
   - 'exp.360in.com'
   - 'exp.3g.ifeng.com'
   - 'exp.qumi.com'
+  - 'expendablekmr.kugou.com'
+  - 'expendablekmrcdn.kugou.com'
   - 'expendablekmrcdnretry.kugou.com'
   - 'expo123.net'
   - 'export.bjadmix.com'
@@ -15813,6 +15815,7 @@ payload:
   - 'kmr.enrosr.cn'
   - 'kmr.mjnbrt.xyz'
   - 'kmr.service.kugou.com'
+  - 'kmrcdn.service.kugou.com'
   - 'kmrcdnretry.service.kugou.com'
   - 'kmt.zhwpg.cn'
   - 'kmwatsonc.events.data.microsoft.com'

@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2025-12-03 20:28:12
-# 规则统计: 总计29629条 (IP:1029 DOMAIN:0 SUFFIX:28600 KEYWORD:0)
+# 更新时间(北京时间): 2025-12-04 00:19:49
+# 规则统计: 总计29632条 (IP:1029 DOMAIN:0 SUFFIX:28603 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -11276,6 +11276,8 @@ DOMAIN-SUFFIX,exp.17wo.cn,REJECT
 DOMAIN-SUFFIX,exp.360in.com,REJECT
 DOMAIN-SUFFIX,exp.3g.ifeng.com,REJECT
 DOMAIN-SUFFIX,exp.qumi.com,REJECT
+DOMAIN-SUFFIX,expendablekmr.kugou.com,REJECT
+DOMAIN-SUFFIX,expendablekmrcdn.kugou.com,REJECT
 DOMAIN-SUFFIX,expendablekmrcdnretry.kugou.com,REJECT
 DOMAIN-SUFFIX,expo123.net,REJECT
 DOMAIN-SUFFIX,export.bjadmix.com,REJECT
@@ -15820,6 +15822,7 @@ DOMAIN-SUFFIX,kmpxq.cn,REJECT
 DOMAIN-SUFFIX,kmr.enrosr.cn,REJECT
 DOMAIN-SUFFIX,kmr.mjnbrt.xyz,REJECT
 DOMAIN-SUFFIX,kmr.service.kugou.com,REJECT
+DOMAIN-SUFFIX,kmrcdn.service.kugou.com,REJECT
 DOMAIN-SUFFIX,kmrcdnretry.service.kugou.com,REJECT
 DOMAIN-SUFFIX,kmt.zhwpg.cn,REJECT
 DOMAIN-SUFFIX,kmwatsonc.events.data.microsoft.com,REJECT

@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-12-03 12:28:14
-# 规则总数: 29633
+# 更新时间: 2025-12-03 16:19:50
+# 规则总数: 29636
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -11264,6 +11264,8 @@ domain, exp.17wo.cn
 domain, exp.360in.com
 domain, exp.3g.ifeng.com
 domain, exp.qumi.com
+domain, expendablekmr.kugou.com
+domain, expendablekmrcdn.kugou.com
 domain, expendablekmrcdnretry.kugou.com
 domain, expo123.net
 domain, export.bjadmix.com
@@ -15812,6 +15814,7 @@ domain, kmpxq.cn
 domain, kmr.enrosr.cn
 domain, kmr.mjnbrt.xyz
 domain, kmr.service.kugou.com
+domain, kmrcdn.service.kugou.com
 domain, kmrcdnretry.service.kugou.com
 domain, kmt.zhwpg.cn
 domain, kmwatsonc.events.data.microsoft.com
