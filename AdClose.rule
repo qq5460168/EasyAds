@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-12-04 12:29:13
-# 规则总数: 29636
+# 更新时间: 2025-12-04 16:19:30
+# 规则总数: 29638
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -20613,6 +20613,7 @@ domain, pslog.umeng.com
 domain, psma02.com
 domain, pss.alicdn.com
 domain, pss.bdstatic.com
+domain, pstun.kugou.com
 domain, pstvvb.xyz
 domain, pt-my-api-ads0345-sdfk.siu5.com
 domain, pt.clickdata.37wan.com
@@ -23777,6 +23778,7 @@ domain, stun.fpapi.io
 domain, stun.hitv.com
 domain, stun.ideasip.com
 domain, stun.ionewu.com
+domain, stun.kugou.com
 domain, stun.l.google.com
 domain, stun.rapidnet.de
 domain, stun.services.mozilla1.com

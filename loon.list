@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2025-12-04 20:29:12
-# 规则统计: 总计29632条 (IP:1029 DOMAIN:0 SUFFIX:28603 KEYWORD:0)
+# 更新时间(北京时间): 2025-12-05 00:19:28
+# 规则统计: 总计29634条 (IP:1029 DOMAIN:0 SUFFIX:28605 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -20616,6 +20616,7 @@ DOMAIN-SUFFIX,pslog.umeng.com,REJECT
 DOMAIN-SUFFIX,psma02.com,REJECT
 DOMAIN-SUFFIX,pss.alicdn.com,REJECT
 DOMAIN-SUFFIX,pss.bdstatic.com,REJECT
+DOMAIN-SUFFIX,pstun.kugou.com,REJECT
 DOMAIN-SUFFIX,pstvvb.xyz,REJECT
 DOMAIN-SUFFIX,pt-my-api-ads0345-sdfk.siu5.com,REJECT
 DOMAIN-SUFFIX,pt.clickdata.37wan.com,REJECT
@@ -23777,6 +23778,7 @@ DOMAIN-SUFFIX,stun.fpapi.io,REJECT
 DOMAIN-SUFFIX,stun.hitv.com,REJECT
 DOMAIN-SUFFIX,stun.ideasip.com,REJECT
 DOMAIN-SUFFIX,stun.ionewu.com,REJECT
+DOMAIN-SUFFIX,stun.kugou.com,REJECT
 DOMAIN-SUFFIX,stun.l.google.com,REJECT
 DOMAIN-SUFFIX,stun.rapidnet.de,REJECT
 DOMAIN-SUFFIX,stun.services.mozilla1.com,REJECT

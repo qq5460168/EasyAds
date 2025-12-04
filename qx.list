@@ -29566,3 +29566,5 @@ DOMAIN,iefmvk.cn,reject
 DOMAIN,expendablekmr.kugou.com,reject
 DOMAIN,expendablekmrcdn.kugou.com,reject
 DOMAIN,kmrcdn.service.kugou.com,reject
+DOMAIN,stun.kugou.com,reject
+DOMAIN,pstun.kugou.com,reject

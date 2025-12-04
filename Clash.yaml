@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-12-04 12:29:13
-# 规则总数: 29636
+# 更新时间: 2025-12-04 16:19:30
+# 规则总数: 29638
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -20614,6 +20614,7 @@ payload:
   - 'psma02.com'
   - 'pss.alicdn.com'
   - 'pss.bdstatic.com'
+  - 'pstun.kugou.com'
   - 'pstvvb.xyz'
   - 'pt-my-api-ads0345-sdfk.siu5.com'
   - 'pt.clickdata.37wan.com'
@@ -23778,6 +23779,7 @@ payload:
   - 'stun.hitv.com'
   - 'stun.ideasip.com'
   - 'stun.ionewu.com'
+  - 'stun.kugou.com'
   - 'stun.l.google.com'
   - 'stun.rapidnet.de'
   - 'stun.services.mozilla1.com'

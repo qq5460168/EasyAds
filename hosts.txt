@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-12-04 12:29:13
-# 规则总数: 29636
+# 更新时间: 2025-12-04 16:19:30
+# 规则总数: 29638
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -20613,6 +20613,7 @@
 0.0.0.0 psma02.com
 0.0.0.0 pss.alicdn.com
 0.0.0.0 pss.bdstatic.com
+0.0.0.0 pstun.kugou.com
 0.0.0.0 pstvvb.xyz
 0.0.0.0 pt-my-api-ads0345-sdfk.siu5.com
 0.0.0.0 pt.clickdata.37wan.com
@@ -23777,6 +23778,7 @@
 0.0.0.0 stun.hitv.com
 0.0.0.0 stun.ideasip.com
 0.0.0.0 stun.ionewu.com
+0.0.0.0 stun.kugou.com
 0.0.0.0 stun.l.google.com
 0.0.0.0 stun.rapidnet.de
 0.0.0.0 stun.services.mozilla1.com

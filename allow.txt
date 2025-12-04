@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-12-04 20:29:14
+! 规则更新时间: 2025-12-05 00:19:30
 ! 有效规则数量: 2779 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
-@@||video.da.mgtv.com^$important
-@@||m2.da.mgtv.com^$important
-@@||gamezop.com^$important
+@@||video.da.mgtv.com^
+@@||m2.da.mgtv.com^
+@@||gamezop.com^
 @@||woocall.sina.com.cn^
 @@||static.deepseek.com^
 @@||cdn.deepseek.com^
@@ -386,7 +386,7 @@
 @@||audiopay.pcdn.xmcdn.com^
 @@||aod.cos.tx.xmcdn.com^
 @@||fdfs.xmcdn.com^
-@@||award.xmcdn.com^$important
+@@||award.xmcdn.com^
 @@||www.bmcx.com^
 @@||dianfeijisuanqi.bmcx.com^
 @@||wannianrili.bmcx.com^
@@ -526,7 +526,7 @@
 @@||emoji.qpic.cn^
 @@||wx.qlogo.cn^
 @@||dldir1.qq.com^
-@@||channels.weixin.qq.com^$important
+@@||channels.weixin.qq.com^
 @@||kf-ui.cdn-go.cn^
 @@||shminorshort.weixin.qq.com^
 @@||support.weixin.qq.com^
@@ -548,7 +548,7 @@
 @@||py.qlogo.cn^
 @@||py2.qlogo.cn^
 @@||p.qlogo.cn^
-@@||vpic.cms.qq.com^$important
+@@||vpic.cms.qq.com^
 @@||qzs.qq.com^
 @@||v6.pic.upqzfile.com^
 @@||qm.qq.com^
@@ -563,7 +563,7 @@
 @@||sharechain.qq.com^
 @@||downv6.qq.com^
 @@||qzone-web-v2.cdn-go.cn^
-@@||soft.imtt.qq.com^$important
+@@||soft.imtt.qq.com^
 @@||tcdn.qq.com^
 @@||info.zb.qq.com^
 @@||npm.cdn-go.cn^

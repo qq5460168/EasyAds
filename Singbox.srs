@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-12-04 12:29:13
-# 规则总数: 29636
+# 更新时间: 2025-12-04 16:19:30
+# 规则总数: 29638
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -20613,6 +20613,7 @@ domain: pslog.umeng.com, policy: reject
 domain: psma02.com, policy: reject
 domain: pss.alicdn.com, policy: reject
 domain: pss.bdstatic.com, policy: reject
+domain: pstun.kugou.com, policy: reject
 domain: pstvvb.xyz, policy: reject
 domain: pt-my-api-ads0345-sdfk.siu5.com, policy: reject
 domain: pt.clickdata.37wan.com, policy: reject
@@ -23777,6 +23778,7 @@ domain: stun.fpapi.io, policy: reject
 domain: stun.hitv.com, policy: reject
 domain: stun.ideasip.com, policy: reject
 domain: stun.ionewu.com, policy: reject
+domain: stun.kugou.com, policy: reject
 domain: stun.l.google.com, policy: reject
 domain: stun.rapidnet.de, policy: reject
 domain: stun.services.mozilla1.com, policy: reject

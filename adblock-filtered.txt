@@ -29653,3 +29653,5 @@
 ||expendablekmr.kugou.com^
 ||expendablekmrcdn.kugou.com^
 ||kmrcdn.service.kugou.com^
+||stun.kugou.com^
+||pstun.kugou.com^

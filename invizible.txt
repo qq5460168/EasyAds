@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-12-04 12:29:13
-# 规则总数: 29636
+# 更新时间: 2025-12-04 16:19:30
+# 规则总数: 29638
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -20613,6 +20613,7 @@ pslog.umeng.com block
 psma02.com block
 pss.alicdn.com block
 pss.bdstatic.com block
+pstun.kugou.com block
 pstvvb.xyz block
 pt-my-api-ads0345-sdfk.siu5.com block
 pt.clickdata.37wan.com block
@@ -23777,6 +23778,7 @@ stun.fpapi.io block
 stun.hitv.com block
 stun.ideasip.com block
 stun.ionewu.com block
+stun.kugou.com block
 stun.l.google.com block
 stun.rapidnet.de block
 stun.services.mozilla1.com block
