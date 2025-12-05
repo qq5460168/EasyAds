@@ -350,7 +350,6 @@ DOMAIN,file.daihuo.qq.com,reject
 DOMAIN,firebaselogging-pa.googleapis.com,reject
 DOMAIN,flurry.com,reject
 DOMAIN,frontend-perf-service.e.kuaishou.com,reject
-DOMAIN,fundingchoicesmessages.google.com,reject
 DOMAIN,fxgate.baidu.com,reject
 DOMAIN,g-adnet.hiaiabc.com,reject
 DOMAIN,g-staic.ganjingworld.com,reject
@@ -13746,6 +13745,7 @@ DOMAIN,fujincenter.com,reject
 DOMAIN,fuliwang.cc,reject
 DOMAIN,fumanhua88.info,reject
 DOMAIN,fumiad.dxys.pro,reject
+DOMAIN,fundingchoicesmessages.google.com,reject
 DOMAIN,fuvbbjl.xyz,reject
 DOMAIN,fvffd678.xyz,reject
 DOMAIN,fvxlhn.xyz,reject

@@ -354,7 +354,6 @@
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
 ||frontend-perf-service.e.kuaishou.com^
-||fundingchoicesmessages.google.com^
 ||fxgate.baidu.com^
 ||g-adnet.hiaiabc.com^
 ||g-staic.ganjingworld.com^
@@ -13787,6 +13786,7 @@
 ||fuliwang.cc^
 ||fumanhua88.info^
 ||fumiad.dxys.pro^
+||fundingchoicesmessages.google.com^
 ||fuvbbjl.xyz^
 ||fvffd678.xyz^
 ||fvxlhn.xyz^
