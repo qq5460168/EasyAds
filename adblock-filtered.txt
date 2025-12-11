@@ -365,7 +365,6 @@
 ||gemini.yahoo.com^
 ||geo.yahoo.com^
 ||getui.cn^
-||getui.com^
 ||ggx.cmvideo.cn^
 ||ggx01.miguvideo.com^
 ||ggx03.miguvideo.com^
@@ -3821,6 +3820,7 @@
 ||p2cdn.com^
 ||wslog.chinanetcenter.com^
 ||tjqonline.cn^
+||getui.com^
 ||gepush.com^
 ||jpush-ipv6.cn^
 ||adiu.amap.com^

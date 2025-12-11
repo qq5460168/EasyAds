@@ -361,7 +361,6 @@ DOMAIN,gdfp.gifshow.com,reject
 DOMAIN,gemini.yahoo.com,reject
 DOMAIN,geo.yahoo.com,reject
 DOMAIN,getui.cn,reject
-DOMAIN,getui.com,reject
 DOMAIN,ggx.cmvideo.cn,reject
 DOMAIN,ggx01.miguvideo.com,reject
 DOMAIN,ggx03.miguvideo.com,reject
@@ -3800,6 +3799,7 @@ DOMAIN,loggate.moxigame.cn,reject
 DOMAIN,p2cdn.com,reject
 DOMAIN,wslog.chinanetcenter.com,reject
 DOMAIN,tjqonline.cn,reject
+DOMAIN,getui.com,reject
 DOMAIN,gepush.com,reject
 DOMAIN,jpush-ipv6.cn,reject
 DOMAIN,adiu.amap.com,reject
