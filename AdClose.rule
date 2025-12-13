@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-12-13 12:24:53
-# 规则总数: 29638
+# 更新时间: 2025-12-13 16:16:01
+# 规则总数: 29633
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -6040,8 +6040,6 @@ domain, apm-collect.hzins.net
 domain, apm-log-upload-os.hoyoverse.com
 domain, apm-rum.inf.miui.com
 domain, apm-track.xiaohongshu.com
-domain, apm.app.coc.10086.cn
-domain, apm.clientaccess.10086.cn
 domain, apm.gotokeep.com
 domain, apm.hexin.cn
 domain, apm.suning.cn
@@ -15023,7 +15021,6 @@ domain, jifen.2345.com
 domain, jifen.cnzz.com
 domain, jifyelda.top
 domain, jiguang.cn
-domain, jiguang.coc.10086.cn
 domain, jihehuaban.com
 domain, jihehuaban.com.cn
 domain, jihq.mm51-tbsg1542.cc
@@ -20719,7 +20716,6 @@ domain, push.com2us.net
 domain, push.feng.com
 domain, push.gifshow.com
 domain, push.hexin.cn
-domain, push.it.10086.cn
 domain, push.ksapisrv.com
 domain, push.m.youku.com
 domain, push.mob.com
@@ -22931,7 +22927,6 @@ domain, show-msgch.qq.com
 domain, show-s.mediav.com
 domain, show.3.mediav.com
 domain, show.aklm.cc
-domain, show.bilibili.com
 domain, show.buzzcity.net
 domain, show.g.mediav.com
 domain, show.kc.taotaosou.com

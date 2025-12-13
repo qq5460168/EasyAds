@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2025-12-13 20:24:50
-# 规则统计: 总计29634条 (IP:1029 DOMAIN:0 SUFFIX:28605 KEYWORD:0)
+# 更新时间(北京时间): 2025-12-14 00:15:59
+# 规则统计: 总计29629条 (IP:1029 DOMAIN:0 SUFFIX:28600 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -6059,8 +6059,6 @@ DOMAIN-SUFFIX,apm-collect.hzins.net,REJECT
 DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com,REJECT
 DOMAIN-SUFFIX,apm-rum.inf.miui.com,REJECT
 DOMAIN-SUFFIX,apm-track.xiaohongshu.com,REJECT
-DOMAIN-SUFFIX,apm.app.coc.10086.cn,REJECT
-DOMAIN-SUFFIX,apm.clientaccess.10086.cn,REJECT
 DOMAIN-SUFFIX,apm.gotokeep.com,REJECT
 DOMAIN-SUFFIX,apm.hexin.cn,REJECT
 DOMAIN-SUFFIX,apm.suning.cn,REJECT
@@ -15032,7 +15030,6 @@ DOMAIN-SUFFIX,jifen.2345.com,REJECT
 DOMAIN-SUFFIX,jifen.cnzz.com,REJECT
 DOMAIN-SUFFIX,jifyelda.top,REJECT
 DOMAIN-SUFFIX,jiguang.cn,REJECT
-DOMAIN-SUFFIX,jiguang.coc.10086.cn,REJECT
 DOMAIN-SUFFIX,jihehuaban.com,REJECT
 DOMAIN-SUFFIX,jihehuaban.com.cn,REJECT
 DOMAIN-SUFFIX,jihq.mm51-tbsg1542.cc,REJECT
@@ -20721,7 +20718,6 @@ DOMAIN-SUFFIX,push.com2us.net,REJECT
 DOMAIN-SUFFIX,push.feng.com,REJECT
 DOMAIN-SUFFIX,push.gifshow.com,REJECT
 DOMAIN-SUFFIX,push.hexin.cn,REJECT
-DOMAIN-SUFFIX,push.it.10086.cn,REJECT
 DOMAIN-SUFFIX,push.ksapisrv.com,REJECT
 DOMAIN-SUFFIX,push.m.youku.com,REJECT
 DOMAIN-SUFFIX,push.mob.com,REJECT
@@ -22931,7 +22927,6 @@ DOMAIN-SUFFIX,show-msgch.qq.com,REJECT
 DOMAIN-SUFFIX,show-s.mediav.com,REJECT
 DOMAIN-SUFFIX,show.3.mediav.com,REJECT
 DOMAIN-SUFFIX,show.aklm.cc,REJECT
-DOMAIN-SUFFIX,show.bilibili.com,REJECT
 DOMAIN-SUFFIX,show.buzzcity.net,REJECT
 DOMAIN-SUFFIX,show.g.mediav.com,REJECT
 DOMAIN-SUFFIX,show.kc.taotaosou.com,REJECT

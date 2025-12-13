@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-12-13 12:24:52
-# 规则总数: 29638
+# 更新时间: 2025-12-13 16:16:01
+# 规则总数: 29633
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -6040,8 +6040,6 @@ apm-collect.hzins.net block
 apm-log-upload-os.hoyoverse.com block
 apm-rum.inf.miui.com block
 apm-track.xiaohongshu.com block
-apm.app.coc.10086.cn block
-apm.clientaccess.10086.cn block
 apm.gotokeep.com block
 apm.hexin.cn block
 apm.suning.cn block
@@ -15023,7 +15021,6 @@ jifen.2345.com block
 jifen.cnzz.com block
 jifyelda.top block
 jiguang.cn block
-jiguang.coc.10086.cn block
 jihehuaban.com block
 jihehuaban.com.cn block
 jihq.mm51-tbsg1542.cc block
@@ -20719,7 +20716,6 @@ push.com2us.net block
 push.feng.com block
 push.gifshow.com block
 push.hexin.cn block
-push.it.10086.cn block
 push.ksapisrv.com block
 push.m.youku.com block
 push.mob.com block
@@ -22931,7 +22927,6 @@ show-msgch.qq.com block
 show-s.mediav.com block
 show.3.mediav.com block
 show.aklm.cc block
-show.bilibili.com block
 show.buzzcity.net block
 show.g.mediav.com block
 show.kc.taotaosou.com block

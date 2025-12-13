@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-12-13 12:24:52
-# 规则总数: 29638
+# 更新时间: 2025-12-13 16:16:00
+# 规则总数: 29633
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -6040,8 +6040,6 @@ domain: apm-collect.hzins.net, policy: reject
 domain: apm-log-upload-os.hoyoverse.com, policy: reject
 domain: apm-rum.inf.miui.com, policy: reject
 domain: apm-track.xiaohongshu.com, policy: reject
-domain: apm.app.coc.10086.cn, policy: reject
-domain: apm.clientaccess.10086.cn, policy: reject
 domain: apm.gotokeep.com, policy: reject
 domain: apm.hexin.cn, policy: reject
 domain: apm.suning.cn, policy: reject
@@ -15023,7 +15021,6 @@ domain: jifen.2345.com, policy: reject
 domain: jifen.cnzz.com, policy: reject
 domain: jifyelda.top, policy: reject
 domain: jiguang.cn, policy: reject
-domain: jiguang.coc.10086.cn, policy: reject
 domain: jihehuaban.com, policy: reject
 domain: jihehuaban.com.cn, policy: reject
 domain: jihq.mm51-tbsg1542.cc, policy: reject
@@ -20719,7 +20716,6 @@ domain: push.com2us.net, policy: reject
 domain: push.feng.com, policy: reject
 domain: push.gifshow.com, policy: reject
 domain: push.hexin.cn, policy: reject
-domain: push.it.10086.cn, policy: reject
 domain: push.ksapisrv.com, policy: reject
 domain: push.m.youku.com, policy: reject
 domain: push.mob.com, policy: reject
@@ -22931,7 +22927,6 @@ domain: show-msgch.qq.com, policy: reject
 domain: show-s.mediav.com, policy: reject
 domain: show.3.mediav.com, policy: reject
 domain: show.aklm.cc, policy: reject
-domain: show.bilibili.com, policy: reject
 domain: show.buzzcity.net, policy: reject
 domain: show.g.mediav.com, policy: reject
 domain: show.kc.taotaosou.com, policy: reject

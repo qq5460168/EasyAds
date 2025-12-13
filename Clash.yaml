@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-12-13 12:24:52
-# 规则总数: 29638
+# 更新时间: 2025-12-13 16:16:00
+# 规则总数: 29633
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -6041,8 +6041,6 @@ payload:
   - 'apm-log-upload-os.hoyoverse.com'
   - 'apm-rum.inf.miui.com'
   - 'apm-track.xiaohongshu.com'
-  - 'apm.app.coc.10086.cn'
-  - 'apm.clientaccess.10086.cn'
   - 'apm.gotokeep.com'
   - 'apm.hexin.cn'
   - 'apm.suning.cn'
@@ -15024,7 +15022,6 @@ payload:
   - 'jifen.cnzz.com'
   - 'jifyelda.top'
   - 'jiguang.cn'
-  - 'jiguang.coc.10086.cn'
   - 'jihehuaban.com'
   - 'jihehuaban.com.cn'
   - 'jihq.mm51-tbsg1542.cc'
@@ -20720,7 +20717,6 @@ payload:
   - 'push.feng.com'
   - 'push.gifshow.com'
   - 'push.hexin.cn'
-  - 'push.it.10086.cn'
   - 'push.ksapisrv.com'
   - 'push.m.youku.com'
   - 'push.mob.com'
@@ -22932,7 +22928,6 @@ payload:
   - 'show-s.mediav.com'
   - 'show.3.mediav.com'
   - 'show.aklm.cc'
-  - 'show.bilibili.com'
   - 'show.buzzcity.net'
   - 'show.g.mediav.com'
   - 'show.kc.taotaosou.com'

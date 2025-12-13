@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-12-13 12:24:50（北京时间）
-# 共 29622 个域名
+# 生成时间: 2025-12-13 16:15:59（北京时间）
+# 共 29617 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -6046,8 +6046,6 @@ apm-collect.hzins.net
 apm-log-upload-os.hoyoverse.com
 apm-rum.inf.miui.com
 apm-track.xiaohongshu.com
-apm.app.coc.10086.cn
-apm.clientaccess.10086.cn
 apm.gotokeep.com
 apm.hexin.cn
 apm.suning.cn
@@ -15020,7 +15018,6 @@ jifen.2345.com
 jifen.cnzz.com
 jifyelda.top
 jiguang.cn
-jiguang.coc.10086.cn
 jihehuaban.com
 jihehuaban.com.cn
 jihq.mm51-tbsg1542.cc
@@ -20709,7 +20706,6 @@ push.com2us.net
 push.feng.com
 push.gifshow.com
 push.hexin.cn
-push.it.10086.cn
 push.ksapisrv.com
 push.m.youku.com
 push.mob.com
@@ -22919,7 +22915,6 @@ show-msgch.qq.com
 show-s.mediav.com
 show.3.mediav.com
 show.aklm.cc
-show.bilibili.com
 show.buzzcity.net
 show.g.mediav.com
 show.kc.taotaosou.com

@@ -20109,8 +20109,6 @@ DOMAIN,apkxkb719d.xyz,reject
 DOMAIN,apm-collect.hzins.net,reject
 DOMAIN,apm-log-upload-os.hoyoverse.com,reject
 DOMAIN,apm-rum.inf.miui.com,reject
-DOMAIN,apm.app.coc.10086.cn,reject
-DOMAIN,apm.clientaccess.10086.cn,reject
 DOMAIN,apm.gotokeep.com,reject
 DOMAIN,apm.hexin.cn,reject
 DOMAIN,apm.umeng.com,reject
@@ -23587,7 +23585,6 @@ DOMAIN,jiasula.vip,reject
 DOMAIN,jiatoutrade.com,reject
 DOMAIN,jiayuan.com,reject
 DOMAIN,jifen.cnzz.com,reject
-DOMAIN,jiguang.coc.10086.cn,reject
 DOMAIN,jim.dtyd.com.cn,reject
 DOMAIN,jimu.zhema1688.com,reject
 DOMAIN,jingbvip.com,reject
@@ -25742,7 +25739,6 @@ DOMAIN,purl.org,reject
 DOMAIN,puruiwangluo.com,reject
 DOMAIN,push.10jqka.com.cn,reject
 DOMAIN,push.hexin.cn,reject
-DOMAIN,push.it.10086.cn,reject
 DOMAIN,push.mob.com,reject
 DOMAIN,push.skysrt.com,reject
 DOMAIN,push.umeng.com,reject
@@ -26709,7 +26705,6 @@ DOMAIN,show-g.mediav.com,reject
 DOMAIN,show-m.mediav.com,reject
 DOMAIN,show-s.mediav.com,reject
 DOMAIN,show.3.mediav.com,reject
-DOMAIN,show.bilibili.com,reject
 DOMAIN,show.buzzcity.net,reject
 DOMAIN,show.g.mediav.com,reject
 DOMAIN,show.m.mediav.com,reject

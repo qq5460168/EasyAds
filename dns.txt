@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-12-13 12:24:50.652108
+# Generated on 2025-12-13 16:15:59.464441
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -20164,8 +20164,6 @@
 ||apm-collect.hzins.net^
 ||apm-log-upload-os.hoyoverse.com^
 ||apm-rum.inf.miui.com^
-||apm.app.coc.10086.cn^
-||apm.clientaccess.10086.cn^
 ||apm.gotokeep.com^
 ||apm.hexin.cn^
 ||apm.umeng.com^
@@ -23659,7 +23657,6 @@
 ||jiatoutrade.com^
 ||jiayuan.com^
 ||jifen.cnzz.com^
-||jiguang.coc.10086.cn^
 ||jim.dtyd.com.cn^
 ||jimu.zhema1688.com^
 ||jingbvip.com^
@@ -25824,7 +25821,6 @@
 ||puruiwangluo.com^
 ||push.10jqka.com.cn^
 ||push.hexin.cn^
-||push.it.10086.cn^
 ||push.mob.com^
 ||push.skysrt.com^
 ||push.umeng.com^
@@ -26791,7 +26787,6 @@
 ||show-m.mediav.com^
 ||show-s.mediav.com^
 ||show.3.mediav.com^
-||show.bilibili.com^
 ||show.buzzcity.net^
 ||show.g.mediav.com^
 ||show.m.mediav.com^

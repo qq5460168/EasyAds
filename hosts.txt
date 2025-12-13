@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-12-13 12:24:53
-# 规则总数: 29638
+# 更新时间: 2025-12-13 16:16:01
+# 规则总数: 29633
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -6040,8 +6040,6 @@
 0.0.0.0 apm-log-upload-os.hoyoverse.com
 0.0.0.0 apm-rum.inf.miui.com
 0.0.0.0 apm-track.xiaohongshu.com
-0.0.0.0 apm.app.coc.10086.cn
-0.0.0.0 apm.clientaccess.10086.cn
 0.0.0.0 apm.gotokeep.com
 0.0.0.0 apm.hexin.cn
 0.0.0.0 apm.suning.cn
@@ -15023,7 +15021,6 @@
 0.0.0.0 jifen.cnzz.com
 0.0.0.0 jifyelda.top
 0.0.0.0 jiguang.cn
-0.0.0.0 jiguang.coc.10086.cn
 0.0.0.0 jihehuaban.com
 0.0.0.0 jihehuaban.com.cn
 0.0.0.0 jihq.mm51-tbsg1542.cc
@@ -20719,7 +20716,6 @@
 0.0.0.0 push.feng.com
 0.0.0.0 push.gifshow.com
 0.0.0.0 push.hexin.cn
-0.0.0.0 push.it.10086.cn
 0.0.0.0 push.ksapisrv.com
 0.0.0.0 push.m.youku.com
 0.0.0.0 push.mob.com
@@ -22931,7 +22927,6 @@
 0.0.0.0 show-s.mediav.com
 0.0.0.0 show.3.mediav.com
 0.0.0.0 show.aklm.cc
-0.0.0.0 show.bilibili.com
 0.0.0.0 show.buzzcity.net
 0.0.0.0 show.g.mediav.com
 0.0.0.0 show.kc.taotaosou.com
