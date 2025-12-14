@@ -1310,7 +1310,6 @@ DOMAIN,zlink.ugsdk.cn,reject
 DOMAIN,clue.oceanengine.com,reject
 DOMAIN,vemarsdev.com,reject
 DOMAIN,qc.bsccdn.net,reject
-DOMAIN,dailygn.com,reject
 DOMAIN,ohayoo.cn,reject
 DOMAIN,rtlog3-applog-lq.fqnovel.com,reject
 DOMAIN,rtlog5-applog-lq.fqnovel.com,reject
@@ -21489,6 +21488,7 @@ DOMAIN,daascn.miaozhen.com,reject
 DOMAIN,dada.wcwlcl12.cn,reject
 DOMAIN,daed.154.com,reject
 DOMAIN,dagonghuzhu.com,reject
+DOMAIN,dailygn.com,reject
 DOMAIN,damax.anythinktech.com,reject
 DOMAIN,dap.vmall.com,reject
 DOMAIN,dapengjiaoyu.cn,reject
