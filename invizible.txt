@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-12-15 04:34:01
-# 规则总数: 29633
+# 更新时间: 2025-12-15 08:22:03
+# 规则总数: 29634
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -23910,6 +23910,7 @@ sydz.tw block
 sygmtz.com block
 syh-imp.cdnjtzy.com block
 syh-report.tingyun.com block
+syh.zybang.com block
 syilm.net block
 sykty.com block
 sylr.6t.com block

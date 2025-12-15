@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-12-15 12:34:01
-! 有效规则数量: 39141 条
+! 规则更新时间: 2025-12-15 16:22:03
+! 有效规则数量: 39142 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -326,7 +326,6 @@
 ||de.tynt.com^
 ||diagnosis.ad.xiaomi.com^
 ||dig.bdurl.net^
-||dl.zuimeitianqi.com^
 ||dlogs.bwton.com^
 ||dm.toutiao.com^
 ||domain.aishengji.com^
@@ -346,8 +345,6 @@
 ||ef-dongfeng.tanx.com^
 ||engine.dcad01.com^
 ||entry.baidu.com^
-||errlog.umeng.com^
-||errnewlog.umeng.com^
 ||et-eus.w.inmobi.com^
 ||event.tradplusad.com^
 ||events-drcn.op.dbankcloud.cn^
@@ -657,7 +654,6 @@
 ||s8t.teads.tv^
 ||saad.ms.zhangyue.net^
 ||saas.hpplay.cn^
-||safebrowsing.googleapis.com^
 ||safebrowsing.urlsec.gg.com^
 ||samsung-com.112.2o7.net^
 ||samsungads.com^
@@ -725,6 +721,7 @@
 ||supply.inmobicdn.net^
 ||sv-video.play.aiseet.atianqi.com^
 ||syh-imp.cdnjtzy.com^
+||syh.zybang.com^
 ||szbdyd.com^
 ||t-dsp.pinduoduo.com^
 ||t.applovin.com^
@@ -900,9 +897,9 @@
 ||vlion.cn^
 ||yfanads.com^
 ||zhangyuyidong.cn^
-140.82.112.25                 alive.github.com
-140.82.112.5                  api.github.com
-140.82.114.22                 api.individual.githubcopilot.com
+140.82.114.25                 alive.github.com
+20.205.243.168                api.github.com
+140.82.112.21                 api.individual.githubcopilot.com
 185.199.110.133               avatars.githubusercontent.com
 185.199.110.133               avatars0.githubusercontent.com
 185.199.110.133               avatars1.githubusercontent.com
@@ -911,27 +908,27 @@
 185.199.110.133               avatars4.githubusercontent.com
 185.199.110.133               avatars5.githubusercontent.com
 185.199.110.133               camo.githubusercontent.com
-140.82.114.22                 central.github.com
+140.82.112.22                 central.github.com
 185.199.110.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.114.21                 collector.github.com
+140.82.114.22                 collector.github.com
 185.199.110.133               desktop.githubusercontent.com
 185.199.110.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com
-16.15.191.116                 github-cloud.s3.amazonaws.com
-54.231.232.145                github-com.s3.amazonaws.com
-16.15.199.223                 github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.11.194                    github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.174.81                 github-production-user-asset-6210df.s3.amazonaws.com
+16.15.178.76                  github-cloud.s3.amazonaws.com
+52.217.203.241                github-com.s3.amazonaws.com
+16.182.107.185                github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.33.145                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.194.57                 github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.112.17                 github.community
+140.82.114.17                 github.community
 185.199.109.154               github.githubassets.com
-151.101.193.194               github.global.ssl.fastly.net
+151.101.129.194               github.global.ssl.fastly.net
 185.199.111.153               github.io
 185.199.110.133               github.map.fastly.net
 185.199.111.153               githubstatus.com
-140.82.112.25                 live.github.com
+140.82.113.26                 live.github.com
 185.199.110.133               media.githubusercontent.com
 185.199.110.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
@@ -6086,6 +6083,7 @@
 ||oc.umeng.co^
 ||ar.umeng.com^
 ||msg.umengcloud.com^
+||errlog.umeng.com^
 ||sec.umeng.com^
 ||sss.umeng.com^
 ||ulogs.umengcloud.com.gds.alibabadns.com^
@@ -6098,6 +6096,7 @@
 ||umengcloud.com^
 ||alogs.umengcloud.com^
 ||alogsus.umengcloud.com^
+||errnewlog.umeng.com^
 ||au.umeng.com^
 ||oc.umeng.com^
 ||alogs.umeng.com^
@@ -26773,6 +26772,7 @@
 ||dl.lfyanwei.com^
 ||dl.tuobeng.net^
 ||dl.txcdns.com^
+||dl.zuimeitianqi.com^
 ||dl556677.com^
 ||dl66d.com^
 ||dlcdn996.^
@@ -31589,6 +31589,7 @@
 ||safe.res.meizu.com^
 ||safe.ucweb.com^
 ||safebrowsing.g.applimg.com^
+||safebrowsing.googleapis.com^
 ||safebrowsing.urlsec.qq.com^
 ||samsung88.dk.yhcdn88.com^
 ||san.myadssupport.com^

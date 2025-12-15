@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-12-15 04:33:59.281787
+# Generated on 2025-12-15 08:22:01.943374
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -323,7 +323,6 @@
 ||de.tynt.com^
 ||diagnosis.ad.xiaomi.com^
 ||dig.bdurl.net^
-||dl.zuimeitianqi.com^
 ||dlogs.bwton.com^
 ||dm.toutiao.com^
 ||domain.aishengji.com^
@@ -343,8 +342,6 @@
 ||ef-dongfeng.tanx.com^
 ||engine.dcad01.com^
 ||entry.baidu.com^
-||errlog.umeng.com^
-||errnewlog.umeng.com^
 ||et-eus.w.inmobi.com^
 ||event.tradplusad.com^
 ||events-drcn.op.dbankcloud.cn^
@@ -654,7 +651,6 @@
 ||s8t.teads.tv^
 ||saad.ms.zhangyue.net^
 ||saas.hpplay.cn^
-||safebrowsing.googleapis.com^
 ||safebrowsing.urlsec.gg.com^
 ||samsung-com.112.2o7.net^
 ||samsungads.com^
@@ -722,6 +718,7 @@
 ||supply.inmobicdn.net^
 ||sv-video.play.aiseet.atianqi.com^
 ||syh-imp.cdnjtzy.com^
+||syh.zybang.com^
 ||szbdyd.com^
 ||t-dsp.pinduoduo.com^
 ||t.applovin.com^
@@ -1072,6 +1069,7 @@
 ||oc.umeng.co^
 ||ar.umeng.com^
 ||msg.umengcloud.com^
+||errlog.umeng.com^
 ||sec.umeng.com^
 ||sss.umeng.com^
 ||ulogs.umengcloud.com.gds.alibabadns.com^
@@ -1084,6 +1082,7 @@
 ||umengcloud.com^
 ||alogs.umengcloud.com^
 ||alogsus.umengcloud.com^
+||errnewlog.umeng.com^
 ||au.umeng.com^
 ||oc.umeng.com^
 ||alogs.umeng.com^
@@ -21721,6 +21720,7 @@
 ||dl.lfyanwei.com^
 ||dl.tuobeng.net^
 ||dl.txcdns.com^
+||dl.zuimeitianqi.com^
 ||dl556677.com^
 ||dl66d.com^
 ||dlcdn996.^
@@ -26508,6 +26508,7 @@
 ||safe.res.meizu.com^
 ||safe.ucweb.com^
 ||safebrowsing.g.applimg.com^
+||safebrowsing.googleapis.com^
 ||safebrowsing.urlsec.qq.com^
 ||samsung88.dk.yhcdn88.com^
 ||san.myadssupport.com^

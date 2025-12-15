@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-12-15 04:34:01
-# 规则总数: 29633
+# 更新时间: 2025-12-15 08:22:03
+# 规则总数: 29634
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -23911,6 +23911,7 @@ payload:
   - 'sygmtz.com'
   - 'syh-imp.cdnjtzy.com'
   - 'syh-report.tingyun.com'
+  - 'syh.zybang.com'
   - 'syilm.net'
   - 'sykty.com'
   - 'sylr.6t.com'

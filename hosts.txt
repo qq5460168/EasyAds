@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-12-15 04:34:01
-# 规则总数: 29633
+# 更新时间: 2025-12-15 08:22:03
+# 规则总数: 29634
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -23910,6 +23910,7 @@
 0.0.0.0 sygmtz.com
 0.0.0.0 syh-imp.cdnjtzy.com
 0.0.0.0 syh-report.tingyun.com
+0.0.0.0 syh.zybang.com
 0.0.0.0 syilm.net
 0.0.0.0 sykty.com
 0.0.0.0 sylr.6t.com

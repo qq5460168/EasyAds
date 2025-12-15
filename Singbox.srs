@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-12-15 04:34:01
-# 规则总数: 29633
+# 更新时间: 2025-12-15 08:22:03
+# 规则总数: 29634
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -23910,6 +23910,7 @@ domain: sydz.tw, policy: reject
 domain: sygmtz.com, policy: reject
 domain: syh-imp.cdnjtzy.com, policy: reject
 domain: syh-report.tingyun.com, policy: reject
+domain: syh.zybang.com, policy: reject
 domain: syilm.net, policy: reject
 domain: sykty.com, policy: reject
 domain: sylr.6t.com, policy: reject

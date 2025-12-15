@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-12-15 04:34:01
-# 规则总数: 29633
+# 更新时间: 2025-12-15 08:22:03
+# 规则总数: 29634
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -23910,6 +23910,7 @@ domain, sydz.tw
 domain, sygmtz.com
 domain, syh-imp.cdnjtzy.com
 domain, syh-report.tingyun.com
+domain, syh.zybang.com
 domain, syilm.net
 domain, sykty.com
 domain, sylr.6t.com
