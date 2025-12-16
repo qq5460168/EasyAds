@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-12-16 08:21:04
-# 规则总数: 29634
+# 更新时间: 2025-12-16 12:29:48
+# 规则总数: 29636
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -2551,6 +2551,7 @@
 671.oadz.com block
 6711.com block
 6721.liveplay.now.qq.com block
+6726lmym.top block
 6728812.com block
 67761.com block
 678tl.com block
@@ -11622,6 +11623,7 @@ fi.questormyxo.com block
 fi11av37.com block
 fi11av39.com block
 fifay.cn block
+fifzsym.top block
 figl.8890.com block
 fiktvlnc.icu block
 file-yuedu.iqiyi.com block

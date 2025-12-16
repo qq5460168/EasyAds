@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-12-16 08:21:04
-# 规则总数: 29634
+# 更新时间: 2025-12-16 12:29:48
+# 规则总数: 29636
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -2552,6 +2552,7 @@ payload:
   - '671.oadz.com'
   - '6711.com'
   - '6721.liveplay.now.qq.com'
+  - '6726lmym.top'
   - '6728812.com'
   - '67761.com'
   - '678tl.com'
@@ -11623,6 +11624,7 @@ payload:
   - 'fi11av37.com'
   - 'fi11av39.com'
   - 'fifay.cn'
+  - 'fifzsym.top'
   - 'figl.8890.com'
   - 'fiktvlnc.icu'
   - 'file-yuedu.iqiyi.com'

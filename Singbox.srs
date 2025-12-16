@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-12-16 08:21:04
-# 规则总数: 29634
+# 更新时间: 2025-12-16 12:29:48
+# 规则总数: 29636
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -2551,6 +2551,7 @@ domain: 670t5x.cn, policy: reject
 domain: 671.oadz.com, policy: reject
 domain: 6711.com, policy: reject
 domain: 6721.liveplay.now.qq.com, policy: reject
+domain: 6726lmym.top, policy: reject
 domain: 6728812.com, policy: reject
 domain: 67761.com, policy: reject
 domain: 678tl.com, policy: reject
@@ -11622,6 +11623,7 @@ domain: fi.questormyxo.com, policy: reject
 domain: fi11av37.com, policy: reject
 domain: fi11av39.com, policy: reject
 domain: fifay.cn, policy: reject
+domain: fifzsym.top, policy: reject
 domain: figl.8890.com, policy: reject
 domain: fiktvlnc.icu, policy: reject
 domain: file-yuedu.iqiyi.com, policy: reject

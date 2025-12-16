@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-12-16 08:21:04
-# 规则总数: 29634
+# 更新时间: 2025-12-16 12:29:48
+# 规则总数: 29636
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -2551,6 +2551,7 @@ domain, 670t5x.cn
 domain, 671.oadz.com
 domain, 6711.com
 domain, 6721.liveplay.now.qq.com
+domain, 6726lmym.top
 domain, 6728812.com
 domain, 67761.com
 domain, 678tl.com
@@ -11622,6 +11623,7 @@ domain, fi.questormyxo.com
 domain, fi11av37.com
 domain, fi11av39.com
 domain, fifay.cn
+domain, fifzsym.top
 domain, figl.8890.com
 domain, fiktvlnc.icu
 domain, file-yuedu.iqiyi.com
