@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-12-16 20:29:48
-! 有效规则数量: 2779 条
+! 规则更新时间: 2025-12-17 00:19:26
+! 有效规则数量: 2793 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -1958,6 +1958,8 @@
 @@||mdmenrollment.apple.com^$important
 @@||setup.icloud.com^$important
 @@||vpp.itunes.apple.com^$important
+@@||appattest.apple.com^$important
+@@||axm-servicediscovery.apple.com^$important
 @@||business.apple.com^$important
 @@||school.apple.com^$important
 @@||appleid.cdn-apple.com^$important
@@ -1988,7 +1990,6 @@
 @@||gg.apple.com^$important
 @@||ig.apple.com^$important
 @@||mesu.apple.com^$important
-@@||ns.itunes.apple.com^$important
 @@||oscdn.apple.com^$important
 @@||osrecovery.apple.com^$important
 @@||skl.apple.com^$important
@@ -1999,8 +2000,22 @@
 @@||updates-http.cdn-apple.com^$important
 @@||updates.cdn-apple.com^$important
 @@||xp.apple.com^$important
+@@||gdmf-ados.apple.com^$important
+@@||gsra.apple.com^$important
+@@||wkms-public.apple.com^$important
+@@||fcs-keys-pub-prod.cdn-apple.com^$important
 @@||apps.apple.com^$important
 @@||ppq.apple.com^$important
+@@||api.apple-cloudkit.com^$important
+@@||apps-marketplace.apple.com^$important
+@@||token.safebrowsing.apple.com^$important
+@@||audiocontentdownload.apple.com^$important
+@@||devimages-cdn.apple.com^$important
+@@||download.developer.apple.com^$important
+@@||playgrounds-assets-cdn.apple.com^$important
+@@||playgrounds-cdn.apple.com^$important
+@@||sylvan.apple.com^$important
+@@||gateway.icloud.com^$important
 @@||appldnld.apple.com.edgesuite.net^$important
 @@||itunes.com^$important
 @@||lcdn-registration.apple.com^$important
@@ -2008,12 +2023,11 @@
 @@||xp-cdn.apple.com^$important
 @@||lcdn-locator.apple.com^$important
 @@||serverstatus.apple.com^$important
-@@||api.apple-cloudkit.com^$important
-@@||appattest.apple.com^$important
 @@||bpapi.apple.com^$important
 @@||cssubmissions.apple.com^$important
 @@||fba.apple.com^$important
 @@||diagassets.apple.com^$important
+@@||doh.dns.apple.com^$important
 @@||certs.apple.com^$important
 @@||crl.apple.com^$important
 @@||crl.entrust.net^$important
@@ -2042,17 +2056,17 @@
 @@||mask-api.icloud.com^$important
 @@||guzzoni.apple.com^$important
 @@||smoot.apple.com^$important
+@@||apple-relay.cloudflare.com^$important
+@@||apple-relay.fastly-edge.com^$important
+@@||cp4.cloudflare.com^$important
+@@||apple-relay.apple.com^$important
 @@||app-site-association.cdn-apple.com^$important
 @@||app-site-association.networking.apple^$important
 @@||pos-device.apple.com^$important
-@@||phonesubmissions.apple.com^$important
-@@||audiocontentdownload.apple.com^$important
-@@||devimages-cdn.apple.com^$important
-@@||download.developer.apple.com^$important
-@@||playgrounds-assets-cdn.apple.com^$important
-@@||playgrounds-cdn.apple.com^$important
-@@||sylvan.apple.com^$important
-@@||identity.ess.apple.com^$important
+@@||iphonesubmissions.apple.com^$important
+@@||smp-device-content.apple.com^$important
+@@||idv.cdn-apple.com^$important
+@@||idv-prod1.apple.com^$important
 @@||outlook.office.com^$important
 @@||outlook.office365.com^$important
 @@||smtp.office365.com^$important
