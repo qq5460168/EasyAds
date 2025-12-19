@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-12-19 04:28:33
-# 规则总数: 29636
+# 更新时间: 2025-12-19 08:20:07
+# 规则总数: 29641
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -127,6 +127,7 @@ domain: 08de583.p0nkhy03m.top, policy: reject
 domain: 09113585.com, policy: reject
 domain: 092f.143.cc, policy: reject
 domain: 093yuht.com, policy: reject
+domain: 094kk.com, policy: reject
 domain: 096iokj.com, policy: reject
 domain: 09jsufg.com, policy: reject
 domain: 0a0cf84c-dnsotls-ds.metric.gstatic.com, policy: reject
@@ -11526,6 +11527,7 @@ domain: feanalysisprod.xinfei.cn, policy: reject
 domain: febr.8890.com, policy: reject
 domain: feconf.zhuanzhuan.com, policy: reject
 domain: federatedlearning.voiceads.cn, policy: reject
+domain: fedoq.com, policy: reject
 domain: feed-image.baidu.com, policy: reject
 domain: feed-oss.oneway.mobi, policy: reject
 domain: feed.baidu.com, policy: reject
@@ -15101,6 +15103,7 @@ domain: jmesxbe.icu, policy: reject
 domain: jmk.nndzsw2.com, policy: reject
 domain: jml.adongyu.com, policy: reject
 domain: jmonitor.jiuzhilan.com, policy: reject
+domain: jmosl.com, policy: reject
 domain: jmp-inner.tradplusad.com, policy: reject
 domain: jmr.nnxiant.cn, policy: reject
 domain: jmsyzj.com, policy: reject
@@ -19045,6 +19048,7 @@ domain: ns2.viglink.com, policy: reject
 domain: ns3.hii-go.com, policy: reject
 domain: ns3.viglink.com, policy: reject
 domain: ns4.viglink.com, policy: reject
+domain: nsb42.com, policy: reject
 domain: nsclick.baidu.com, policy: reject
 domain: nsclickvideo.baidu.com, policy: reject
 domain: nshvhfw.cn, policy: reject
@@ -28821,6 +28825,7 @@ domain: yo7.cn, policy: reject
 domain: yoc-ttsb.oss-cn-hangzhou.aliyuncs.com, policy: reject
 domain: yoda.kwd.inkuai.com, policy: reject
 domain: yofprpv.cn, policy: reject
+domain: yohle.com, policy: reject
 domain: yongkang6.com, policy: reject
 domain: yongv.com, policy: reject
 domain: yonmewon.com, policy: reject

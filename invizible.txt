@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-12-19 04:28:33
-# 规则总数: 29636
+# 更新时间: 2025-12-19 08:20:07
+# 规则总数: 29641
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -127,6 +127,7 @@
 09113585.com block
 092f.143.cc block
 093yuht.com block
+094kk.com block
 096iokj.com block
 09jsufg.com block
 0a0cf84c-dnsotls-ds.metric.gstatic.com block
@@ -11526,6 +11527,7 @@ feanalysisprod.xinfei.cn block
 febr.8890.com block
 feconf.zhuanzhuan.com block
 federatedlearning.voiceads.cn block
+fedoq.com block
 feed-image.baidu.com block
 feed-oss.oneway.mobi block
 feed.baidu.com block
@@ -15101,6 +15103,7 @@ jmesxbe.icu block
 jmk.nndzsw2.com block
 jml.adongyu.com block
 jmonitor.jiuzhilan.com block
+jmosl.com block
 jmp-inner.tradplusad.com block
 jmr.nnxiant.cn block
 jmsyzj.com block
@@ -19045,6 +19048,7 @@ ns2.viglink.com block
 ns3.hii-go.com block
 ns3.viglink.com block
 ns4.viglink.com block
+nsb42.com block
 nsclick.baidu.com block
 nsclickvideo.baidu.com block
 nshvhfw.cn block
@@ -28821,6 +28825,7 @@ yo7.cn block
 yoc-ttsb.oss-cn-hangzhou.aliyuncs.com block
 yoda.kwd.inkuai.com block
 yofprpv.cn block
+yohle.com block
 yongkang6.com block
 yongv.com block
 yonmewon.com block

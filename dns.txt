@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2025-12-19 04:28:31.845543
+# Generated on 2025-12-19 08:20:06.060100
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -29641,6 +29641,11 @@
 ||zzg7.yide.com^
 ||zzjq.720lu.com^
 ||zzzu.ag8.com^
+||jmosl.com^
+||yohle.com^
+||094kk.com^
+||fedoq.com^
+||nsb42.com^
 ||fifzsym.top^
 ||6726lmym.top^
 ||hectorstatic.baidu.com^

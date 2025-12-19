@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-12-19 04:28:33
-# 规则总数: 29636
+# 更新时间: 2025-12-19 08:20:07
+# 规则总数: 29641
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -127,6 +127,7 @@
 0.0.0.0 09113585.com
 0.0.0.0 092f.143.cc
 0.0.0.0 093yuht.com
+0.0.0.0 094kk.com
 0.0.0.0 096iokj.com
 0.0.0.0 09jsufg.com
 0.0.0.0 0a0cf84c-dnsotls-ds.metric.gstatic.com
@@ -11526,6 +11527,7 @@
 0.0.0.0 febr.8890.com
 0.0.0.0 feconf.zhuanzhuan.com
 0.0.0.0 federatedlearning.voiceads.cn
+0.0.0.0 fedoq.com
 0.0.0.0 feed-image.baidu.com
 0.0.0.0 feed-oss.oneway.mobi
 0.0.0.0 feed.baidu.com
@@ -15101,6 +15103,7 @@
 0.0.0.0 jmk.nndzsw2.com
 0.0.0.0 jml.adongyu.com
 0.0.0.0 jmonitor.jiuzhilan.com
+0.0.0.0 jmosl.com
 0.0.0.0 jmp-inner.tradplusad.com
 0.0.0.0 jmr.nnxiant.cn
 0.0.0.0 jmsyzj.com
@@ -19045,6 +19048,7 @@
 0.0.0.0 ns3.hii-go.com
 0.0.0.0 ns3.viglink.com
 0.0.0.0 ns4.viglink.com
+0.0.0.0 nsb42.com
 0.0.0.0 nsclick.baidu.com
 0.0.0.0 nsclickvideo.baidu.com
 0.0.0.0 nshvhfw.cn
@@ -28821,6 +28825,7 @@
 0.0.0.0 yoc-ttsb.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 yoda.kwd.inkuai.com
 0.0.0.0 yofprpv.cn
+0.0.0.0 yohle.com
 0.0.0.0 yongkang6.com
 0.0.0.0 yongv.com
 0.0.0.0 yonmewon.com

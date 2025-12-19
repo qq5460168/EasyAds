@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-12-19 04:28:33
-# 规则总数: 29636
+# 更新时间: 2025-12-19 08:20:07
+# 规则总数: 29641
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -128,6 +128,7 @@ payload:
   - '09113585.com'
   - '092f.143.cc'
   - '093yuht.com'
+  - '094kk.com'
   - '096iokj.com'
   - '09jsufg.com'
   - '0a0cf84c-dnsotls-ds.metric.gstatic.com'
@@ -11527,6 +11528,7 @@ payload:
   - 'febr.8890.com'
   - 'feconf.zhuanzhuan.com'
   - 'federatedlearning.voiceads.cn'
+  - 'fedoq.com'
   - 'feed-image.baidu.com'
   - 'feed-oss.oneway.mobi'
   - 'feed.baidu.com'
@@ -15102,6 +15104,7 @@ payload:
   - 'jmk.nndzsw2.com'
   - 'jml.adongyu.com'
   - 'jmonitor.jiuzhilan.com'
+  - 'jmosl.com'
   - 'jmp-inner.tradplusad.com'
   - 'jmr.nnxiant.cn'
   - 'jmsyzj.com'
@@ -19046,6 +19049,7 @@ payload:
   - 'ns3.hii-go.com'
   - 'ns3.viglink.com'
   - 'ns4.viglink.com'
+  - 'nsb42.com'
   - 'nsclick.baidu.com'
   - 'nsclickvideo.baidu.com'
   - 'nshvhfw.cn'
@@ -28822,6 +28826,7 @@ payload:
   - 'yoc-ttsb.oss-cn-hangzhou.aliyuncs.com'
   - 'yoda.kwd.inkuai.com'
   - 'yofprpv.cn'
+  - 'yohle.com'
   - 'yongkang6.com'
   - 'yongv.com'
   - 'yonmewon.com'
