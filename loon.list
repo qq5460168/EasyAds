@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2025-12-20 12:19:35
-# 规则统计: 总计29637条 (IP:1029 DOMAIN:0 SUFFIX:28608 KEYWORD:0)
+# 更新时间(北京时间): 2025-12-20 16:17:06
+# 规则统计: 总计29638条 (IP:1029 DOMAIN:0 SUFFIX:28609 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -28007,6 +28007,7 @@ DOMAIN-SUFFIX,xfywn.com,REJECT
 DOMAIN-SUFFIX,xfzb2.cc,REJECT
 DOMAIN-SUFFIX,xfztgxt.com,REJECT
 DOMAIN-SUFFIX,xgcsr.com,REJECT
+DOMAIN-SUFFIX,xggdrks.icu,REJECT
 DOMAIN-SUFFIX,xgmc6lu8fs.me,REJECT
 DOMAIN-SUFFIX,xgnsvx.stwqhfi.cn,REJECT
 DOMAIN-SUFFIX,xguh8ywk85crky9bnrxe1tjgxo7zdtm.deliv82slkamain.com,REJECT

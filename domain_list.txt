@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-12-20 04:19:35（北京时间）
-# 共 29625 个域名
+# 生成时间: 2025-12-20 08:17:06（北京时间）
+# 共 29626 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -27996,6 +27996,7 @@ xfywn.com
 xfzb2.cc
 xfztgxt.com
 xgcsr.com
+xggdrks.icu
 xgmc6lu8fs.me
 xgnsvx.stwqhfi.cn
 xguh8ywk85crky9bnrxe1tjgxo7zdtm.deliv82slkamain.com
