@@ -3971,61 +3971,6 @@ DOMAIN,kowuie.sydneypass.info,reject
 DOMAIN,yu041202.982051.cc,reject
 DOMAIN,hy040803.298754.cc,reject
 DOMAIN,frt040803.341035.cc,reject
-DOMAIN,dragonparking.com,reject
-DOMAIN,sadbh-kye.com,reject
-DOMAIN,tat.pandora.xiaomi.com,reject
-DOMAIN,lcs-cops.adobe.io,reject
-DOMAIN,lcs-robs.adobe.io,reject
-DOMAIN,ic.adobe.io,reject
-DOMAIN,ph0f2h2csf.adobe.io,reject
-DOMAIN,cctypekit.adobe.io,reject
-DOMAIN,cclibraries-defaults-cdn.adobe.com,reject
-DOMAIN,cc-cdn.adobe.com,reject
-DOMAIN,alert.kuyun.com,reject
-DOMAIN,api.hpplay.com.cn,reject
-DOMAIN,geo2.adobe.com,reject
-DOMAIN,s3m1.fenxi.com,reject
-DOMAIN,s3m2.fenxi.com,reject
-DOMAIN,s3m3.fenxi.com,reject
-DOMAIN,s3m4.fenxi.com,reject
-DOMAIN,s1m.mediav.com,reject
-DOMAIN,s2m.mediav.com,reject
-DOMAIN,s3m.mediav.com,reject
-DOMAIN,s4m.mediav.com,reject
-DOMAIN,cjhd.mediav.com,reject
-DOMAIN,static.mediav.com,reject
-DOMAIN,static-ssl.mediav.com,reject
-DOMAIN,domob.cn,reject
-DOMAIN,sumatang.com,reject
-DOMAIN,bigcloud.cyou,reject
-DOMAIN,picnewsss.com,reject
-DOMAIN,t1tgame.com,reject
-DOMAIN,ergodicitytech.com,reject
-DOMAIN,c.tpgjb.top,reject
-DOMAIN,f.8fenxiang.com,reject
-DOMAIN,local.info.g9hc4.cn,reject
-DOMAIN,realsrv.com,reject
-DOMAIN,jads.co,reject
-DOMAIN,juicyads.com,reject
-DOMAIN,dxyeyf6ecy.adobe.io,reject
-DOMAIN,1hzopx6nz7.adobe.io,reject
-DOMAIN,p13n.adobe.io,reject
-DOMAIN,p13n-mr.adobe.io,reject
-DOMAIN,cai-identity.adobe.io,reject
-DOMAIN,dyzt55url8.adobe.io,reject
-DOMAIN,gw8gfjbsO5.adobe.io,reject
-DOMAIN,2ftem87osk.adobe.io,reject
-DOMAIN,phef2h2csf.adobe.io,reject
-DOMAIN,7sj9n87sls.adobe.io,reject
-DOMAIN,b5kbg2ggog.adobe.io,reject
-DOMAIN,p7uxzbht8h.adobe.io,reject
-DOMAIN,guzg78logz.adobe.io,reject
-DOMAIN,crs.cr.adobe.com,reject
-DOMAIN,photos.adobe.io,reject
-DOMAIN,cai-splunk-proxy.adobe.io,reject
-DOMAIN,cap.cyberlink.com,reject
-DOMAIN,activation.cyberlink.com,reject
-DOMAIN,registeridm.com,reject
 DOMAIN,ad-sign.byteimg.com,reject
 DOMAIN,tos.pstatp.com,reject
 DOMAIN,video-cn.snssdk.com,reject
@@ -5648,6 +5593,7 @@ DOMAIN,17un.co,reject
 DOMAIN,adk2.co,reject
 DOMAIN,cpmchina.co,reject
 DOMAIN,geili.co,reject
+DOMAIN,jads.co,reject
 DOMAIN,qq2.co,reject
 DOMAIN,zoomanalytics.co,reject
 DOMAIN,ib.adnxs.co,reject
@@ -6619,6 +6565,7 @@ DOMAIN,jsmwd.com,reject
 DOMAIN,jsncke.com,reject
 DOMAIN,jtys8.com,reject
 DOMAIN,ju33.com,reject
+DOMAIN,juicyads.com,reject
 DOMAIN,jundazulin.com,reject
 DOMAIN,junfull.com,reject
 DOMAIN,junkucm.com,reject
@@ -7011,6 +6958,7 @@ DOMAIN,rannabio.com,reject
 DOMAIN,rayjump.com,reject
 DOMAIN,rbywg.com,reject
 DOMAIN,rdtuijian.com,reject
+DOMAIN,realsrv.com,reject
 DOMAIN,reliancevalve.com,reject
 DOMAIN,remote88.com,reject
 DOMAIN,rencai56.com,reject
@@ -7913,6 +7861,7 @@ DOMAIN,activate-sjc0.adobe.com,reject
 DOMAIN,adobe-dns.adobe.com,reject
 DOMAIN,adobe-dns-2.adobe.com,reject
 DOMAIN,adobe-dns-3.adobe.com,reject
+DOMAIN,geo2.adobe.com,reject
 DOMAIN,get3.adobe.com,reject
 DOMAIN,hl2rcv.adobe.com,reject
 DOMAIN,practivate.adobe.com,reject
@@ -8396,6 +8345,8 @@ DOMAIN,whu.cwpush.com,reject
 DOMAIN,xpe.cxaerp.com,reject
 DOMAIN,news.cxxtv.com,reject
 DOMAIN,img.cxxyft.com,reject
+DOMAIN,activation.cyberlink.com,reject
+DOMAIN,cap.cyberlink.com,reject
 DOMAIN,c.cyhx98.com,reject
 DOMAIN,imgc.cymzc.com,reject
 DOMAIN,imgp.cymzc.com,reject
@@ -15554,6 +15505,7 @@ DOMAIN,szhszxfw.cn,reject
 DOMAIN,szipkp.com,reject
 DOMAIN,t.atomicfile.cn,reject
 DOMAIN,t0pan.top,reject
+DOMAIN,t1tgame.com,reject
 DOMAIN,t23o.cn,reject
 DOMAIN,t28goe.cn,reject
 DOMAIN,t2zfyxjj.icu,reject
@@ -17471,6 +17423,7 @@ DOMAIN,1flk.011.com,reject
 DOMAIN,1hte.xdplt.com,reject
 DOMAIN,1hz.web.hu2djz.7fw5q.com,reject
 DOMAIN,1hz.web.hu2djz.nwa6a.com,reject
+DOMAIN,1hzopx6nz7.adobe.io,reject
 DOMAIN,1j103dtlq.yunyonggong.com.cn,reject
 DOMAIN,1jt9.8890.com,reject
 DOMAIN,1jym.cl.app,reject
@@ -17819,6 +17772,7 @@ DOMAIN,2fm.adnxs.com,reject
 DOMAIN,2fmobile.adnxs.com,reject
 DOMAIN,2fprebid.adnxs.com,reject
 DOMAIN,2fsecure.adnxs.com,reject
+DOMAIN,2ftem87osk.adobe.io,reject
 DOMAIN,2fvcdn.adnxs.com,reject
 DOMAIN,2fvd.7790.com,reject
 DOMAIN,2jc9.8890.com,reject
@@ -18795,6 +18749,7 @@ DOMAIN,7pj678.com,reject
 DOMAIN,7pum.154.com,reject
 DOMAIN,7q67.880.net,reject
 DOMAIN,7sf-3.3hj.com,reject
+DOMAIN,7sj9n87sls.adobe.io,reject
 DOMAIN,7skin.eysae.cn,reject
 DOMAIN,7slu.720lu.com,reject
 DOMAIN,7spctz9pjvl2bcf.chuheyimei.com,reject
@@ -19703,6 +19658,7 @@ DOMAIN,alb-mywup1gpeqzbxfen04.cn-hongkong.alb.aliyuncs.com,reject
 DOMAIN,alb-whlm6gc63qycf09eio.cn-hongkong.alb.aliyuncs.com,reject
 DOMAIN,alb-y93bzo8168fomu9f93.cn-hongkong.alb.aliyuncs.com,reject
 DOMAIN,ald-lamp.alicdn.com,reject
+DOMAIN,alert.kuyun.com,reject
 DOMAIN,alhy.7790.com,reject
 DOMAIN,ali-adaptive-pull.live-voip.com,reject
 DOMAIN,ali-adaptive.pull.yximgs.com,reject
@@ -19943,6 +19899,7 @@ DOMAIN,api.getui.com,reject
 DOMAIN,api.gifshow.com,reject
 DOMAIN,api.gzsane.com,reject
 DOMAIN,api.hduofen.cn,reject
+DOMAIN,api.hpplay.com.cn,reject
 DOMAIN,api.im.jpush.cn,reject
 DOMAIN,api.inmobi.cn,reject
 DOMAIN,api.instabug.com,reject
@@ -20389,6 +20346,7 @@ DOMAIN,b5dac791-dnsotls-ds.metric.gstatic.com,reject
 DOMAIN,b5g.cn,reject
 DOMAIN,b5gvpk5.com,reject
 DOMAIN,b5i.cn,reject
+DOMAIN,b5kbg2ggog.adobe.io,reject
 DOMAIN,b5nd.cl.app,reject
 DOMAIN,b6d4.7790.com,reject
 DOMAIN,b6su.720lu.com,reject
@@ -20516,6 +20474,7 @@ DOMAIN,bidmad.adop.cc,reject
 DOMAIN,bidtoolads.com,reject
 DOMAIN,bieming8gg9.com,reject
 DOMAIN,bifrost.oddin.gg,reject
+DOMAIN,bigcloud.cyou,reject
 DOMAIN,bigdata.advmob.cn,reject
 DOMAIN,bigmobileads.com,reject
 DOMAIN,bignqzm.cn,reject
@@ -20717,6 +20676,7 @@ DOMAIN,c.o6j.cn,reject
 DOMAIN,c.qchannel01.cn,reject
 DOMAIN,c.skconf.f.360.cn,reject
 DOMAIN,c.ssp.360.cn,reject
+DOMAIN,c.tpgjb.top,reject
 DOMAIN,c.vrvm.com,reject
 DOMAIN,c.x.cn.miaozhen.com,reject
 DOMAIN,c05001.sv61705w.com,reject
@@ -20764,6 +20724,8 @@ DOMAIN,cache.csbxzx.com,reject
 DOMAIN,cache.verify.mob.com,reject
 DOMAIN,cacheintum.com,reject
 DOMAIN,cahe.cl.app,reject
+DOMAIN,cai-identity.adobe.io,reject
+DOMAIN,cai-splunk-proxy.adobe.io,reject
 DOMAIN,caid.shuzilm.cn,reject
 DOMAIN,caihong5g.com,reject
 DOMAIN,cailing.gengchuangz.com,reject
@@ -20801,6 +20763,7 @@ DOMAIN,cbu01.alicdn.com,reject
 DOMAIN,cbv5.com,reject
 DOMAIN,cbxe54958.cc,reject
 DOMAIN,cc-algo-cn.heytapimage.com,reject
+DOMAIN,cc-cdn.adobe.com,reject
 DOMAIN,cc-img-cn.heytapimage.com,reject
 DOMAIN,cc-mipdx.cn.miaozhen.com,reject
 DOMAIN,cc.chuidiren.com,reject
@@ -20825,6 +20788,7 @@ DOMAIN,ccfjma.m.jd.com,reject
 DOMAIN,ccflbs.m.jd.com,reject
 DOMAIN,cchguoji.com,reject
 DOMAIN,cck.ppkkll6655.com,reject
+DOMAIN,cclibraries-defaults-cdn.adobe.com,reject
 DOMAIN,ccs-mipdx.cn.miaozhen.com,reject
 DOMAIN,ccs.chla071.com,reject
 DOMAIN,ccs.cholor20902.cn,reject
@@ -20832,6 +20796,7 @@ DOMAIN,ccsetting.oopej.xyz,reject
 DOMAIN,ccsetting.qqnde.xyz,reject
 DOMAIN,cctve.ooxjnsn.com,reject
 DOMAIN,cctve.wjzafhc.com,reject
+DOMAIN,cctypekit.adobe.io,reject
 DOMAIN,ccxiangsw.lmnpd.xyz,reject
 DOMAIN,ccxiangsw.mmead.xyz,reject
 DOMAIN,cd-user-upload.hongsong.club,reject
@@ -21081,6 +21046,7 @@ DOMAIN,cientch.360doc.cn,reject
 DOMAIN,cis.sohu.com,reject
 DOMAIN,cj7fy.anoukverdonk.com,reject
 DOMAIN,cje9.7790.com,reject
+DOMAIN,cjhd.mediav.com,reject
 DOMAIN,cjjd14.com,reject
 DOMAIN,ck2.ppos.com,reject
 DOMAIN,ckam3uxg8nvd.com,reject
@@ -21325,6 +21291,7 @@ DOMAIN,crl.microsoft.com,reject
 DOMAIN,crl4.digicert.com,reject
 DOMAIN,crm.feichengjiaoyu.com,reject
 DOMAIN,crosspro-track.tradplusad.com,reject
+DOMAIN,crs.cr.adobe.com,reject
 DOMAIN,crt.comodoca.com.cdn.cloudflare.net,reject
 DOMAIN,crt.sectigo.com,reject
 DOMAIN,crumb.sobot.com,reject
@@ -21714,6 +21681,7 @@ DOMAIN,doh.dns.apple.com,reject
 DOMAIN,doh.pub,reject
 DOMAIN,doll-public.huiyuewang.cn,reject
 DOMAIN,domainsguardian.com.,reject
+DOMAIN,domob.cn,reject
 DOMAIN,domob.com.cn,reject
 DOMAIN,dongruihe.com,reject
 DOMAIN,dop.openapi.umeng.com,reject
@@ -21756,6 +21724,7 @@ DOMAIN,dq2jd.cc,reject
 DOMAIN,dqv3.720lu.com,reject
 DOMAIN,dqw9.8890.com,reject
 DOMAIN,dqwk.154.com,reject
+DOMAIN,dragonparking.com,reject
 DOMAIN,drfm.yl.vip,reject
 DOMAIN,drpf-h55.proxima.nie.netease.com,reject
 DOMAIN,drpf-l36.proxima.nie.netease.com,reject
@@ -21829,6 +21798,7 @@ DOMAIN,dxld.shuzilm.cn,reject
 DOMAIN,dxpj5pby4b94m.cloudfront.net,reject
 DOMAIN,dxr.hrzwaq.store,reject
 DOMAIN,dxr.onjesb.shop,reject
+DOMAIN,dxyeyf6ecy.adobe.io,reject
 DOMAIN,dy.bjdmcx.cn,reject
 DOMAIN,dy7.maqueshengqian.store,reject
 DOMAIN,dyblog.cn,reject
@@ -21840,6 +21810,7 @@ DOMAIN,dyp013.com,reject
 DOMAIN,dytg.judingli.com,reject
 DOMAIN,dyzi.143.cc,reject
 DOMAIN,dyzt1.wts9999.cn,reject
+DOMAIN,dyzt55url8.adobe.io,reject
 DOMAIN,dz.mmstat.com,reject
 DOMAIN,dzdp.880.net,reject
 DOMAIN,dzu7dslzgkd8g.cloudfront.net,reject
@@ -21979,6 +21950,7 @@ DOMAIN,eq83.hikedj.com,reject
 DOMAIN,eqil.6t.com,reject
 DOMAIN,eqobb.appfx8.com,reject
 DOMAIN,erghh3717.cc,reject
+DOMAIN,ergodicitytech.com,reject
 DOMAIN,err.taobao.com,reject
 DOMAIN,errc.flysleep.cn,reject
 DOMAIN,errc.zztfly.com,reject
@@ -22056,6 +22028,7 @@ DOMAIN,eyynz.geyueay.com,reject
 DOMAIN,ezd4.8890.com,reject
 DOMAIN,ezuz743.xyz,reject
 DOMAIN,f-91.cdn-vipvideo.com,reject
+DOMAIN,f.8fenxiang.com,reject
 DOMAIN,f.aty.sohu.com,reject
 DOMAIN,f.gm.mob.com,reject
 DOMAIN,f.moblink.mob.com,reject
@@ -22674,6 +22647,7 @@ DOMAIN,guide-acs.m.taobao.com,reject
 DOMAIN,guliad.com,reject
 DOMAIN,gungnir.xiaojukeji.com,reject
 DOMAIN,gutvwq7y.dekang656.top,reject
+DOMAIN,guzg78logz.adobe.io,reject
 DOMAIN,gv.xdrig.com,reject
 DOMAIN,gv1.xdrig.com,reject
 DOMAIN,gvod.aiseejapp.atianqi.com,reject
@@ -22684,6 +22658,7 @@ DOMAIN,gw.mediation.unity3d.com,reject
 DOMAIN,gw.mmstat.com,reject
 DOMAIN,gw.shouji.360.cn,reject
 DOMAIN,gw51.cn,reject
+DOMAIN,gw8gfjbsO5.adobe.io,reject
 DOMAIN,gweb.tsyule.cn,reject
 DOMAIN,gwhxlksadjknsal23k2ljglsas.meo00delivery.com,reject
 DOMAIN,gx.huangtai.net,reject
@@ -23155,6 +23130,7 @@ DOMAIN,ib04.k8.com,reject
 DOMAIN,ib302.zjcdn.com,reject
 DOMAIN,ibrowser.feeds.heytapmobi.com,reject
 DOMAIN,iburtq.xyz,reject
+DOMAIN,ic.adobe.io,reject
 DOMAIN,ic.adsl.cn,reject
 DOMAIN,ic.de.inmobi.com,reject
 DOMAIN,ic6c.yide.com,reject
@@ -24010,6 +23986,8 @@ DOMAIN,lc.getui.com,reject
 DOMAIN,lc.map.baidu.com,reject
 DOMAIN,lca.wts99.cn,reject
 DOMAIN,lco9.ag8.com,reject
+DOMAIN,lcs-cops.adobe.io,reject
+DOMAIN,lcs-robs.adobe.io,reject
 DOMAIN,ld.dqapi.cn,reject
 DOMAIN,ld72.07879.com,reject
 DOMAIN,ldhfugftn.gzzm9y1.com,reject
@@ -24162,6 +24140,7 @@ DOMAIN,lmtz.wcwlcl12.cn,reject
 DOMAIN,lnlobgjd.cloud.qpd.kunkundun.com,reject
 DOMAIN,lo.swt.gold,reject
 DOMAIN,lobby1-live.cn.codm.qq.com,reject
+DOMAIN,local.info.g9hc4.cn,reject
 DOMAIN,location.ximalaya.com,reject
 DOMAIN,log-api.aplus.emas-poc.com,reject
 DOMAIN,log-api.oceanengine.com,reject
@@ -25359,6 +25338,8 @@ DOMAIN,p1.cfvn66.com,reject
 DOMAIN,p1.eckwai.com,reject
 DOMAIN,p1.ssl.qhimgs3.com,reject
 DOMAIN,p123.my,reject
+DOMAIN,p13n-mr.adobe.io,reject
+DOMAIN,p13n.adobe.io,reject
 DOMAIN,p1sv.yl.ag,reject
 DOMAIN,p2-jx.adkwai.com,reject
 DOMAIN,p2-jx.adukwai.com,reject
@@ -25412,6 +25393,7 @@ DOMAIN,p6-webcast.douyinpic.com,reject
 DOMAIN,p6-yx.adkwai.com,reject
 DOMAIN,p6.adkwai.com,reject
 DOMAIN,p7f.cn,reject
+DOMAIN,p7uxzbht8h.adobe.io,reject
 DOMAIN,p8.qhimg.com,reject
 DOMAIN,p8.shnhyl.com.cn,reject
 DOMAIN,p8akfg5r9.com.361cyd.net,reject
@@ -25517,13 +25499,16 @@ DOMAIN,pg88.tu0847242238.cc,reject
 DOMAIN,pgf9971.com,reject
 DOMAIN,pgkk89.com,reject
 DOMAIN,pgsz.880.net,reject
+DOMAIN,ph0f2h2csf.adobe.io,reject
 DOMAIN,phc7aps.gthrtrjh.cn,reject
 DOMAIN,phcjf.com,reject
+DOMAIN,phef2h2csf.adobe.io,reject
 DOMAIN,phh0.7790.com,reject
 DOMAIN,phire.cn,reject
 DOMAIN,phone.getui.com,reject
 DOMAIN,phone.igexin.com,reject
 DOMAIN,phoniex.toutiao.com,reject
+DOMAIN,photos.adobe.io,reject
 DOMAIN,photovideo-circle.photo.qq.com,reject
 DOMAIN,pi2k.hikedj.com,reject
 DOMAIN,pic-ad-ld.tupian1234.com,reject
@@ -25546,6 +25531,7 @@ DOMAIN,pic6.ajkimg.com,reject
 DOMAIN,pic8.iqiyipic.com,reject
 DOMAIN,pic9.iqiyipic.com,reject
 DOMAIN,picabstract-preview-ftn.weiyun.com,reject
+DOMAIN,picnewsss.com,reject
 DOMAIN,picshack.net,reject
 DOMAIN,picture.oceanengine.com,reject
 DOMAIN,pigeon.alicdn.com,reject
@@ -26038,6 +26024,7 @@ DOMAIN,redirector.gvt1.com,reject
 DOMAIN,reg.expolifestyle.com,reject
 DOMAIN,regapi.37.com,reject
 DOMAIN,register.appsflyer.com,reject
+DOMAIN,registeridm.com,reject
 DOMAIN,reksaidnslog.security.mihoyo.com,reject
 DOMAIN,render-prod-backup-tile.amap.com,reject
 DOMAIN,renrenjihua.com,reject
@@ -26301,6 +26288,7 @@ DOMAIN,s15.cnzz.com,reject
 DOMAIN,s16.cnzz.com,reject
 DOMAIN,s17.cnzz.com,reject
 DOMAIN,s19.cnzz.com,reject
+DOMAIN,s1m.mediav.com,reject
 DOMAIN,s1wo.ag8.com,reject
 DOMAIN,s2-10833.kwimgs.com,reject
 DOMAIN,s2-111226.ssrcdn.com,reject
@@ -26325,6 +26313,7 @@ DOMAIN,s27.cnzz.com,reject
 DOMAIN,s28.cnzz.com,reject
 DOMAIN,s29.cnzz.com,reject
 DOMAIN,s2f.time.edu.cn,reject
+DOMAIN,s2m.mediav.com,reject
 DOMAIN,s2r0.143.cc,reject
 DOMAIN,s2rs.cl.app,reject
 DOMAIN,s2s.appsflyer.com,reject
@@ -26354,7 +26343,12 @@ DOMAIN,s3a.pstatp.com,reject
 DOMAIN,s3adm.ad.weibo.com,reject
 DOMAIN,s3dljm.z.cjjd14.com,reject
 DOMAIN,s3drcn.z.cjjd14.com,reject
+DOMAIN,s3m.mediav.com,reject
+DOMAIN,s3m1.fenxi.com,reject
 DOMAIN,s3m1.nzwgs.com,reject
+DOMAIN,s3m2.fenxi.com,reject
+DOMAIN,s3m3.fenxi.com,reject
+DOMAIN,s3m4.fenxi.com,reject
 DOMAIN,s3x3fb0l.com,reject
 DOMAIN,s4.cnzz.com,reject
 DOMAIN,s4.irs03.com,reject
@@ -26368,6 +26362,7 @@ DOMAIN,s47.cnzz.com,reject
 DOMAIN,s48.cnzz.com,reject
 DOMAIN,s49.cnzz.com,reject
 DOMAIN,s4fx.kgimg.com,reject
+DOMAIN,s4m.mediav.com,reject
 DOMAIN,s5.cnzz.com,reject
 DOMAIN,s5.yx-s.com,reject
 DOMAIN,s50.cnzz.com,reject
@@ -26422,6 +26417,7 @@ DOMAIN,sa.kkmh.com,reject
 DOMAIN,sa3cba2a.irs03.com,reject
 DOMAIN,saas.tingyun.com,reject
 DOMAIN,sab4.cl.app,reject
+DOMAIN,sadbh-kye.com,reject
 DOMAIN,sadfasdfa962.com,reject
 DOMAIN,safe.res.meizu.com,reject
 DOMAIN,safe.ucweb.com,reject
@@ -26951,6 +26947,7 @@ DOMAIN,static-online.cdn.bcebos.com,reject
 DOMAIN,static-online.kuaishang.cn,reject
 DOMAIN,static-res.qq.com,reject
 DOMAIN,static-rsd.gn.qq.com,reject
+DOMAIN,static-ssl.mediav.com,reject
 DOMAIN,static-zj.oqb7iv7g.com,reject
 DOMAIN,static.360buyimg.com,reject
 DOMAIN,static.52haoka.com,reject
@@ -26977,6 +26974,7 @@ DOMAIN,static.iyf.tv,reject
 DOMAIN,static.lm-a.zblb.sm.cn,reject
 DOMAIN,static.m.sjzhushou.com,reject
 DOMAIN,static.mddlsa.com,reject
+DOMAIN,static.mediav.com,reject
 DOMAIN,static.meiqia.com,reject
 DOMAIN,static.mob.com,reject
 DOMAIN,static.nb86.xyz,reject
@@ -27078,6 +27076,7 @@ DOMAIN,sucai.suoluomei.cn,reject
 DOMAIN,sug.browser.miui.com,reject
 DOMAIN,sugar.xxx,reject
 DOMAIN,sugs.m.sm.cn,reject
+DOMAIN,sumatang.com,reject
 DOMAIN,sumdiff.vivo.com.cn,reject
 DOMAIN,sunlands.com,reject
 DOMAIN,sunyonga,reject
@@ -27216,6 +27215,7 @@ DOMAIN,tapi.apkpure.net,reject
 DOMAIN,tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com,reject
 DOMAIN,tappile.com,reject
 DOMAIN,tasksvr.tingyun.com,reject
+DOMAIN,tat.pandora.xiaomi.com,reject
 DOMAIN,taw9.143.cc,reject
 DOMAIN,tawk.to,reject
 DOMAIN,tb.53kf.com,reject
