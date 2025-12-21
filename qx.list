@@ -718,7 +718,6 @@ DOMAIN,t1.teads.tv,reject
 DOMAIN,t2.a.market.xiaomi.com,reject
 DOMAIN,t2.fancyapi.com,reject
 DOMAIN,t3.a.market.xiaomi.com,reject
-DOMAIN,t7z.cupid.iqiyi.com,reject
 DOMAIN,t7z.cupid.ptqy.gitv.tv,reject
 DOMAIN,tangram.e.qq.com,reject
 DOMAIN,target.ads.jihuoniao.com,reject
@@ -16669,6 +16668,7 @@ DOMAIN,sdk-api.beizi.biz,reject
 DOMAIN,signaltower.gdt.qq.com,reject
 DOMAIN,ssp-sdk-config.uc.cn,reject
 DOMAIN,swallow.kakamobi.cn,reject
+DOMAIN,t7z.cupid.iqiyi.com,reject
 DOMAIN,test.y.qq.com,reject
 DOMAIN,tianshu.qq.com,reject
 DOMAIN,upos-sz-static.bilivideo.com,reject
