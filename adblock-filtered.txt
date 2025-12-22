@@ -3991,61 +3991,6 @@
 ||yu041202.982051.cc^
 ||hy040803.298754.cc^
 ||frt040803.341035.cc^
-||dragonparking.com^
-||sadbh-kye.com^
-||tat.pandora.xiaomi.com^
-||lcs-cops.adobe.io^
-||lcs-robs.adobe.io^
-||ic.adobe.io^
-||ph0f2h2csf.adobe.io^
-||cctypekit.adobe.io^
-||cclibraries-defaults-cdn.adobe.com^
-||cc-cdn.adobe.com^
-||alert.kuyun.com^
-||api.hpplay.com.cn^
-||geo2.adobe.com^
-||s3m1.fenxi.com^
-||s3m2.fenxi.com^
-||s3m3.fenxi.com^
-||s3m4.fenxi.com^
-||s1m.mediav.com^
-||s2m.mediav.com^
-||s3m.mediav.com^
-||s4m.mediav.com^
-||cjhd.mediav.com^
-||static.mediav.com^
-||static-ssl.mediav.com^
-||domob.cn^
-||sumatang.com^
-||bigcloud.cyou^
-||picnewsss.com^
-||t1tgame.com^
-||ergodicitytech.com^
-||c.tpgjb.top^
-||f.8fenxiang.com^
-||local.info.g9hc4.cn^
-||realsrv.com^
-||jads.co^
-||juicyads.com^
-||dxyeyf6ecy.adobe.io^
-||1hzopx6nz7.adobe.io^
-||p13n.adobe.io^
-||p13n-mr.adobe.io^
-||cai-identity.adobe.io^
-||dyzt55url8.adobe.io^
-||gw8gfjbsO5.adobe.io^
-||2ftem87osk.adobe.io^
-||phef2h2csf.adobe.io^
-||7sj9n87sls.adobe.io^
-||b5kbg2ggog.adobe.io^
-||p7uxzbht8h.adobe.io^
-||guzg78logz.adobe.io^
-||crs.cr.adobe.com^
-||photos.adobe.io^
-||cai-splunk-proxy.adobe.io^
-||cap.cyberlink.com^
-||activation.cyberlink.com^
-||registeridm.com^
 ||ad-sign.byteimg.com^
 ||tos.pstatp.com^
 ||video-cn.snssdk.com^
@@ -5672,6 +5617,7 @@
 ||adk2.co^
 ||cpmchina.co^
 ||geili.co^
+||jads.co^
 ||qq2.co^
 ||zoomanalytics.co^
 ||ib.adnxs.co^
@@ -6643,6 +6589,7 @@
 ||jsncke.com^
 ||jtys8.com^
 ||ju33.com^
+||juicyads.com^
 ||jundazulin.com^
 ||junfull.com^
 ||junkucm.com^
@@ -7035,6 +6982,7 @@
 ||rayjump.com^
 ||rbywg.com^
 ||rdtuijian.com^
+||realsrv.com^
 ||reliancevalve.com^
 ||remote88.com^
 ||rencai56.com^
@@ -7937,6 +7885,7 @@
 ||adobe-dns.adobe.com^
 ||adobe-dns-2.adobe.com^
 ||adobe-dns-3.adobe.com^
+||geo2.adobe.com^
 ||get3.adobe.com^
 ||hl2rcv.adobe.com^
 ||practivate.adobe.com^
@@ -8420,6 +8369,8 @@
 ||xpe.cxaerp.com^
 ||news.cxxtv.com^
 ||img.cxxyft.com^
+||activation.cyberlink.com^
+||cap.cyberlink.com^
 ||c.cyhx98.com^
 ||imgc.cymzc.com^
 ||imgp.cymzc.com^
@@ -15594,6 +15545,7 @@
 ||szipkp.com^
 ||t.atomicfile.cn^
 ||t0pan.top^
+||t1tgame.com^
 ||t23o.cn^
 ||t28goe.cn^
 ||t2zfyxjj.icu^
@@ -17518,6 +17470,7 @@
 ||1hte.xdplt.com^
 ||1hz.web.hu2djz.7fw5q.com^
 ||1hz.web.hu2djz.nwa6a.com^
+||1hzopx6nz7.adobe.io^
 ||1j103dtlq.yunyonggong.com.cn^
 ||1jt9.8890.com^
 ||1jym.cl.app^
@@ -17866,6 +17819,7 @@
 ||2fmobile.adnxs.com^
 ||2fprebid.adnxs.com^
 ||2fsecure.adnxs.com^
+||2ftem87osk.adobe.io^
 ||2fvcdn.adnxs.com^
 ||2fvd.7790.com^
 ||2jc9.8890.com^
@@ -18844,6 +18798,7 @@
 ||7pum.154.com^
 ||7q67.880.net^
 ||7sf-3.3hj.com^
+||7sj9n87sls.adobe.io^
 ||7skin.eysae.cn^
 ||7slu.720lu.com^
 ||7spctz9pjvl2bcf.chuheyimei.com^
@@ -19753,6 +19708,7 @@
 ||alb-whlm6gc63qycf09eio.cn-hongkong.alb.aliyuncs.com^
 ||alb-y93bzo8168fomu9f93.cn-hongkong.alb.aliyuncs.com^
 ||ald-lamp.alicdn.com^
+||alert.kuyun.com^
 ||alhy.7790.com^
 ||ali-adaptive-pull.live-voip.com^
 ||ali-adaptive.pull.yximgs.com^
@@ -19994,6 +19950,7 @@
 ||api.gifshow.com^
 ||api.gzsane.com^
 ||api.hduofen.cn^
+||api.hpplay.com.cn^
 ||api.im.jpush.cn^
 ||api.inmobi.cn^
 ||api.instabug.com^
@@ -20443,6 +20400,7 @@
 ||b5g.cn^
 ||b5gvpk5.com^
 ||b5i.cn^
+||b5kbg2ggog.adobe.io^
 ||b5nd.cl.app^
 ||b6d4.7790.com^
 ||b6su.720lu.com^
@@ -20572,6 +20530,7 @@
 ||bidtoolads.com^
 ||bieming8gg9.com^
 ||bifrost.oddin.gg^
+||bigcloud.cyou^
 ||bigdata.advmob.cn^
 ||bigmobileads.com^
 ||bignqzm.cn^
@@ -20774,6 +20733,7 @@
 ||c.qchannel01.cn^
 ||c.skconf.f.360.cn^
 ||c.ssp.360.cn^
+||c.tpgjb.top^
 ||c.vrvm.com^
 ||c.x.cn.miaozhen.com^
 ||c05001.sv61705w.com^
@@ -20821,6 +20781,8 @@
 ||cache.verify.mob.com^
 ||cacheintum.com^
 ||cahe.cl.app^
+||cai-identity.adobe.io^
+||cai-splunk-proxy.adobe.io^
 ||caid.shuzilm.cn^
 ||caihong5g.com^
 ||cailing.gengchuangz.com^
@@ -20858,6 +20820,7 @@
 ||cbv5.com^
 ||cbxe54958.cc^
 ||cc-algo-cn.heytapimage.com^
+||cc-cdn.adobe.com^
 ||cc-img-cn.heytapimage.com^
 ||cc-mipdx.cn.miaozhen.com^
 ||cc.chuidiren.com^
@@ -20882,6 +20845,7 @@
 ||ccflbs.m.jd.com^
 ||cchguoji.com^
 ||cck.ppkkll6655.com^
+||cclibraries-defaults-cdn.adobe.com^
 ||ccs-mipdx.cn.miaozhen.com^
 ||ccs.chla071.com^
 ||ccs.cholor20902.cn^
@@ -20889,6 +20853,7 @@
 ||ccsetting.qqnde.xyz^
 ||cctve.ooxjnsn.com^
 ||cctve.wjzafhc.com^
+||cctypekit.adobe.io^
 ||ccxiangsw.lmnpd.xyz^
 ||ccxiangsw.mmead.xyz^
 ||cd-user-upload.hongsong.club^
@@ -21139,6 +21104,7 @@
 ||cis.sohu.com^
 ||cj7fy.anoukverdonk.com^
 ||cje9.7790.com^
+||cjhd.mediav.com^
 ||cjjd14.com^
 ||ck2.ppos.com^
 ||ckam3uxg8nvd.com^
@@ -21384,6 +21350,7 @@
 ||crl4.digicert.com^
 ||crm.feichengjiaoyu.com^
 ||crosspro-track.tradplusad.com^
+||crs.cr.adobe.com^
 ||crt.comodoca.com.cdn.cloudflare.net^
 ||crt.sectigo.com^
 ||crumb.sobot.com^
@@ -21773,6 +21740,7 @@
 ||doh.pub^
 ||doll-public.huiyuewang.cn^
 ||domainsguardian.com.^
+||domob.cn^
 ||domob.com.cn^
 ||dongruihe.com^
 ||dop.openapi.umeng.com^
@@ -21816,6 +21784,7 @@
 ||dqv3.720lu.com^
 ||dqw9.8890.com^
 ||dqwk.154.com^
+||dragonparking.com^
 ||drfm.yl.vip^
 ||drpf-h55.proxima.nie.netease.com^
 ||drpf-l36.proxima.nie.netease.com^
@@ -21889,6 +21858,7 @@
 ||dxpj5pby4b94m.cloudfront.net^
 ||dxr.hrzwaq.store^
 ||dxr.onjesb.shop^
+||dxyeyf6ecy.adobe.io^
 ||dy.bjdmcx.cn^
 ||dy7.maqueshengqian.store^
 ||dyblog.cn^
@@ -21900,6 +21870,7 @@
 ||dytg.judingli.com^
 ||dyzi.143.cc^
 ||dyzt1.wts9999.cn^
+||dyzt55url8.adobe.io^
 ||dz.mmstat.com^
 ||dzdp.880.net^
 ||dzu7dslzgkd8g.cloudfront.net^
@@ -22041,6 +22012,7 @@
 ||eqil.6t.com^
 ||eqobb.appfx8.com^
 ||erghh3717.cc^
+||ergodicitytech.com^
 ||err.taobao.com^
 ||errc.flysleep.cn^
 ||errc.zztfly.com^
@@ -22119,6 +22091,7 @@
 ||ezuz743.xyz^
 ||f-91.cdn-vipvideo.com^
 ||f-cashloan.snssdk.com^
+||f.8fenxiang.com^
 ||f.aty.sohu.com^
 ||f.gm.mob.com^
 ||f.moblink.mob.com^
@@ -22741,6 +22714,7 @@
 ||guliad.com^
 ||gungnir.xiaojukeji.com^
 ||gutvwq7y.dekang656.top^
+||guzg78logz.adobe.io^
 ||gv.xdrig.com^
 ||gv1.xdrig.com^
 ||gvod.aiseejapp.atianqi.com^
@@ -22751,6 +22725,7 @@
 ||gw.mmstat.com^
 ||gw.shouji.360.cn^
 ||gw51.cn^
+||gw8gfjbsO5.adobe.io^
 ||gweb.tsyule.cn^
 ||gwhxlksadjknsal23k2ljglsas.meo00delivery.com^
 ||gx.huangtai.net^
@@ -23223,6 +23198,7 @@
 ||ib302.zjcdn.com^
 ||ibrowser.feeds.heytapmobi.com^
 ||iburtq.xyz^
+||ic.adobe.io^
 ||ic.adsl.cn^
 ||ic.de.inmobi.com^
 ||ic6c.yide.com^
@@ -24081,6 +24057,8 @@
 ||lc.map.baidu.com^
 ||lca.wts99.cn^
 ||lco9.ag8.com^
+||lcs-cops.adobe.io^
+||lcs-robs.adobe.io^
 ||ld.dqapi.cn^
 ||ld72.07879.com^
 ||ldhfugftn.gzzm9y1.com^
@@ -24235,6 +24213,7 @@
 ||lnlobgjd.cloud.qpd.kunkundun.com^
 ||lo.swt.gold^
 ||lobby1-live.cn.codm.qq.com^
+||local.info.g9hc4.cn^
 ||location.ximalaya.com^
 ||log-api.aplus.emas-poc.com^
 ||log-api.oceanengine.com^
@@ -25434,6 +25413,8 @@
 ||p1.eckwai.com^
 ||p1.ssl.qhimgs3.com^
 ||p123.my^
+||p13n-mr.adobe.io^
+||p13n.adobe.io^
 ||p1sv.yl.ag^
 ||p2-jx.adkwai.com^
 ||p2-jx.adukwai.com^
@@ -25490,6 +25471,7 @@
 ||p6-yx.adkwai.com^
 ||p6.adkwai.com^
 ||p7f.cn^
+||p7uxzbht8h.adobe.io^
 ||p8.qhimg.com^
 ||p8.shnhyl.com.cn^
 ||p8akfg5r9.com.361cyd.net^
@@ -25595,13 +25577,16 @@
 ||pgf9971.com^
 ||pgkk89.com^
 ||pgsz.880.net^
+||ph0f2h2csf.adobe.io^
 ||phc7aps.gthrtrjh.cn^
 ||phcjf.com^
+||phef2h2csf.adobe.io^
 ||phh0.7790.com^
 ||phire.cn^
 ||phone.getui.com^
 ||phone.igexin.com^
 ||phoniex.toutiao.com^
+||photos.adobe.io^
 ||photovideo-circle.photo.qq.com^
 ||pi2k.hikedj.com^
 ||pic-ad-ld.tupian1234.com^
@@ -25624,6 +25609,7 @@
 ||pic8.iqiyipic.com^
 ||pic9.iqiyipic.com^
 ||picabstract-preview-ftn.weiyun.com^
+||picnewsss.com^
 ||picshack.net^
 ||picture.oceanengine.com^
 ||pigeon.alicdn.com^
@@ -26117,6 +26103,7 @@
 ||reg.expolifestyle.com^
 ||regapi.37.com^
 ||register.appsflyer.com^
+||registeridm.com^
 ||reksaidnslog.security.mihoyo.com^
 ||render-prod-backup-tile.amap.com^
 ||renrenjihua.com^
@@ -26380,6 +26367,7 @@
 ||s16.cnzz.com^
 ||s17.cnzz.com^
 ||s19.cnzz.com^
+||s1m.mediav.com^
 ||s1wo.ag8.com^
 ||s2-10833.kwimgs.com^
 ||s2-111226.ssrcdn.com^
@@ -26404,6 +26392,7 @@
 ||s28.cnzz.com^
 ||s29.cnzz.com^
 ||s2f.time.edu.cn^
+||s2m.mediav.com^
 ||s2r0.143.cc^
 ||s2rs.cl.app^
 ||s2s.appsflyer.com^
@@ -26433,7 +26422,12 @@
 ||s3adm.ad.weibo.com^
 ||s3dljm.z.cjjd14.com^
 ||s3drcn.z.cjjd14.com^
+||s3m.mediav.com^
+||s3m1.fenxi.com^
 ||s3m1.nzwgs.com^
+||s3m2.fenxi.com^
+||s3m3.fenxi.com^
+||s3m4.fenxi.com^
 ||s3x3fb0l.com^
 ||s4.cnzz.com^
 ||s4.irs03.com^
@@ -26447,6 +26441,7 @@
 ||s48.cnzz.com^
 ||s49.cnzz.com^
 ||s4fx.kgimg.com^
+||s4m.mediav.com^
 ||s5.cnzz.com^
 ||s5.yx-s.com^
 ||s50.cnzz.com^
@@ -26501,6 +26496,7 @@
 ||sa3cba2a.irs03.com^
 ||saas.tingyun.com^
 ||sab4.cl.app^
+||sadbh-kye.com^
 ||sadfasdfa962.com^
 ||safe.res.meizu.com^
 ||safe.ucweb.com^
@@ -27031,6 +27027,7 @@
 ||static-online.kuaishang.cn^
 ||static-res.qq.com^
 ||static-rsd.gn.qq.com^
+||static-ssl.mediav.com^
 ||static-zj.oqb7iv7g.com^
 ||static.360buyimg.com^
 ||static.52haoka.com^
@@ -27057,6 +27054,7 @@
 ||static.lm-a.zblb.sm.cn^
 ||static.m.sjzhushou.com^
 ||static.mddlsa.com^
+||static.mediav.com^
 ||static.meiqia.com^
 ||static.mob.com^
 ||static.nb86.xyz^
@@ -27159,6 +27157,7 @@
 ||sug.browser.miui.com^
 ||sugar.xxx^
 ||sugs.m.sm.cn^
+||sumatang.com^
 ||sumdiff.vivo.com.cn^
 ||sunlands.com^
 ||sunyonga^
@@ -27298,6 +27297,7 @@
 ||tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com^
 ||tappile.com^
 ||tasksvr.tingyun.com^
+||tat.pandora.xiaomi.com^
 ||taw9.143.cc^
 ||tawk.to^
 ||tb.53kf.com^
