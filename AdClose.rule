@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2025-12-23 08:20:22
-# 规则总数: 29642
+# 更新时间: 2025-12-23 12:28:50
+# 规则总数: 29644
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -17784,6 +17784,7 @@ domain, mediaplex.com
 domain, mediapro.pro.cn
 domain, mediation.adnxs.com
 domain, mediav.com
+domain, medproad.com
 domain, medrx.telstra.com.au
 domain, meethanshi.com
 domain, meetrics.com
@@ -24003,6 +24004,7 @@ domain, szxy.getui.com
 domain, szyr474.com
 domain, szyxb181.xwtec.cn
 domain, t-ads.xiaohongshu.com
+domain, t-adx.52qumao.com
 domain, t-cfg.wtzw.com
 domain, t-dsp.pinduoduo.com
 domain, t-e.flyme.cn

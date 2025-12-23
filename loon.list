@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2025-12-23 16:20:21
-# 规则统计: 总计29638条 (IP:1029 DOMAIN:0 SUFFIX:28609 KEYWORD:0)
+# 更新时间(北京时间): 2025-12-23 20:28:49
+# 规则统计: 总计29640条 (IP:1029 DOMAIN:0 SUFFIX:28611 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -17791,6 +17791,7 @@ DOMAIN-SUFFIX,mediaplex.com,REJECT
 DOMAIN-SUFFIX,mediapro.pro.cn,REJECT
 DOMAIN-SUFFIX,mediation.adnxs.com,REJECT
 DOMAIN-SUFFIX,mediav.com,REJECT
+DOMAIN-SUFFIX,medproad.com,REJECT
 DOMAIN-SUFFIX,medrx.telstra.com.au,REJECT
 DOMAIN-SUFFIX,meethanshi.com,REJECT
 DOMAIN-SUFFIX,meetrics.com,REJECT
@@ -24003,6 +24004,7 @@ DOMAIN-SUFFIX,szxy.getui.com,REJECT
 DOMAIN-SUFFIX,szyr474.com,REJECT
 DOMAIN-SUFFIX,szyxb181.xwtec.cn,REJECT
 DOMAIN-SUFFIX,t-ads.xiaohongshu.com,REJECT
+DOMAIN-SUFFIX,t-adx.52qumao.com,REJECT
 DOMAIN-SUFFIX,t-cfg.wtzw.com,REJECT
 DOMAIN-SUFFIX,t-dsp.pinduoduo.com,REJECT
 DOMAIN-SUFFIX,t-e.flyme.cn,REJECT

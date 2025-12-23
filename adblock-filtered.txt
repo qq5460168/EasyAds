@@ -126,6 +126,7 @@
 ||adtago.s3.amazonaws.com^
 ||adtech.yahooinc.com^
 ||adtrack.quark.cn^
+||adtracker.medproad.com^
 ||adv-api.shenshiads.com^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
@@ -517,6 +518,7 @@
 ||mazu.m.qq.com^
 ||mbdlog.iqiyi.com^
 ||mcs.zijieapi.com^
+||medproad.com^
 ||metrics.data.hicloud.com^
 ||metrics.icloud.com^
 ||metrics.mzstatic.com^
@@ -620,6 +622,7 @@
 ||proxy.advp.apple.com^
 ||public.gdtimg.com^
 ||q.i.gdt.qq.com^
+||qcwx.medproad.com^
 ||qmlog.baertt.com^
 ||qn-cdnfile1pcdn.msstatic.com^
 ||qqdata.ab.qq.com^
@@ -717,6 +720,7 @@
 ||syh-imp.cdnjtzy.com^
 ||syh.zybang.com^
 ||szbdyd.com^
+||t-adx.52qumao.com^
 ||t-dsp.pinduoduo.com^
 ||t.applovin.com^
 ||t.l.qq.com^
@@ -958,7 +962,6 @@
 ||adsmartget.guangtuikeji.com^
 ||as1.dcloud.net.cn^
 ||apis.xayabx.com^
-||qcwx.medproad.com^
 ||image.uczzd.cn^
 ||adtracker.adfunlink.com^
 ||tr.medproad.com^
@@ -3412,7 +3415,6 @@
 ||admore.cps.zaibiao.cn^
 ||ads.oneway.mobi^
 ||de.ad.gameley.com^
-||adtracker.medproad.com^
 ||kfpicimage.xyz^
 ||imagecloub.com^
 ||getads.tianad.cn^

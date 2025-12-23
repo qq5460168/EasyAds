@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-12-23 16:20:22
-! 有效规则数量: 2796 条
+! 规则更新时间: 2025-12-23 20:28:50
+! 有效规则数量: 2792 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -2567,7 +2567,6 @@
 @@||marketo.net^$important
 @@||mktoresp.com^$important
 @@||googletagmanager.com^$important
-@@||jd.com^$important
 @@||doaxvv.com^$important
 @@||pan.quark.cn^$important
 @@||passport.yl234.com^$important
@@ -2623,7 +2622,6 @@
 @@||sdksp.video.qq.com
 @@||cdn.ark.qq.com
 @@||event.toggle.qq.com
-@@||toblog.ctobsnssdk.com
 @@||tobapplog.ctobsnssdk.com
 @@||oth.eve.mdt.qq.com
 @@||aeventlog.beacon.qq.com
@@ -2654,8 +2652,6 @@
 @@||a1.qpic.cn^$important
 @@||m.qpic.cn^$important
 @@||mo.m.tmall.com
-@@||sf3-fe-tos.pglstatp-toutiao.com^
-@@||api-access.pangolin-sdk-toutiao.com^
 @@||b.qchannel03.cn^
 @@||www.qchannel01.cn^
 @@||d.qchannel03.cn^

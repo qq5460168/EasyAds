@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2025-12-23 08:20:22
-# 规则总数: 29642
+# 更新时间: 2025-12-23 12:28:50
+# 规则总数: 29644
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -17784,6 +17784,7 @@ mediaplex.com block
 mediapro.pro.cn block
 mediation.adnxs.com block
 mediav.com block
+medproad.com block
 medrx.telstra.com.au block
 meethanshi.com block
 meetrics.com block
@@ -24003,6 +24004,7 @@ szxy.getui.com block
 szyr474.com block
 szyxb181.xwtec.cn block
 t-ads.xiaohongshu.com block
+t-adx.52qumao.com block
 t-cfg.wtzw.com block
 t-dsp.pinduoduo.com block
 t-e.flyme.cn block

@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2025-12-23 08:20:22
-# 规则总数: 29642
+# 更新时间: 2025-12-23 12:28:50
+# 规则总数: 29644
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -17784,6 +17784,7 @@
 0.0.0.0 mediapro.pro.cn
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mediav.com
+0.0.0.0 medproad.com
 0.0.0.0 medrx.telstra.com.au
 0.0.0.0 meethanshi.com
 0.0.0.0 meetrics.com
@@ -24003,6 +24004,7 @@
 0.0.0.0 szyr474.com
 0.0.0.0 szyxb181.xwtec.cn
 0.0.0.0 t-ads.xiaohongshu.com
+0.0.0.0 t-adx.52qumao.com
 0.0.0.0 t-cfg.wtzw.com
 0.0.0.0 t-dsp.pinduoduo.com
 0.0.0.0 t-e.flyme.cn

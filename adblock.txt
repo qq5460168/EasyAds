@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2025-12-23 16:20:22
-! 有效规则数量: 39165 条
+! 规则更新时间: 2025-12-23 20:28:50
+! 有效规则数量: 39163 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -132,6 +132,7 @@
 ||adtago.s3.amazonaws.com^
 ||adtech.yahooinc.com^
 ||adtrack.quark.cn^
+||adtracker.medproad.com^
 ||adv-api.shenshiads.com^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
@@ -523,6 +524,7 @@
 ||mazu.m.qq.com^
 ||mbdlog.iqiyi.com^
 ||mcs.zijieapi.com^
+||medproad.com^
 ||metrics.data.hicloud.com^
 ||metrics.icloud.com^
 ||metrics.mzstatic.com^
@@ -626,6 +628,7 @@
 ||proxy.advp.apple.com^
 ||public.gdtimg.com^
 ||q.i.gdt.qq.com^
+||qcwx.medproad.com^
 ||qmlog.baertt.com^
 ||qn-cdnfile1pcdn.msstatic.com^
 ||qqdata.ab.qq.com^
@@ -723,6 +726,7 @@
 ||syh-imp.cdnjtzy.com^
 ||syh.zybang.com^
 ||szbdyd.com^
+||t-adx.52qumao.com^
 ||t-dsp.pinduoduo.com^
 ||t.applovin.com^
 ||t.l.qq.com^
@@ -896,9 +900,9 @@
 ||vlion.cn^
 ||yfanads.com^
 ||zhangyuyidong.cn^
-140.82.113.25                 alive.github.com
+140.82.114.25                 alive.github.com
 20.205.243.168                api.github.com
-140.82.112.22                 api.individual.githubcopilot.com
+140.82.112.21                 api.individual.githubcopilot.com
 185.199.110.133               avatars.githubusercontent.com
 185.199.110.133               avatars0.githubusercontent.com
 185.199.110.133               avatars1.githubusercontent.com
@@ -907,26 +911,26 @@
 185.199.110.133               avatars4.githubusercontent.com
 185.199.110.133               avatars5.githubusercontent.com
 185.199.110.133               camo.githubusercontent.com
-140.82.112.21                 central.github.com
+140.82.113.22                 central.github.com
 185.199.110.133               cloud.githubusercontent.com
-20.205.243.165                codeload.github.com
-140.82.114.21                 collector.github.com
+140.82.113.9                  codeload.github.com
+140.82.112.22                 collector.github.com
 185.199.110.133               desktop.githubusercontent.com
 185.199.110.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com
-52.217.236.209                github-cloud.s3.amazonaws.com
-54.231.236.121                github-com.s3.amazonaws.com
-16.15.218.112                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.194.238                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.182.68.33                  github-production-user-asset-6210df.s3.amazonaws.com
+54.231.163.121                github-cloud.s3.amazonaws.com
+3.5.29.97                     github-com.s3.amazonaws.com
+52.216.57.201                 github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.30.95                     github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.108.68                 github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
-20.205.243.166                github.com
-140.82.112.18                 github.community
-185.199.111.154               github.githubassets.com
+140.82.114.4                  github.com
+140.82.113.18                 github.community
+185.199.109.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
-185.199.111.153               github.io
+185.199.109.153               github.io
 185.199.110.133               github.map.fastly.net
-185.199.111.153               githubstatus.com
+185.199.109.153               githubstatus.com
 140.82.114.26                 live.github.com
 185.199.110.133               media.githubusercontent.com
 185.199.110.133               objects.githubusercontent.com
@@ -934,7 +938,7 @@
 185.199.110.133               raw.githubusercontent.com
 185.199.110.133               user-images.githubusercontent.com
 13.107.213.73                 vscode.dev  # Timeout
-140.82.112.22                 education.github.com
+140.82.113.22                 education.github.com
 185.199.110.133               private-user-images.githubusercontent.com
 127.0.0.1 localhost
 108.177.125.188 mtalk.google.com  #台湾
@@ -5975,7 +5979,6 @@
 ||adsmartget.guangtuikeji.com^
 ||as1.dcloud.net.cn^
 ||apis.xayabx.com^
-||qcwx.medproad.com^
 ||image.uczzd.cn^
 ||adtracker.adfunlink.com^
 ||tr.medproad.com^
@@ -8429,7 +8432,6 @@
 ||admore.cps.zaibiao.cn^
 ||ads.oneway.mobi^
 ||de.ad.gameley.com^
-||adtracker.medproad.com^
 ||kfpicimage.xyz^
 ||imagecloub.com^
 ||getads.tianad.cn^
@@ -38936,7 +38938,6 @@
 @@||marketo.net^$important
 @@||mktoresp.com^$important
 @@||googletagmanager.com^$important
-@@||jd.com^$important
 @@||doaxvv.com^$important
 @@||pan.quark.cn^$important
 @@||passport.yl234.com^$important
@@ -38992,7 +38993,6 @@
 @@||sdksp.video.qq.com
 @@||cdn.ark.qq.com
 @@||event.toggle.qq.com
-@@||toblog.ctobsnssdk.com
 @@||tobapplog.ctobsnssdk.com
 @@||oth.eve.mdt.qq.com
 @@||aeventlog.beacon.qq.com
@@ -39023,8 +39023,6 @@
 @@||a1.qpic.cn^$important
 @@||m.qpic.cn^$important
 @@||mo.m.tmall.com
-@@||sf3-fe-tos.pglstatp-toutiao.com^
-@@||api-access.pangolin-sdk-toutiao.com^
 @@||b.qchannel03.cn^
 @@||www.qchannel01.cn^
 @@||d.qchannel03.cn^

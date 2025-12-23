@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2025-12-23 08:20:22
-# 规则总数: 29642
+# 更新时间: 2025-12-23 12:28:50
+# 规则总数: 29644
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -17785,6 +17785,7 @@ payload:
   - 'mediapro.pro.cn'
   - 'mediation.adnxs.com'
   - 'mediav.com'
+  - 'medproad.com'
   - 'medrx.telstra.com.au'
   - 'meethanshi.com'
   - 'meetrics.com'
@@ -24004,6 +24005,7 @@ payload:
   - 'szyr474.com'
   - 'szyxb181.xwtec.cn'
   - 't-ads.xiaohongshu.com'
+  - 't-adx.52qumao.com'
   - 't-cfg.wtzw.com'
   - 't-dsp.pinduoduo.com'
   - 't-e.flyme.cn'

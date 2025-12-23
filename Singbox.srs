@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2025-12-23 08:20:22
-# 规则总数: 29642
+# 更新时间: 2025-12-23 12:28:50
+# 规则总数: 29644
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -17784,6 +17784,7 @@ domain: mediaplex.com, policy: reject
 domain: mediapro.pro.cn, policy: reject
 domain: mediation.adnxs.com, policy: reject
 domain: mediav.com, policy: reject
+domain: medproad.com, policy: reject
 domain: medrx.telstra.com.au, policy: reject
 domain: meethanshi.com, policy: reject
 domain: meetrics.com, policy: reject
@@ -24003,6 +24004,7 @@ domain: szxy.getui.com, policy: reject
 domain: szyr474.com, policy: reject
 domain: szyxb181.xwtec.cn, policy: reject
 domain: t-ads.xiaohongshu.com, policy: reject
+domain: t-adx.52qumao.com, policy: reject
 domain: t-cfg.wtzw.com, policy: reject
 domain: t-dsp.pinduoduo.com, policy: reject
 domain: t-e.flyme.cn, policy: reject

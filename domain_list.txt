@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2025-12-23 08:20:21（北京时间）
-# 共 29626 个域名
+# 生成时间: 2025-12-23 12:28:49（北京时间）
+# 共 29628 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -17781,6 +17781,7 @@ mediaplex.com
 mediapro.pro.cn
 mediation.adnxs.com
 mediav.com
+medproad.com
 medrx.telstra.com.au
 meethanshi.com
 meetrics.com
@@ -23990,6 +23991,7 @@ szxy.getui.com
 szyr474.com
 szyxb181.xwtec.cn
 t-ads.xiaohongshu.com
+t-adx.52qumao.com
 t-cfg.wtzw.com
 t-dsp.pinduoduo.com
 t-e.flyme.cn
