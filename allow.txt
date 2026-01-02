@@ -1,9 +1,11 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-01-02 20:27:42
-! 有效规则数量: 2793 条
+! 规则更新时间: 2026-01-03 00:16:53
+! 有效规则数量: 2796 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
+@@||v.smtcdns.com^
+@@||h5fs.coloros.com^
 @@||spcsz.cdn.bcebos.com^
 @@||video.da.mgtv.com^
 @@||m2.da.mgtv.com^
@@ -94,7 +96,7 @@
 @@||img.jxdown.com^
 @@||jxdown.com^
 @@||fourier-videoclip-eu.allawnos.com^
-@@||fourier-videoclip-in.allawnos.com^$important
+@@||fourier-videoclip-in.allawnos.com^
 @@||www.hisense.com^
 @@||www.haier.com^
 @@||cdn.staticfile.org^
@@ -935,6 +937,7 @@
 @@||v26-fq-tts.fqnovelvod.com^
 @@||v5-novelapp.fqnovelvod.com^
 @@||v26-novelapp.fqnovelvod.com^
+@@||v9-novelapp.fqnovelvod.com^
 @@||novelfm.changdunovel.com^
 @@||www.novelfm.com^
 @@||novelfm.zlink.toutiao.com^
