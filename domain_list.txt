@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-01-14 01:09:56（北京时间）
-# 共 29387 个域名
+# 生成时间: 2026-01-14 04:40:57（北京时间）
+# 共 29388 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -7400,6 +7400,7 @@ budl.k8.com
 bugly.qq.com
 bugreportv2.qq.com
 bugs01131ko.com
+bugs01141ko.com
 bugtags.com
 buildingdoodlesquare.com
 bujiangjiu123.com

@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-01-14 01:09:57
-# 规则总数: 29403
+# 更新时间: 2026-01-14 04:40:58
+# 规则总数: 29404
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -7395,6 +7395,7 @@ domain, budl.k8.com
 domain, bugly.qq.com
 domain, bugreportv2.qq.com
 domain, bugs01131ko.com
+domain, bugs01141ko.com
 domain, bugtags.com
 domain, buildingdoodlesquare.com
 domain, bujiangjiu123.com

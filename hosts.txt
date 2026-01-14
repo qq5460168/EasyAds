@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-01-14 01:09:57
-# 规则总数: 29403
+# 更新时间: 2026-01-14 04:40:58
+# 规则总数: 29404
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -7395,6 +7395,7 @@
 0.0.0.0 bugly.qq.com
 0.0.0.0 bugreportv2.qq.com
 0.0.0.0 bugs01131ko.com
+0.0.0.0 bugs01141ko.com
 0.0.0.0 bugtags.com
 0.0.0.0 buildingdoodlesquare.com
 0.0.0.0 bujiangjiu123.com

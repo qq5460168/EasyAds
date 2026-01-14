@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-01-14 01:09:57
-# 规则总数: 29403
+# 更新时间: 2026-01-14 04:40:58
+# 规则总数: 29404
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -7396,6 +7396,7 @@ payload:
   - 'bugly.qq.com'
   - 'bugreportv2.qq.com'
   - 'bugs01131ko.com'
+  - 'bugs01141ko.com'
   - 'bugtags.com'
   - 'buildingdoodlesquare.com'
   - 'bujiangjiu123.com'
