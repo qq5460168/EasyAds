@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-01-14 12:30:03.066332
+# Generated on 2026-01-14 16:21:14.999951
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -1172,7 +1172,6 @@
 ||lf3-webcastcdn-tos-sign.douyinstatic.com^
 ||pull-flv-f13.douyincdn.com^
 ||webcast5-open-lf.douyin.com^
-||open.douyin.com^
 ||open-client.douyin.com^
 ||stat.youpin.mi.com^
 ||tk.d.mi.com^
@@ -16707,6 +16706,7 @@
 ||monitor.v2.tcyad.com^
 ||news-l.play.aiseet.atianqi.com^
 ||nj.cschannel.anticheatexpert.com^
+||open.douyin.com^
 ||peplle.cn^
 ||pic7.iqiyipic.com^
 ||pro.bugly.qq.com^

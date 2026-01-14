@@ -1151,7 +1151,6 @@ DOMAIN,webcast5-open-lq.douyin.com,reject
 DOMAIN,lf3-webcastcdn-tos-sign.douyinstatic.com,reject
 DOMAIN,pull-flv-f13.douyincdn.com,reject
 DOMAIN,webcast5-open-lf.douyin.com,reject
-DOMAIN,open.douyin.com,reject
 DOMAIN,open-client.douyin.com,reject
 DOMAIN,stat.youpin.mi.com,reject
 DOMAIN,tk.d.mi.com,reject
@@ -16658,6 +16657,7 @@ DOMAIN,mesu.apple.com,reject
 DOMAIN,monitor.v2.tcyad.com,reject
 DOMAIN,news-l.play.aiseet.atianqi.com,reject
 DOMAIN,nj.cschannel.anticheatexpert.com,reject
+DOMAIN,open.douyin.com,reject
 DOMAIN,peplle.cn,reject
 DOMAIN,pic7.iqiyipic.com,reject
 DOMAIN,pro.bugly.qq.com,reject
