@@ -257,7 +257,6 @@
 ||browser.events.data.msn.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
 ||bsrv.qq.com^
-||bugly.qq.com^
 ||business-api.tiktok.com^
 ||c.bidtoolads.com^
 ||c.etoolads.cn^
@@ -1406,6 +1405,7 @@
 ||tgw-sasdk.3g.qq.com^
 ||tools.3g.qq.com^
 ||analy.qq.com^
+||bugly.qq.com^
 ||aexception.bugly.qq.com^
 ||astat.bugly.qq.com^
 ||e.qq.com^

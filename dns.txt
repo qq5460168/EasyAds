@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-01-15 12:30:08.774874
+# Generated on 2026-01-15 16:26:16.141851
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -260,7 +260,6 @@
 ||browser.events.data.msn.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
 ||bsrv.qq.com^
-||bugly.qq.com^
 ||business-api.tiktok.com^
 ||c.bidtoolads.com^
 ||c.etoolads.cn^
@@ -1409,6 +1408,7 @@
 ||tgw-sasdk.3g.qq.com^
 ||tools.3g.qq.com^
 ||analy.qq.com^
+||bugly.qq.com^
 ||aexception.bugly.qq.com^
 ||astat.bugly.qq.com^
 ||e.qq.com^

@@ -256,7 +256,6 @@ DOMAIN,browser.events.data.msn.cn,reject
 DOMAIN,browser.events.data.msn.com,reject
 DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn,reject
 DOMAIN,bsrv.qq.com,reject
-DOMAIN,bugly.qq.com,reject
 DOMAIN,business-api.tiktok.com,reject
 DOMAIN,c.bidtoolads.com,reject
 DOMAIN,c.etoolads.cn,reject
@@ -1388,6 +1387,7 @@ DOMAIN,tgw-masdk.3g.qq.com,reject
 DOMAIN,tgw-sasdk.3g.qq.com,reject
 DOMAIN,tools.3g.qq.com,reject
 DOMAIN,analy.qq.com,reject
+DOMAIN,bugly.qq.com,reject
 DOMAIN,aexception.bugly.qq.com,reject
 DOMAIN,astat.bugly.qq.com,reject
 DOMAIN,e.qq.com,reject
