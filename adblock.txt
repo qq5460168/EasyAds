@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-01-16 16:20:32
-! 有效规则数量: 38925 条
+! 规则更新时间: 2026-01-16 20:29:06
+! 有效规则数量: 38928 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -899,7 +899,7 @@
 ||vlion.cn^
 ||yfanads.com^
 ||zhangyuyidong.cn^
-140.82.113.26                 alive.github.com
+140.82.114.26                 alive.github.com
 20.205.243.168                api.github.com
 140.82.113.22                 api.individual.githubcopilot.com
 185.199.110.133               avatars.githubusercontent.com
@@ -910,27 +910,27 @@
 185.199.110.133               avatars4.githubusercontent.com
 185.199.110.133               avatars5.githubusercontent.com
 185.199.110.133               camo.githubusercontent.com
-140.82.113.22                 central.github.com
+140.82.114.22                 central.github.com
 185.199.110.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.113.21                 collector.github.com
+140.82.113.22                 collector.github.com
 185.199.110.133               desktop.githubusercontent.com
 185.199.110.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com
-52.216.141.252                github-cloud.s3.amazonaws.com
-52.216.60.145                 github-com.s3.amazonaws.com
-16.182.99.201                 github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.8.190                     github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.11.209                    github-production-user-asset-6210df.s3.amazonaws.com
+52.217.170.185                github-cloud.s3.amazonaws.com
+3.5.6.186                     github-com.s3.amazonaws.com
+16.182.107.1                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.193.117                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.124.65                 github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
 140.82.113.18                 github.community
-185.199.110.154               github.githubassets.com
+185.199.111.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
-185.199.109.153               github.io
+185.199.108.153               github.io
 185.199.110.133               github.map.fastly.net
-185.199.109.153               githubstatus.com
-140.82.114.25                 live.github.com
+185.199.108.153               githubstatus.com
+140.82.114.26                 live.github.com
 185.199.110.133               media.githubusercontent.com
 185.199.110.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
@@ -960,6 +960,9 @@
 140.82.112.25 live.github.com
 140.82.113.22 central.github.com
 192.0.66.2 github.blog
+13.107.42.16 pipelines.actions.githubusercontent.com
+185.199.110.153 lsposed.github.io
+185.199.110.153 topjohnwu.github.io
 185.199.110.154 github.githubassets.com  #网页排版
 185.199.110.153 githubstatus.com
 185.199.110.154 docs.github.com
@@ -978,9 +981,7 @@
 185.199.110.133 avatars3.githubusercontent.com
 185.199.110.133 avatars4.githubusercontent.com
 185.199.110.133 avatars5.githubusercontent.com
-0.0.0.0 appdownload.xianyu.alibaba-inc.com  #闲鱼更新？
-0.0.0.0 res.openinstall.com
-0.0.0.0 access.pickpackapp.com  #pikpak中国IP不给用弹窗，副作用未知
+185.199.110.133 camo.githubusercontent.com
 0.0.0.0 iv6.gtimg.cn  #个性字体（副作用未知）
 0.0.0.0 gxh.material.qq.com  #气泡、头像挂件，误伤夜间模式不能下载
 0.0.0.0 world.qpic.cn  #小世界的图片，视频的封面图。
@@ -1186,6 +1187,8 @@
 0.0.0.0 awaken.amap.com
 0.0.0.0 amap-aos-info-nogw.amap.com
 0.0.0.0 optimus-ads-ykx.amap.com
+0.0.0.0 img-ys011.didistatic.com
+0.0.0.0 s3-hnapuhdd-cdn.didistatic.com  #滴滴开屏2，节日
 0.0.0.0 homefront.qunar.com
 0.0.0.0 minislugger.qunar.com
 0.0.0.0 dimg04.c-ctrip.com
@@ -3236,6 +3239,7 @@
 0.0.0.0 cnbj1.fds.api.xiaomi.co  #小米遥控器底部横幅
 0.0.0.0 api.jr.mi.com  #小米钱包净化
 0.0.0.0 sug.browser.miui.com  #小米浏览器搜索提示，上方的应用推广和下面的联想词一起干没
+0.0.0.0 api.comm.miui.com  #小米日历广告
 0.0.0.0 gjfzpt.cn
 0.0.0.0 fzapp.gjfzpt.cn
 0.0.0.0 fzapph5.gjfzpt.cn
@@ -5910,6 +5914,7 @@
 0.0.0.0 tk2.xfadx.com  #安兔兔
 0.0.0.0 t.ag.b9ad.com  #安兔兔
 0.0.0.0 ads.cxwlad.com  #畅行未来
+0.0.0.0 v66-ad.ndcjl.com
 ||yyapp-httpdns.gslb.yy.com^
 ||union-httpdns.gslb.yy.com^
 ||httpdns-v6.gslb.yy.com^
@@ -34639,7 +34644,6 @@
 0.0.0.0 bj.bcebos.com
 0.0.0.0 bkappad.189.cn
 0.0.0.0 c6.y.qq.com
-185.199.110.133 camo.githubusercontent.com
 23.53.35.199 cdn.akamai.steamstatic.com
 0.0.0.0 cdn.ynuf.aliapp.org
 66.203.124.49 cms2.mega.nz
@@ -34663,6 +34667,7 @@
 0.0.0.0 ottupdate.api.nunaios.com
 0.0.0.0 portal.toushibao.com
 66.203.125.28 reqstat.api.mega.co.nz
+0.0.0.0 res.openinstall.com
 103.99.35.251 sg.static.mega.co.nz
 0.0.0.0 sms.ads.heytapmobi.com
 0.0.0.0 sqdd.myapp.com
@@ -35927,12 +35932,10 @@
 185.199.110.133 objects.githubusercontent.com
 0.0.0.0 pic.fastapi.net
 23.49.100.232 pinterest.com
-13.107.42.16 pipelines.actions.githubusercontent.com
 192.0.80.242 s.gravatar.com
 192.0.80.242 secure.gravatar.com
 184.85.65.125 steamcommunity.com
 23.58.97.230 store.steampowered.com
-185.199.110.153 topjohnwu.github.io
 23.49.100.232 trk.pinterest.com
 0.0.0.0 udpolimenew.baidu.com
 0.0.0.0 update.thread0.com
