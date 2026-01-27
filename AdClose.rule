@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-01-27 12:32:12
-# 规则总数: 29404
+# 更新时间: 2026-01-27 16:21:58
+# 规则总数: 29406
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -4991,6 +4991,7 @@ domain, adx-os.anythinktech.com
 domain, adx-os.toponadss.com
 domain, adx-saas.advlion.com
 domain, adx-static.ksosoft.com
+domain, adx-strategy-api-cn.statisticslinks.com
 domain, adx-tk.rayjump.com
 domain, adx-track.domob.cn
 domain, adx.ads.heytapmobi.com
@@ -23940,6 +23941,7 @@ domain, tags.growingio.com
 domain, tags2.adshell.net
 domain, tags4.revdepo.com
 domain, tagtd.cn
+domain, tagtic.cn
 domain, tahltanboutell.com
 domain, taichi.51y5.net
 domain, tailscale.io

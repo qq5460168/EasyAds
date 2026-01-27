@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-01-27 12:32:12
-# 规则总数: 29404
+# 更新时间: 2026-01-27 16:21:57
+# 规则总数: 29406
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -4991,6 +4991,7 @@ adx-os.anythinktech.com block
 adx-os.toponadss.com block
 adx-saas.advlion.com block
 adx-static.ksosoft.com block
+adx-strategy-api-cn.statisticslinks.com block
 adx-tk.rayjump.com block
 adx-track.domob.cn block
 adx.ads.heytapmobi.com block
@@ -23940,6 +23941,7 @@ tags.growingio.com block
 tags2.adshell.net block
 tags4.revdepo.com block
 tagtd.cn block
+tagtic.cn block
 tahltanboutell.com block
 taichi.51y5.net block
 tailscale.io block

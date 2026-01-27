@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-01-27 20:32:10
-# 规则统计: 总计29400条 (IP:1029 DOMAIN:0 SUFFIX:28371 KEYWORD:0)
+# 更新时间(北京时间): 2026-01-28 00:21:56
+# 规则统计: 总计29402条 (IP:1029 DOMAIN:0 SUFFIX:28373 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -5009,6 +5009,7 @@ DOMAIN-SUFFIX,adx-os.anythinktech.com,REJECT
 DOMAIN-SUFFIX,adx-os.toponadss.com,REJECT
 DOMAIN-SUFFIX,adx-saas.advlion.com,REJECT
 DOMAIN-SUFFIX,adx-static.ksosoft.com,REJECT
+DOMAIN-SUFFIX,adx-strategy-api-cn.statisticslinks.com,REJECT
 DOMAIN-SUFFIX,adx-tk.rayjump.com,REJECT
 DOMAIN-SUFFIX,adx-track.domob.cn,REJECT
 DOMAIN-SUFFIX,adx.ads.heytapmobi.com,REJECT
@@ -23940,6 +23941,7 @@ DOMAIN-SUFFIX,tags.growingio.com,REJECT
 DOMAIN-SUFFIX,tags2.adshell.net,REJECT
 DOMAIN-SUFFIX,tags4.revdepo.com,REJECT
 DOMAIN-SUFFIX,tagtd.cn,REJECT
+DOMAIN-SUFFIX,tagtic.cn,REJECT
 DOMAIN-SUFFIX,tahltanboutell.com,REJECT
 DOMAIN-SUFFIX,taichi.51y5.net,REJECT
 DOMAIN-SUFFIX,tailscale.io,REJECT

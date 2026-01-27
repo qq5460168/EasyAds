@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-01-27 12:32:12
-# 规则总数: 29404
+# 更新时间: 2026-01-27 16:21:57
+# 规则总数: 29406
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -4991,6 +4991,7 @@
 0.0.0.0 adx-os.toponadss.com
 0.0.0.0 adx-saas.advlion.com
 0.0.0.0 adx-static.ksosoft.com
+0.0.0.0 adx-strategy-api-cn.statisticslinks.com
 0.0.0.0 adx-tk.rayjump.com
 0.0.0.0 adx-track.domob.cn
 0.0.0.0 adx.ads.heytapmobi.com
@@ -23940,6 +23941,7 @@
 0.0.0.0 tags2.adshell.net
 0.0.0.0 tags4.revdepo.com
 0.0.0.0 tagtd.cn
+0.0.0.0 tagtic.cn
 0.0.0.0 tahltanboutell.com
 0.0.0.0 taichi.51y5.net
 0.0.0.0 tailscale.io

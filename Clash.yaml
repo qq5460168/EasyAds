@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-01-27 12:32:12
-# 规则总数: 29404
+# 更新时间: 2026-01-27 16:21:57
+# 规则总数: 29406
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -4992,6 +4992,7 @@ payload:
   - 'adx-os.toponadss.com'
   - 'adx-saas.advlion.com'
   - 'adx-static.ksosoft.com'
+  - 'adx-strategy-api-cn.statisticslinks.com'
   - 'adx-tk.rayjump.com'
   - 'adx-track.domob.cn'
   - 'adx.ads.heytapmobi.com'
@@ -23941,6 +23942,7 @@ payload:
   - 'tags2.adshell.net'
   - 'tags4.revdepo.com'
   - 'tagtd.cn'
+  - 'tagtic.cn'
   - 'tahltanboutell.com'
   - 'taichi.51y5.net'
   - 'tailscale.io'

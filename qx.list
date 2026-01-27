@@ -33,6 +33,7 @@ DOMAIN,ad.shunchangzhixing.com,reject
 DOMAIN,ad.tencentmusic.com,reject
 DOMAIN,ad.toutiao.com,reject
 DOMAIN,ad.v3mh.com,reject
+DOMAIN,ad.weibo.com,reject
 DOMAIN,ad.winrar.com.cn,reject
 DOMAIN,ad.ximalaya.com,reject
 DOMAIN,ad.xunkids.com,reject
@@ -55,6 +56,7 @@ DOMAIN,adexp.liftoff.io,reject
 DOMAIN,adexpo.tencentmusic.com,reject
 DOMAIN,adfilter.imtt.qq.com,reject
 DOMAIN,adguanggao.eee114.com,reject
+DOMAIN,adimg.uve.weibo.com,reject
 DOMAIN,adjust.cn,reject
 DOMAIN,adjust.com,reject
 DOMAIN,adks.hpplay.cn,reject
@@ -121,12 +123,14 @@ DOMAIN,adstat.izuiyou.com,reject
 DOMAIN,adstats.tencentmusic.com,reject
 DOMAIN,adstore-1252524079.file.myqcloud.com,reject
 DOMAIN,adstore-index-1252524079.file.myqcloud.com,reject
+DOMAIN,adstrategy.biz.weibo.com,reject
 DOMAIN,adstudio-assets.scdn.co,reject
 DOMAIN,adstudio.spotify.com,reject
 DOMAIN,adtago.s3.amazonaws.com,reject
 DOMAIN,adtech.yahooinc.com,reject
 DOMAIN,adtrack.quark.cn,reject
 DOMAIN,adtracker.medproad.com,reject
+DOMAIN,adui.tg.meitu.com,reject
 DOMAIN,adv-api.shenshiads.com,reject
 DOMAIN,adv.sec.intl.miui.com,reject
 DOMAIN,adv.sec.miui.com,reject
@@ -147,6 +151,7 @@ DOMAIN,adx-drcn.op.dbankcloud.cn,reject
 DOMAIN,adx-open-service.youku.com,reject
 DOMAIN,adx-os.anythinktech.com,reject
 DOMAIN,adx-saas.advlion.com,reject
+DOMAIN,adx-strategy-api-cn.statisticslinks.com,reject
 DOMAIN,adx.ads.heytapmobi.com,reject
 DOMAIN,adx.ads.oppomobile.com,reject
 DOMAIN,adx.appsdk.com.cn,reject
@@ -539,6 +544,7 @@ DOMAIN,monitor-uu.play.aiseet.atianqi.com,reject
 DOMAIN,monitor.adxsenmeng.com,reject
 DOMAIN,monitor.music.qq.com,reject
 DOMAIN,monitor.uu.qq.com,reject
+DOMAIN,mores.toponad.com,reject
 DOMAIN,ms.applovin.com,reject
 DOMAIN,ms.applvn.com,reject
 DOMAIN,ms4.applovin.com,reject
@@ -659,6 +665,7 @@ DOMAIN,sdk.hzsanjiaomao.com,reject
 DOMAIN,sdk.markmedia.com.cn,reject
 DOMAIN,sdk.mobads.adwangmai.com,reject
 DOMAIN,sdkapi.cloooud.com,reject
+DOMAIN,sdkapp.uve.weibo.com,reject
 DOMAIN,sdkauth.hpplay.cn,reject
 DOMAIN,sdkconf.avlyun.com,reject
 DOMAIN,sdkconfig.ad.intl.xiaomi.com,reject
@@ -722,6 +729,7 @@ DOMAIN,t2.a.market.xiaomi.com,reject
 DOMAIN,t2.fancyapi.com,reject
 DOMAIN,t3.a.market.xiaomi.com,reject
 DOMAIN,t7z.cupid.ptqy.gitv.tv,reject
+DOMAIN,tagtic.cn,reject
 DOMAIN,tangram.e.qq.com,reject
 DOMAIN,target.ads.jihuoniao.com,reject
 DOMAIN,tdc.qq.com,reject
@@ -772,6 +780,7 @@ DOMAIN,track.uc.cn,reject
 DOMAIN,tracker.gitee.com,reject
 DOMAIN,tracking.miui.com,reject
 DOMAIN,tracking.rus.miui.com,reject
+DOMAIN,tuiguang.meitu.com,reject
 DOMAIN,tvuser-ch.cedock.com,reject
 DOMAIN,tx-ad.a.yximgs.com,reject
 DOMAIN,tx-kmpaudio.pull.yximgs.com,reject
@@ -3343,8 +3352,6 @@ DOMAIN,adsdk.whjzjx.cn,reject
 DOMAIN,adsfs.heytapimage.com,reject
 DOMAIN,sms.ads.heytapmobi.com,reject
 DOMAIN,api-cn.open.heytapmobi.com,reject
-DOMAIN,adimg.uve.weibo.com,reject
-DOMAIN,adstrategy.biz.weibo.com,reject
 DOMAIN,ad.us.sinaimg.cn,reject
 DOMAIN,kadmimage.biz.weibo.com,reject
 DOMAIN,register.app.jpy.jp,reject
@@ -3433,7 +3440,6 @@ DOMAIN,785008.com,reject
 DOMAIN,778538.com,reject
 DOMAIN,49789c.com,reject
 DOMAIN,188555.com,reject
-DOMAIN,adui.tg.meitu.com,reject
 DOMAIN,cn-da.anythinktech.com,reject
 DOMAIN,cn-tk.anythinktech.com,reject
 DOMAIN,pitk.birdgesdk.com,reject
@@ -4385,7 +4391,6 @@ DOMAIN,fastimage.uve.weibo.com,reject
 DOMAIN,adimg.vue.weibo.com,reject
 DOMAIN,zymo.mps.weibo.com,reject
 DOMAIN,weibomingzi.com,reject
-DOMAIN,sdkapp.uve.weibo.com,reject
 DOMAIN,promote.biz.weibo.cn,reject
 DOMAIN,gw5.push.mcp.weibo.cn,reject
 DOMAIN,gw6.push.mcp.weibo.cn,reject
@@ -4404,7 +4409,6 @@ DOMAIN,dsp.edm.weibo.cn,reject
 DOMAIN,alitui.weibo.com.cn,reject
 DOMAIN,tui.weibo.com,reject
 DOMAIN,wax.weibo.com.cn,reject
-DOMAIN,ad.weibo.com,reject
 DOMAIN,dsp.youdao.com,reject
 DOMAIN,union.youdao.com,reject
 DOMAIN,ads.msn.com,reject
@@ -9559,7 +9563,6 @@ DOMAIN,f1.meishichina.com,reject
 DOMAIN,corp.meitu.com,reject
 DOMAIN,gg.meitu.com,reject
 DOMAIN,message.meitu.com,reject
-DOMAIN,tuiguang.meitu.com,reject
 DOMAIN,xiuxiu.android.dl.meitu.com,reject
 DOMAIN,rabbit.tg.meitu.com,reject
 DOMAIN,meitubeauty.meitudata.com,reject
@@ -24609,7 +24612,6 @@ DOMAIN,mops.kulekeji.com,reject
 DOMAIN,moren1.cnamggg.com,reject
 DOMAIN,mores.anythinktech.com,reject
 DOMAIN,mores.motowoo.com,reject
-DOMAIN,mores.toponad.com,reject
 DOMAIN,mos.adubest.com,reject
 DOMAIN,mos.miaozhen.com,reject
 DOMAIN,mot5.880.net,reject

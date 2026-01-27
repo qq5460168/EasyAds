@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-01-27 12:32:12
-# 规则总数: 29404
+# 更新时间: 2026-01-27 16:21:57
+# 规则总数: 29406
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -4991,6 +4991,7 @@ domain: adx-os.anythinktech.com, policy: reject
 domain: adx-os.toponadss.com, policy: reject
 domain: adx-saas.advlion.com, policy: reject
 domain: adx-static.ksosoft.com, policy: reject
+domain: adx-strategy-api-cn.statisticslinks.com, policy: reject
 domain: adx-tk.rayjump.com, policy: reject
 domain: adx-track.domob.cn, policy: reject
 domain: adx.ads.heytapmobi.com, policy: reject
@@ -23940,6 +23941,7 @@ domain: tags.growingio.com, policy: reject
 domain: tags2.adshell.net, policy: reject
 domain: tags4.revdepo.com, policy: reject
 domain: tagtd.cn, policy: reject
+domain: tagtic.cn, policy: reject
 domain: tahltanboutell.com, policy: reject
 domain: taichi.51y5.net, policy: reject
 domain: tailscale.io, policy: reject

@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-01-27 20:32:12
-! 有效规则数量: 38929 条
+! 规则更新时间: 2026-01-28 00:21:58
+! 有效规则数量: 38931 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -39,6 +39,7 @@
 ||ad.tencentmusic.com^
 ||ad.toutiao.com^
 ||ad.v3mh.com^
+||ad.weibo.com^
 ||ad.winrar.com.cn^
 ||ad.ximalaya.com^
 ||ad.xunkids.com^
@@ -61,6 +62,7 @@
 ||adexpo.tencentmusic.com^
 ||adfilter.imtt.qq.com^
 ||adguanggao.eee114.com^
+||adimg.uve.weibo.com^
 ||adjust.cn^
 ||adjust.com^
 ||adks.hpplay.cn^
@@ -127,12 +129,14 @@
 ||adstats.tencentmusic.com^
 ||adstore-1252524079.file.myqcloud.com^
 ||adstore-index-1252524079.file.myqcloud.com^
+||adstrategy.biz.weibo.com^
 ||adstudio-assets.scdn.co^
 ||adstudio.spotify.com^
 ||adtago.s3.amazonaws.com^
 ||adtech.yahooinc.com^
 ||adtrack.quark.cn^
 ||adtracker.medproad.com^
+||adui.tg.meitu.com^
 ||adv-api.shenshiads.com^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
@@ -153,6 +157,7 @@
 ||adx-open-service.youku.com^
 ||adx-os.anythinktech.com^
 ||adx-saas.advlion.com^
+||adx-strategy-api-cn.statisticslinks.com^
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
 ||adx.appsdk.com.cn^
@@ -552,6 +557,7 @@
 ||monitor.music.qq.com^
 ||monitor.uu.qq.com^
 ||monsetting.toutiao.com^
+||mores.toponad.com^
 ||ms.applovin.com^
 ||ms.applvn.com^
 ||ms4.applovin.com^
@@ -674,6 +680,7 @@
 ||sdk.markmedia.com.cn^
 ||sdk.mobads.adwangmai.com^
 ||sdkapi.cloooud.com^
+||sdkapp.uve.weibo.com^
 ||sdkauth.hpplay.cn^
 ||sdkconf.avlyun.com^
 ||sdkconfig.ad.intl.xiaomi.com^
@@ -738,6 +745,7 @@
 ||t2.fancyapi.com^
 ||t3.a.market.xiaomi.com^
 ||t7z.cupid.ptqy.gitv.tv^
+||tagtic.cn^
 ||tangram.e.qq.com^
 ||target.ads.jihuoniao.com^
 ||tdc.qq.com^
@@ -790,6 +798,7 @@
 ||tracker.gitee.com^
 ||tracking.miui.com^
 ||tracking.rus.miui.com^
+||tuiguang.meitu.com^
 ||tvapp.hpplay.cn^
 ||tvuser-ch.cedock.com^
 ||tx-ad.a.yximgs.com^
@@ -899,46 +908,46 @@
 ||vlion.cn^
 ||yfanads.com^
 ||zhangyuyidong.cn^
-140.82.112.25                 alive.github.com
+140.82.114.25                 alive.github.com
 20.205.243.168                api.github.com
-140.82.114.22                 api.individual.githubcopilot.com
-185.199.110.133               avatars.githubusercontent.com
-185.199.110.133               avatars0.githubusercontent.com
-185.199.110.133               avatars1.githubusercontent.com
-185.199.110.133               avatars2.githubusercontent.com
-185.199.110.133               avatars3.githubusercontent.com
-185.199.110.133               avatars4.githubusercontent.com
-185.199.110.133               avatars5.githubusercontent.com
-185.199.110.133               camo.githubusercontent.com
+140.82.113.21                 api.individual.githubcopilot.com
+185.199.109.133               avatars.githubusercontent.com
+185.199.109.133               avatars0.githubusercontent.com
+185.199.109.133               avatars1.githubusercontent.com
+185.199.109.133               avatars2.githubusercontent.com
+185.199.109.133               avatars3.githubusercontent.com
+185.199.109.133               avatars4.githubusercontent.com
+185.199.109.133               avatars5.githubusercontent.com
+185.199.109.133               camo.githubusercontent.com
 140.82.114.22                 central.github.com
-185.199.110.133               cloud.githubusercontent.com
+185.199.109.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.113.21                 collector.github.com
-185.199.110.133               desktop.githubusercontent.com
-185.199.110.133               favicons.githubusercontent.com
+140.82.112.22                 collector.github.com
+185.199.109.133               desktop.githubusercontent.com
+185.199.109.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com
-52.217.122.129                github-cloud.s3.amazonaws.com
-54.231.165.97                 github-com.s3.amazonaws.com
-3.5.31.192                    github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.191.201                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.28.62                     github-production-user-asset-6210df.s3.amazonaws.com
+3.5.9.100                     github-cloud.s3.amazonaws.com
+16.15.176.176                 github-com.s3.amazonaws.com
+3.5.9.100                     github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.35.113                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.199.2                   github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.113.17                 github.community
-185.199.111.154               github.githubassets.com
+140.82.112.18                 github.community
+185.199.110.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
-185.199.111.153               github.io
-185.199.110.133               github.map.fastly.net
-185.199.111.153               githubstatus.com
-140.82.114.26                 live.github.com
-185.199.110.133               media.githubusercontent.com
-185.199.110.133               objects.githubusercontent.com
+185.199.110.153               github.io
+185.199.109.133               github.map.fastly.net
+185.199.110.153               githubstatus.com
+140.82.112.25                 live.github.com
+185.199.109.133               media.githubusercontent.com
+185.199.109.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.110.133               raw.githubusercontent.com
-185.199.110.133               user-images.githubusercontent.com
+185.199.109.133               raw.githubusercontent.com
+185.199.109.133               user-images.githubusercontent.com
 13.107.213.73                 vscode.dev  # Timeout
-140.82.113.21                 education.github.com
-185.199.110.133               private-user-images.githubusercontent.com
+140.82.114.21                 education.github.com
+185.199.109.133               private-user-images.githubusercontent.com
 127.0.0.1 localhost
 108.177.125.188 mtalk.google.com  #台湾
 142.251.170.188 alt1-mtalk.google.com #TW
@@ -8385,8 +8394,6 @@
 ||adsfs.heytapimage.com^
 ||sms.ads.heytapmobi.com^
 ||api-cn.open.heytapmobi.com^
-||adimg.uve.weibo.com^
-||adstrategy.biz.weibo.com^
 ||ad.us.sinaimg.cn^
 ||kadmimage.biz.weibo.com^
 ||register.app.jpy.jp^
@@ -8475,7 +8482,6 @@
 ||778538.com^
 ||49789c.com^
 ||188555.com^
-||adui.tg.meitu.com^
 ||cn-da.anythinktech.com^
 ||cn-tk.anythinktech.com^
 ||pitk.birdgesdk.com^
@@ -9429,7 +9435,6 @@
 ||adimg.vue.weibo.com^
 ||zymo.mps.weibo.com^
 ||weibomingzi.com^
-||sdkapp.uve.weibo.com^
 ||promote.biz.weibo.cn^
 ||gw5.push.mcp.weibo.cn^
 ||gw6.push.mcp.weibo.cn^
@@ -9448,7 +9453,6 @@
 ||alitui.weibo.com.cn^
 ||tui.weibo.com^
 ||wax.weibo.com.cn^
-||ad.weibo.com^
 ||dsp.youdao.com^
 ||union.youdao.com^
 ||ads.msn.com^
@@ -14613,7 +14617,6 @@
 ||corp.meitu.com^
 ||gg.meitu.com^
 ||message.meitu.com^
-||tuiguang.meitu.com^
 ||xiuxiu.android.dl.meitu.com^
 ||rabbit.tg.meitu.com^
 ||meitubeauty.meitudata.com^
@@ -29745,7 +29748,6 @@
 ||moren1.cnamggg.com^
 ||mores.anythinktech.com^
 ||mores.motowoo.com^
-||mores.toponad.com^
 ||mos.adubest.com^
 ||mos.miaozhen.com^
 ||mot5.880.net^
