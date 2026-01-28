@@ -74,6 +74,7 @@ DOMAIN,ads-sg.tiktok.com,reject
 DOMAIN,ads-video-al.xhscdn.com,reject
 DOMAIN,ads-video-qc.xhscdn.com,reject
 DOMAIN,ads.95516.com,reject
+DOMAIN,ads.auctions.yahoo.com,reject
 DOMAIN,ads.cup.com.cn,reject
 DOMAIN,ads.google.cn,reject
 DOMAIN,ads.huan.tv,reject
@@ -228,7 +229,6 @@ DOMAIN,applog.lc.quark.cn,reject
 DOMAIN,applog.uc.cn,reject
 DOMAIN,applog.zijieapi.com,reject
 DOMAIN,applovin.com,reject
-DOMAIN,appversion.115.com,reject
 DOMAIN,aqyad.com,reject
 DOMAIN,aspect-upush.umeng.com,reject
 DOMAIN,auction.unityads.unity3d.com,reject
@@ -19501,7 +19501,6 @@ DOMAIN,ads.adaptv.advertising.com,reject
 DOMAIN,ads.adfunlink.com,reject
 DOMAIN,ads.adroi.com.cn,reject
 DOMAIN,ads.api.vungle.com,reject
-DOMAIN,ads.auctions.yahoo.com,reject
 DOMAIN,ads.betweendigital.com,reject
 DOMAIN,ads.bssdl.kugou.com,reject
 DOMAIN,ads.celtra.com,reject
@@ -20184,6 +20183,7 @@ DOMAIN,appupdate.cloud.360os.com,reject
 DOMAIN,appupdates.189.cn,reject
 DOMAIN,appupgrade.alicdn.com,reject
 DOMAIN,appupgrade.cp12.ott.cibntv.net,reject
+DOMAIN,appversion.115.com,reject
 DOMAIN,apse-s.ludashi.com,reject
 DOMAIN,apse-sstart.ludashi.com,reject
 DOMAIN,aq3e.154.com,reject

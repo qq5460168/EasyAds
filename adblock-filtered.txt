@@ -74,6 +74,7 @@
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
 ||ads.95516.com^
+||ads.auctions.yahoo.com^
 ||ads.cup.com.cn^
 ||ads.google.cn^
 ||ads.huan.tv^
@@ -229,7 +230,6 @@
 ||applog.uc.cn^
 ||applog.zijieapi.com^
 ||applovin.com^
-||appversion.115.com^
 ||aqyad.com^
 ||aspect-upush.umeng.com^
 ||auction.unityads.unity3d.com^
@@ -19550,7 +19550,6 @@
 ||ads.adfunlink.com^
 ||ads.adroi.com.cn^
 ||ads.api.vungle.com^
-||ads.auctions.yahoo.com^
 ||ads.betweendigital.com^
 ||ads.bssdl.kugou.com^
 ||ads.celtra.com^
@@ -20234,6 +20233,7 @@
 ||appupdates.189.cn^
 ||appupgrade.alicdn.com^
 ||appupgrade.cp12.ott.cibntv.net^
+||appversion.115.com^
 ||apse-s.ludashi.com^
 ||apse-sstart.ludashi.com^
 ||aq3e.154.com^

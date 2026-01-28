@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-01-28 01:08:43.496447
+# Generated on 2026-01-28 04:38:29.415526
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -77,6 +77,7 @@
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
 ||ads.95516.com^
+||ads.auctions.yahoo.com^
 ||ads.cup.com.cn^
 ||ads.google.cn^
 ||ads.huan.tv^
@@ -232,7 +233,6 @@
 ||applog.uc.cn^
 ||applog.zijieapi.com^
 ||applovin.com^
-||appversion.115.com^
 ||aqyad.com^
 ||aspect-upush.umeng.com^
 ||auction.unityads.unity3d.com^
@@ -19553,7 +19553,6 @@
 ||ads.adfunlink.com^
 ||ads.adroi.com.cn^
 ||ads.api.vungle.com^
-||ads.auctions.yahoo.com^
 ||ads.betweendigital.com^
 ||ads.bssdl.kugou.com^
 ||ads.celtra.com^
@@ -20237,6 +20236,7 @@
 ||appupdates.189.cn^
 ||appupgrade.alicdn.com^
 ||appupgrade.cp12.ott.cibntv.net^
+||appversion.115.com^
 ||apse-s.ludashi.com^
 ||apse-sstart.ludashi.com^
 ||aq3e.154.com^
