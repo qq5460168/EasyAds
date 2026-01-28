@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-01-28 12:32:45
-# 规则总数: 29406
+# 更新时间: 2026-01-28 16:27:30
+# 规则总数: 29412
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -15043,6 +15043,7 @@
 0.0.0.0 jojog.com
 0.0.0.0 jokerlulm.com
 0.0.0.0 jollytestpartying.com
+0.0.0.0 jomodns.cn
 0.0.0.0 jomoxc.com
 0.0.0.0 jomwihn.cn
 0.0.0.0 joopt.gppxp.com
@@ -17550,6 +17551,7 @@
 0.0.0.0 mc777.cn
 0.0.0.0 mcc.inf.miui.com
 0.0.0.0 mcd-mkt-prod31-lb.campaign.adobe.com
+0.0.0.0 mcdn.bilivideo.cn
 0.0.0.0 mcdn.kandian.qq.com
 0.0.0.0 mcdn.tk.cn
 0.0.0.0 mcdn.yangkeduo.com
@@ -19222,6 +19224,7 @@
 0.0.0.0 onesoft.im
 0.0.0.0 onetad.com
 0.0.0.0 onetag-sys.com
+0.0.0.0 onethingpcs.com
 0.0.0.0 onewhee.com
 0.0.0.0 oneyearonechange.com
 0.0.0.0 onglinhhhh.nmgdfwl.com
@@ -19631,6 +19634,7 @@
 0.0.0.0 p2d8.8890.com
 0.0.0.0 p2kfynrr.icu
 0.0.0.0 p2no.143.cc
+0.0.0.0 p2p.huya.com
 0.0.0.0 p2pchunk-table.douyucdn.cn
 0.0.0.0 p2plive-ali.douyucdn.cn
 0.0.0.0 p2pmid.baofeng.com
@@ -23579,6 +23583,7 @@
 0.0.0.0 study.tenclass.net.cn
 0.0.0.0 studylabs.cn
 0.0.0.0 stuff.cdn.biddingx.com
+0.0.0.0 stun.douyucdn.cn
 0.0.0.0 stun.ekiga.net
 0.0.0.0 stun.fpapi.io
 0.0.0.0 stun.hitv.com
@@ -23593,6 +23598,7 @@
 0.0.0.0 stun.voipwise.com
 0.0.0.0 stun.voipzoom.com
 0.0.0.0 stun.voxgratia.org
+0.0.0.0 stun1.douyucdn.cn
 0.0.0.0 stunserver.stunprotocol.org
 0.0.0.0 stunthedge.com
 0.0.0.0 stx79.com

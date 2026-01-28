@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-01-28 12:32:43（北京时间）
-# 共 29390 个域名
+# 生成时间: 2026-01-28 16:27:27（北京时间）
+# 共 29396 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -15040,6 +15040,7 @@ joiwnq2.cn
 jojog.com
 jokerlulm.com
 jollytestpartying.com
+jomodns.cn
 jomoxc.com
 jomwihn.cn
 joopt.gppxp.com
@@ -17546,6 +17547,7 @@ mc2jm0545vj420i4qbr2bds8q1pocd8jlfr887i10c0hdlsccqqfun19.saxysec.com
 mc777.cn
 mcc.inf.miui.com
 mcd-mkt-prod31-lb.campaign.adobe.com
+mcdn.bilivideo.cn
 mcdn.kandian.qq.com
 mcdn.tk.cn
 mcdn.yangkeduo.com
@@ -19215,6 +19217,7 @@ onepush.query.yahoo.com
 onesoft.im
 onetad.com
 onetag-sys.com
+onethingpcs.com
 onewhee.com
 oneyearonechange.com
 onglinhhhh.nmgdfwl.com
@@ -19624,6 +19627,7 @@ p2cdnmodzz6d2.lotencydecs.bqprwd.com
 p2d8.8890.com
 p2kfynrr.icu
 p2no.143.cc
+p2p.huya.com
 p2pchunk-table.douyucdn.cn
 p2plive-ali.douyucdn.cn
 p2pmid.baofeng.com
@@ -23567,6 +23571,7 @@ study.snapads.com
 study.tenclass.net.cn
 studylabs.cn
 stuff.cdn.biddingx.com
+stun.douyucdn.cn
 stun.ekiga.net
 stun.fpapi.io
 stun.hitv.com
@@ -23581,6 +23586,7 @@ stun.voipstunt.com
 stun.voipwise.com
 stun.voipzoom.com
 stun.voxgratia.org
+stun1.douyucdn.cn
 stunserver.stunprotocol.org
 stunthedge.com
 stx79.com

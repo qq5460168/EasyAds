@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-01-28 12:32:45
-# 规则总数: 29406
+# 更新时间: 2026-01-28 16:27:30
+# 规则总数: 29412
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -15043,6 +15043,7 @@ domain, joiwnq2.cn
 domain, jojog.com
 domain, jokerlulm.com
 domain, jollytestpartying.com
+domain, jomodns.cn
 domain, jomoxc.com
 domain, jomwihn.cn
 domain, joopt.gppxp.com
@@ -17550,6 +17551,7 @@ domain, mc2jm0545vj420i4qbr2bds8q1pocd8jlfr887i10c0hdlsccqqfun19.saxysec.com
 domain, mc777.cn
 domain, mcc.inf.miui.com
 domain, mcd-mkt-prod31-lb.campaign.adobe.com
+domain, mcdn.bilivideo.cn
 domain, mcdn.kandian.qq.com
 domain, mcdn.tk.cn
 domain, mcdn.yangkeduo.com
@@ -19222,6 +19224,7 @@ domain, onesignal.com
 domain, onesoft.im
 domain, onetad.com
 domain, onetag-sys.com
+domain, onethingpcs.com
 domain, onewhee.com
 domain, oneyearonechange.com
 domain, onglinhhhh.nmgdfwl.com
@@ -19631,6 +19634,7 @@ domain, p2cdnmodzz6d2.lotencydecs.bqprwd.com
 domain, p2d8.8890.com
 domain, p2kfynrr.icu
 domain, p2no.143.cc
+domain, p2p.huya.com
 domain, p2pchunk-table.douyucdn.cn
 domain, p2plive-ali.douyucdn.cn
 domain, p2pmid.baofeng.com
@@ -23579,6 +23583,7 @@ domain, study.snapads.com
 domain, study.tenclass.net.cn
 domain, studylabs.cn
 domain, stuff.cdn.biddingx.com
+domain, stun.douyucdn.cn
 domain, stun.ekiga.net
 domain, stun.fpapi.io
 domain, stun.hitv.com
@@ -23593,6 +23598,7 @@ domain, stun.voipstunt.com
 domain, stun.voipwise.com
 domain, stun.voipzoom.com
 domain, stun.voxgratia.org
+domain, stun1.douyucdn.cn
 domain, stunserver.stunprotocol.org
 domain, stunthedge.com
 domain, stx79.com

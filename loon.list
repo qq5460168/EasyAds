@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-01-28 20:32:44
-# 规则统计: 总计29402条 (IP:1029 DOMAIN:0 SUFFIX:28373 KEYWORD:0)
+# 更新时间(北京时间): 2026-01-29 00:27:28
+# 规则统计: 总计29408条 (IP:1029 DOMAIN:0 SUFFIX:28379 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -15051,6 +15051,7 @@ DOMAIN-SUFFIX,joiwnq2.cn,REJECT
 DOMAIN-SUFFIX,jojog.com,REJECT
 DOMAIN-SUFFIX,jokerlulm.com,REJECT
 DOMAIN-SUFFIX,jollytestpartying.com,REJECT
+DOMAIN-SUFFIX,jomodns.cn,REJECT
 DOMAIN-SUFFIX,jomoxc.com,REJECT
 DOMAIN-SUFFIX,jomwihn.cn,REJECT
 DOMAIN-SUFFIX,joopt.gppxp.com,REJECT
@@ -17557,6 +17558,7 @@ DOMAIN-SUFFIX,mc2jm0545vj420i4qbr2bds8q1pocd8jlfr887i10c0hdlsccqqfun19.saxysec.c
 DOMAIN-SUFFIX,mc777.cn,REJECT
 DOMAIN-SUFFIX,mcc.inf.miui.com,REJECT
 DOMAIN-SUFFIX,mcd-mkt-prod31-lb.campaign.adobe.com,REJECT
+DOMAIN-SUFFIX,mcdn.bilivideo.cn,REJECT
 DOMAIN-SUFFIX,mcdn.kandian.qq.com,REJECT
 DOMAIN-SUFFIX,mcdn.tk.cn,REJECT
 DOMAIN-SUFFIX,mcdn.yangkeduo.com,REJECT
@@ -19226,6 +19228,7 @@ DOMAIN-SUFFIX,onepush.query.yahoo.com,REJECT
 DOMAIN-SUFFIX,onesoft.im,REJECT
 DOMAIN-SUFFIX,onetad.com,REJECT
 DOMAIN-SUFFIX,onetag-sys.com,REJECT
+DOMAIN-SUFFIX,onethingpcs.com,REJECT
 DOMAIN-SUFFIX,onewhee.com,REJECT
 DOMAIN-SUFFIX,oneyearonechange.com,REJECT
 DOMAIN-SUFFIX,onglinhhhh.nmgdfwl.com,REJECT
@@ -19635,6 +19638,7 @@ DOMAIN-SUFFIX,p2cdnmodzz6d2.lotencydecs.bqprwd.com,REJECT
 DOMAIN-SUFFIX,p2d8.8890.com,REJECT
 DOMAIN-SUFFIX,p2kfynrr.icu,REJECT
 DOMAIN-SUFFIX,p2no.143.cc,REJECT
+DOMAIN-SUFFIX,p2p.huya.com,REJECT
 DOMAIN-SUFFIX,p2pchunk-table.douyucdn.cn,REJECT
 DOMAIN-SUFFIX,p2plive-ali.douyucdn.cn,REJECT
 DOMAIN-SUFFIX,p2pmid.baofeng.com,REJECT
@@ -23579,6 +23583,7 @@ DOMAIN-SUFFIX,study.snapads.com,REJECT
 DOMAIN-SUFFIX,study.tenclass.net.cn,REJECT
 DOMAIN-SUFFIX,studylabs.cn,REJECT
 DOMAIN-SUFFIX,stuff.cdn.biddingx.com,REJECT
+DOMAIN-SUFFIX,stun.douyucdn.cn,REJECT
 DOMAIN-SUFFIX,stun.ekiga.net,REJECT
 DOMAIN-SUFFIX,stun.fpapi.io,REJECT
 DOMAIN-SUFFIX,stun.hitv.com,REJECT
@@ -23593,6 +23598,7 @@ DOMAIN-SUFFIX,stun.voipstunt.com,REJECT
 DOMAIN-SUFFIX,stun.voipwise.com,REJECT
 DOMAIN-SUFFIX,stun.voipzoom.com,REJECT
 DOMAIN-SUFFIX,stun.voxgratia.org,REJECT
+DOMAIN-SUFFIX,stun1.douyucdn.cn,REJECT
 DOMAIN-SUFFIX,stunserver.stunprotocol.org,REJECT
 DOMAIN-SUFFIX,stunthedge.com,REJECT
 DOMAIN-SUFFIX,stx79.com,REJECT

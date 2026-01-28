@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-01-28 12:32:45
-# 规则总数: 29406
+# 更新时间: 2026-01-28 16:27:30
+# 规则总数: 29412
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -15043,6 +15043,7 @@ domain: joiwnq2.cn, policy: reject
 domain: jojog.com, policy: reject
 domain: jokerlulm.com, policy: reject
 domain: jollytestpartying.com, policy: reject
+domain: jomodns.cn, policy: reject
 domain: jomoxc.com, policy: reject
 domain: jomwihn.cn, policy: reject
 domain: joopt.gppxp.com, policy: reject
@@ -17550,6 +17551,7 @@ domain: mc2jm0545vj420i4qbr2bds8q1pocd8jlfr887i10c0hdlsccqqfun19.saxysec.com, po
 domain: mc777.cn, policy: reject
 domain: mcc.inf.miui.com, policy: reject
 domain: mcd-mkt-prod31-lb.campaign.adobe.com, policy: reject
+domain: mcdn.bilivideo.cn, policy: reject
 domain: mcdn.kandian.qq.com, policy: reject
 domain: mcdn.tk.cn, policy: reject
 domain: mcdn.yangkeduo.com, policy: reject
@@ -19222,6 +19224,7 @@ domain: onesignal.com, policy: reject
 domain: onesoft.im, policy: reject
 domain: onetad.com, policy: reject
 domain: onetag-sys.com, policy: reject
+domain: onethingpcs.com, policy: reject
 domain: onewhee.com, policy: reject
 domain: oneyearonechange.com, policy: reject
 domain: onglinhhhh.nmgdfwl.com, policy: reject
@@ -19631,6 +19634,7 @@ domain: p2cdnmodzz6d2.lotencydecs.bqprwd.com, policy: reject
 domain: p2d8.8890.com, policy: reject
 domain: p2kfynrr.icu, policy: reject
 domain: p2no.143.cc, policy: reject
+domain: p2p.huya.com, policy: reject
 domain: p2pchunk-table.douyucdn.cn, policy: reject
 domain: p2plive-ali.douyucdn.cn, policy: reject
 domain: p2pmid.baofeng.com, policy: reject
@@ -23579,6 +23583,7 @@ domain: study.snapads.com, policy: reject
 domain: study.tenclass.net.cn, policy: reject
 domain: studylabs.cn, policy: reject
 domain: stuff.cdn.biddingx.com, policy: reject
+domain: stun.douyucdn.cn, policy: reject
 domain: stun.ekiga.net, policy: reject
 domain: stun.fpapi.io, policy: reject
 domain: stun.hitv.com, policy: reject
@@ -23593,6 +23598,7 @@ domain: stun.voipstunt.com, policy: reject
 domain: stun.voipwise.com, policy: reject
 domain: stun.voipzoom.com, policy: reject
 domain: stun.voxgratia.org, policy: reject
+domain: stun1.douyucdn.cn, policy: reject
 domain: stunserver.stunprotocol.org, policy: reject
 domain: stunthedge.com, policy: reject
 domain: stx79.com, policy: reject

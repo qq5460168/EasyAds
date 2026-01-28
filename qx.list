@@ -29360,4 +29360,10 @@ DOMAIN,stun.kugou.com,reject
 DOMAIN,pstun.kugou.com,reject
 DOMAIN,clientlog3.music.163.com,reject
 DOMAIN,mmgame.qpic.cn,reject
+DOMAIN,onethingpcs.com,reject
+DOMAIN,jomodns.cn,reject
+DOMAIN,p2p.huya.com,reject
+DOMAIN,stun.douyucdn.cn,reject
+DOMAIN,stun1.douyucdn.cn,reject
+DOMAIN,mcdn.bilivideo.cn,reject
 DOMAIN,p2-lm.adukwai.com,reject

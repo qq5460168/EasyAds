@@ -29422,4 +29422,10 @@
 ||pstun.kugou.com^
 ||clientlog3.music.163.com^
 ||mmgame.qpic.cn^
+||onethingpcs.com^
+||jomodns.cn^
+||p2p.huya.com^
+||stun.douyucdn.cn^
+||stun1.douyucdn.cn^
+||mcdn.bilivideo.cn^
 ||p2-lm.adukwai.com^

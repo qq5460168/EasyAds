@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-01-28 12:32:45
-# 规则总数: 29406
+# 更新时间: 2026-01-28 16:27:29
+# 规则总数: 29412
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -15044,6 +15044,7 @@ payload:
   - 'jojog.com'
   - 'jokerlulm.com'
   - 'jollytestpartying.com'
+  - 'jomodns.cn'
   - 'jomoxc.com'
   - 'jomwihn.cn'
   - 'joopt.gppxp.com'
@@ -17551,6 +17552,7 @@ payload:
   - 'mc777.cn'
   - 'mcc.inf.miui.com'
   - 'mcd-mkt-prod31-lb.campaign.adobe.com'
+  - 'mcdn.bilivideo.cn'
   - 'mcdn.kandian.qq.com'
   - 'mcdn.tk.cn'
   - 'mcdn.yangkeduo.com'
@@ -19223,6 +19225,7 @@ payload:
   - 'onesoft.im'
   - 'onetad.com'
   - 'onetag-sys.com'
+  - 'onethingpcs.com'
   - 'onewhee.com'
   - 'oneyearonechange.com'
   - 'onglinhhhh.nmgdfwl.com'
@@ -19632,6 +19635,7 @@ payload:
   - 'p2d8.8890.com'
   - 'p2kfynrr.icu'
   - 'p2no.143.cc'
+  - 'p2p.huya.com'
   - 'p2pchunk-table.douyucdn.cn'
   - 'p2plive-ali.douyucdn.cn'
   - 'p2pmid.baofeng.com'
@@ -23580,6 +23584,7 @@ payload:
   - 'study.tenclass.net.cn'
   - 'studylabs.cn'
   - 'stuff.cdn.biddingx.com'
+  - 'stun.douyucdn.cn'
   - 'stun.ekiga.net'
   - 'stun.fpapi.io'
   - 'stun.hitv.com'
@@ -23594,6 +23599,7 @@ payload:
   - 'stun.voipwise.com'
   - 'stun.voipzoom.com'
   - 'stun.voxgratia.org'
+  - 'stun1.douyucdn.cn'
   - 'stunserver.stunprotocol.org'
   - 'stunthedge.com'
   - 'stx79.com'

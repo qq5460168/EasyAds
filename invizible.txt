@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-01-28 12:32:45
-# 规则总数: 29406
+# 更新时间: 2026-01-28 16:27:30
+# 规则总数: 29412
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -15043,6 +15043,7 @@ joiwnq2.cn block
 jojog.com block
 jokerlulm.com block
 jollytestpartying.com block
+jomodns.cn block
 jomoxc.com block
 jomwihn.cn block
 joopt.gppxp.com block
@@ -17550,6 +17551,7 @@ mc2jm0545vj420i4qbr2bds8q1pocd8jlfr887i10c0hdlsccqqfun19.saxysec.com block
 mc777.cn block
 mcc.inf.miui.com block
 mcd-mkt-prod31-lb.campaign.adobe.com block
+mcdn.bilivideo.cn block
 mcdn.kandian.qq.com block
 mcdn.tk.cn block
 mcdn.yangkeduo.com block
@@ -19222,6 +19224,7 @@ onesignal.com block
 onesoft.im block
 onetad.com block
 onetag-sys.com block
+onethingpcs.com block
 onewhee.com block
 oneyearonechange.com block
 onglinhhhh.nmgdfwl.com block
@@ -19631,6 +19634,7 @@ p2cdnmodzz6d2.lotencydecs.bqprwd.com block
 p2d8.8890.com block
 p2kfynrr.icu block
 p2no.143.cc block
+p2p.huya.com block
 p2pchunk-table.douyucdn.cn block
 p2plive-ali.douyucdn.cn block
 p2pmid.baofeng.com block
@@ -23579,6 +23583,7 @@ study.snapads.com block
 study.tenclass.net.cn block
 studylabs.cn block
 stuff.cdn.biddingx.com block
+stun.douyucdn.cn block
 stun.ekiga.net block
 stun.fpapi.io block
 stun.hitv.com block
@@ -23593,6 +23598,7 @@ stun.voipstunt.com block
 stun.voipwise.com block
 stun.voipzoom.com block
 stun.voxgratia.org block
+stun1.douyucdn.cn block
 stunserver.stunprotocol.org block
 stunthedge.com block
 stx79.com block
