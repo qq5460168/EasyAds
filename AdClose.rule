@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-02-03 01:22:38
-# 规则总数: 29412
+# 更新时间: 2026-02-03 05:12:09
+# 规则总数: 29411
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -2121,7 +2121,6 @@ domain, 50d2557cbde5f1fe7041db723da8ebd63331ba59e82648fa.dlied1.cdntips.net
 domain, 51-tour.net
 domain, 51.com
 domain, 51.la
-domain, 51.wxapp.tc.qq.com
 domain, 510tl.com
 domain, 5125129.com
 domain, 513hch.com

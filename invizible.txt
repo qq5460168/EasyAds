@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-02-03 01:22:37
-# 规则总数: 29412
+# 更新时间: 2026-02-03 05:12:08
+# 规则总数: 29411
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -2121,7 +2121,6 @@
 51-tour.net block
 51.com block
 51.la block
-51.wxapp.tc.qq.com block
 510tl.com block
 5125129.com block
 513hch.com block

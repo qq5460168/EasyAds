@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-02-03 01:22:37
-# 规则总数: 29412
+# 更新时间: 2026-02-03 05:12:08
+# 规则总数: 29411
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -2121,7 +2121,6 @@ domain: 50d2557cbde5f1fe7041db723da8ebd63331ba59e82648fa.dlied1.cdntips.net, pol
 domain: 51-tour.net, policy: reject
 domain: 51.com, policy: reject
 domain: 51.la, policy: reject
-domain: 51.wxapp.tc.qq.com, policy: reject
 domain: 510tl.com, policy: reject
 domain: 5125129.com, policy: reject
 domain: 513hch.com, policy: reject
