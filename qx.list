@@ -511,7 +511,6 @@ DOMAIN,m-adnet.hiaiabc.com,reject
 DOMAIN,m.ad.zhangyue.com,reject
 DOMAIN,m.atm.youku.com,reject
 DOMAIN,m.shenshiads.com,reject
-DOMAIN,m1.ad.10010.com,reject
 DOMAIN,mapi.m.jd.com,reject
 DOMAIN,masdkv6.3g.qq.com,reject
 DOMAIN,mazu.m.qq.com,reject
@@ -4475,6 +4474,7 @@ DOMAIN,cws-cctv.conviva.com,reject
 DOMAIN,mdrecv.app.cntvwb.cn,reject
 DOMAIN,sdapprecv.app.cntvwb.cn,reject
 DOMAIN,vdapprecv.app.cntvwb.cn,reject
+DOMAIN,m1.ad.10010.com,reject
 DOMAIN,ttayy.cn,reject
 DOMAIN,zhengxiaoliu.top,reject
 DOMAIN,-normal-lq.zijieapi.com,reject

@@ -516,7 +516,6 @@
 ||m.ad.zhangyue.com^
 ||m.atm.youku.com^
 ||m.shenshiads.com^
-||m1.ad.10010.com^
 ||mapi.m.jd.com^
 ||masdkv6.3g.qq.com^
 ||mazu.m.qq.com^
@@ -4496,6 +4495,7 @@
 ||mdrecv.app.cntvwb.cn^
 ||sdapprecv.app.cntvwb.cn^
 ||vdapprecv.app.cntvwb.cn^
+||m1.ad.10010.com^
 ||ttayy.cn^
 ||zhengxiaoliu.top^
 ||-normal-lq.zijieapi.com^
