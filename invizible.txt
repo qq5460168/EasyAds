@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-02-11 01:44:47
-# 规则总数: 29411
+# 更新时间: 2026-02-11 05:23:20
+# 规则总数: 29412
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -12465,6 +12465,7 @@ godloveme.cn block
 godni.xyz block
 goeyxwhp.site block
 gog9.qzdfc.com block
+gohgn02111la.com block
 goikbnjksdf.com block
 goingsranchange.com block
 golden1.sogou.com block

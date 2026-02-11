@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-02-11 01:44:47
-# 规则总数: 29411
+# 更新时间: 2026-02-11 05:23:21
+# 规则总数: 29412
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -12465,6 +12465,7 @@
 0.0.0.0 godni.xyz
 0.0.0.0 goeyxwhp.site
 0.0.0.0 gog9.qzdfc.com
+0.0.0.0 gohgn02111la.com
 0.0.0.0 goikbnjksdf.com
 0.0.0.0 goingsranchange.com
 0.0.0.0 golden1.sogou.com

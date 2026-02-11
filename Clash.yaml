@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-02-11 01:44:47
-# 规则总数: 29411
+# 更新时间: 2026-02-11 05:23:20
+# 规则总数: 29412
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -12466,6 +12466,7 @@ payload:
   - 'godni.xyz'
   - 'goeyxwhp.site'
   - 'gog9.qzdfc.com'
+  - 'gohgn02111la.com'
   - 'goikbnjksdf.com'
   - 'goingsranchange.com'
   - 'golden1.sogou.com'

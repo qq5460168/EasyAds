@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-02-11 01:44:45.673433
+# Generated on 2026-02-11 05:23:19.010439
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -29396,6 +29396,7 @@
 ||zzg7.yide.com^
 ||zzjq.720lu.com^
 ||zzzu.ag8.com^
+||gohgn02111la.com^
 ||bugs01141ko.com^
 ||bugs01131ko.com^
 ||xggdrks.icu^
