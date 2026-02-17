@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-02-17 20:43:13
-! 有效规则数量: 29216 条
+! 规则更新时间: 2026-02-18 00:47:39
+! 有效规则数量: 29215 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -5155,7 +5155,6 @@
 ||flysleep.cn^
 ||g-api.kwai.com^
 ||gias.jd.com^
-||hdslb.com^
 ||id6.me^
 ||in-addr.arpa^
 ||ip6.arpa^
@@ -24254,46 +24253,46 @@
 ||ads.lejuliang.cn^
 ||volcsirius.com^
 ||weilayun.com^
-140.82.113.25                 alive.github.com
-20.205.243.168                api.github.com
+140.82.112.26                 alive.github.com
+140.82.112.6                  api.github.com
 140.82.113.21                 api.individual.githubcopilot.com
-185.199.109.133               avatars.githubusercontent.com
-185.199.109.133               avatars0.githubusercontent.com
-185.199.109.133               avatars1.githubusercontent.com
-185.199.109.133               avatars2.githubusercontent.com
-185.199.109.133               avatars3.githubusercontent.com
-185.199.109.133               avatars4.githubusercontent.com
-185.199.109.133               avatars5.githubusercontent.com
-185.199.109.133               camo.githubusercontent.com
-140.82.113.21                 central.github.com
-185.199.109.133               cloud.githubusercontent.com
+185.199.108.133               avatars.githubusercontent.com
+185.199.108.133               avatars0.githubusercontent.com
+185.199.108.133               avatars1.githubusercontent.com
+185.199.108.133               avatars2.githubusercontent.com
+185.199.108.133               avatars3.githubusercontent.com
+185.199.108.133               avatars4.githubusercontent.com
+185.199.108.133               avatars5.githubusercontent.com
+185.199.108.133               camo.githubusercontent.com
+140.82.114.21                 central.github.com
+185.199.108.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.112.21                 collector.github.com
-185.199.109.133               desktop.githubusercontent.com
-185.199.109.133               favicons.githubusercontent.com
-140.82.113.4                  gist.github.com
-52.216.12.12                  github-cloud.s3.amazonaws.com
-16.15.223.247                 github-com.s3.amazonaws.com
-3.5.7.203                     github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.202.97                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.30.207                    github-production-user-asset-6210df.s3.amazonaws.com
+140.82.113.21                 collector.github.com
+185.199.108.133               desktop.githubusercontent.com
+185.199.108.133               favicons.githubusercontent.com
+20.205.243.166                gist.github.com
+52.217.139.201                github-cloud.s3.amazonaws.com
+16.15.223.60                  github-com.s3.amazonaws.com
+52.217.133.1                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.185.49                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.24.116                    github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 140.82.114.3                  github.com
-140.82.113.17                 github.community
+140.82.113.18                 github.community
 185.199.111.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
-185.199.111.153               github.io
-185.199.109.133               github.map.fastly.net
-185.199.111.153               githubstatus.com
-140.82.114.26                 live.github.com
-185.199.109.133               media.githubusercontent.com
-185.199.109.133               objects.githubusercontent.com
+185.199.110.153               github.io
+185.199.108.133               github.map.fastly.net
+185.199.110.153               githubstatus.com
+140.82.114.25                 live.github.com
+185.199.108.133               media.githubusercontent.com
+185.199.108.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.109.133               raw.githubusercontent.com
-185.199.109.133               user-images.githubusercontent.com
+185.199.108.133               raw.githubusercontent.com
+185.199.108.133               user-images.githubusercontent.com
 13.107.213.73                 vscode.dev  # Timeout
-140.82.114.21                 education.github.com
-185.199.109.133               private-user-images.githubusercontent.com
+140.82.114.22                 education.github.com
+185.199.108.133               private-user-images.githubusercontent.com
 ||gohgn02111la.com^
 ||bugs01141ko.com^
 ||bugs01131ko.com^
@@ -26464,7 +26463,6 @@
 @@||act.zhuanzhuan.com^
 @@||active.jd.com^
 @@||activity.browser.intl.miui.com^
-@@||activity.hdslb.com^
 @@||activity.tuiapple.com^
 @@||activity.youku.com^
 @@||acts.qidian.com^
@@ -26484,7 +26482,6 @@
 @@||aikanlive.miguvideo.com^
 @@||aikanvod.miguvideo.com^
 @@||aisite.wejianzhan.com^
-@@||aisubtitle.hdslb.com^
 @@||aizhan.com^
 @@||akamaized.net^
 @@||ali-gamezone.static.yximgs.com^
@@ -26869,7 +26866,6 @@
 @@||disp-qryapi.3g.qq.com^
 @@||dj.1688.com^
 @@||dl.360safe.com^
-@@||dl.hdslb.com^
 @@||dl.reg.163.com^
 @@||dldir1.qq.com^
 @@||dldir3.qq.com^
@@ -27105,9 +27101,6 @@
 @@||i.tantanapp.com^
 @@||i.tianqi.com^
 @@||i.ytimg.com^
-@@||i0.hdslb.com^
-@@||i1.hdslb.com^
-@@||i2.hdslb.com^
 @@||i2.y.qq.com^
 @@||i72.lanzoug.com^
 @@||i82.lanzoug.com^
@@ -27757,10 +27750,8 @@
 @@||s.ssl.qhres2.com^
 @@||s0.2mdn.net^
 @@||s0.meituan.net^
-@@||s1.hdslb.com^
 @@||s1.kskwai.com^
 @@||s1.meituan.net^
-@@||s2.hdslb.com^
 @@||s2.ssl.qhres2.com^
 @@||s3.meituan.net^
 @@||s3.pstatp.com^
@@ -27866,7 +27857,6 @@
 @@||static.ali213.net^
 @@||static.biligame.com^
 @@||static.e.189.cn^
-@@||static.hdslb.com^
 @@||static.iask.cn^
 @@||static.iqiyi.com^
 @@||static.qiyi.com^
@@ -28282,6 +28272,15 @@
 @@||mms-static.pinduoduo.com^
 @@||video3.pddpic.com^
 @@||video2.pddpic.com^
+@@||static.hdslb.com^
+@@||i0.hdslb.com^
+@@||i1.hdslb.com^
+@@||i2.hdslb.com^
+@@||s1.hdslb.com^
+@@||aisubtitle.hdslb.com^
+@@||activity.hdslb.com^
+@@||s2.hdslb.com^
+@@||dl.hdslb.com^
 @@||grpc.biliapi.net^
 @@||zhihu-web-analytics.zhihu.com/api/v2/za/payload-verification
 @@||iqiyi.com/static/js/adfe.5aa3302c.js

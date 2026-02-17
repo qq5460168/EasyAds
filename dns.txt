@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-02-17 12:43:11.328652
+# Generated on 2026-02-17 16:47:37.137337
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -5145,7 +5145,6 @@
 ||flysleep.cn^
 ||g-api.kwai.com^
 ||gias.jd.com^
-||hdslb.com^
 ||id6.me^
 ||in-addr.arpa^
 ||ip6.arpa^

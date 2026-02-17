@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-02-17 12:43:13
-# 规则总数: 19696
+# 更新时间: 2026-02-17 16:47:39
+# 规则总数: 19695
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -9763,7 +9763,6 @@
 0.0.0.0 hdj.baidu.com
 0.0.0.0 hdns.ksyun.com
 0.0.0.0 hdpdrandpd.xyz
-0.0.0.0 hdslb.com
 0.0.0.0 hdvkl.cn
 0.0.0.0 hdwiey.com
 0.0.0.0 hdxjtl.xyz

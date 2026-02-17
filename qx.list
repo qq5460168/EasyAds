@@ -5124,7 +5124,6 @@ DOMAIN,firevent.jd.com,reject
 DOMAIN,flysleep.cn,reject
 DOMAIN,g-api.kwai.com,reject
 DOMAIN,gias.jd.com,reject
-DOMAIN,hdslb.com,reject
 DOMAIN,id6.me,reject
 DOMAIN,in-addr.arpa,reject
 DOMAIN,ip6.arpa,reject

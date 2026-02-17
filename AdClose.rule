@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-02-17 12:43:13
-# 规则总数: 19696
+# 更新时间: 2026-02-17 16:47:39
+# 规则总数: 19695
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -9763,7 +9763,6 @@ domain, hdhkwl.com
 domain, hdj.baidu.com
 domain, hdns.ksyun.com
 domain, hdpdrandpd.xyz
-domain, hdslb.com
 domain, hdvkl.cn
 domain, hdwiey.com
 domain, hdxjtl.xyz

@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-02-17 20:43:13
+! 规则更新时间: 2026-02-18 00:47:39
 ! 有效规则数量: 2801 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
@@ -49,7 +49,6 @@
 @@||act.zhuanzhuan.com^
 @@||active.jd.com^
 @@||activity.browser.intl.miui.com^
-@@||activity.hdslb.com^
 @@||activity.tuiapple.com^
 @@||activity.youku.com^
 @@||acts.qidian.com^
@@ -69,7 +68,6 @@
 @@||aikanlive.miguvideo.com^
 @@||aikanvod.miguvideo.com^
 @@||aisite.wejianzhan.com^
-@@||aisubtitle.hdslb.com^
 @@||aizhan.com^
 @@||akamaized.net^
 @@||ali-gamezone.static.yximgs.com^
@@ -454,7 +452,6 @@
 @@||disp-qryapi.3g.qq.com^
 @@||dj.1688.com^
 @@||dl.360safe.com^
-@@||dl.hdslb.com^
 @@||dl.reg.163.com^
 @@||dldir1.qq.com^
 @@||dldir3.qq.com^
@@ -690,9 +687,6 @@
 @@||i.tantanapp.com^
 @@||i.tianqi.com^
 @@||i.ytimg.com^
-@@||i0.hdslb.com^
-@@||i1.hdslb.com^
-@@||i2.hdslb.com^
 @@||i2.y.qq.com^
 @@||i72.lanzoug.com^
 @@||i82.lanzoug.com^
@@ -1342,10 +1336,8 @@
 @@||s.ssl.qhres2.com^
 @@||s0.2mdn.net^
 @@||s0.meituan.net^
-@@||s1.hdslb.com^
 @@||s1.kskwai.com^
 @@||s1.meituan.net^
-@@||s2.hdslb.com^
 @@||s2.ssl.qhres2.com^
 @@||s3.meituan.net^
 @@||s3.pstatp.com^
@@ -1451,7 +1443,6 @@
 @@||static.ali213.net^
 @@||static.biligame.com^
 @@||static.e.189.cn^
-@@||static.hdslb.com^
 @@||static.iask.cn^
 @@||static.iqiyi.com^
 @@||static.qiyi.com^
@@ -1867,6 +1858,15 @@
 @@||mms-static.pinduoduo.com^
 @@||video3.pddpic.com^
 @@||video2.pddpic.com^
+@@||static.hdslb.com^
+@@||i0.hdslb.com^
+@@||i1.hdslb.com^
+@@||i2.hdslb.com^
+@@||s1.hdslb.com^
+@@||aisubtitle.hdslb.com^
+@@||activity.hdslb.com^
+@@||s2.hdslb.com^
+@@||dl.hdslb.com^
 @@||grpc.biliapi.net^
 @@||zhihu-web-analytics.zhihu.com/api/v2/za/payload-verification
 @@||iqiyi.com/static/js/adfe.5aa3302c.js

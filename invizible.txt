@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-02-17 12:43:13
-# 规则总数: 19696
+# 更新时间: 2026-02-17 16:47:39
+# 规则总数: 19695
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -9763,7 +9763,6 @@ hdhkwl.com block
 hdj.baidu.com block
 hdns.ksyun.com block
 hdpdrandpd.xyz block
-hdslb.com block
 hdvkl.cn block
 hdwiey.com block
 hdxjtl.xyz block

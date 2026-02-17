@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-02-17 12:43:12
-# 规则总数: 19696
+# 更新时间: 2026-02-17 16:47:38
+# 规则总数: 19695
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -9764,7 +9764,6 @@ payload:
   - 'hdj.baidu.com'
   - 'hdns.ksyun.com'
   - 'hdpdrandpd.xyz'
-  - 'hdslb.com'
   - 'hdvkl.cn'
   - 'hdwiey.com'
   - 'hdxjtl.xyz'

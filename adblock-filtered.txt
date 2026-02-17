@@ -5142,7 +5142,6 @@
 ||flysleep.cn^
 ||g-api.kwai.com^
 ||gias.jd.com^
-||hdslb.com^
 ||id6.me^
 ||in-addr.arpa^
 ||ip6.arpa^
