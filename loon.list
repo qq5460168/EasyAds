@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-02-18 16:36:05
-# 规则统计: 总计19687条 (IP:1031 DOMAIN:0 SUFFIX:18656 KEYWORD:0)
+# 更新时间(北京时间): 2026-02-18 20:43:01
+# 规则统计: 总计19691条 (IP:1031 DOMAIN:0 SUFFIX:18660 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -7928,10 +7928,12 @@ DOMAIN-SUFFIX,dns.iqiyi.com,REJECT
 DOMAIN-SUFFIX,dns.jd.com,REJECT
 DOMAIN-SUFFIX,dns.qiyipic.iqiyi.com,REJECT
 DOMAIN-SUFFIX,dns.qq.com,REJECT
+DOMAIN-SUFFIX,dns.wechat.com,REJECT
 DOMAIN-SUFFIX,dns.weibo.cn,REJECT
 DOMAIN-SUFFIX,dns.weixin.qq.com,REJECT
 DOMAIN-SUFFIX,dns.weixin.qq.com.cn,REJECT
 DOMAIN-SUFFIX,dns2.q2cdn.com,REJECT
+DOMAIN-SUFFIX,dns2.titannetwork.cn,REJECT
 DOMAIN-SUFFIX,dnvus.com,REJECT
 DOMAIN-SUFFIX,dnyzbp.cn,REJECT
 DOMAIN-SUFFIX,dnzmhr.xyz,REJECT
@@ -10030,6 +10032,7 @@ DOMAIN-SUFFIX,httpdns.c.cdnhwc2.com,REJECT
 DOMAIN-SUFFIX,httpdns.calorietech.com,REJECT
 DOMAIN-SUFFIX,httpdns.cctv.com,REJECT
 DOMAIN-SUFFIX,httpdns.danuoyi.tbcache.com,REJECT
+DOMAIN-SUFFIX,httpdns.gslb.yy.com,REJECT
 DOMAIN-SUFFIX,httpdns.huaweicloud.com,REJECT
 DOMAIN-SUFFIX,httpdns.kg.qq.com,REJECT
 DOMAIN-SUFFIX,httpdns.kwd.inkuai.com,REJECT
@@ -12051,6 +12054,7 @@ DOMAIN-SUFFIX,logger.baofeng.com,REJECT
 DOMAIN-SUFFIX,logger.qingting.fm,REJECT
 DOMAIN-SUFFIX,logger.treexml.baofeng.com,REJECT
 DOMAIN-SUFFIX,loggw.alipay.com.cn,REJECT
+DOMAIN-SUFFIX,loggw.alipaydns.com,REJECT
 DOMAIN-SUFFIX,lognew.cloooud.com,REJECT
 DOMAIN-SUFFIX,logonext.tv.kuyun.com,REJECT
 DOMAIN-SUFFIX,logos.kiwibrowser.com,REJECT

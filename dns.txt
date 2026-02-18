@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-02-18 08:36:05.530780
+# Generated on 2026-02-18 12:43:01.328746
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -18019,7 +18019,11 @@
 ||hd.xiaojukeji.com^
 ||tens.p2p.tun.qq.com^
 ||tp2p.kg.qq.com^
+||httpdns.gslb.yy.com^
+||dns2.titannetwork.cn^
+||loggw.alipaydns.com^
 ||httpdns.bilivideo.com^
+||dns.wechat.com^
 ||impression.biligame.com^
 ||jzts.cmpassport.com^
 ||ug-data.mihoyo.com^

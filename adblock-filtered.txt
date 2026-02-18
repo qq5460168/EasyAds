@@ -18016,7 +18016,11 @@
 ||hd.xiaojukeji.com^
 ||tens.p2p.tun.qq.com^
 ||tp2p.kg.qq.com^
+||httpdns.gslb.yy.com^
+||dns2.titannetwork.cn^
+||loggw.alipaydns.com^
 ||httpdns.bilivideo.com^
+||dns.wechat.com^
 ||impression.biligame.com^
 ||jzts.cmpassport.com^
 ||ug-data.mihoyo.com^

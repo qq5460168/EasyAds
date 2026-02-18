@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-02-18 08:36:05（北京时间）
-# 共 19681 个域名
+# 生成时间: 2026-02-18 12:43:01（北京时间）
+# 共 19685 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -7915,10 +7915,12 @@ dns.iqiyi.com
 dns.jd.com
 dns.qiyipic.iqiyi.com
 dns.qq.com
+dns.wechat.com
 dns.weibo.cn
 dns.weixin.qq.com
 dns.weixin.qq.com.cn
 dns2.q2cdn.com
+dns2.titannetwork.cn
 dnvus.com
 dnyzbp.cn
 dnzmhr.xyz
@@ -10018,6 +10020,7 @@ httpdns.c.cdnhwc2.com
 httpdns.calorietech.com
 httpdns.cctv.com
 httpdns.danuoyi.tbcache.com
+httpdns.gslb.yy.com
 httpdns.huaweicloud.com
 httpdns.kg.qq.com
 httpdns.kwd.inkuai.com
@@ -12042,6 +12045,7 @@ logger.baofeng.com
 logger.qingting.fm
 logger.treexml.baofeng.com
 loggw.alipay.com.cn
+loggw.alipaydns.com
 lognew.cloooud.com
 logonext.tv.kuyun.com
 logos.kiwibrowser.com

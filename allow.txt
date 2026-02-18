@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-02-18 16:36:07
-! 有效规则数量: 2801 条
+! 规则更新时间: 2026-02-18 20:43:03
+! 有效规则数量: 2839 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -1822,8 +1822,26 @@
 @@||webapi.amap.com^
 @@||api-chat.soulapp.cn^
 @@||award.xmcdn.com^
+@@||policy.video.iqiyi.com^
+@@||boscdn.baidu.com^
+@@||code.bdstatic.com^
+@@||nd-static.bdstatic.com^
 @@||isite.baidu.com^
 @@||channels.weixin.qq.com^
+@@||qqlogin.huanleapp.huanle.qq.com^
+@@||down-update.qq.com^
+@@||api2.helper.qq.com^
+@@||yoyo.qq.com^
+@@||miniapp.gtimg.cn^
+@@||ti.qq.com^
+@@||openmobile.qq.com^
+@@||t.captcha.qq.com^
+@@||msfwifi.3g.qq.com^
+@@||qpic.y.qq.com^
+@@||mv6.music.tc.qq.com^
+@@||vm.gtimg.cn^
+@@||community.image.video.qpic.cn^
+@@||vmmp.qpic.cn^
 @@||vpic.cms.qq.com^
 @@||trpc.qianbao.qq.com^
 @@||rule.tencent.com^
@@ -1834,6 +1852,10 @@
 @@||p9-pc-sign.douyinpic.com^
 @@||imagex.bytedanceapi.com^
 @@||webcast.amemv.com^
+@@||render.amap.com^
+@@||render-prod-backup-tile.amap.com^
+@@||m5.amap.com^
+@@||msgacs.m.taobao.com^
 @@||guide-acs.m.taobao.com^
 @@||w2.kskwai.com^
 @@||su.uc.cn^
@@ -1869,6 +1891,22 @@
 @@||dl.hdslb.com^
 @@||grpc.biliapi.net^
 @@||zhihu-web-analytics.zhihu.com/api/v2/za/payload-verification
+@@||api.toutiaoapi.com^
+@@||gator.volces.com^
+@@||coolapk-oss-image.oss-cn-hangzhou.aliyuncs.com^
+@@||feeds.sina.cn^
+@@||cdn.wtzw.com^
+@@||dg.k.jd.com^
+@@||qlp.qinlinad.com^
+@@||api.cloud.189.cn^
+@@||user.e.189.cn^
+@@||res.app.coc.10086.cn^
+@@||interface.music.163.com^
+@@||interface3.music.163.com^
+@@||interface.music.163.com.163jiasu.com^
+@@||interface3.music.163.com.163jiasu.com^
+@@||gae2-spclient.spotify.com^
+@@||gql-fed.reddit.com^
 @@||iqiyi.com/static/js/adfe.5aa3302c.js
 @@||qhres2.com^$domain=www.n.cn
 @@||lobechat.com/_next/static/chunks/

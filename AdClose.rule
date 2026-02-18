@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-02-18 08:36:07
-# 规则总数: 19695
+# 更新时间: 2026-02-18 12:43:03
+# 规则总数: 19699
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -7917,10 +7917,12 @@ domain, dns.iqiyi.com
 domain, dns.jd.com
 domain, dns.qiyipic.iqiyi.com
 domain, dns.qq.com
+domain, dns.wechat.com
 domain, dns.weibo.cn
 domain, dns.weixin.qq.com
 domain, dns.weixin.qq.com.cn
 domain, dns2.q2cdn.com
+domain, dns2.titannetwork.cn
 domain, dnvus.com
 domain, dnyzbp.cn
 domain, dnzmhr.xyz
@@ -10021,6 +10023,7 @@ domain, httpdns.c.cdnhwc2.com
 domain, httpdns.calorietech.com
 domain, httpdns.cctv.com
 domain, httpdns.danuoyi.tbcache.com
+domain, httpdns.gslb.yy.com
 domain, httpdns.huaweicloud.com
 domain, httpdns.kg.qq.com
 domain, httpdns.kwd.inkuai.com
@@ -12045,6 +12048,7 @@ domain, logger.baofeng.com
 domain, logger.qingting.fm
 domain, logger.treexml.baofeng.com
 domain, loggw.alipay.com.cn
+domain, loggw.alipaydns.com
 domain, lognew.cloooud.com
 domain, logonext.tv.kuyun.com
 domain, logos.kiwibrowser.com

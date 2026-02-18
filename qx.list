@@ -17970,7 +17970,11 @@ DOMAIN,httpdns.calorietech.com,reject
 DOMAIN,hd.xiaojukeji.com,reject
 DOMAIN,tens.p2p.tun.qq.com,reject
 DOMAIN,tp2p.kg.qq.com,reject
+DOMAIN,httpdns.gslb.yy.com,reject
+DOMAIN,dns2.titannetwork.cn,reject
+DOMAIN,loggw.alipaydns.com,reject
 DOMAIN,httpdns.bilivideo.com,reject
+DOMAIN,dns.wechat.com,reject
 DOMAIN,impression.biligame.com,reject
 DOMAIN,jzts.cmpassport.com,reject
 DOMAIN,ug-data.mihoyo.com,reject

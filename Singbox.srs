@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-02-18 08:36:06
-# 规则总数: 19695
+# 更新时间: 2026-02-18 12:43:03
+# 规则总数: 19699
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -7917,10 +7917,12 @@ domain: dns.iqiyi.com, policy: reject
 domain: dns.jd.com, policy: reject
 domain: dns.qiyipic.iqiyi.com, policy: reject
 domain: dns.qq.com, policy: reject
+domain: dns.wechat.com, policy: reject
 domain: dns.weibo.cn, policy: reject
 domain: dns.weixin.qq.com, policy: reject
 domain: dns.weixin.qq.com.cn, policy: reject
 domain: dns2.q2cdn.com, policy: reject
+domain: dns2.titannetwork.cn, policy: reject
 domain: dnvus.com, policy: reject
 domain: dnyzbp.cn, policy: reject
 domain: dnzmhr.xyz, policy: reject
@@ -10021,6 +10023,7 @@ domain: httpdns.c.cdnhwc2.com, policy: reject
 domain: httpdns.calorietech.com, policy: reject
 domain: httpdns.cctv.com, policy: reject
 domain: httpdns.danuoyi.tbcache.com, policy: reject
+domain: httpdns.gslb.yy.com, policy: reject
 domain: httpdns.huaweicloud.com, policy: reject
 domain: httpdns.kg.qq.com, policy: reject
 domain: httpdns.kwd.inkuai.com, policy: reject
@@ -12045,6 +12048,7 @@ domain: logger.baofeng.com, policy: reject
 domain: logger.qingting.fm, policy: reject
 domain: logger.treexml.baofeng.com, policy: reject
 domain: loggw.alipay.com.cn, policy: reject
+domain: loggw.alipaydns.com, policy: reject
 domain: lognew.cloooud.com, policy: reject
 domain: logonext.tv.kuyun.com, policy: reject
 domain: logos.kiwibrowser.com, policy: reject

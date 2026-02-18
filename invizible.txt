@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-02-18 08:36:06
-# 规则总数: 19695
+# 更新时间: 2026-02-18 12:43:03
+# 规则总数: 19699
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -7917,10 +7917,12 @@ dns.iqiyi.com block
 dns.jd.com block
 dns.qiyipic.iqiyi.com block
 dns.qq.com block
+dns.wechat.com block
 dns.weibo.cn block
 dns.weixin.qq.com block
 dns.weixin.qq.com.cn block
 dns2.q2cdn.com block
+dns2.titannetwork.cn block
 dnvus.com block
 dnyzbp.cn block
 dnzmhr.xyz block
@@ -10021,6 +10023,7 @@ httpdns.c.cdnhwc2.com block
 httpdns.calorietech.com block
 httpdns.cctv.com block
 httpdns.danuoyi.tbcache.com block
+httpdns.gslb.yy.com block
 httpdns.huaweicloud.com block
 httpdns.kg.qq.com block
 httpdns.kwd.inkuai.com block
@@ -12045,6 +12048,7 @@ logger.baofeng.com block
 logger.qingting.fm block
 logger.treexml.baofeng.com block
 loggw.alipay.com.cn block
+loggw.alipaydns.com block
 lognew.cloooud.com block
 logonext.tv.kuyun.com block
 logos.kiwibrowser.com block
