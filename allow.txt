@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-02-28 16:19:53
-! 有效规则数量: 3644 条
+! 规则更新时间: 2026-02-28 20:29:28
+! 有效规则数量: 3646 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -204,7 +204,6 @@
 @@||auth.wosms.cn^
 @@||auth.zijieapi.com^
 @@||avatar.coolapk.com^
-@@||aweme.snssdk.com^
 @@||awp-assets.meituan.net^
 @@||b.163.com^
 @@||b.bdstatic.com^
@@ -511,7 +510,6 @@
 @@||edge.activity.windows.com^
 @@||edith.xiaohongshu.com^
 @@||edu-image.nosdn.127.net^
-@@||effect.snssdk.com^
 @@||ei.phncdn.com^
 @@||emoji.bj.bcebos.com^
 @@||emoji.qpic.cn^
@@ -534,8 +532,6 @@
 @@||exp.sug.browser.miui.com^
 @@||f*.market.mi-img.com^
 @@||f*.market.xiaomi.com^
-@@||f-cashloan.snssdk.com^
-@@||f-cpay.snssdk.com^
 @@||f-vali.cp31.ott.cibntv.net^
 @@||f.51240.com^
 @@||f.bmcx.com^
@@ -651,7 +647,6 @@
 @@||h5static.cc.163.com^
 @@||h5vv6.video.qq.com^
 @@||haohuo.jinritemai.com^
-@@||haohuo.snssdk.com^
 @@||haokan.baidu.com^
 @@||haoma.163.com^
 @@||hectorstatic.baidu.com^
@@ -681,7 +676,6 @@
 @@||i.gtimg.cn^
 @@||i.ibb.co^
 @@||i.meituan.com^
-@@||i.snssdk.com^
 @@||i.sso.sina.com.cn^
 @@||i.tancdn.com^
 @@||i.tantanapp.com^
@@ -692,9 +686,7 @@
 @@||i82.lanzoug.com^
 @@||iask.cn^
 @@||iask.com.cn^
-@@||ib.snssdk.com^
 @@||ib11.go2yd.com^
-@@||ic.snssdk.com^
 @@||ichnaea-web.netflix.com^
 @@||icws.jb51.net^
 @@||id.163.com^
@@ -773,8 +765,6 @@
 @@||ipv4dns.com^
 @@||ipw.cn^
 @@||ipxx.pro^
-@@||is-hl.snssdk.com^
-@@||is.snssdk.com^
 @@||is1-ssl.mzstatic.com^
 @@||isee.weishi.qq.com^
 @@||isite.baidu.com^$important
@@ -873,7 +863,6 @@
 @@||log-api.pangolin-sdk-toutiao-b.com^
 @@||log-api.pangolin-sdk-toutiao.com^
 @@||log-upload.mihoyo.com^
-@@||log.snssdk.com^
 @@||log1.cmpassport.com^
 @@||log5-applog-lf.fqnovel.com^
 @@||log5-applog.fqnovel.com^
@@ -956,7 +945,6 @@
 @@||mcc1684939218000.lgecqrb.com^
 @@||mcc1684939331000.lgecqrb.com^
 @@||mcdn.bilivideo.cn^
-@@||mcs.snssdk.com^
 @@||mcs.zijieapi.com^
 @@||mdevstat.qqlive.qq.com^
 @@||mdm.openapi.360.cn^
@@ -1006,8 +994,6 @@
 @@||mobilelog.kugou.com^
 @@||mobilist.kuwo.cn^
 @@||moggy-image-1251316161.file.myqcloud.com^
-@@||mon.isnssdk.com^
-@@||mon.snssdk.com^
 @@||mon.zijieapi.com^
 @@||monsetting.toutiao.com^
 @@||mooc-image.nosdn.127.net^
@@ -1070,7 +1056,6 @@
 @@||onekey1.cmpassport.com^
 @@||open.bytedanceapi.com^
 @@||open.oppomobile.com^
-@@||open.snssdk.com^
 @@||openap-alps.51y5.net^
 @@||opencloud.wostore.cn^
 @@||oppo.yidianzixun.com^
@@ -1303,7 +1288,6 @@
 @@||r5---sn-4g5ednsl.googlevideo.com^
 @@||rdelivery.qq.com^
 @@||reader.browser.miui.com^
-@@||reading.snssdk.com^
 @@||readstatic.zhulang.com^
 @@||recmd.html5.qq.com^
 @@||reg.163.com^
@@ -1511,7 +1495,6 @@
 @@||tianshu.gtimg.cn^
 @@||tnc11-bjlgy.zijieapi.com^
 @@||tnc16-platform-useast1a.tiktokv.com^
-@@||tnc3-aliec2.snssdk.com^
 @@||tnc3-bjlgy.zijieapi.com^
 @@||tongji.flash.cn^
 @@||top.17173.com^
@@ -1596,9 +1579,7 @@
 @@||v6.pic.upqzfile.com^
 @@||v9-x.toutiaovod.com^
 @@||vali-g1.cp31.ott.cibntv.net^
-@@||vas.snssdk.com^
 @@||vcs-quality.zijieapi.com^
-@@||vcs.snssdk.com^
 @@||vcs.zijieapi.com^
 @@||vd.l.qq.com^
 @@||vd1.market.xiaomi.com^
@@ -1607,7 +1588,6 @@
 @@||vectorsdk.map.qq.com^
 @@||venus.yhd.com^
 @@||verify.cmpassport.com^
-@@||verify.snssdk.com^
 @@||verify.zijieapi.com^
 @@||video.zhihu.com^
 @@||view.inews.qq.com^
@@ -1794,6 +1774,7 @@
 @@||zkres.myzaker.com^
 @@||zm.sm-tc.cn^
 @@||ztgame.com^
+@@||res.openinstall.com^$important
 @@||mmocgame.qpic.cn^$important
 @@||v.smtcdns.com^
 @@||p3-flow-download-sign.byteimg.com^
@@ -1818,9 +1799,11 @@
 @@||bcelive.com^
 @@||p4-ad.adukwai.com^
 @@||store.is.autonavi.com^
+@@||effect.snssdk.com^
 @@||xbk.189.cn^
 @@||fourier-videoclip-in.allawnos.com^
 @@||webapi.amap.com^
+@@||haohuo.snssdk.com^
 @@||api-chat.soulapp.cn^
 @@||award.xmcdn.com^
 @@||policy.video.iqiyi.com^
@@ -1853,6 +1836,9 @@
 @@||p9-pc-sign.douyinpic.com^
 @@||imagex.bytedanceapi.com^
 @@||webcast.amemv.com^
+@@||log.snssdk.com^
+@@||verify.snssdk.com^
+@@||vcs.snssdk.com^
 @@||render.amap.com^
 @@||render-prod-backup-tile.amap.com^
 @@||m5.amap.com^
@@ -1862,6 +1848,8 @@
 @@||su.uc.cn^
 @@||pc-api.uc.cn^
 @@||v9-novelapp.fqnovelvod.com^
+@@||tnc3-aliec2.snssdk.com^
+@@||reading.snssdk.com^
 @@||www.pinduoduo.com^
 @@||m.pinduoduo.com^
 @@||api.pinduoduo.com^
@@ -1891,6 +1879,15 @@
 @@||s2.hdslb.com^
 @@||dl.hdslb.com^
 @@||grpc.biliapi.net^
+@@||ib.snssdk.com^
+@@||ic.snssdk.com^
+@@||is.snssdk.com^
+@@||mcs.snssdk.com^
+@@||open.snssdk.com^
+@@||mon.snssdk.com^
+@@||mon.isnssdk.com^
+@@||is-hl.snssdk.com^
+@@||i.snssdk.com^
 @@||zhihu-web-analytics.zhihu.com/api/v2/za/payload-verification
 @@||api.toutiaoapi.com^
 @@||gator.volces.com^
@@ -1908,6 +1905,11 @@
 @@||interface3.music.163.com.163jiasu.com^
 @@||gae2-spclient.spotify.com^
 @@||gql-fed.reddit.com^
+@@||aweme.snssdk.com^
+@@||valuecommerce.com^$important
+@@||f-cpay.snssdk.com^
+@@||f-cashloan.snssdk.com^
+@@||vas.snssdk.com^
 @@||iqiyi.com/static/js/adfe.5aa3302c.js
 @@||qhres2.com^$domain=www.n.cn
 @@||lobechat.com/_next/static/chunks/

@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-02-28 08:19:53
-# 规则总数: 19786
+# 更新时间: 2026-02-28 12:29:28
+# 规则总数: 19788
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -11005,6 +11005,7 @@ jiubuhua.com block
 jiuku.cc block
 jiumai88.com block
 jiuyou.ky block
+jiuyue919.com block
 jiuyuntian3.cn block
 jixmlx.xyz block
 jiyou2014.com block
@@ -14545,6 +14546,7 @@ ptmabek.cn block
 ptvfzv.xyz block
 ptw.la block
 pu0glv.cn block
+puata.info block
 pub-osscdn.zaxdcredit.com block
 pub.betclick.com block
 pub.chinadailyasia.com block

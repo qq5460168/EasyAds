@@ -5159,7 +5159,6 @@
 ||ldhy.click^
 ||log.jd.com^
 ||log.m.jd.com^
-||log.snssdk.com^
 ||log2.cmpassport.com^
 ||mercury.jd.com^
 ||mktm.jd.com^
@@ -5214,6 +5213,9 @@
 ||yximgs.com^
 ||zt.jd.com^
 ||zztfly.com^
+||log.snssdk.com^
+||jiuyue919.com^
+||puata.info^
 ||tos.pstatp.com^
 ||video-cn.snssdk.com^
 ||getui.net^

@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-02-28 08:19:51.959868
+# Generated on 2026-02-28 12:29:26.828205
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -5162,7 +5162,6 @@
 ||ldhy.click^
 ||log.jd.com^
 ||log.m.jd.com^
-||log.snssdk.com^
 ||log2.cmpassport.com^
 ||mercury.jd.com^
 ||mktm.jd.com^
@@ -5217,6 +5216,9 @@
 ||yximgs.com^
 ||zt.jd.com^
 ||zztfly.com^
+||log.snssdk.com^
+||jiuyue919.com^
+||puata.info^
 ||tos.pstatp.com^
 ||video-cn.snssdk.com^
 ||getui.net^

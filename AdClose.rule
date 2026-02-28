@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-02-28 08:19:53
-# 规则总数: 19786
+# 更新时间: 2026-02-28 12:29:28
+# 规则总数: 19788
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -11005,6 +11005,7 @@ domain, jiubuhua.com
 domain, jiuku.cc
 domain, jiumai88.com
 domain, jiuyou.ky
+domain, jiuyue919.com
 domain, jiuyuntian3.cn
 domain, jixmlx.xyz
 domain, jiyou2014.com
@@ -14545,6 +14546,7 @@ domain, ptmabek.cn
 domain, ptvfzv.xyz
 domain, ptw.la
 domain, pu0glv.cn
+domain, puata.info
 domain, pub-osscdn.zaxdcredit.com
 domain, pub.betclick.com
 domain, pub.chinadailyasia.com

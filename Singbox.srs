@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-02-28 08:19:53
-# 规则总数: 19786
+# 更新时间: 2026-02-28 12:29:28
+# 规则总数: 19788
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -11005,6 +11005,7 @@ domain: jiubuhua.com, policy: reject
 domain: jiuku.cc, policy: reject
 domain: jiumai88.com, policy: reject
 domain: jiuyou.ky, policy: reject
+domain: jiuyue919.com, policy: reject
 domain: jiuyuntian3.cn, policy: reject
 domain: jixmlx.xyz, policy: reject
 domain: jiyou2014.com, policy: reject
@@ -14545,6 +14546,7 @@ domain: ptmabek.cn, policy: reject
 domain: ptvfzv.xyz, policy: reject
 domain: ptw.la, policy: reject
 domain: pu0glv.cn, policy: reject
+domain: puata.info, policy: reject
 domain: pub-osscdn.zaxdcredit.com, policy: reject
 domain: pub.betclick.com, policy: reject
 domain: pub.chinadailyasia.com, policy: reject

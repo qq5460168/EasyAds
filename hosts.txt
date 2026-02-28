@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-02-28 08:19:53
-# 规则总数: 19786
+# 更新时间: 2026-02-28 12:29:28
+# 规则总数: 19788
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -11005,6 +11005,7 @@
 0.0.0.0 jiuku.cc
 0.0.0.0 jiumai88.com
 0.0.0.0 jiuyou.ky
+0.0.0.0 jiuyue919.com
 0.0.0.0 jiuyuntian3.cn
 0.0.0.0 jixmlx.xyz
 0.0.0.0 jiyou2014.com
@@ -14545,6 +14546,7 @@
 0.0.0.0 ptvfzv.xyz
 0.0.0.0 ptw.la
 0.0.0.0 pu0glv.cn
+0.0.0.0 puata.info
 0.0.0.0 pub-osscdn.zaxdcredit.com
 0.0.0.0 pub.betclick.com
 0.0.0.0 pub.chinadailyasia.com

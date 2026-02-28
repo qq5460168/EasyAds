@@ -5141,7 +5141,6 @@ DOMAIN,lbsapi.m.jd.com,reject
 DOMAIN,ldhy.click,reject
 DOMAIN,log.jd.com,reject
 DOMAIN,log.m.jd.com,reject
-DOMAIN,log.snssdk.com,reject
 DOMAIN,log2.cmpassport.com,reject
 DOMAIN,mercury.jd.com,reject
 DOMAIN,mktm.jd.com,reject
@@ -5195,6 +5194,9 @@ DOMAIN,yumao.puata.info,reject
 DOMAIN,yximgs.com,reject
 DOMAIN,zt.jd.com,reject
 DOMAIN,zztfly.com,reject
+DOMAIN,log.snssdk.com,reject
+DOMAIN,jiuyue919.com,reject
+DOMAIN,puata.info,reject
 DOMAIN,tos.pstatp.com,reject
 DOMAIN,video-cn.snssdk.com,reject
 DOMAIN,getui.net,reject

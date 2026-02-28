@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-02-28 08:19:53
-# 规则总数: 19786
+# 更新时间: 2026-02-28 12:29:28
+# 规则总数: 19788
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -11006,6 +11006,7 @@ payload:
   - 'jiuku.cc'
   - 'jiumai88.com'
   - 'jiuyou.ky'
+  - 'jiuyue919.com'
   - 'jiuyuntian3.cn'
   - 'jixmlx.xyz'
   - 'jiyou2014.com'
@@ -14546,6 +14547,7 @@ payload:
   - 'ptvfzv.xyz'
   - 'ptw.la'
   - 'pu0glv.cn'
+  - 'puata.info'
   - 'pub-osscdn.zaxdcredit.com'
   - 'pub.betclick.com'
   - 'pub.chinadailyasia.com'

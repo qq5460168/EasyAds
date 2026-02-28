@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-02-28 08:19:52（北京时间）
-# 共 19772 个域名
+# 生成时间: 2026-02-28 12:29:26（北京时间）
+# 共 19774 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -11001,6 +11001,7 @@ jiubuhua.com
 jiuku.cc
 jiumai88.com
 jiuyou.ky
+jiuyue919.com
 jiuyuntian3.cn
 jixmlx.xyz
 jiyou2014.com
@@ -14535,6 +14536,7 @@ ptmabek.cn
 ptvfzv.xyz
 ptw.la
 pu0glv.cn
+puata.info
 pub-osscdn.zaxdcredit.com
 pub.betclick.com
 pub.chinadailyasia.com
