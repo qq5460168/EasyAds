@@ -134,7 +134,7 @@ def download_rules(concurrent: int = MAX_WORKERS):
     allow_urls = [
         "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
         "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt",
-        "https://file-git.trli.club/file-hosts/allow/Domains", #冷漠
+       # "https://file-git.trli.club/file-hosts/allow/Domains", #冷漠
         "https://raw.githubusercontent.com/user001235/112/main/white.txt", #浅笑
         "https://raw.githubusercontent.com/jhsvip/ADRuls/main/white.txt", #jhsvip
         "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt", #liwenjie119
