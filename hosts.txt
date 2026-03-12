@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-03-12 01:16:36
-# 规则总数: 19788
+# 更新时间: 2026-03-12 05:12:38
+# 规则总数: 19791
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -2518,6 +2518,7 @@
 0.0.0.0 650714.pink
 0.0.0.0 65311948.com
 0.0.0.0 65432.pw
+0.0.0.0 65487496.xyz
 0.0.0.0 654b.k8.com
 0.0.0.0 654mmm.com
 0.0.0.0 654y.3359.com
@@ -8603,6 +8604,7 @@
 0.0.0.0 emss.zjhim.com
 0.0.0.0 en.shenyun.com
 0.0.0.0 en.shenyun.org
+0.0.0.0 endlesshandbaglinked.com
 0.0.0.0 endowmentoverhangutmost.com
 0.0.0.0 endpoint.zhuishushenqi.com
 0.0.0.0 enennsa.gushiwen.cn
@@ -13872,6 +13874,7 @@
 0.0.0.0 orbit.jd.com
 0.0.0.0 orchidscape.net
 0.0.0.0 oredero.com
+0.0.0.0 orqmimfug.in
 0.0.0.0 ort-stsdk.vivo.com.cn
 0.0.0.0 ortc.cc
 0.0.0.0 orxsq.xyz

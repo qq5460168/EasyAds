@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-03-12 01:16:37
-# 规则总数: 19788
+# 更新时间: 2026-03-12 05:12:38
+# 规则总数: 19791
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -2518,6 +2518,7 @@ domain, 65.52.165.252
 domain, 650714.pink
 domain, 65311948.com
 domain, 65432.pw
+domain, 65487496.xyz
 domain, 654b.k8.com
 domain, 654mmm.com
 domain, 654y.3359.com
@@ -8603,6 +8604,7 @@ domain, ems.youku.com
 domain, emss.zjhim.com
 domain, en.shenyun.com
 domain, en.shenyun.org
+domain, endlesshandbaglinked.com
 domain, endowmentoverhangutmost.com
 domain, endpoint.zhuishushenqi.com
 domain, enennsa.gushiwen.cn
@@ -13872,6 +13874,7 @@ domain, orange-dc.youku.com
 domain, orbit.jd.com
 domain, orchidscape.net
 domain, oredero.com
+domain, orqmimfug.in
 domain, ort-stsdk.vivo.com.cn
 domain, ortc.cc
 domain, orxsq.xyz

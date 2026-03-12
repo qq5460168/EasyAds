@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-03-12 01:16:34.339916
+# Generated on 2026-03-12 05:12:37.055452
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -18092,6 +18092,9 @@
 ||ads.lejuliang.cn^
 ||volcsirius.com^
 ||weilayun.com^
+||orqmimfug.in^
+||65487496.xyz^
+||endlesshandbaglinked.com^
 ||gohgn02111la.com^
 ||bugs01141ko.com^
 ||bugs01131ko.com^

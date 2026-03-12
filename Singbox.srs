@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-03-12 01:16:36
-# 规则总数: 19788
+# 更新时间: 2026-03-12 05:12:38
+# 规则总数: 19791
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -2518,6 +2518,7 @@ domain: 65.52.165.252, policy: reject
 domain: 650714.pink, policy: reject
 domain: 65311948.com, policy: reject
 domain: 65432.pw, policy: reject
+domain: 65487496.xyz, policy: reject
 domain: 654b.k8.com, policy: reject
 domain: 654mmm.com, policy: reject
 domain: 654y.3359.com, policy: reject
@@ -8603,6 +8604,7 @@ domain: ems.youku.com, policy: reject
 domain: emss.zjhim.com, policy: reject
 domain: en.shenyun.com, policy: reject
 domain: en.shenyun.org, policy: reject
+domain: endlesshandbaglinked.com, policy: reject
 domain: endowmentoverhangutmost.com, policy: reject
 domain: endpoint.zhuishushenqi.com, policy: reject
 domain: enennsa.gushiwen.cn, policy: reject
@@ -13872,6 +13874,7 @@ domain: orange-dc.youku.com, policy: reject
 domain: orbit.jd.com, policy: reject
 domain: orchidscape.net, policy: reject
 domain: oredero.com, policy: reject
+domain: orqmimfug.in, policy: reject
 domain: ort-stsdk.vivo.com.cn, policy: reject
 domain: ortc.cc, policy: reject
 domain: orxsq.xyz, policy: reject
