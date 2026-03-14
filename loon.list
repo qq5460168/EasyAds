@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-03-14 09:18:23
-# 规则统计: 总计19783条 (IP:1031 DOMAIN:0 SUFFIX:18752 KEYWORD:0)
+# 更新时间(北京时间): 2026-03-14 13:07:14
+# 规则统计: 总计19784条 (IP:1031 DOMAIN:0 SUFFIX:18753 KEYWORD:0)
 
 # IP规则
 IP-CIDR,1.56.98.184,REJECT,no-resolve
@@ -18314,6 +18314,7 @@ DOMAIN-SUFFIX,wumii.com,REJECT
 DOMAIN-SUFFIX,wup.imtt.qq.com,REJECT
 DOMAIN-SUFFIX,wuplexv.cn,REJECT
 DOMAIN-SUFFIX,wuqdebjfhjas.bid,REJECT
+DOMAIN-SUFFIX,wuqwruavhah.in,REJECT
 DOMAIN-SUFFIX,wuwho.cn,REJECT
 DOMAIN-SUFFIX,wv.inner-active.mobi,REJECT
 DOMAIN-SUFFIX,wvcwop.zbbznk.xyz,REJECT

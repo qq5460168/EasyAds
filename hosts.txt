@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-03-14 01:18:24
-# 规则总数: 19791
+# 更新时间: 2026-03-14 05:07:15
+# 规则总数: 19792
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -18317,6 +18317,7 @@
 0.0.0.0 wup.imtt.qq.com
 0.0.0.0 wuplexv.cn
 0.0.0.0 wuqdebjfhjas.bid
+0.0.0.0 wuqwruavhah.in
 0.0.0.0 wuwho.cn
 0.0.0.0 wv.inner-active.mobi
 0.0.0.0 wvcwop.zbbznk.xyz

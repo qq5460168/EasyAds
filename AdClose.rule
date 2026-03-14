@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-03-14 01:18:24
-# 规则总数: 19791
+# 更新时间: 2026-03-14 05:07:15
+# 规则总数: 19792
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -18317,6 +18317,7 @@ domain, wumii.com
 domain, wup.imtt.qq.com
 domain, wuplexv.cn
 domain, wuqdebjfhjas.bid
+domain, wuqwruavhah.in
 domain, wuwho.cn
 domain, wv.inner-active.mobi
 domain, wvcwop.zbbznk.xyz
