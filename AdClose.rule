@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-03-15 12:34:56
-# 规则总数: 19272
+# 更新时间: 2026-03-15 16:23:31
+# 规则总数: 19271
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -13435,7 +13435,6 @@ domain, ps.browser.qq.com
 domain, psb.lenovomm.com
 domain, psfq.gou.sogou.com
 domain, psma02.com
-domain, pss.alicdn.com
 domain, pstun.kugou.com
 domain, pstvvb.xyz
 domain, pt29zx.com

@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-03-15 12:34:56
-# 规则总数: 19272
+# 更新时间: 2026-03-15 16:23:31
+# 规则总数: 19271
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -13435,7 +13435,6 @@ ps.browser.qq.com block
 psb.lenovomm.com block
 psfq.gou.sogou.com block
 psma02.com block
-pss.alicdn.com block
 pstun.kugou.com block
 pstvvb.xyz block
 pt29zx.com block

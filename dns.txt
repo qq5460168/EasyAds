@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-03-15 12:34:54.307613
+# Generated on 2026-03-15 16:23:30.422974
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -18978,7 +18978,6 @@
 ||adx.maplehaze.cn^
 ||lx-upload-log.go2yd.com^
 ||ssp-monitor.adstarcharm.com^
-||pss.alicdn.com^
 ||c.sm.cn^
 ||api.sm.cn^
 ||cm-10-28.getui.com^

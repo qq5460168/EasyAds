@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-03-15 20:34:56
-! 有效规则数量: 3636 条
+! 规则更新时间: 2026-03-16 00:23:31
+! 有效规则数量: 3688 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -429,6 +429,58 @@
 @@||m.dianping.com^
 @@||osp.meituan.net^
 @@||s0.meituan.net^
+@@||account.xiaomi.com^
+@@||id.mi.com^
+@@||passport.xiaomi.com^
+@@||api.tv.xiaomi.com^
+@@||mitv.api.miui.com^
+@@||config.tv.xiaomi.com^
+@@||ota.tv.xiaomi.com^
+@@||update.tv.xiaomi.com^
+@@||upgrade.tv.xiaomi.com^
+@@||pandora.xiaomi.com^
+@@||appstore.pandora.xiaomi.com^
+@@||cdn.pandora.xiaomi.com^
+@@||de.pandora.xiaomi.com^
+@@||hpplay.cn^
+@@||lebo.cn^
+@@||cast.mi.com^
+@@||miracast.mi.com^
+@@||dlna.mi.com^
+@@||dangbei.com^
+@@||app.dangbei.com^
+@@||api.dangbei.com^
+@@||down.dangbei.com^
+@@||download.dangbei.com^
+@@||data.dangbei.com^
+@@||stat.dangbei.com^
+@@||config.dangbei.com^
+@@||upgrade.dangbei.com^
+@@||market.dangbei.com^
+@@||passport.youku.com^
+@@||account.youku.com^
+@@||vip.youku.com^
+@@||vali-dns.cp31.ott.cibntv.net^
+@@||vali-dns.cp32.ott.cibntv.net^
+@@||vali-dns.cp33.ott.cibntv.net^
+@@||vali-dns.cp34.ott.cibntv.net^
+@@||vali-dns.cp35.ott.cibntv.net^
+@@||vali-dns.cp36.ott.cibntv.net^
+@@||vali-dns.cp37.ott.cibntv.net^
+@@||vali-dns.cp38.ott.cibntv.net^
+@@||vali-dns.cp39.ott.cibntv.net^
+@@||vali-dns.cp40.ott.cibntv.net^
+@@||pl-ali.youku.com^
+@@||pl-aliyun.youku.com^
+@@||pl-hw.youku.com^
+@@||pl-tx.youku.com^
+@@||api.youku.com^
+@@||api.kumiao.com^
+@@||config.youku.com^
+@@||upgrade.youku.com^
+@@||stat.youku.com^
+@@||ott.cibntv.net^
+@@||cibntv.net^
 @@||policy.video.iqiyi.com^
 @@||boscdn.baidu.com^
 @@||code.bdstatic.com^
