@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-03-15 01:43:53
-# 规则总数: 19271
+# 更新时间: 2026-03-15 05:25:06
+# 规则总数: 19272
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -3186,6 +3186,7 @@ payload:
   - 'aornkmae.com'
   - 'aos-creative.prf.hn'
   - 'aos.wall.youmi.net'
+  - 'aotheve.beacon.qq.com'
   - 'aoyou1.top'
   - 'aoyou2.top'
   - 'aoyou3.top'
