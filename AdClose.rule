@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-03-17 05:18:24
-# 规则总数: 19271
+# 更新时间: 2026-03-17 08:41:56
+# 规则总数: 19272
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -2935,6 +2935,7 @@ domain, ah.5l59k.com
 domain, ah.bwaa301.icu
 domain, ahdohpiechei.com
 domain, ahf.bugly.qq.com
+domain, ahfqiraq.in
 domain, ahhuazhen.com
 domain, ahm.jiankang123.net
 domain, ahp10.site

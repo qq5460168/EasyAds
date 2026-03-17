@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-03-17 05:18:24
-# 规则总数: 19271
+# 更新时间: 2026-03-17 08:41:56
+# 规则总数: 19272
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -2935,6 +2935,7 @@
 0.0.0.0 ah.bwaa301.icu
 0.0.0.0 ahdohpiechei.com
 0.0.0.0 ahf.bugly.qq.com
+0.0.0.0 ahfqiraq.in
 0.0.0.0 ahhuazhen.com
 0.0.0.0 ahm.jiankang123.net
 0.0.0.0 ahp10.site

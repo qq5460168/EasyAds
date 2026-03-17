@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-03-17 05:18:23.060253
+# Generated on 2026-03-17 08:41:55.333832
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -17828,6 +17828,7 @@
 ||o.iads.unity3d.com^
 ||ads.ubestkid.com^
 ||ads.lejuliang.cn^
+||ahfqiraq.in^
 ||wuqwruavhah.in^
 ||orqmimfug.in^
 ||65487496.xyz^
