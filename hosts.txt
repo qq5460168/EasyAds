@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-03-21 12:31:26
-# 规则总数: 19272
+# 更新时间: 2026-03-21 16:20:11
+# 规则总数: 19271
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -11985,7 +11985,6 @@
 0.0.0.0 msdk.qq.com
 0.0.0.0 msdk.voiceads.cn
 0.0.0.0 msdsd2.cn
-0.0.0.0 msec.opposhop.cn
 0.0.0.0 msg.71.am
 0.0.0.0 msg.c002.ottcn.com
 0.0.0.0 msg.ettoday.net

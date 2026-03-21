@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-03-21 12:31:24.795968
+# Generated on 2026-03-21 16:20:09.364749
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -18551,7 +18551,6 @@
 ||api-fc.dutils.com^
 ||appi.qijizuopin.com^
 ||sfn.opposhop.cn^
-||msec.opposhop.cn^
 ||yk-ssp-ad.cp12.wasu.tv^
 ||valfatm.cp12.wasu.tv^
 ||valf.atm.cp31.ott.cibntv.net^

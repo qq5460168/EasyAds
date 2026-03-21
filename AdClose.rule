@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-03-21 12:31:26
-# 规则总数: 19272
+# 更新时间: 2026-03-21 16:20:11
+# 规则总数: 19271
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -11985,7 +11985,6 @@ domain, msclick2.kuwo.cn
 domain, msdk.qq.com
 domain, msdk.voiceads.cn
 domain, msdsd2.cn
-domain, msec.opposhop.cn
 domain, msg.71.am
 domain, msg.c002.ottcn.com
 domain, msg.ettoday.net

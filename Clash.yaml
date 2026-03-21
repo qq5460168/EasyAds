@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-03-21 12:31:26
-# 规则总数: 19272
+# 更新时间: 2026-03-21 16:20:10
+# 规则总数: 19271
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -11986,7 +11986,6 @@ payload:
   - 'msdk.qq.com'
   - 'msdk.voiceads.cn'
   - 'msdsd2.cn'
-  - 'msec.opposhop.cn'
   - 'msg.71.am'
   - 'msg.c002.ottcn.com'
   - 'msg.ettoday.net'

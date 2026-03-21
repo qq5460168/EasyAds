@@ -18548,7 +18548,6 @@
 ||api-fc.dutils.com^
 ||appi.qijizuopin.com^
 ||sfn.opposhop.cn^
-||msec.opposhop.cn^
 ||yk-ssp-ad.cp12.wasu.tv^
 ||valfatm.cp12.wasu.tv^
 ||valf.atm.cp31.ott.cibntv.net^
