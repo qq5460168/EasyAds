@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-03-22 20:33:12
-! 有效规则数量: 3891 条
+! 规则更新时间: 2026-03-23 00:20:40
+! 有效规则数量: 3909 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -429,6 +429,24 @@
 @@||m.dianping.com^
 @@||osp.meituan.net^
 @@||s0.meituan.net^
+@@||cloud.huawei.com^$important
+@@||account.huawei.com^$important
+@@||pay.huawei.com^$important
+@@||user.huawei.com^$important
+@@||appgallery.huawei.com^$important
+@@||update.hicloud.com^$important
+@@||dl.hicloud.com^$important
+@@||health.huawei.com^$important
+@@||healthkit.huawei.com^$important
+@@||wear.huawei.com^$important
+@@||iot.huawei.com^$important
+@@||video.huawei.com^$important
+@@||music.huawei.com^$important
+@@||read.huawei.com^$important
+@@||drive.huawei.com^$important
+@@||backup.huawei.com^$important
+@@||browser.huawei.com^$important
+@@||assistant.huawei.com^$important
 @@||yun.vivo.com.cn^
 @@||i.vivo.com.cn^
 @@||findphone.vivo.com.cn^
