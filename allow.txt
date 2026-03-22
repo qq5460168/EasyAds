@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-03-22 13:16:00
-! 有效规则数量: 3842 条
+! 规则更新时间: 2026-03-22 16:25:47
+! 有效规则数量: 3891 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -429,6 +429,59 @@
 @@||m.dianping.com^
 @@||osp.meituan.net^
 @@||s0.meituan.net^
+@@||yun.vivo.com.cn^
+@@||i.vivo.com.cn^
+@@||findphone.vivo.com.cn^
+@@||account.vivo.com^
+@@||passport.vivo.com^
+@@||ota.vivo.com^
+@@||update.vivo.com^
+@@||upgrade.vivo.com^
+@@||push.vivo.com^
+@@||msg.vivo.com^
+@@||notification.vivo.com^
+@@||appstore.vivo.com^
+@@||gamecenter.vivo.com^
+@@||store.vivo.com^
+@@||security.vivo.com^
+@@||verify.vivo.com^
+@@||antivirus.vivo.com^
+@@||log.vivo.com^
+@@||stat.vivo.com^
+@@||diagnose.vivo.com^
+@@||api.vivo.com^
+@@||cdn.vivo.com^
+@@||data.vivo.com^
+@@||service.vivo.com^
+@@||support.vivo.com^
+@@||zhan.vivo.com.cn^
+@@||api.realme.com^
+@@||cloud.realme.com^
+@@||account.realme.com^
+@@||auth.realme.com^
+@@||user.realme.com^
+@@||id.realme.com^
+@@||update.realme.com^
+@@||ota.realme.com^
+@@||rom.realme.com^
+@@||firmware.realme.com^
+@@||store.realme.com^
+@@||theme.realme.com^
+@@||wallpaper.realme.com^
+@@||resource.realme.com^
+@@||wallet.realme.com^
+@@||pay.realme.com^
+@@||security.realme.com^
+@@||verify.realme.com^
+@@||log.realme.com^
+@@||stat.realme.com^
+@@||push.realme.com^
+@@||msg.realme.com^
+@@||api.coloros.com^
+@@||api.oppo.com^
+@@||cloud.oppo.com^
+@@||store.oppo.com^
+@@||update.oppo.com^
 @@||appleid.apple.com^
 @@||idmsa.apple.com^
 @@||auth.icloud.com^
@@ -527,7 +580,6 @@
 @@||market.heytap.com^
 @@||game.heytap.com^
 @@||store.oppomobile.com^
-@@||cloud.oppo.com^
 @@||cloud.heytap.com^
 @@||cloud.oneplus.com^
 @@||sync.oppo.com^
@@ -546,9 +598,7 @@
 @@||push.oppo.com^
 @@||log.heytap.com^
 @@||log.oppo.com^
-@@||api.coloros.com^
 @@||api.heytap.com^
-@@||api.oppo.com^
 @@||location.heytap.com^
 @@||sec.oppo.com^
 @@||sec.heytap.com^
@@ -1953,7 +2003,6 @@
 @@||s.ssl.qhres2.com^
 @@||s2.ssl.qhres2.com^
 @@||localads.chengzijianzhan.cn^
-@@||zhan.vivo.com.cn^
 @@||pic.iask.com.cn^
 @@||static.iask.cn^
 @@||s1.kskwai.com^
