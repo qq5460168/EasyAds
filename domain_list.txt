@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-03-22 01:25:44（北京时间）
-# 共 19238 个域名
+# 生成时间: 2026-03-22 05:15:59（北京时间）
+# 共 19237 个域名
 
 -normal-lq.zijieapi.com
 0.r.msn.com
@@ -6151,7 +6151,6 @@ dnightwish.xyz
 dnl382.com
 dnlog.cmpassport.com
 dnrf0215.com
-dns.iqiyi.com
 dns.jd.com
 dns.qiyipic.iqiyi.com
 dns.qq.com

@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-03-22 01:25:46
-# 规则总数: 19271
+# 更新时间: 2026-03-22 05:16:00
+# 规则总数: 19270
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -6171,7 +6171,6 @@ payload:
   - 'dnl382.com'
   - 'dnlog.cmpassport.com'
   - 'dnrf0215.com'
-  - 'dns.iqiyi.com'
   - 'dns.jd.com'
   - 'dns.qiyipic.iqiyi.com'
   - 'dns.qq.com'

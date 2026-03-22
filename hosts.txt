@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-03-22 01:25:46
-# 规则总数: 19271
+# 更新时间: 2026-03-22 05:16:00
+# 规则总数: 19270
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -6170,7 +6170,6 @@
 0.0.0.0 dnl382.com
 0.0.0.0 dnlog.cmpassport.com
 0.0.0.0 dnrf0215.com
-0.0.0.0 dns.iqiyi.com
 0.0.0.0 dns.jd.com
 0.0.0.0 dns.qiyipic.iqiyi.com
 0.0.0.0 dns.qq.com

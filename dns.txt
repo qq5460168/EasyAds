@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-03-22 01:25:44.481747
+# Generated on 2026-03-22 05:15:59.027690
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -18058,7 +18058,6 @@
 ||httpsdns.baidu.com^
 ||httpdns.bcelice.com^
 ||httpsdns.baidubce.com^
-||dns.iqiyi.com^
 ||doh.iqiyi.com^
 ||dns.qiyipic.iqiyi.com^
 ||httpdns.n.shifen.com^

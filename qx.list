@@ -18008,7 +18008,6 @@ DOMAIN,httpdns.baidu.com,reject
 DOMAIN,httpsdns.baidu.com,reject
 DOMAIN,httpdns.bcelice.com,reject
 DOMAIN,httpsdns.baidubce.com,reject
-DOMAIN,dns.iqiyi.com,reject
 DOMAIN,doh.iqiyi.com,reject
 DOMAIN,dns.qiyipic.iqiyi.com,reject
 DOMAIN,httpdns.n.shifen.com,reject
