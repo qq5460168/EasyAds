@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-03-24 16:41:51
-! 有效规则数量: 3922 条
+! 规则更新时间: 2026-03-24 20:53:10
+! 有效规则数量: 3982 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
+@@||static.cloudflareinsights.com^$important
 @@||res.openinstall.com^
 @@||p3-flow-download-sign.byteimg.com^
 @@||video.da.mgtv.com^
@@ -634,6 +635,66 @@
 @@||appconf.heytapdownload.com^
 @@||msec.opposhop.cn^
 @@||obus-cn.dc.heytapmobi.com^
+@@||oxygenos.oneplus.net^
+@@||oxygenos.oneplus.com^
+@@||onepluscommunity.net^
+@@||oneplus.helpshift.com^
+@@||oneplus.force.com^
+@@||oneplus.secure.force.com^
+@@||oneplus.blob.core.windows.net^
+@@||oneplus.azureedge.net^
+@@||oneplus.cdn.cloudflare.net^
+@@||ota.oneplus.net^
+@@||update.oneplus.com^
+@@||update.oneplus.net^
+@@||fota.oneplus.com^
+@@||fota.oneplus.net^
+@@||download.oneplus.com^
+@@||download.oneplus.net^
+@@||oxygenos.ota.oneplus.com^
+@@||oxygenos.ota.oneplus.net^
+@@||oxygenos.update.oneplus.com^
+@@||oxygenos.update.oneplus.net^
+@@||android.clients.google.com^
+@@||android.googleapis.com^
+@@||play.googleapis.com^
+@@||accounts.google.com^
+@@||oauth2.googleapis.com^
+@@||firebase.googleapis.com^
+@@||firebaseio.com^
+@@||google-analytics.com^
+@@||googletagmanager.com^
+@@||doubleclick.net^
+@@||account.oneplus.com^
+@@||account.oneplus.net^
+@@||cloud.oneplus.net^
+@@||sync.oneplus.com^
+@@||sync.oneplus.net^
+@@||backup.oneplus.com^
+@@||backup.oneplus.net^
+@@||oneplusid.oneplus.com^
+@@||oneplusid.oneplus.net^
+@@||store.oneplus.com^
+@@||store.oneplus.net^
+@@||app.oneplus.com^
+@@||app.oneplus.net^
+@@||market.oneplus.com^
+@@||market.oneplus.net^
+@@||games.oneplus.com^
+@@||games.oneplus.net^
+@@||theme.oneplus.com^
+@@||theme.oneplus.net^
+@@||wallpaper.oneplus.com^
+@@||wallpaper.oneplus.net^
+@@||push.oneplus.com^
+@@||push.oneplus.net^
+@@||notify.oneplus.com^
+@@||notify.oneplus.net^
+@@||forums.oneplus.com^
+@@||community.oneplus.com^
+@@||support.oneplus.com^
+@@||help.oneplus.com^
+@@||service.oneplus.com^
 @@||account.xiaomi.com^
 @@||id.mi.com^
 @@||passport.xiaomi.com^
@@ -1999,7 +2060,6 @@
 @@||ww12.lanzous.com^
 @@||ww1.lanzous.com^
 @@||www.alidns.com^
-@@||play.googleapis.com^
 @@||177e.wodenongtian.com^
 @@||177f.wodenongtian.com^
 @@||wodenongtian.com^
