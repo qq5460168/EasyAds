@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-03-25 16:42:26
+! 规则更新时间: 2026-03-25 20:50:31
 ! 有效规则数量: 3980 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
@@ -92,8 +92,6 @@
 @@||m.jxdown.com^
 @@||img.jxdown.com^
 @@||jxdown.com^
-@@||fourier-videoclip-eu.allawnos.com^
-@@||fourier-videoclip-in.allawnos.com^
 @@||www.hisense.com^
 @@||www.haier.com^
 @@||cdn.staticfile.org^
@@ -635,6 +633,8 @@
 @@||appconf.heytapdownload.com^
 @@||msec.opposhop.cn^
 @@||obus-cn.dc.heytapmobi.com^
+@@||fourier-videoclip-eu.allawnos.com^
+@@||fourier-videoclip-in.allawnos.com^
 @@||oxygenos.oneplus.net^
 @@||oxygenos.oneplus.com^
 @@||onepluscommunity.net^
