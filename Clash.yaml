@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-03-27 08:41:51
-# 规则总数: 19270
+# 更新时间: 2026-03-27 12:43:56
+# 规则总数: 19268
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -4831,7 +4831,6 @@ payload:
   - 'cdn.xinstall.com'
   - 'cdn.ynuf.aliapp.org'
   - 'cdn.yunliunet.com'
-  - 'cdn.yyb.gtimg.com'
   - 'cdn.zampda.net'
   - 'cdn.zampdsp.com'
   - 'cdn0.mobmore.com'
@@ -5141,7 +5140,6 @@ payload:
   - 'cmread.com'
   - 'cms.an.m.liebao.cn'
   - 'cms.laifeng.com'
-  - 'cms.myapp.com'
   - 'cms.quantserve.com'
   - 'cmsapi.wifi8.com'
   - 'cmshow.gtimg.cn'

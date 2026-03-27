@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-03-27 08:41:51
-# 规则总数: 19270
+# 更新时间: 2026-03-27 12:43:57
+# 规则总数: 19268
 
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -4830,7 +4830,6 @@ domain, cdn.xianliao.me
 domain, cdn.xinstall.com
 domain, cdn.ynuf.aliapp.org
 domain, cdn.yunliunet.com
-domain, cdn.yyb.gtimg.com
 domain, cdn.zampda.net
 domain, cdn.zampdsp.com
 domain, cdn0.mobmore.com
@@ -5140,7 +5139,6 @@ domain, cmpxaup.cn
 domain, cmread.com
 domain, cms.an.m.liebao.cn
 domain, cms.laifeng.com
-domain, cms.myapp.com
 domain, cms.quantserve.com
 domain, cmsapi.wifi8.com
 domain, cmshow.gtimg.cn

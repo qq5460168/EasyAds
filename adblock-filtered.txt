@@ -18034,10 +18034,8 @@
 ||esw.tymcdn.com^
 ||etest.dangcdn.com^
 ||esmapi.dangbei.net^
-||cdn.yyb.gtimg.com^
 ||ime-store-cdn.gtimg.com^
 ||indivi-cdn-v6.shouji.sogou.com^
-||cms.myapp.com^
 ||indivdict.gtimg.com^
 ||h35.ynodd.cn^
 ||etn.076lvo.xyz^

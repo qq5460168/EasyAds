@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-03-27 08:41:50.399968
+# Generated on 2026-03-27 12:43:55.511088
 
 ||push-ads-cn.heytapmobi.com^
 ||bid-adx.vlion.cn^
@@ -18037,10 +18037,8 @@
 ||esw.tymcdn.com^
 ||etest.dangcdn.com^
 ||esmapi.dangbei.net^
-||cdn.yyb.gtimg.com^
 ||ime-store-cdn.gtimg.com^
 ||indivi-cdn-v6.shouji.sogou.com^
-||cms.myapp.com^
 ||indivdict.gtimg.com^
 ||h35.ynodd.cn^
 ||etn.076lvo.xyz^

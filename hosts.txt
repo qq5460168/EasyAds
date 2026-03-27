@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-03-27 08:41:51
-# 规则总数: 19270
+# 更新时间: 2026-03-27 12:43:57
+# 规则总数: 19268
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
@@ -4830,7 +4830,6 @@
 0.0.0.0 cdn.xinstall.com
 0.0.0.0 cdn.ynuf.aliapp.org
 0.0.0.0 cdn.yunliunet.com
-0.0.0.0 cdn.yyb.gtimg.com
 0.0.0.0 cdn.zampda.net
 0.0.0.0 cdn.zampdsp.com
 0.0.0.0 cdn0.mobmore.com
@@ -5140,7 +5139,6 @@
 0.0.0.0 cmread.com
 0.0.0.0 cms.an.m.liebao.cn
 0.0.0.0 cms.laifeng.com
-0.0.0.0 cms.myapp.com
 0.0.0.0 cms.quantserve.com
 0.0.0.0 cmsapi.wifi8.com
 0.0.0.0 cmshow.gtimg.cn

@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-03-27 08:41:51
-# 规则总数: 19270
+# 更新时间: 2026-03-27 12:43:56
+# 规则总数: 19268
 
 -normal-lq.zijieapi.com block
 0.r.msn.com block
@@ -4830,7 +4830,6 @@ cdn.xianliao.me block
 cdn.xinstall.com block
 cdn.ynuf.aliapp.org block
 cdn.yunliunet.com block
-cdn.yyb.gtimg.com block
 cdn.zampda.net block
 cdn.zampdsp.com block
 cdn0.mobmore.com block
@@ -5140,7 +5139,6 @@ cmpxaup.cn block
 cmread.com block
 cms.an.m.liebao.cn block
 cms.laifeng.com block
-cms.myapp.com block
 cms.quantserve.com block
 cmsapi.wifi8.com block
 cmshow.gtimg.cn block

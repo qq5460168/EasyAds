@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-03-27 16:41:50
-# 规则统计: 总计19242条 (IP:30 DOMAIN:0 SUFFIX:19212 KEYWORD:0)
+# 更新时间(北京时间): 2026-03-27 20:43:55
+# 规则统计: 总计19240条 (IP:30 DOMAIN:0 SUFFIX:19210 KEYWORD:0)
 
 # IP规则
 IP-CIDR,10.130.208.223,REJECT,no-resolve
@@ -4823,7 +4823,6 @@ DOMAIN-SUFFIX,cdn.xianliao.me,REJECT
 DOMAIN-SUFFIX,cdn.xinstall.com,REJECT
 DOMAIN-SUFFIX,cdn.ynuf.aliapp.org,REJECT
 DOMAIN-SUFFIX,cdn.yunliunet.com,REJECT
-DOMAIN-SUFFIX,cdn.yyb.gtimg.com,REJECT
 DOMAIN-SUFFIX,cdn.zampda.net,REJECT
 DOMAIN-SUFFIX,cdn.zampdsp.com,REJECT
 DOMAIN-SUFFIX,cdn0.mobmore.com,REJECT
@@ -5132,7 +5131,6 @@ DOMAIN-SUFFIX,cmpxaup.cn,REJECT
 DOMAIN-SUFFIX,cmread.com,REJECT
 DOMAIN-SUFFIX,cms.an.m.liebao.cn,REJECT
 DOMAIN-SUFFIX,cms.laifeng.com,REJECT
-DOMAIN-SUFFIX,cms.myapp.com,REJECT
 DOMAIN-SUFFIX,cms.quantserve.com,REJECT
 DOMAIN-SUFFIX,cmsapi.wifi8.com,REJECT
 DOMAIN-SUFFIX,cmshow.gtimg.cn,REJECT

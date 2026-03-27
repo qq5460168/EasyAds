@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-03-27 08:41:51
-# 规则总数: 19270
+# 更新时间: 2026-03-27 12:43:56
+# 规则总数: 19268
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -4830,7 +4830,6 @@ domain: cdn.xianliao.me, policy: reject
 domain: cdn.xinstall.com, policy: reject
 domain: cdn.ynuf.aliapp.org, policy: reject
 domain: cdn.yunliunet.com, policy: reject
-domain: cdn.yyb.gtimg.com, policy: reject
 domain: cdn.zampda.net, policy: reject
 domain: cdn.zampdsp.com, policy: reject
 domain: cdn0.mobmore.com, policy: reject
@@ -5140,7 +5139,6 @@ domain: cmpxaup.cn, policy: reject
 domain: cmread.com, policy: reject
 domain: cms.an.m.liebao.cn, policy: reject
 domain: cms.laifeng.com, policy: reject
-domain: cms.myapp.com, policy: reject
 domain: cms.quantserve.com, policy: reject
 domain: cmsapi.wifi8.com, policy: reject
 domain: cmshow.gtimg.cn, policy: reject
