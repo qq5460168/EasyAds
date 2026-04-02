@@ -1,9 +1,92 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-04-02 16:47:24
-! 有效规则数量: 3988 条
+! 规则更新时间: 2026-04-02 20:54:36
+! 有效规则数量: 4041 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
+@@||ecombdimg.com^
+@@||hpplay.cn^
+@@||iyfbodn.com^
+@@||jiaoyimao.com^
+@@||shuzilm.cn^
+@@||xn--4gqu8tcnnope.com^
+@@||xn--ehqx7tcnnope.com^
+@@||xn--osvr71goa.com^
+@@||xn--vhq3x51dn9bivas49nfps.com^
+@@||zhuanzhuan.com^
+@@||a0.app.xiaomi.com^
+@@||ac.opapp.cn^
+@@||acs-m.koubei.com^
+@@||adtrack.xiaojukeji.com^
+@@||api.look.163.com^
+@@||article.zlink.toutiao.com^
+@@||auni.telecome.cn^
+@@||auni.unioncom.cc^
+@@||broccoli.uc.cn^
+@@||c.pc.qq.com^
+@@||c.umsns.com^
+@@||capi.jingjianx.vip^
+@@||ccc-x.jd.com^
+@@||clouddrive-activity.uc.cn^
+@@||cnlogs.umeng.com^
+@@||cnlogs.umengcloud.com^
+@@||content-open.douyin.com^
+@@||cstore.koubei.com^
+@@||dig.bdurl.net^
+@@||dlswbr.baidu.com^
+@@||down-update.qq.com^
+@@||download.uc.cn^
+@@||drive.uc.cn^
+@@||dun.163.com^
+@@||errnewlog.umeng.com^
+@@||fc.kejiweixun.com^
+@@||fin-ingress-ele.aliyuncs.com^
+@@||game.weixin.qq.com^
+@@||grpc.biliapi.net^
+@@||i.fotao9.com^
+@@||i.meituan.com^
+@@||i.snssdk.com^
+@@||id-card.yun.cn^
+@@||id.uc.cn^
+@@||img.ssl.msdk.qq.com^
+@@||imtt.dd.qq.com^
+@@||ipassport.ele.me^
+@@||itunes.apple.com^
+@@||knicks.jd.com^
+@@||log.snssdk.com^
+@@||mcc.inf.miui.com^
+@@||mime.baidu.com^
+@@||mrn.meituan.net^
+@@||music.apple.com^
+@@||order.sm.cn^
+@@||prod-chat-kimi.tos-cn-beijing.volces.com^
+@@||pull.yximgs.com^
+@@||px.ucweb.com^
+@@||report.dingtalk.com^
+@@||resolve.umeng.com^
+@@||retcode.taobao.com^
+@@||s2.kskwai.com^
+@@||saveu5-normal-lq.zijieapi.com^
+@@||second-floor-pro.pf.jd.com^
+@@||sfp.safe.baidu.com^
+@@||shouji.sogou.com^
+@@||smartcard.apps.coloros.com^
+@@||snowflake.qq.com^
+@@||static.fengkongcloud.com^
+@@||szlong.weixin.qq.com^
+@@||tdid.m.qq.com^
+@@||tnc3-alisc1.snssdk.com^
+@@||toblog.ctobsnssdk.com^
+@@||tpns.tencent.com^
+@@||ucus.ucweb.com^
+@@||uland.taobao.com^
+@@||user-auth-server.uc.cn^
+@@||v.110route.cn^
+@@||weather-api-cn.allawntech.com^
+@@||www.iconfont.cn^
+@@||www.xn--sss604efuw.com^
+@@||xp.apple.com^
+@@||ynuf.alipay.com^
 @@||pic.imgdb.cn
 @@||payapp.weixin.qq.com^
 @@||pan.quark.cn^
@@ -29,7 +112,6 @@
 @@||www.bqgyy.com^
 @@||is.snssdk.com^
 @@||ib.snssdk.com^
-@@||c.pc.qq.com^
 @@||log-api.pangolin-sdk-toutiao-b.com^
 @@||log-api.pangolin-sdk-toutiao.com^
 @@||dig.lianjia.com^
@@ -165,7 +247,6 @@
 @@||mdm.openapi.360.cn^
 @@||dp.push.dc.360.cn^
 @@||mall.360.cn^
-@@||download.uc.cn^
 @@||soutiapi.quark.cn^
 @@||souti-ims.sm.cn^
 @@||develope-oss.lanzoug.com^
@@ -280,7 +361,6 @@
 @@||mipcache.bdstatic.com^
 @@||mm1.365dmp.com^
 @@||mm3.365dmp.com^
-@@||sfp.safe.baidu.com^
 @@||sofire.bdstatic.com^
 @@||cdn.bootcdn.net^
 @@||ss.phncdn.com^
@@ -366,7 +446,6 @@
 @@||mpush-api.aliyun.com^
 @@||st.todesk.com^
 @@||dm.toutiao.com^
-@@||dig.bdurl.net^
 @@||ws.ribaoapi.com^
 @@||mobile.appchina.com^
 @@||api.twitter.com^
@@ -377,7 +456,6 @@
 @@||fino.svc.litv.tv^
 @@||m.ctrip.com^
 @@||inr-op.elemecdn.com^
-@@||ipassport.ele.me^
 @@||sp.ele.me^
 @@||id6.me^
 @@||adv.ccb.com^
@@ -657,7 +735,6 @@
 @@||mesu.apple.com^
 @@||gdmf.apple.com^
 @@||apps.apple.com^
-@@||itunes.apple.com^
 @@||p47-buy.itunes.apple.com^
 @@||buy.itunes.apple.com^
 @@||init.itunes.apple.com^
@@ -698,7 +775,6 @@
 @@||gsp55-apple-com.akamaized.net^
 @@||metrics.icloud.com^
 @@||metrics.apple.com^
-@@||xp.apple.com^
 @@||secrets.icloud.com^
 @@||ocsp.apple.com^
 @@||ocsp2.apple.com^
@@ -858,7 +934,6 @@
 @@||appstore.pandora.xiaomi.com^
 @@||cdn.pandora.xiaomi.com^
 @@||de.pandora.xiaomi.com^
-@@||hpplay.cn^
 @@||lebo.cn^
 @@||cast.mi.com^
 @@||miracast.mi.com^
@@ -962,7 +1037,6 @@
 @@||baijiahao.baidu.com^
 @@||sp1.baidu.com^
 @@||udpolimenew.baidu.com^
-@@||mime.baidu.com^
 @@||ossapi.baidu.com^
 @@||baikebcs.bdimg.com^
 @@||bkimg.cdn.bcebos.com^
@@ -1032,7 +1106,6 @@
 @@||shminorshort.weixin.qq.com^
 @@||support.weixin.qq.com^
 @@||minorshort.weixin.qq.com^
-@@||szlong.weixin.qq.com^
 @@||as.weixin.qq.com^
 @@||paydns.wechatpay.cn^
 @@||pay.weixin.qq.com^
@@ -1051,7 +1124,6 @@
 @@||mmocgame.qpic.cn^
 @@||v.smtcdns.com^
 @@||qqlogin.huanleapp.huanle.qq.com^
-@@||down-update.qq.com^
 @@||api2.helper.qq.com^
 @@||yoyo.qq.com^
 @@||miniapp.gtimg.cn^
@@ -1117,7 +1189,6 @@
 @@||v.gdt.qq.com^
 @@||livew.l.qq.com^
 @@||iwx.mail.qq.com^
-@@||img.ssl.msdk.qq.com^
 @@||midas.gtimg.cn^
 @@||api.unipay.qq.com^
 @@||cdn.yyb.gtimg.com^$important
@@ -1142,7 +1213,6 @@
 @@||bkvv.video.qq.com^
 @@||ios.crashsight.qq.com^
 @@||szminorshort.weixin.qq.com^
-@@||snowflake.qq.com^
 @@||bqq.gtimg.com^
 @@||pro.bugly.qq.com^
 @@||yybadaccess.3g.qq.com^
@@ -1159,7 +1229,6 @@
 @@||dd.myapp.com^
 @@||graph.qq.com^
 @@||im.qq.com^
-@@||imtt.dd.qq.com^
 @@||mail.qq.com^
 @@||pingfore.qq.com^
 @@||pingjs.qq.com^
@@ -1174,7 +1243,6 @@
 @@||pinghot.qq.com^
 @@||debugtbs.qq.com^
 @@||3gimg.qq.com^
-@@||tdid.m.qq.com^
 @@||cc.map.qq.com^
 @@||dnet.mb.qq.com^
 @@||map.qq.com^
@@ -1199,7 +1267,6 @@
 @@||upage.imtt.qq.com^
 @@||ap6.ssl.msdk.qq.com^
 @@||isee.weishi.qq.com^
-@@||game.weixin.qq.com^
 @@||defaultts.tc.qq.com^
 @@||wxsnsencsvp.wxs.qq.com^
 @@||masterconn2.qq.com^
@@ -1219,7 +1286,6 @@
 @@||hot.browser.intl.miui.com^
 @@||activity.browser.intl.miui.com^
 @@||reader.browser.miui.com^
-@@||a0.app.xiaomi.com^
 @@||globalapi.ad.xiaomi.com^
 @@||adv.sec.miui.com^
 @@||flash.sec.miui.com^
@@ -1346,7 +1412,6 @@
 @@||p9-pc-sign.douyinpic.com^
 @@||imagex.bytedanceapi.com^
 @@||webcast.amemv.com^
-@@||log.snssdk.com^
 @@||p1.douyinpic.com^
 @@||p3.douyinpic.com^
 @@||p5.douyinpic.com^
@@ -1370,7 +1435,6 @@
 @@||apischedule.ksyungslb.com^
 @@||webcast-open.douyin.com^
 @@||p11-sign.douyinpic.com^
-@@||ecombdimg.com^
 @@||haohuo.jinritemai.com^
 @@||tnc11-bjlgy.zijieapi.com^
 @@||douyincdn.com^
@@ -1432,7 +1496,6 @@
 @@||unet.ucweb.com^
 @@||image.uc.cn^
 @@||mos.m.taobao.com^
-@@||uland.taobao.com^
 @@||g.shumafen.cn^
 @@||h5.m.taobao.com^
 @@||ip.taobao.com^
@@ -1571,7 +1634,6 @@
 @@||api.ds.163.com^
 @@||vod.cc.163.com^
 @@||s.163.com^
-@@||dun.163.com^
 @@||m.163.com^
 @@||mp.163.com^
 @@||news.163.com^
@@ -1672,7 +1734,6 @@
 @@||mall.bilibili.com^
 @@||d.bilibili.com^
 @@||dl.hdslb.com^
-@@||grpc.biliapi.net^
 @@||wiki.biligame.com^
 @@||staticwiki.biligame.com^
 @@||patchwiki.biligame.com^
@@ -1702,9 +1763,7 @@
 @@||sf6-cdn-tos.toutiaostatic.com^
 @@||sf6-cdn-tos.douyinstatic.com^
 @@||sf3-cdn-tos.bdxiguastatic.com^
-@@||article.zlink.toutiao.com^
 @@||quark.sm.cn^
-@@||broccoli.uc.cn^
 @@||uop.quark.cn^
 @@||api2-album.quark.cn^
 @@||drive-pc.quark.cn^
@@ -1735,7 +1794,6 @@
 @@||uc-titans-cn-01.heytapimage.com^
 @@||uc-titans-cn.heytapimage.com^
 @@||api.open.uc.cn^
-@@||drive.uc.cn^
 @@||config.cmpassport.com^
 @@||www.cmpassport.com^
 @@||wap.cmpassport.com^
@@ -1823,7 +1881,6 @@
 @@||awp-assets.meituan.net^
 @@||lx.meituan.net^
 @@||h5.dianping.com^
-@@||i.meituan.com^
 @@||api.neixin.cn^
 @@||file.neixin.cn^
 @@||api.meituan.com^
@@ -1924,7 +1981,6 @@
 @@||is-hl.snssdk.com^
 @@||p**-ppx.byteimg.com^
 @@||dig.zjurl.cn^
-@@||i.snssdk.com^
 @@||sf3-ttcdn-tos.pstatp.com^
 @@||click-trk.com^
 @@||clickcease.com^
@@ -2304,7 +2360,6 @@
 @@||bitly.com^
 @@||blogger.googleusercontent.com^
 @@||c.fantia.jp^
-@@||c.umsns.com^
 @@||captcha-gray.zt.kuaishou.com^
 @@||captcha.zt.kuaishou.com^
 @@||cardservice.openspeech.cn^
@@ -3088,7 +3143,6 @@
 @@||push.apple.com^
 @@||xmpush.xiaomi.com^
 @@||tuisong.baidu.com^
-@@||tpns.tencent.com^
 @@||tpns.sh.tencent.com^
 @@||tinyurl.com^
 @@||tool.lu^
@@ -3307,7 +3361,6 @@
 @@||union.video.qq.com^
 @@||mini.eastday.com^
 @@||hm.baidu.com^
-@@||dlswbr.baidu.com^
 @@||als.baidu.com^$important
 @@||arms-retcode.aliyuncs.com^
 @@||amdc.m.taobao.com^$important
