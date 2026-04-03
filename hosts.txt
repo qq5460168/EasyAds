@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-04-03 08:43:17
-# 规则总数: 145522
+# 更新时间: 2026-04-03 12:43:37
+# 规则总数: 145520
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -25094,8 +25094,6 @@
 0.0.0.0 bilchflares.qpon
 0.0.0.0 bilder11.markt.de
 0.0.0.0 bilgingregally.cfd
-0.0.0.0 biliapi.com
-0.0.0.0 biliapi.net
 0.0.0.0 biligame.net
 0.0.0.0 bilkreta.com
 0.0.0.0 billardchalaza.qpon

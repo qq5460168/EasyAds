@@ -22950,8 +22950,6 @@
 ||bilbirowet.cyou^
 ||bilchflares.qpon^
 ||bilgingregally.cfd^
-||biliapi.com^
-||biliapi.net^
 ||biligame.net^
 ||bilkreta.com^
 ||billardchalaza.qpon^
@@ -100809,7 +100807,6 @@
 ||datadome.maisonsdumonde.com^
 ||datafiletechnologies.actonservice.com^
 ||datafinder-beacon.starii-rover.com^
-||dataflow.biliapi.com^
 ||datalayer.orange.fr^
 ||dataledger.comparis4sosun.coupons^
 ||datanoticias.prisasd.com^
@@ -143920,6 +143917,7 @@
 ||loggw.alipaydns.com^
 ||httpdns.bilivideo.com^
 ||dns.wechat.com^
+||dataflow.biliapi.com^
 ||impression.biligame.com^
 ||jzts.cmpassport.com^
 ||gaoneng.bilibili.com^

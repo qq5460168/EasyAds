@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-04-03 16:43:18
-! 有效规则数量: 156270 条
+! 规则更新时间: 2026-04-03 20:43:37
+! 有效规则数量: 156268 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -22956,8 +22956,6 @@
 ||bilbirowet.cyou^
 ||bilchflares.qpon^
 ||bilgingregally.cfd^
-||biliapi.com^
-||biliapi.net^
 ||biligame.net^
 ||bilkreta.com^
 ||billardchalaza.qpon^
@@ -100815,7 +100813,6 @@
 ||datadome.maisonsdumonde.com^
 ||datafiletechnologies.actonservice.com^
 ||datafinder-beacon.starii-rover.com^
-||dataflow.biliapi.com^
 ||datalayer.orange.fr^
 ||dataledger.comparis4sosun.coupons^
 ||datanoticias.prisasd.com^
@@ -150582,6 +150579,7 @@
 ||loggw.alipaydns.com^
 ||httpdns.bilivideo.com^
 ||dns.wechat.com^
+||dataflow.biliapi.com^
 ||impression.biligame.com^
 ||jzts.cmpassport.com^
 ||gaoneng.bilibili.com^
@@ -152041,9 +152039,9 @@
 142.250.152.188     alt8-mtalk.google.com
 180.163.151.161     dl.google.com
 180.163.150.33      dl.l.google.com
-140.82.112.26                 alive.github.com
+140.82.112.25                 alive.github.com
 20.205.243.168                api.github.com
-140.82.112.22                 api.individual.githubcopilot.com
+140.82.114.22                 api.individual.githubcopilot.com
 185.199.111.133               avatars.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
@@ -152055,31 +152053,31 @@
 140.82.114.21                 central.github.com
 185.199.111.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.112.22                 collector.github.com
+140.82.114.21                 collector.github.com
 185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com
-52.217.162.177                github-cloud.s3.amazonaws.com
-3.5.17.221                    github-com.s3.amazonaws.com
-52.216.62.201                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.38.145                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.53.1                   github-production-user-asset-6210df.s3.amazonaws.com
+52.216.24.164                 github-cloud.s3.amazonaws.com
+52.216.59.249                 github-com.s3.amazonaws.com
+16.182.38.17                  github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.41.89                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.243.84                 github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.112.18                 github.community
-185.199.108.154               github.githubassets.com
+140.82.113.18                 github.community
+185.199.110.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
-185.199.108.153               github.io
+185.199.111.153               github.io
 185.199.111.133               github.map.fastly.net
-185.199.108.153               githubstatus.com
-140.82.112.25                 live.github.com
+185.199.111.153               githubstatus.com
+140.82.113.26                 live.github.com
 185.199.111.133               media.githubusercontent.com
 185.199.111.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
 185.199.111.133               user-images.githubusercontent.com
-13.107.226.39                 vscode.dev  # Timeout
-140.82.113.22                 education.github.com
+150.171.110.70                vscode.dev  # Timeout
+140.82.113.21                 education.github.com
 185.199.111.133               private-user-images.githubusercontent.com
 ||0bc.twqbdfff.top^
 ||125.1254770.cc^
@@ -152271,7 +152269,6 @@
 @@||fc.kejiweixun.com^
 @@||fin-ingress-ele.aliyuncs.com^
 @@||game.weixin.qq.com^
-@@||grpc.biliapi.net^
 @@||i.fotao9.com^
 @@||i.meituan.com^
 @@||i.snssdk.com^
@@ -153963,6 +153960,7 @@
 @@||mall.bilibili.com^
 @@||d.bilibili.com^
 @@||dl.hdslb.com^
+@@||grpc.biliapi.net^
 @@||wiki.biligame.com^
 @@||staticwiki.biligame.com^
 @@||patchwiki.biligame.com^

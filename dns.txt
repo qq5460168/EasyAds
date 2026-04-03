@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-04-03 08:43:13.737621
+# Generated on 2026-04-03 12:43:34.093412
 
 ||push-ads-cn.heytapmobi.com^
 ||bid-adx.vlion.cn^
@@ -22953,8 +22953,6 @@
 ||bilbirowet.cyou^
 ||bilchflares.qpon^
 ||bilgingregally.cfd^
-||biliapi.com^
-||biliapi.net^
 ||biligame.net^
 ||bilkreta.com^
 ||billardchalaza.qpon^
@@ -100812,7 +100810,6 @@
 ||datadome.maisonsdumonde.com^
 ||datafiletechnologies.actonservice.com^
 ||datafinder-beacon.starii-rover.com^
-||dataflow.biliapi.com^
 ||datalayer.orange.fr^
 ||dataledger.comparis4sosun.coupons^
 ||datanoticias.prisasd.com^
@@ -143923,6 +143920,7 @@
 ||loggw.alipaydns.com^
 ||httpdns.bilivideo.com^
 ||dns.wechat.com^
+||dataflow.biliapi.com^
 ||impression.biligame.com^
 ||jzts.cmpassport.com^
 ||gaoneng.bilibili.com^

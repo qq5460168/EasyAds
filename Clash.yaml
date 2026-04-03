@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-04-03 08:43:17
-# 规则总数: 145522
+# 更新时间: 2026-04-03 12:43:36
+# 规则总数: 145520
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -25095,8 +25095,6 @@ payload:
   - 'bilchflares.qpon'
   - 'bilder11.markt.de'
   - 'bilgingregally.cfd'
-  - 'biliapi.com'
-  - 'biliapi.net'
   - 'biligame.net'
   - 'bilkreta.com'
   - 'billardchalaza.qpon'

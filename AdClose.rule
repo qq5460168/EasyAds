@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-04-03 08:43:18
-# 规则总数: 145522
+# 更新时间: 2026-04-03 12:43:37
+# 规则总数: 145520
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -25094,8 +25094,6 @@ domain, bilbirowet.cyou
 domain, bilchflares.qpon
 domain, bilder11.markt.de
 domain, bilgingregally.cfd
-domain, biliapi.com
-domain, biliapi.net
 domain, biligame.net
 domain, bilkreta.com
 domain, billardchalaza.qpon

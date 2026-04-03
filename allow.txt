@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-04-03 16:43:18
+! 规则更新时间: 2026-04-03 20:43:37
 ! 有效规则数量: 4041 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
@@ -42,7 +42,6 @@
 @@||fc.kejiweixun.com^
 @@||fin-ingress-ele.aliyuncs.com^
 @@||game.weixin.qq.com^
-@@||grpc.biliapi.net^
 @@||i.fotao9.com^
 @@||i.meituan.com^
 @@||i.snssdk.com^
@@ -1734,6 +1733,7 @@
 @@||mall.bilibili.com^
 @@||d.bilibili.com^
 @@||dl.hdslb.com^
+@@||grpc.biliapi.net^
 @@||wiki.biligame.com^
 @@||staticwiki.biligame.com^
 @@||patchwiki.biligame.com^

@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-04-03 08:43:14（北京时间）
-# 共 145494 个域名
+# 生成时间: 2026-04-03 12:43:34（北京时间）
+# 共 145492 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -25080,8 +25080,6 @@ bilbirowet.cyou
 bilchflares.qpon
 bilder11.markt.de
 bilgingregally.cfd
-biliapi.com
-biliapi.net
 biligame.net
 bilkreta.com
 billardchalaza.qpon
