@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-04-04 08:32:26.067053
+# Generated on 2026-04-04 12:37:19.728388
 
 ||push-ads-cn.heytapmobi.com^
 ||bid-adx.vlion.cn^
@@ -143859,6 +143859,7 @@
 ||cai-splunk-proxy.adobe.io^
 ||vs1.szcu.u3.ucweb.com^
 ||vs2.bjct.u3.ucweb.com^
+||sntcbhv.com^
 ||ahfqiraq.in^
 ||wuqwruavhah.in^
 ||orqmimfug.in^

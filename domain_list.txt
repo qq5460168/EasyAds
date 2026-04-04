@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-04-04 08:32:26（北京时间）
-# 共 145492 个域名
+# 生成时间: 2026-04-04 12:37:20（北京时间）
+# 共 145493 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -113204,6 +113204,7 @@ sns2.secureforms.mcafee.com
 snsfdmmzpixhn.site
 snssdk.gatedata.org
 snsv.ru
+sntcbhv.com
 sntjim.com
 snubberanahao.help
 snuff-brownsprintcountry.com

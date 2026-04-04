@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-04-04 08:32:29
-# 规则总数: 145520
+# 更新时间: 2026-04-04 12:37:22
+# 规则总数: 145521
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -113229,6 +113229,7 @@
 0.0.0.0 snsfdmmzpixhn.site
 0.0.0.0 snssdk.gatedata.org
 0.0.0.0 snsv.ru
+0.0.0.0 sntcbhv.com
 0.0.0.0 sntjim.com
 0.0.0.0 snubberanahao.help
 0.0.0.0 snuff-brownsprintcountry.com

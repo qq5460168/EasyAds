@@ -143856,6 +143856,7 @@
 ||cai-splunk-proxy.adobe.io^
 ||vs1.szcu.u3.ucweb.com^
 ||vs2.bjct.u3.ucweb.com^
+||sntcbhv.com^
 ||ahfqiraq.in^
 ||wuqwruavhah.in^
 ||orqmimfug.in^

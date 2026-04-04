@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-04-04 16:32:29
-! 有效规则数量: 4041 条
+! 规则更新时间: 2026-04-04 20:37:23
+! 有效规则数量: 4109 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -278,11 +278,11 @@
 @@||ncomment.kuwo.cn^
 @@||vip1.kuwo.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
-@@||juejin.cn^$important
+@@||juejin.cn^
 @@||www.juejin.cn^
-@@||cloudflareinsights.com^$important
-@@||unpkg.com^$important
-@@||static.cloudflareinsights.com^$important
+@@||cloudflareinsights.com^
+@@||unpkg.com^
+@@||static.cloudflareinsights.com^
 @@||res.openinstall.com^
 @@||p3-flow-download-sign.byteimg.com^
 @@||video.da.mgtv.com^
@@ -454,8 +454,6 @@
 @@||cdi.ofiii.com^
 @@||fino.svc.litv.tv^
 @@||m.ctrip.com^
-@@||inr-op.elemecdn.com^
-@@||sp.ele.me^
 @@||id6.me^
 @@||adv.ccb.com^
 @@||ecard.shenzhentong.com^
@@ -517,7 +515,6 @@
 @@||stars.shuqireader.com^
 @@||www.tudou.com^
 @@||api.kuaishouzt.com^
-@@||waimai-guide.ele.me^
 @@||dorado.xiaojukeji.com^
 @@||about.gitlab.cn^
 @@||increase-openapi.soulapp.cn^
@@ -644,6 +641,77 @@
 @@||m.dianping.com^
 @@||osp.meituan.net^
 @@||s0.meituan.net^
+@@||api.doubao.com^
+@@||gw.doubao.com^
+@@||chat.doubao.com^
+@@||agent.doubao.com^
+@@||search.doubao.com^
+@@||openapi.doubao.com^
+@@||ai.doubao.com^
+@@||file.doubao.com^
+@@||doc.doubao.com^
+@@||draw.doubao.com^
+@@||art.doubao.com^
+@@||media.doubao.com^
+@@||static.doubao.com^
+@@||img.doubao.com^
+@@||cdn.doubao.com^
+@@||sso.doubao.com^
+@@||login.doubao.com^
+@@||passport.doubao.com^
+@@||account.doubao.com^
+@@||log.doubao.com^
+@@||track.doubao.com^
+@@||report.doubao.com^
+@@||push.doubao.com^
+@@||security.doubao.com^
+@@||risk.doubao.com^
+@@||download.doubao.com^
+@@||update.doubao.com^
+@@||desktop.doubao.com^
+@@||ime-igw.doubao.com^
+@@||ime-api.doubao.com^
+@@||ime-hot.doubao.com^
+@@||ime-syn.doubao.com^
+@@||ime-conf.doubao.com^
+@@||ime-log.doubao.com^
+@@||ime-stat.doubao.com^
+@@||cloud-ime.doubao.com^
+@@||asr-ime.doubao.com^
+@@||tts-ime.doubao.com^
+@@||emoji-ime.doubao.com^
+@@||sticker-ime.doubao.com^
+@@||dict-ime.doubao.com^
+@@||static-ime.doubao.com^
+@@||cdn-ime.doubao.com^
+@@||flash.taobao.com^
+@@||market.taobao.com^
+@@||markets.taobao.com^
+@@||xiaoshida.taobao.com^
+@@||retail.taobao.com^
+@@||log.taobao.com^
+@@||track.taobao.com^
+@@||push.taobao.com^
+@@||security.taobao.com^
+@@||risk.taobao.com^
+@@||log.ele.me^
+@@||track.ele.me^
+@@||report.ele.me^
+@@||push.ele.me^
+@@||mcs.ele.me^
+@@||ut.ele.me^
+@@||alilog.ele.me^
+@@||pay.ele.me^
+@@||cashier.ele.me^
+@@||sso.ele.me^
+@@||merchant.ele.me^
+@@||waimai.ele.me^
+@@||map.ele.me^
+@@||loc.ele.me^
+@@||dispatch.ele.me^
+@@||inr-op.elemecdn.com^
+@@||sp.ele.me^
+@@||waimai-guide.ele.me^
 @@||cloud.huawei.com^
 @@||account.huawei.com^
 @@||pay.huawei.com^
@@ -1120,6 +1188,7 @@
 @@||py.qlogo.cn^
 @@||py2.qlogo.cn^
 @@||p.qlogo.cn^
+@@||images.qqshow.gtimg.com^
 @@||mmocgame.qpic.cn^
 @@||v.smtcdns.com^
 @@||qqlogin.huanleapp.huanle.qq.com^
@@ -1190,8 +1259,8 @@
 @@||iwx.mail.qq.com^
 @@||midas.gtimg.cn^
 @@||api.unipay.qq.com^
-@@||cdn.yyb.gtimg.com^$important
-@@||cms.myapp.com^$important
+@@||cdn.yyb.gtimg.com^
+@@||cms.myapp.com^
 @@||puui.qpic.cn^
 @@||static.res.qq.com^
 @@||aq.qq.com^
@@ -1272,7 +1341,7 @@
 @@||z.weixin.qq.com^
 @@||ip6.ssl.msdk.qq.com^
 @@||mlvbdc.live.qcloud.com^
-@@||game.xiaomi.com^$important
+@@||game.xiaomi.com^
 @@||srv.sec.miui.com^
 @@||bbs-static.miyoushe.com^
 @@||store.assistant.miui.com^
@@ -2499,7 +2568,6 @@
 @@||g79.update.netease.com^
 @@||galleryapi.micloud.xiaomi.net^
 @@||game.gtimg.cn^
-@@||game.xiaomi.com^
 @@||gamebanana.com^
 @@||gelbooru.com^
 @@||genshin.hoyoverse.com^
