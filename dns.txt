@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-04-07 13:02:55.935808
+# Generated on 2026-04-07 16:47:12.347863
 
 ||push-ads-cn.heytapmobi.com^
 ||bid-adx.vlion.cn^
