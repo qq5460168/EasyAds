@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-04-07 08:54:13
-# 规则总数: 145521
+# 更新时间: 2026-04-07 13:02:58
+# 规则总数: 145522
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -83188,6 +83188,7 @@ mobile.clickastro.com block
 mobile.da.mgtv.com block
 mobile.dat.com block
 mobile.etiquetaunica.com.br block
+mobile.events.data.microsoft.com block
 mobile.everytap.com block
 mobile.excedo.io block
 mobile.expensify.com block

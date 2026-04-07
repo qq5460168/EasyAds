@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-04-07 08:54:09（北京时间）
-# 共 145493 个域名
+# 生成时间: 2026-04-07 13:02:56（北京时间）
+# 共 145494 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -83170,6 +83170,7 @@ mobile.clickastro.com
 mobile.da.mgtv.com
 mobile.dat.com
 mobile.etiquetaunica.com.br
+mobile.events.data.microsoft.com
 mobile.everytap.com
 mobile.excedo.io
 mobile.expensify.com

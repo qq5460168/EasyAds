@@ -143875,6 +143875,7 @@
 ||hwwzqi.cn^
 ||blzgeuuz.icu^
 ||iefmvk.cn^
+||mobile.events.data.microsoft.com^
 ||yyapp-httpdns.gslb.yy.com^
 ||union-httpdns.gslb.yy.com^
 ||httpdns-v6.gslb.yy.com^

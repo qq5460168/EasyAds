@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-04-07 08:54:13
-# 规则总数: 145521
+# 更新时间: 2026-04-07 13:02:59
+# 规则总数: 145522
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -83188,6 +83188,7 @@ domain, mobile.clickastro.com
 domain, mobile.da.mgtv.com
 domain, mobile.dat.com
 domain, mobile.etiquetaunica.com.br
+domain, mobile.events.data.microsoft.com
 domain, mobile.everytap.com
 domain, mobile.excedo.io
 domain, mobile.expensify.com

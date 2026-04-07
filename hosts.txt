@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-04-07 08:54:13
-# 规则总数: 145521
+# 更新时间: 2026-04-07 13:02:59
+# 规则总数: 145522
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -83188,6 +83188,7 @@
 0.0.0.0 mobile.da.mgtv.com
 0.0.0.0 mobile.dat.com
 0.0.0.0 mobile.etiquetaunica.com.br
+0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mobile.everytap.com
 0.0.0.0 mobile.excedo.io
 0.0.0.0 mobile.expensify.com
