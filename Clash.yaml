@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-04-08 05:43:48
-# 规则总数: 145522
+# 更新时间: 2026-04-08 08:53:41
+# 规则总数: 145523
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -139606,6 +139606,7 @@ payload:
   - 'xfgmggfebwjtv.online'
   - 'xfhknzocnbcux.buzz'
   - 'xfibjqxcbomqf.website'
+  - 'xfidfuxidr.in'
   - 'xfihllnrdxnvr.site'
   - 'xfiwpoj.icu'
   - 'xfjptlrwocfkx.one'

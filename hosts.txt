@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-04-08 05:43:48
-# 规则总数: 145522
+# 更新时间: 2026-04-08 08:53:42
+# 规则总数: 145523
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -139605,6 +139605,7 @@
 0.0.0.0 xfgmggfebwjtv.online
 0.0.0.0 xfhknzocnbcux.buzz
 0.0.0.0 xfibjqxcbomqf.website
+0.0.0.0 xfidfuxidr.in
 0.0.0.0 xfihllnrdxnvr.site
 0.0.0.0 xfiwpoj.icu
 0.0.0.0 xfjptlrwocfkx.one
