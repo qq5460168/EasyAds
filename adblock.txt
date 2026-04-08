@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-04-08 21:04:13
-! 有效规则数量: 156341 条
+! 规则更新时间: 2026-04-09 00:53:01
+! 有效规则数量: 156408 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -152042,9 +152042,9 @@
 142.250.152.188     alt8-mtalk.google.com
 180.163.151.161     dl.google.com
 180.163.150.33      dl.l.google.com
-140.82.113.25                 alive.github.com
+140.82.112.25                 alive.github.com
 20.205.243.168                api.github.com
-140.82.112.22                 api.individual.githubcopilot.com
+140.82.114.22                 api.individual.githubcopilot.com
 185.199.110.133               avatars.githubusercontent.com
 185.199.110.133               avatars0.githubusercontent.com
 185.199.110.133               avatars1.githubusercontent.com
@@ -152053,34 +152053,34 @@
 185.199.110.133               avatars4.githubusercontent.com
 185.199.110.133               avatars5.githubusercontent.com
 185.199.110.133               camo.githubusercontent.com
-140.82.112.21                 central.github.com
+140.82.113.21                 central.github.com
 185.199.110.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.114.21                 collector.github.com
+140.82.113.21                 collector.github.com
 185.199.110.133               desktop.githubusercontent.com
 185.199.110.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com
-16.15.223.2                   github-cloud.s3.amazonaws.com
-52.217.161.121                github-com.s3.amazonaws.com
-16.182.64.57                  github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.49.81                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.252.227                 github-production-user-asset-6210df.s3.amazonaws.com
+16.15.217.72                  github-cloud.s3.amazonaws.com
+16.15.252.121                 github-com.s3.amazonaws.com
+16.15.199.223                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.108.81                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.220.57                 github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.113.17                 github.community
+140.82.114.17                 github.community
 185.199.110.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
 185.199.111.153               github.io
 185.199.110.133               github.map.fastly.net
 185.199.111.153               githubstatus.com
-140.82.114.25                 live.github.com
+140.82.112.25                 live.github.com
 185.199.110.133               media.githubusercontent.com
 185.199.110.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.110.133               raw.githubusercontent.com
 185.199.110.133               user-images.githubusercontent.com
-150.171.110.65                vscode.dev  # Timeout
-140.82.112.22                 education.github.com
+150.171.110.68                vscode.dev  # Timeout
+140.82.113.22                 education.github.com
 185.199.110.133               private-user-images.githubusercontent.com
 ||0bc.twqbdfff.top^
 ||125.1254770.cc^
@@ -152508,7 +152508,7 @@
 @@||ncomment.kuwo.cn^
 @@||vip1.kuwo.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
-@@||redditmedia.com^$important
+@@||redditmedia.com^
 @@||juejin.cn^
 @@||www.juejin.cn^
 @@||cloudflareinsights.com^
@@ -152748,9 +152748,6 @@
 @@||api.kuaishouzt.com^
 @@||dorado.xiaojukeji.com^
 @@||about.gitlab.cn^
-@@||increase-openapi.soulapp.cn^
-@@||api-pay.soulapp.cn^
-@@||api-chat.soulapp.cn^
 @@||img.jbzj.com^
 @@||p3-sign.bdxiguaimg.com^
 @@||p26-sign.bdxiguaimg.com^
@@ -152766,7 +152763,6 @@
 @@||restapi.amap.com^
 @@||icws.jb51.net^
 @@||www-env.dropbox-dns.com^
-@@||audiopaydl.pcdn.xmcdn.com^
 @@||ietheivaicai.com^
 @@||dns.icoa.cn^
 @@||consumerapp-1251779293.image.myqcloud.com^
@@ -152872,6 +152868,77 @@
 @@||m.dianping.com^
 @@||osp.meituan.net^
 @@||s0.meituan.net^
+@@||passport.ximalaya.com^$important
+@@||login.ximalaya.com^$important
+@@||uc.ximalaya.com^$important
+@@||api.ximalaya.com^$important
+@@||gateway.ximalaya.com^$important
+@@||mobile.ximalaya.com^$important
+@@||m.ximalaya.com^$important
+@@||audio.ximalaya.com^$important
+@@||live.ximalaya.com^$important
+@@||play.ximalaya.com^$important
+@@||vod.ximalaya.com^$important
+@@||fdfs.xmcdn.com^$important
+@@||audio.xmcdn.com^$important
+@@||vod.xmcdn.com^$important
+@@||res.ximalaya.com^$important
+@@||static.ximalaya.com^$important
+@@||image.ximalaya.com^$important
+@@||img.xmcdn.com^$important
+@@||static.xmcdn.com^$important
+@@||res.xmcdn.com^$important
+@@||im.ximalaya.com^$important
+@@||msg.ximalaya.com^$important
+@@||push.ximalaya.com^$important
+@@||ws.ximalaya.com^$important
+@@||wss.ximalaya.com^$important
+@@||pay.ximalaya.com^$important
+@@||payment.ximalaya.com^$important
+@@||vip.ximalaya.com^$important
+@@||buy.ximalaya.com^$important
+@@||trade.ximalaya.com^$important
+@@||search.ximalaya.com^$important
+@@||rec.ximalaya.com^$important
+@@||feed.ximalaya.com^$important
+@@||data.ximalaya.com^$important
+@@||report.ximalaya.com^$important
+@@||stat.ximalaya.com^$important
+@@||analytics.ximalaya.com^$important
+@@||track.ximalaya.com^$important
+@@||audiopaydl.pcdn.xmcdn.com^
+@@||im.soulapp.cn^
+@@||im-*.soulapp.cn^
+@@||ws.soulapp.cn^
+@@||wss.soulapp.cn^
+@@||msg.soulapp.cn^
+@@||push.soulapp.cn^
+@@||tpns.soulapp.cn^
+@@||jpush.soulapp.cn^
+@@||api.soulapp.cn^
+@@||gateway.soulapp.cn^
+@@||passport.soulapp.cn^
+@@||login.soulapp.cn^
+@@||cdn.soulapp.cn^
+@@||static.soulapp.cn^
+@@||media.soulapp.cn^
+@@||img.soulapp.cn^
+@@||video.soulapp.cn^
+@@||cos.soulapp.cn^
+@@||oss.soulapp.cn^
+@@||rtc.soulapp.cn^
+@@||av.soulapp.cn^
+@@||voice.soulapp.cn^
+@@||pay.soulapp.cn^
+@@||payment.soulapp.cn^
+@@||trade.soulapp.cn^
+@@||data.soulapp.cn^
+@@||report.soulapp.cn^
+@@||stat.soulapp.cn^
+@@||themis.soulapp.cn^
+@@||increase-openapi.soulapp.cn^
+@@||api-pay.soulapp.cn^
+@@||api-chat.soulapp.cn^
 @@||api.doubao.com^
 @@||gw.doubao.com^
 @@||chat.doubao.com^

@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-04-08 21:04:13
-! 有效规则数量: 4111 条
+! 规则更新时间: 2026-04-09 00:53:01
+! 有效规则数量: 4178 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -278,7 +278,7 @@
 @@||ncomment.kuwo.cn^
 @@||vip1.kuwo.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
-@@||redditmedia.com^$important
+@@||redditmedia.com^
 @@||juejin.cn^
 @@||www.juejin.cn^
 @@||cloudflareinsights.com^
@@ -518,9 +518,6 @@
 @@||api.kuaishouzt.com^
 @@||dorado.xiaojukeji.com^
 @@||about.gitlab.cn^
-@@||increase-openapi.soulapp.cn^
-@@||api-pay.soulapp.cn^
-@@||api-chat.soulapp.cn^
 @@||img.jbzj.com^
 @@||p3-sign.bdxiguaimg.com^
 @@||p26-sign.bdxiguaimg.com^
@@ -536,7 +533,6 @@
 @@||restapi.amap.com^
 @@||icws.jb51.net^
 @@||www-env.dropbox-dns.com^
-@@||audiopaydl.pcdn.xmcdn.com^
 @@||ietheivaicai.com^
 @@||dns.icoa.cn^
 @@||consumerapp-1251779293.image.myqcloud.com^
@@ -642,6 +638,77 @@
 @@||m.dianping.com^
 @@||osp.meituan.net^
 @@||s0.meituan.net^
+@@||passport.ximalaya.com^$important
+@@||login.ximalaya.com^$important
+@@||uc.ximalaya.com^$important
+@@||api.ximalaya.com^$important
+@@||gateway.ximalaya.com^$important
+@@||mobile.ximalaya.com^$important
+@@||m.ximalaya.com^$important
+@@||audio.ximalaya.com^$important
+@@||live.ximalaya.com^$important
+@@||play.ximalaya.com^$important
+@@||vod.ximalaya.com^$important
+@@||fdfs.xmcdn.com^$important
+@@||audio.xmcdn.com^$important
+@@||vod.xmcdn.com^$important
+@@||res.ximalaya.com^$important
+@@||static.ximalaya.com^$important
+@@||image.ximalaya.com^$important
+@@||img.xmcdn.com^$important
+@@||static.xmcdn.com^$important
+@@||res.xmcdn.com^$important
+@@||im.ximalaya.com^$important
+@@||msg.ximalaya.com^$important
+@@||push.ximalaya.com^$important
+@@||ws.ximalaya.com^$important
+@@||wss.ximalaya.com^$important
+@@||pay.ximalaya.com^$important
+@@||payment.ximalaya.com^$important
+@@||vip.ximalaya.com^$important
+@@||buy.ximalaya.com^$important
+@@||trade.ximalaya.com^$important
+@@||search.ximalaya.com^$important
+@@||rec.ximalaya.com^$important
+@@||feed.ximalaya.com^$important
+@@||data.ximalaya.com^$important
+@@||report.ximalaya.com^$important
+@@||stat.ximalaya.com^$important
+@@||analytics.ximalaya.com^$important
+@@||track.ximalaya.com^$important
+@@||audiopaydl.pcdn.xmcdn.com^
+@@||im.soulapp.cn^
+@@||im-*.soulapp.cn^
+@@||ws.soulapp.cn^
+@@||wss.soulapp.cn^
+@@||msg.soulapp.cn^
+@@||push.soulapp.cn^
+@@||tpns.soulapp.cn^
+@@||jpush.soulapp.cn^
+@@||api.soulapp.cn^
+@@||gateway.soulapp.cn^
+@@||passport.soulapp.cn^
+@@||login.soulapp.cn^
+@@||cdn.soulapp.cn^
+@@||static.soulapp.cn^
+@@||media.soulapp.cn^
+@@||img.soulapp.cn^
+@@||video.soulapp.cn^
+@@||cos.soulapp.cn^
+@@||oss.soulapp.cn^
+@@||rtc.soulapp.cn^
+@@||av.soulapp.cn^
+@@||voice.soulapp.cn^
+@@||pay.soulapp.cn^
+@@||payment.soulapp.cn^
+@@||trade.soulapp.cn^
+@@||data.soulapp.cn^
+@@||report.soulapp.cn^
+@@||stat.soulapp.cn^
+@@||themis.soulapp.cn^
+@@||increase-openapi.soulapp.cn^
+@@||api-pay.soulapp.cn^
+@@||api-chat.soulapp.cn^
 @@||api.doubao.com^
 @@||gw.doubao.com^
 @@||chat.doubao.com^
