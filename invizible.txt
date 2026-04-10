@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-04-10 05:53:44
-# 规则总数: 145523
+# 更新时间: 2026-04-10 09:00:53
+# 规则总数: 145532
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -23210,6 +23210,7 @@ baiyishaonian.cn block
 baizlink.com block
 baj.fanwenzhan.com block
 bajaqgoq.com block
+bajielm.com block
 bajoansams.net block
 bajyiflenzdxl.space block
 bakaevzrmcqdo.global block
@@ -30700,6 +30701,7 @@ chemdraw.com block
 chemdraw.com.cn block
 chemicalssmuglyuntying.com block
 chemishequ.com block
+chemist68.top block
 chengadx.com block
 chengaib.net block
 chenggao.cn block
@@ -63018,6 +63020,7 @@ imgpublic.ycomesc.live block
 imgpx.com block
 imgs.signifyd.com block
 imgsct.cookiebot.com block
+imgsdy8iyf8723y97g.top block
 imgsniper.com block
 imgsreview.dftoutiao.com block
 imgstat.baidu.com block
@@ -74221,6 +74224,7 @@ lmrwupcucuprv.site block
 lms.roblox.com block
 lmsx6.lightw1nd.ru block
 lmsxvjnxjlozp.online block
+lmtjapi.com block
 lmtruueagl.com block
 lmukstyn.xyz block
 lmvtfarnicgbb.space block
@@ -87352,6 +87356,7 @@ npykxfaypqrtf.love block
 npykxige.net block
 npyzxhbzwxosr.space block
 npzahkooxkyps.website block
+npzc1yzag7.com block
 npzztwnartfjy.website block
 nq49x3m8g.com block
 nqacsh.boosted.dk block
@@ -101324,6 +101329,7 @@ report.tv.kohesport.qq.com block
 report.vip.qq.com block
 report.vnay.vn block
 report1.biz block
+report123.help block
 report2.iciba.com block
 report2.mediahub.vn block
 reportallege.com block
@@ -128190,6 +128196,7 @@ txtbwierhvkdq.com block
 txteaviyuqmtl.online block
 txtixlhnuqucc.online block
 txuqrrcpnnsye.online block
+txutayo.com block
 txv0.destinia.hu block
 txv2-br-cdn.kwai.net.iberostar.com block
 txvkffuc.net block
@@ -131139,6 +131146,7 @@ utm.shireburn.com block
 utmjpssfyondk.online block
 utmostsecond.com block
 utmostxu.com block
+utmtmkfjbitxzlhijfce.top block
 utnbfoeokjxuz.website block
 utokapa.com block
 utoken.umeng.com block
@@ -140814,6 +140822,7 @@ xn--6dcm9jb.xn--gecrj9c block
 xn--6kr65fctg2t4e.com block
 xn--7gq78s4ltrea.cn block
 xn--90abegbttpjb3bzb2j.xn--p1ai block
+xn--9krv3x413bbyb.com block
 xn--b1afiqif6c.xn--p1ai block
 xn--blqw4qdtj1zl4x4c.net block
 xn--bqro42frpg5up.cn block

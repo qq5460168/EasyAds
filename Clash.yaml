@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-04-10 05:53:44
-# 规则总数: 145523
+# 更新时间: 2026-04-10 09:00:53
+# 规则总数: 145532
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -23211,6 +23211,7 @@ payload:
   - 'baizlink.com'
   - 'baj.fanwenzhan.com'
   - 'bajaqgoq.com'
+  - 'bajielm.com'
   - 'bajoansams.net'
   - 'bajyiflenzdxl.space'
   - 'bakaevzrmcqdo.global'
@@ -30701,6 +30702,7 @@ payload:
   - 'chemdraw.com.cn'
   - 'chemicalssmuglyuntying.com'
   - 'chemishequ.com'
+  - 'chemist68.top'
   - 'chengadx.com'
   - 'chengaib.net'
   - 'chenggao.cn'
@@ -63019,6 +63021,7 @@ payload:
   - 'imgpx.com'
   - 'imgs.signifyd.com'
   - 'imgsct.cookiebot.com'
+  - 'imgsdy8iyf8723y97g.top'
   - 'imgsniper.com'
   - 'imgsreview.dftoutiao.com'
   - 'imgstat.baidu.com'
@@ -74222,6 +74225,7 @@ payload:
   - 'lms.roblox.com'
   - 'lmsx6.lightw1nd.ru'
   - 'lmsxvjnxjlozp.online'
+  - 'lmtjapi.com'
   - 'lmtruueagl.com'
   - 'lmukstyn.xyz'
   - 'lmvtfarnicgbb.space'
@@ -87353,6 +87357,7 @@ payload:
   - 'npykxige.net'
   - 'npyzxhbzwxosr.space'
   - 'npzahkooxkyps.website'
+  - 'npzc1yzag7.com'
   - 'npzztwnartfjy.website'
   - 'nq49x3m8g.com'
   - 'nqacsh.boosted.dk'
@@ -101325,6 +101330,7 @@ payload:
   - 'report.vip.qq.com'
   - 'report.vnay.vn'
   - 'report1.biz'
+  - 'report123.help'
   - 'report2.iciba.com'
   - 'report2.mediahub.vn'
   - 'reportallege.com'
@@ -128191,6 +128197,7 @@ payload:
   - 'txteaviyuqmtl.online'
   - 'txtixlhnuqucc.online'
   - 'txuqrrcpnnsye.online'
+  - 'txutayo.com'
   - 'txv0.destinia.hu'
   - 'txv2-br-cdn.kwai.net.iberostar.com'
   - 'txvkffuc.net'
@@ -131140,6 +131147,7 @@ payload:
   - 'utmjpssfyondk.online'
   - 'utmostsecond.com'
   - 'utmostxu.com'
+  - 'utmtmkfjbitxzlhijfce.top'
   - 'utnbfoeokjxuz.website'
   - 'utokapa.com'
   - 'utoken.umeng.com'
@@ -140815,6 +140823,7 @@ payload:
   - 'xn--6kr65fctg2t4e.com'
   - 'xn--7gq78s4ltrea.cn'
   - 'xn--90abegbttpjb3bzb2j.xn--p1ai'
+  - 'xn--9krv3x413bbyb.com'
   - 'xn--b1afiqif6c.xn--p1ai'
   - 'xn--blqw4qdtj1zl4x4c.net'
   - 'xn--bqro42frpg5up.cn'

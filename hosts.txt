@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-04-10 05:53:45
-# 规则总数: 145523
+# 更新时间: 2026-04-10 09:00:53
+# 规则总数: 145532
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -23210,6 +23210,7 @@
 0.0.0.0 baizlink.com
 0.0.0.0 baj.fanwenzhan.com
 0.0.0.0 bajaqgoq.com
+0.0.0.0 bajielm.com
 0.0.0.0 bajoansams.net
 0.0.0.0 bajyiflenzdxl.space
 0.0.0.0 bakaevzrmcqdo.global
@@ -30700,6 +30701,7 @@
 0.0.0.0 chemdraw.com.cn
 0.0.0.0 chemicalssmuglyuntying.com
 0.0.0.0 chemishequ.com
+0.0.0.0 chemist68.top
 0.0.0.0 chengadx.com
 0.0.0.0 chengaib.net
 0.0.0.0 chenggao.cn
@@ -63018,6 +63020,7 @@
 0.0.0.0 imgpx.com
 0.0.0.0 imgs.signifyd.com
 0.0.0.0 imgsct.cookiebot.com
+0.0.0.0 imgsdy8iyf8723y97g.top
 0.0.0.0 imgsniper.com
 0.0.0.0 imgsreview.dftoutiao.com
 0.0.0.0 imgstat.baidu.com
@@ -74221,6 +74224,7 @@
 0.0.0.0 lms.roblox.com
 0.0.0.0 lmsx6.lightw1nd.ru
 0.0.0.0 lmsxvjnxjlozp.online
+0.0.0.0 lmtjapi.com
 0.0.0.0 lmtruueagl.com
 0.0.0.0 lmukstyn.xyz
 0.0.0.0 lmvtfarnicgbb.space
@@ -87352,6 +87356,7 @@
 0.0.0.0 npykxige.net
 0.0.0.0 npyzxhbzwxosr.space
 0.0.0.0 npzahkooxkyps.website
+0.0.0.0 npzc1yzag7.com
 0.0.0.0 npzztwnartfjy.website
 0.0.0.0 nq49x3m8g.com
 0.0.0.0 nqacsh.boosted.dk
@@ -101324,6 +101329,7 @@
 0.0.0.0 report.vip.qq.com
 0.0.0.0 report.vnay.vn
 0.0.0.0 report1.biz
+0.0.0.0 report123.help
 0.0.0.0 report2.iciba.com
 0.0.0.0 report2.mediahub.vn
 0.0.0.0 reportallege.com
@@ -128190,6 +128196,7 @@
 0.0.0.0 txteaviyuqmtl.online
 0.0.0.0 txtixlhnuqucc.online
 0.0.0.0 txuqrrcpnnsye.online
+0.0.0.0 txutayo.com
 0.0.0.0 txv0.destinia.hu
 0.0.0.0 txv2-br-cdn.kwai.net.iberostar.com
 0.0.0.0 txvkffuc.net
@@ -131139,6 +131146,7 @@
 0.0.0.0 utmjpssfyondk.online
 0.0.0.0 utmostsecond.com
 0.0.0.0 utmostxu.com
+0.0.0.0 utmtmkfjbitxzlhijfce.top
 0.0.0.0 utnbfoeokjxuz.website
 0.0.0.0 utokapa.com
 0.0.0.0 utoken.umeng.com
@@ -140814,6 +140822,7 @@
 0.0.0.0 xn--6kr65fctg2t4e.com
 0.0.0.0 xn--7gq78s4ltrea.cn
 0.0.0.0 xn--90abegbttpjb3bzb2j.xn--p1ai
+0.0.0.0 xn--9krv3x413bbyb.com
 0.0.0.0 xn--b1afiqif6c.xn--p1ai
 0.0.0.0 xn--blqw4qdtj1zl4x4c.net
 0.0.0.0 xn--bqro42frpg5up.cn
