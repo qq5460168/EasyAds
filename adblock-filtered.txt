@@ -16513,7 +16513,6 @@
 ||affiliates.minglematch.com^
 ||adasiatagmanager.appspot.com^
 ||69852b1734.com^
-||a8clk.www.jaf.or.jp^
 ||anian1.weebly.com^
 ||688mob.com^
 ||analytics.libertymutual.com.edgekey.net^
@@ -16582,7 +16581,6 @@
 ||71360.com^
 ||onemob.mobi^
 ||emar.com^
-||dwz.cn^
 ||4pn.cn^
 ||4a9.cn^
 ||3p4.cn^
@@ -34331,6 +34329,7 @@
 ||dwyeeunm.com^
 ||dwyeuy.com^
 ||dwyhewflzchyt.space^
+||dwz.cn^
 ||dwztkzptvisct.site^
 ||dx5.cn^
 ||dxakvollzguju.tech^
@@ -90352,6 +90351,7 @@
 ||a8clk.www.gaihekitosou-partners.jp^
 ||a8clk.www.green-dog.com^
 ||a8clk.www.italki.com^
+||a8clk.www.jaf.or.jp^
 ||a8clk.www.just-size.net^
 ||a8clk.www.ka-nabell.com^
 ||a8clk.www.khaki.jp^
