@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-04-13 09:56:35
-! 有效规则数量: 4179 条
+! 规则更新时间: 2026-04-13 14:09:47
+! 有效规则数量: 4238 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -2069,6 +2069,65 @@
 @@||res.hicloud.com^
 @@||payment.hicloud.com^
 @@||api.cloud.huawei.com^
+@@||cloud.hihonor.com^$important
+@@||user.cloud.hihonor.com^$important
+@@||update.hihonor.com^$important
+@@||ota.hihonor.com^$important
+@@||api.hihonor.com^$important
+@@||data.hihonor.com^$important
+@@||res.hihonor.com^$important
+@@||img.hihonor.com^$important
+@@||log.hihonor.com^$important
+@@||report.hihonor.com^$important
+@@||hilink.huawei.com^$important
+@@||hilink.hihonor.com^$important
+@@||smart.hihonor.com^$important
+@@||iot.hihonor.com^$important
+@@||device.hihonor.com^$important
+@@||connect.hihonor.com^$important
+@@||discovery.hihonor.com^$important
+@@||router.hihonor.com^$important
+@@||wifi.hihonor.com^$important
+@@||mesh.hihonor.com^$important
+@@||nms.hihonor.com^$important
+@@||ac.hihonor.com^$important
+@@||account.hihonor.com^$important
+@@||id.hihonor.com^$important
+@@||auth.hihonor.com^$important
+@@||login.hihonor.com^$important
+@@||sso.hihonor.com^$important
+@@||verify.hihonor.com^$important
+@@||drive.hihonor.com^$important
+@@||backup.hihonor.com^$important
+@@||sync.hihonor.com^$important
+@@||photos.hihonor.com^$important
+@@||contacts.hihonor.com^$important
+@@||notes.hihonor.com^$important
+@@||appgallery.hihonor.com^$important
+@@||app.hihonor.com^$important
+@@||dl.hihonor.com^$important
+@@||download.hihonor.com^$important
+@@||push.hihonor.com^$important
+@@||msg.hihonor.com^$important
+@@||ntp.hihonor.com^$important
+@@||location.hihonor.com^$important
+@@||geoip.hihonor.com^$important
+@@||check.hihonor.com^$important
+@@||connectivity.hihonor.com^$important
+@@||magic.hihonor.com^$important
+@@||magicui.hihonor.com^$important
+@@||system.hihonor.com^$important
+@@||kernel.hihonor.com^$important
+@@||share.hihonor.com^$important
+@@||nfc.hihonor.com^$important
+@@||cast.hihonor.com^$important
+@@||mirror.hihonor.com^$important
+@@||tv.hihonor.com^$important
+@@||media.hihonor.com^$important
+@@||video.hihonor.com^$important
+@@||music.hihonor.com^$important
+@@||iot.huawei.com^$important
+@@||device.huawei.com^$important
 @@||yun.vivo.com.cn^
 @@||i.vivo.com.cn^
 @@||findphone.vivo.com.cn^

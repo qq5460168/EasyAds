@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-04-13 09:56:35
-! 有效规则数量: 156420 条
+! 规则更新时间: 2026-04-13 14:09:47
+! 有效规则数量: 156479 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -14732,9 +14732,9 @@
 142.250.152.188     alt8-mtalk.google.com
 180.163.151.161     dl.google.com
 180.163.150.33      dl.l.google.com
-140.82.113.26                 alive.github.com
+140.82.112.25                 alive.github.com
 20.205.243.168                api.github.com
-140.82.113.21                 api.individual.githubcopilot.com
+140.82.114.22                 api.individual.githubcopilot.com
 185.199.109.133               avatars.githubusercontent.com
 185.199.109.133               avatars0.githubusercontent.com
 185.199.109.133               avatars1.githubusercontent.com
@@ -14743,34 +14743,34 @@
 185.199.109.133               avatars4.githubusercontent.com
 185.199.109.133               avatars5.githubusercontent.com
 185.199.109.133               camo.githubusercontent.com
-140.82.112.22                 central.github.com
+140.82.114.21                 central.github.com
 185.199.109.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.113.21                 collector.github.com
+140.82.114.22                 collector.github.com
 185.199.109.133               desktop.githubusercontent.com
 185.199.109.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com
-52.217.227.49                 github-cloud.s3.amazonaws.com
-52.216.93.123                 github-com.s3.amazonaws.com
-52.217.125.177                github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.20.215                    github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.140.217                github-production-user-asset-6210df.s3.amazonaws.com
+52.216.54.57                  github-cloud.s3.amazonaws.com
+52.216.48.57                  github-com.s3.amazonaws.com
+52.217.169.225                github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.195.105                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.63.121                 github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.114.17                 github.community
-185.199.111.154               github.githubassets.com
+140.82.113.18                 github.community
+185.199.108.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
-185.199.109.153               github.io
+185.199.110.153               github.io
 185.199.109.133               github.map.fastly.net
-185.199.109.153               githubstatus.com
-140.82.114.26                 live.github.com
+185.199.110.153               githubstatus.com
+140.82.112.25                 live.github.com
 185.199.109.133               media.githubusercontent.com
 185.199.109.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.109.133               raw.githubusercontent.com
 185.199.109.133               user-images.githubusercontent.com
 13.107.226.39                 vscode.dev  # Timeout
-140.82.113.21                 education.github.com
+140.82.114.22                 education.github.com
 185.199.109.133               private-user-images.githubusercontent.com
 ||1377a.xyz^
 ||180zhengkkl.com^
@@ -154310,6 +154310,65 @@
 @@||res.hicloud.com^
 @@||payment.hicloud.com^
 @@||api.cloud.huawei.com^
+@@||cloud.hihonor.com^$important
+@@||user.cloud.hihonor.com^$important
+@@||update.hihonor.com^$important
+@@||ota.hihonor.com^$important
+@@||api.hihonor.com^$important
+@@||data.hihonor.com^$important
+@@||res.hihonor.com^$important
+@@||img.hihonor.com^$important
+@@||log.hihonor.com^$important
+@@||report.hihonor.com^$important
+@@||hilink.huawei.com^$important
+@@||hilink.hihonor.com^$important
+@@||smart.hihonor.com^$important
+@@||iot.hihonor.com^$important
+@@||device.hihonor.com^$important
+@@||connect.hihonor.com^$important
+@@||discovery.hihonor.com^$important
+@@||router.hihonor.com^$important
+@@||wifi.hihonor.com^$important
+@@||mesh.hihonor.com^$important
+@@||nms.hihonor.com^$important
+@@||ac.hihonor.com^$important
+@@||account.hihonor.com^$important
+@@||id.hihonor.com^$important
+@@||auth.hihonor.com^$important
+@@||login.hihonor.com^$important
+@@||sso.hihonor.com^$important
+@@||verify.hihonor.com^$important
+@@||drive.hihonor.com^$important
+@@||backup.hihonor.com^$important
+@@||sync.hihonor.com^$important
+@@||photos.hihonor.com^$important
+@@||contacts.hihonor.com^$important
+@@||notes.hihonor.com^$important
+@@||appgallery.hihonor.com^$important
+@@||app.hihonor.com^$important
+@@||dl.hihonor.com^$important
+@@||download.hihonor.com^$important
+@@||push.hihonor.com^$important
+@@||msg.hihonor.com^$important
+@@||ntp.hihonor.com^$important
+@@||location.hihonor.com^$important
+@@||geoip.hihonor.com^$important
+@@||check.hihonor.com^$important
+@@||connectivity.hihonor.com^$important
+@@||magic.hihonor.com^$important
+@@||magicui.hihonor.com^$important
+@@||system.hihonor.com^$important
+@@||kernel.hihonor.com^$important
+@@||share.hihonor.com^$important
+@@||nfc.hihonor.com^$important
+@@||cast.hihonor.com^$important
+@@||mirror.hihonor.com^$important
+@@||tv.hihonor.com^$important
+@@||media.hihonor.com^$important
+@@||video.hihonor.com^$important
+@@||music.hihonor.com^$important
+@@||iot.huawei.com^$important
+@@||device.huawei.com^$important
 @@||yun.vivo.com.cn^
 @@||i.vivo.com.cn^
 @@||findphone.vivo.com.cn^
