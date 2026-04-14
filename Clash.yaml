@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-04-14 09:10:27
-# 规则总数: 145532
+# 更新时间: 2026-04-14 13:08:02
+# 规则总数: 145534
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -44529,6 +44529,7 @@ payload:
   - 'edge.yunjiasu.com'
   - 'edgedc.falabella.com'
   - 'edgeio.com'
+  - 'edgelib.net'
   - 'edgevertise.com'
   - 'edggfqqsbycwo.store'
   - 'edgpwqwhzvpld.website'
@@ -55464,6 +55465,7 @@ payload:
   - 'go.wu.com'
   - 'go.www4.earlywarning.com'
   - 'go.xl.ua'
+  - 'go.xlivrdr.com'
   - 'go.xxxjmp.com'
   - 'go.you-app.com'
   - 'go.zakatpedia.com'

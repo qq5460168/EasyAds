@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-04-14 09:10:28
-# 规则总数: 145532
+# 更新时间: 2026-04-14 13:08:03
+# 规则总数: 145534
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -44528,6 +44528,7 @@
 0.0.0.0 edge.yunjiasu.com
 0.0.0.0 edgedc.falabella.com
 0.0.0.0 edgeio.com
+0.0.0.0 edgelib.net
 0.0.0.0 edgevertise.com
 0.0.0.0 edggfqqsbycwo.store
 0.0.0.0 edgpwqwhzvpld.website
@@ -55463,6 +55464,7 @@
 0.0.0.0 go.wu.com
 0.0.0.0 go.www4.earlywarning.com
 0.0.0.0 go.xl.ua
+0.0.0.0 go.xlivrdr.com
 0.0.0.0 go.xxxjmp.com
 0.0.0.0 go.you-app.com
 0.0.0.0 go.zakatpedia.com

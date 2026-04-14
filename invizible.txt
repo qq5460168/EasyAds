@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-04-14 09:10:28
-# 规则总数: 145532
+# 更新时间: 2026-04-14 13:08:03
+# 规则总数: 145534
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -44528,6 +44528,7 @@ edge.wshttpdns.com block
 edge.yunjiasu.com block
 edgedc.falabella.com block
 edgeio.com block
+edgelib.net block
 edgevertise.com block
 edggfqqsbycwo.store block
 edgpwqwhzvpld.website block
@@ -55463,6 +55464,7 @@ go.wtcmachinery.com block
 go.wu.com block
 go.www4.earlywarning.com block
 go.xl.ua block
+go.xlivrdr.com block
 go.xxxjmp.com block
 go.you-app.com block
 go.zakatpedia.com block

@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-04-14 09:10:28
-# 规则总数: 145532
+# 更新时间: 2026-04-14 13:08:03
+# 规则总数: 145534
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -44528,6 +44528,7 @@ domain, edge.wshttpdns.com
 domain, edge.yunjiasu.com
 domain, edgedc.falabella.com
 domain, edgeio.com
+domain, edgelib.net
 domain, edgevertise.com
 domain, edggfqqsbycwo.store
 domain, edgpwqwhzvpld.website
@@ -55463,6 +55464,7 @@ domain, go.wtcmachinery.com
 domain, go.wu.com
 domain, go.www4.earlywarning.com
 domain, go.xl.ua
+domain, go.xlivrdr.com
 domain, go.xxxjmp.com
 domain, go.you-app.com
 domain, go.zakatpedia.com

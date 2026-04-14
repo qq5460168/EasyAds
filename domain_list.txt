@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-04-14 09:10:25（北京时间）
-# 共 145504 个域名
+# 生成时间: 2026-04-14 13:07:59（北京时间）
+# 共 145506 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -44508,6 +44508,7 @@ edge.wshttpdns.com
 edge.yunjiasu.com
 edgedc.falabella.com
 edgeio.com
+edgelib.net
 edgevertise.com
 edggfqqsbycwo.store
 edgpwqwhzvpld.website
@@ -55444,6 +55445,7 @@ go.wtcmachinery.com
 go.wu.com
 go.www4.earlywarning.com
 go.xl.ua
+go.xlivrdr.com
 go.xxxjmp.com
 go.you-app.com
 go.zakatpedia.com
