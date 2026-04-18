@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-04-18 05:29:42
-# 规则总数: 145534
+# 更新时间: 2026-04-18 08:40:23
+# 规则总数: 145536
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -17750,6 +17750,7 @@ analytics.ifanrusercontent.com block
 analytics.ifood.tv block
 analytics.ihg.com block
 analytics.ikyu.com block
+analytics.immersivetranslate.com block
 analytics.innologica.com block
 analytics.inquirernetwork.net block
 analytics.inquisitr.com block
@@ -96224,6 +96225,7 @@ profiling.ruukki.com block
 profit.edc.ca block
 profitablecpmgate.com block
 profitablecpmrate.com block
+profitablecpmratenetwork.com block
 profitablecreativeformat.com block
 profitabledestination.com block
 profitabledisplaycontent.com block

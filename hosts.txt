@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-04-18 05:29:42
-# 规则总数: 145534
+# 更新时间: 2026-04-18 08:40:23
+# 规则总数: 145536
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -17750,6 +17750,7 @@
 0.0.0.0 analytics.ifood.tv
 0.0.0.0 analytics.ihg.com
 0.0.0.0 analytics.ikyu.com
+0.0.0.0 analytics.immersivetranslate.com
 0.0.0.0 analytics.innologica.com
 0.0.0.0 analytics.inquirernetwork.net
 0.0.0.0 analytics.inquisitr.com
@@ -96224,6 +96225,7 @@
 0.0.0.0 profit.edc.ca
 0.0.0.0 profitablecpmgate.com
 0.0.0.0 profitablecpmrate.com
+0.0.0.0 profitablecpmratenetwork.com
 0.0.0.0 profitablecreativeformat.com
 0.0.0.0 profitabledestination.com
 0.0.0.0 profitabledisplaycontent.com

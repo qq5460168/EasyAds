@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-04-18 05:29:42
-# 规则总数: 145534
+# 更新时间: 2026-04-18 08:40:24
+# 规则总数: 145536
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -17750,6 +17750,7 @@ domain, analytics.ifanrusercontent.com
 domain, analytics.ifood.tv
 domain, analytics.ihg.com
 domain, analytics.ikyu.com
+domain, analytics.immersivetranslate.com
 domain, analytics.innologica.com
 domain, analytics.inquirernetwork.net
 domain, analytics.inquisitr.com
@@ -96224,6 +96225,7 @@ domain, profiling.ruukki.com
 domain, profit.edc.ca
 domain, profitablecpmgate.com
 domain, profitablecpmrate.com
+domain, profitablecpmratenetwork.com
 domain, profitablecreativeformat.com
 domain, profitabledestination.com
 domain, profitabledisplaycontent.com

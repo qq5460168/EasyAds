@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-04-18 05:29:39.109902
+# Generated on 2026-04-18 08:40:20.201490
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -14642,6 +14642,7 @@
 ||ad.smaato.net^
 ||unityads.unity3d.com^
 ||unityads.unitychina.cn^
+||analytics.immersivetranslate.com^
 ||data-track.yingxiong.com^
 ||gjfzpt.cn^
 ||bsccdn.net^
@@ -145456,6 +145457,7 @@
 ||xttiu105.pjpxke.cn^
 ||xunzz198.com^
 ||zc2t.jiejie51-tueo219.vip^
+||profitablecpmratenetwork.com^
 ||go.xlivrdr.com^
 ||edgelib.net^
 ||lmtjapi.com^

@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-04-18 05:29:42
-# 规则总数: 145534
+# 更新时间: 2026-04-18 08:40:23
+# 规则总数: 145536
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -17751,6 +17751,7 @@ payload:
   - 'analytics.ifood.tv'
   - 'analytics.ihg.com'
   - 'analytics.ikyu.com'
+  - 'analytics.immersivetranslate.com'
   - 'analytics.innologica.com'
   - 'analytics.inquirernetwork.net'
   - 'analytics.inquisitr.com'
@@ -96225,6 +96226,7 @@ payload:
   - 'profit.edc.ca'
   - 'profitablecpmgate.com'
   - 'profitablecpmrate.com'
+  - 'profitablecpmratenetwork.com'
   - 'profitablecreativeformat.com'
   - 'profitabledestination.com'
   - 'profitabledisplaycontent.com'

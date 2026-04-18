@@ -14639,6 +14639,7 @@
 ||ad.smaato.net^
 ||unityads.unity3d.com^
 ||unityads.unitychina.cn^
+||analytics.immersivetranslate.com^
 ||data-track.yingxiong.com^
 ||gjfzpt.cn^
 ||bsccdn.net^
@@ -145453,6 +145454,7 @@
 ||xttiu105.pjpxke.cn^
 ||xunzz198.com^
 ||zc2t.jiejie51-tueo219.vip^
+||profitablecpmratenetwork.com^
 ||go.xlivrdr.com^
 ||edgelib.net^
 ||lmtjapi.com^
