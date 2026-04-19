@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-04-19 01:56:28
-# 规则总数: 145536
+# 更新时间: 2026-04-19 05:54:19
+# 规则总数: 145535
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -101416,7 +101416,6 @@ domain, res.mmstat.com
 domain, res.paruvendu.fr
 domain, res.programme-television.org
 domain, res.public.fr
-domain, res.qhupdate.com
 domain, res.qiqigece.top
 domain, res.rbl.ms
 domain, res1.applovin.com

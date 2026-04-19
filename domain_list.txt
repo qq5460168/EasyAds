@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-04-19 01:56:25（北京时间）
-# 共 145508 个域名
+# 生成时间: 2026-04-19 05:54:15（北京时间）
+# 共 145507 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -101391,7 +101391,6 @@ res.mmstat.com
 res.paruvendu.fr
 res.programme-television.org
 res.public.fr
-res.qhupdate.com
 res.qiqigece.top
 res.rbl.ms
 res1.applovin.com

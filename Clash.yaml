@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-04-19 01:56:27
-# 规则总数: 145536
+# 更新时间: 2026-04-19 05:54:18
+# 规则总数: 145535
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -101417,7 +101417,6 @@ payload:
   - 'res.paruvendu.fr'
   - 'res.programme-television.org'
   - 'res.public.fr'
-  - 'res.qhupdate.com'
   - 'res.qiqigece.top'
   - 'res.rbl.ms'
   - 'res1.applovin.com'

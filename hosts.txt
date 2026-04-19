@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-04-19 01:56:27
-# 规则总数: 145536
+# 更新时间: 2026-04-19 05:54:18
+# 规则总数: 145535
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -101416,7 +101416,6 @@
 0.0.0.0 res.paruvendu.fr
 0.0.0.0 res.programme-television.org
 0.0.0.0 res.public.fr
-0.0.0.0 res.qhupdate.com
 0.0.0.0 res.qiqigece.top
 0.0.0.0 res.rbl.ms
 0.0.0.0 res1.applovin.com

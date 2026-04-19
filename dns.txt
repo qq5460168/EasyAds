@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-04-19 01:56:24.590856
+# Generated on 2026-04-19 05:54:15.403600
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -12166,7 +12166,6 @@
 ||top.h.qhmsg.com^
 ||m.qhuik.com^
 ||hs.qhupdate.com^
-||res.qhupdate.com^
 ||s.qhupdate.com^
 ||p.qiailm.com^
 ||download.qianka.com^
