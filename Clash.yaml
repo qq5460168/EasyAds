@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-04-19 12:42:18
-# 规则总数: 145535
+# 更新时间: 2026-04-19 16:30:52
+# 规则总数: 145536
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -17568,6 +17568,7 @@ payload:
   - 'analytics.chase.com'
   - 'analytics.chattarize.de'
   - 'analytics.chegg.com'
+  - 'analytics.cherry-ai.com'
   - 'analytics.chilevision.cl'
   - 'analytics.churchthemes.com'
   - 'analytics.churnzero.net'

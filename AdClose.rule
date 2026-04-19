@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-04-19 12:42:19
-# 规则总数: 145535
+# 更新时间: 2026-04-19 16:30:53
+# 规则总数: 145536
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -17567,6 +17567,7 @@ domain, analytics.changiairport.com
 domain, analytics.chase.com
 domain, analytics.chattarize.de
 domain, analytics.chegg.com
+domain, analytics.cherry-ai.com
 domain, analytics.chilevision.cl
 domain, analytics.churchthemes.com
 domain, analytics.churnzero.net

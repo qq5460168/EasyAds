@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-04-19 12:42:19
-# 规则总数: 145535
+# 更新时间: 2026-04-19 16:30:53
+# 规则总数: 145536
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -17567,6 +17567,7 @@
 0.0.0.0 analytics.chase.com
 0.0.0.0 analytics.chattarize.de
 0.0.0.0 analytics.chegg.com
+0.0.0.0 analytics.cherry-ai.com
 0.0.0.0 analytics.chilevision.cl
 0.0.0.0 analytics.churchthemes.com
 0.0.0.0 analytics.churnzero.net

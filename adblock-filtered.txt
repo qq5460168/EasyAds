@@ -14639,6 +14639,7 @@
 ||unityads.unity3d.com^
 ||unityads.unitychina.cn^
 ||analytics.immersivetranslate.com^
+||analytics.cherry-ai.com^
 ||data-track.yingxiong.com^
 ||gjfzpt.cn^
 ||bsccdn.net^

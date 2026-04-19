@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-04-19 12:42:16（北京时间）
-# 共 145507 个域名
+# 生成时间: 2026-04-19 16:30:50（北京时间）
+# 共 145508 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -17554,6 +17554,7 @@ analytics.changiairport.com
 analytics.chase.com
 analytics.chattarize.de
 analytics.chegg.com
+analytics.cherry-ai.com
 analytics.chilevision.cl
 analytics.churchthemes.com
 analytics.churnzero.net

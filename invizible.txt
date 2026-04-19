@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-04-19 12:42:19
-# 规则总数: 145535
+# 更新时间: 2026-04-19 16:30:53
+# 规则总数: 145536
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -17567,6 +17567,7 @@ analytics.changiairport.com block
 analytics.chase.com block
 analytics.chattarize.de block
 analytics.chegg.com block
+analytics.cherry-ai.com block
 analytics.chilevision.cl block
 analytics.churchthemes.com block
 analytics.churnzero.net block
