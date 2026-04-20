@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-04-20 21:11:07
-! 有效规则数量: 156487 条
+! 规则更新时间: 2026-04-21 00:57:25
+! 有效规则数量: 156534 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -14733,9 +14733,9 @@
 142.250.152.188     alt8-mtalk.google.com
 180.163.151.161     dl.google.com
 180.163.150.33      dl.l.google.com
-140.82.113.26                 alive.github.com
+140.82.113.25                 alive.github.com
 20.205.243.168                api.github.com
-140.82.113.21                 api.individual.githubcopilot.com
+140.82.114.22                 api.individual.githubcopilot.com
 185.199.109.133               avatars.githubusercontent.com
 185.199.109.133               avatars0.githubusercontent.com
 185.199.109.133               avatars1.githubusercontent.com
@@ -14744,18 +14744,18 @@
 185.199.109.133               avatars4.githubusercontent.com
 185.199.109.133               avatars5.githubusercontent.com
 185.199.109.133               camo.githubusercontent.com
-140.82.114.21                 central.github.com
+140.82.114.22                 central.github.com
 185.199.109.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.113.21                 collector.github.com
+140.82.112.21                 collector.github.com
 185.199.109.133               desktop.githubusercontent.com
 185.199.109.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com
-16.182.69.169                 github-cloud.s3.amazonaws.com
-52.217.173.225                github-com.s3.amazonaws.com
-16.182.65.161                 github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.134.153                github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.58.105                 github-production-user-asset-6210df.s3.amazonaws.com
+52.216.60.209                 github-cloud.s3.amazonaws.com
+16.15.183.173                 github-com.s3.amazonaws.com
+16.15.183.252                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.228.151                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.252.44                  github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
 140.82.113.17                 github.community
@@ -14764,14 +14764,14 @@
 185.199.108.153               github.io
 185.199.109.133               github.map.fastly.net
 185.199.108.153               githubstatus.com
-140.82.114.26                 live.github.com
+140.82.112.26                 live.github.com
 185.199.109.133               media.githubusercontent.com
 185.199.109.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.109.133               raw.githubusercontent.com
 185.199.109.133               user-images.githubusercontent.com
 13.107.226.39                 vscode.dev  # Timeout
-140.82.112.21                 education.github.com
+140.82.113.21                 education.github.com
 185.199.109.133               private-user-images.githubusercontent.com
 ||1377a.xyz^
 ||180zhengkkl.com^
@@ -153946,8 +153946,6 @@
 @@||static.cloudflareinsights.com^
 @@||res.openinstall.com^
 @@||p3-flow-download-sign.byteimg.com^
-@@||res.qhmsg.com^
-@@||img-vip-ssl.a.88cdn.com^$important
 @@||video.da.mgtv.com^
 @@||m2.da.mgtv.com^
 @@||gamezop.com^
@@ -154063,7 +154061,6 @@
 @@||xj-n-tax.gov.cn^
 @@||pepsico.com.cn^
 @@||duote.com^
-@@||api-shoulei-ssl.xunlei.com^
 @@||7x24s.com^
 @@||mac.bmcx.com^
 @@||uri6.com^
@@ -154150,44 +154147,95 @@
 @@||duga.zhihu.com^
 @@||audiopay.pcdn.xmcdn.com^
 @@||award.xmcdn.com^
-@@||passport.ximalaya.com^$important
-@@||login.ximalaya.com^$important
-@@||uc.ximalaya.com^$important
-@@||api.ximalaya.com^$important
-@@||gateway.ximalaya.com^$important
-@@||mobile.ximalaya.com^$important
-@@||m.ximalaya.com^$important
-@@||audio.ximalaya.com^$important
-@@||live.ximalaya.com^$important
-@@||play.ximalaya.com^$important
-@@||vod.ximalaya.com^$important
-@@||fdfs.xmcdn.com^$important
-@@||audio.xmcdn.com^$important
-@@||vod.xmcdn.com^$important
-@@||res.ximalaya.com^$important
-@@||static.ximalaya.com^$important
-@@||image.ximalaya.com^$important
-@@||img.xmcdn.com^$important
-@@||static.xmcdn.com^$important
-@@||res.xmcdn.com^$important
-@@||im.ximalaya.com^$important
-@@||msg.ximalaya.com^$important
-@@||push.ximalaya.com^$important
-@@||ws.ximalaya.com^$important
-@@||wss.ximalaya.com^$important
-@@||pay.ximalaya.com^$important
-@@||payment.ximalaya.com^$important
-@@||vip.ximalaya.com^$important
-@@||buy.ximalaya.com^$important
-@@||trade.ximalaya.com^$important
-@@||search.ximalaya.com^$important
-@@||rec.ximalaya.com^$important
-@@||feed.ximalaya.com^$important
-@@||data.ximalaya.com^$important
-@@||report.ximalaya.com^$important
-@@||stat.ximalaya.com^$important
-@@||analytics.ximalaya.com^$important
-@@||track.ximalaya.com^$important
+@@||login.xunlei.com^
+@@||my.xunlei.com^
+@@||user.xunlei.com^
+@@||passport.xunlei.com^
+@@||auth.xunlei.com^
+@@||hub.xunlei.com^
+@@||tracker.xunlei.com^
+@@||bt.m.xunlei.com^
+@@||p2p.xunlei.com^
+@@||node.xunlei.com^
+@@||scheduler.xunlei.com^
+@@||cdn.xunlei.com^
+@@||dl.xunlei.com^
+@@||download.xunlei.com^
+@@||lixian.xunlei.com^
+@@||tb.lixian.vip.xunlei.com^
+@@||vip.xunlei.com^
+@@||pay.xunlei.com^
+@@||payapi.xunlei.com^
+@@||pan.xunlei.com^
+@@||cloud.xunlei.com^
+@@||d.xunlei.com^
+@@||upload.xunlei.com^
+@@||api.pan.xunlei.com^
+@@||sd.app.xunlei.com^
+@@||thunder.xunlei.com^
+@@||upgrade.xunlei.com^
+@@||update.xunlei.com^
+@@||kankan.xunlei.com^
+@@||xl.kankan.com^
+@@||play.xunlei.com^
+@@||video.xunlei.com^
+@@||v.xunlei.com^
+@@||res.qhmsg.com^
+@@||img-vip-ssl.a.88cdn.com^
+@@||xfile2.a.88cdn.com^
+@@||api-shoulei-ssl.xunlei.com^
+@@||srf.xunfei.cn^
+@@||ime.voicecloud.cn^
+@@||rt.voicecloud.cn^
+@@||sdk.voicecloud.cn^
+@@||openapi.voicecloud.cn^
+@@||tns.voicecloud.cn^
+@@||asr.voicecloud.cn^
+@@||tts.voicecloud.cn^
+@@||user.xunfei.cn^
+@@||account.xunfei.cn^
+@@||passport.xunfei.cn^
+@@||down.xunfei.cn^
+@@||dl.xunfei.cn^
+@@||cdn.xunfei.cn^
+@@||static.xunfei.cn^
+@@||res.xunfei.cn^
+@@||passport.ximalaya.com^
+@@||login.ximalaya.com^
+@@||uc.ximalaya.com^
+@@||api.ximalaya.com^
+@@||gateway.ximalaya.com^
+@@||m.ximalaya.com^
+@@||audio.ximalaya.com^
+@@||live.ximalaya.com^
+@@||play.ximalaya.com^
+@@||vod.ximalaya.com^
+@@||audio.xmcdn.com^
+@@||vod.xmcdn.com^
+@@||res.ximalaya.com^
+@@||static.ximalaya.com^
+@@||image.ximalaya.com^
+@@||img.xmcdn.com^
+@@||static.xmcdn.com^
+@@||res.xmcdn.com^
+@@||im.ximalaya.com^
+@@||msg.ximalaya.com^
+@@||push.ximalaya.com^
+@@||ws.ximalaya.com^
+@@||wss.ximalaya.com^
+@@||pay.ximalaya.com^
+@@||payment.ximalaya.com^
+@@||vip.ximalaya.com^
+@@||buy.ximalaya.com^
+@@||trade.ximalaya.com^
+@@||search.ximalaya.com^
+@@||rec.ximalaya.com^
+@@||feed.ximalaya.com^
+@@||data.ximalaya.com^
+@@||report.ximalaya.com^
+@@||stat.ximalaya.com^
+@@||analytics.ximalaya.com^
+@@||track.ximalaya.com^
 @@||audiopaydl.pcdn.xmcdn.com^
 @@||im.soulapp.cn^
 @@||im-*.soulapp.cn^
@@ -154317,65 +154365,64 @@
 @@||res.hicloud.com^
 @@||payment.hicloud.com^
 @@||api.cloud.huawei.com^
-@@||cloud.hihonor.com^$important
-@@||user.cloud.hihonor.com^$important
-@@||update.hihonor.com^$important
-@@||ota.hihonor.com^$important
-@@||api.hihonor.com^$important
-@@||data.hihonor.com^$important
-@@||res.hihonor.com^$important
-@@||img.hihonor.com^$important
-@@||log.hihonor.com^$important
-@@||report.hihonor.com^$important
-@@||hilink.huawei.com^$important
-@@||hilink.hihonor.com^$important
-@@||smart.hihonor.com^$important
-@@||iot.hihonor.com^$important
-@@||device.hihonor.com^$important
-@@||connect.hihonor.com^$important
-@@||discovery.hihonor.com^$important
-@@||router.hihonor.com^$important
-@@||wifi.hihonor.com^$important
-@@||mesh.hihonor.com^$important
-@@||nms.hihonor.com^$important
-@@||ac.hihonor.com^$important
-@@||account.hihonor.com^$important
-@@||id.hihonor.com^$important
-@@||auth.hihonor.com^$important
-@@||login.hihonor.com^$important
-@@||sso.hihonor.com^$important
-@@||verify.hihonor.com^$important
-@@||drive.hihonor.com^$important
-@@||backup.hihonor.com^$important
-@@||sync.hihonor.com^$important
-@@||photos.hihonor.com^$important
-@@||contacts.hihonor.com^$important
-@@||notes.hihonor.com^$important
-@@||appgallery.hihonor.com^$important
-@@||app.hihonor.com^$important
-@@||dl.hihonor.com^$important
-@@||download.hihonor.com^$important
-@@||push.hihonor.com^$important
-@@||msg.hihonor.com^$important
-@@||ntp.hihonor.com^$important
-@@||location.hihonor.com^$important
-@@||geoip.hihonor.com^$important
-@@||check.hihonor.com^$important
-@@||connectivity.hihonor.com^$important
-@@||magic.hihonor.com^$important
-@@||magicui.hihonor.com^$important
-@@||system.hihonor.com^$important
-@@||kernel.hihonor.com^$important
-@@||share.hihonor.com^$important
-@@||nfc.hihonor.com^$important
-@@||cast.hihonor.com^$important
-@@||mirror.hihonor.com^$important
-@@||tv.hihonor.com^$important
-@@||media.hihonor.com^$important
-@@||video.hihonor.com^$important
-@@||music.hihonor.com^$important
-@@||iot.huawei.com^$important
-@@||device.huawei.com^$important
+@@||cloud.hihonor.com^
+@@||user.cloud.hihonor.com^
+@@||update.hihonor.com^
+@@||ota.hihonor.com^
+@@||api.hihonor.com^
+@@||data.hihonor.com^
+@@||res.hihonor.com^
+@@||img.hihonor.com^
+@@||log.hihonor.com^
+@@||report.hihonor.com^
+@@||hilink.huawei.com^
+@@||hilink.hihonor.com^
+@@||smart.hihonor.com^
+@@||iot.hihonor.com^
+@@||device.hihonor.com^
+@@||connect.hihonor.com^
+@@||discovery.hihonor.com^
+@@||router.hihonor.com^
+@@||wifi.hihonor.com^
+@@||mesh.hihonor.com^
+@@||nms.hihonor.com^
+@@||ac.hihonor.com^
+@@||account.hihonor.com^
+@@||id.hihonor.com^
+@@||auth.hihonor.com^
+@@||login.hihonor.com^
+@@||sso.hihonor.com^
+@@||verify.hihonor.com^
+@@||drive.hihonor.com^
+@@||backup.hihonor.com^
+@@||sync.hihonor.com^
+@@||photos.hihonor.com^
+@@||contacts.hihonor.com^
+@@||notes.hihonor.com^
+@@||appgallery.hihonor.com^
+@@||app.hihonor.com^
+@@||dl.hihonor.com^
+@@||download.hihonor.com^
+@@||push.hihonor.com^
+@@||msg.hihonor.com^
+@@||ntp.hihonor.com^
+@@||location.hihonor.com^
+@@||geoip.hihonor.com^
+@@||check.hihonor.com^
+@@||connectivity.hihonor.com^
+@@||magic.hihonor.com^
+@@||magicui.hihonor.com^
+@@||system.hihonor.com^
+@@||kernel.hihonor.com^
+@@||share.hihonor.com^
+@@||nfc.hihonor.com^
+@@||cast.hihonor.com^
+@@||mirror.hihonor.com^
+@@||tv.hihonor.com^
+@@||media.hihonor.com^
+@@||video.hihonor.com^
+@@||music.hihonor.com^
+@@||device.huawei.com^
 @@||yun.vivo.com.cn^
 @@||i.vivo.com.cn^
 @@||findphone.vivo.com.cn^
@@ -155568,8 +155615,8 @@
 @@||dns.adguard.com^
 @@||dns-family.adguard.com^
 @@||valuecommerce.com^
-@@||dwz.cn^$important
-@@||c.fa.jd.com^$important
+@@||dwz.cn^
+@@||c.fa.jd.com^
 @@||img.zbt.com*/market-$script
 @@||apm.zhihu.com^
 @@||app.zhuanzhuan.com^$important
