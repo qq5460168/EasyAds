@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-04-21 13:06:15
-# 规则总数: 145371
+# 更新时间: 2026-04-21 16:52:05
+# 规则总数: 145369
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -4259,7 +4259,6 @@ domain, 5edf1d2qv.com
 domain, 5ee868d71f.b35fc2842a.com
 domain, 5eff937764.e487a41ae0.com
 domain, 5egk.com
-domain, 5eucpusr8lbadd6e66vmuv1sok57bf04dcdpidko5hpg5od8erhfuuoo.saxysec.com
 domain, 5f-hj8-5d2g.dnsdf.com
 domain, 5f1qyi04vz.com
 domain, 5f242f7db1.com
@@ -79429,7 +79428,6 @@ domain, mc.yandex.com
 domain, mc.yandex.md
 domain, mc.yandex.ru
 domain, mc.yango.com
-domain, mc2jm0545vj420i4qbr2bds8q1pocd8jlfr887i10c0hdlsccqqfun19.saxysec.com
 domain, mc2o133jkwu19fv9.net.fidor.de
 domain, mc5e9p8qx.com
 domain, mc777.cn

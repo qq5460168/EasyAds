@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-04-21 21:06:15
-! 有效规则数量: 155931 条
+! 规则更新时间: 2026-04-22 00:52:05
+! 有效规则数量: 155922 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -14735,44 +14735,44 @@
 180.163.150.33      dl.l.google.com
 140.82.113.25                 alive.github.com
 20.205.243.168                api.github.com
-140.82.114.21                 api.individual.githubcopilot.com
-185.199.109.133               avatars.githubusercontent.com
-185.199.109.133               avatars0.githubusercontent.com
-185.199.109.133               avatars1.githubusercontent.com
-185.199.109.133               avatars2.githubusercontent.com
-185.199.109.133               avatars3.githubusercontent.com
-185.199.109.133               avatars4.githubusercontent.com
-185.199.109.133               avatars5.githubusercontent.com
-185.199.109.133               camo.githubusercontent.com
-140.82.113.21                 central.github.com
-185.199.109.133               cloud.githubusercontent.com
+140.82.112.21                 api.individual.githubcopilot.com
+185.199.110.133               avatars.githubusercontent.com
+185.199.110.133               avatars0.githubusercontent.com
+185.199.110.133               avatars1.githubusercontent.com
+185.199.110.133               avatars2.githubusercontent.com
+185.199.110.133               avatars3.githubusercontent.com
+185.199.110.133               avatars4.githubusercontent.com
+185.199.110.133               avatars5.githubusercontent.com
+185.199.110.133               camo.githubusercontent.com
+140.82.112.22                 central.github.com
+185.199.110.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.114.21                 collector.github.com
-185.199.109.133               desktop.githubusercontent.com
-185.199.109.133               favicons.githubusercontent.com
+140.82.112.22                 collector.github.com
+185.199.110.133               desktop.githubusercontent.com
+185.199.110.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com
-16.15.207.245                 github-cloud.s3.amazonaws.com
-52.217.162.209                github-com.s3.amazonaws.com
-16.15.253.84                  github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.173.177                github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.33.49                  github-production-user-asset-6210df.s3.amazonaws.com
+16.182.38.89                  github-cloud.s3.amazonaws.com
+16.182.35.249                 github-com.s3.amazonaws.com
+16.15.253.10                  github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.208.217                github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.232.249                github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.113.17                 github.community
-185.199.110.215               github.githubassets.com
+140.82.114.18                 github.community
+185.199.111.215               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
 185.199.109.153               github.io
-185.199.109.133               github.map.fastly.net
+185.199.110.133               github.map.fastly.net
 185.199.109.153               githubstatus.com
-140.82.113.26                 live.github.com
-185.199.109.133               media.githubusercontent.com
-185.199.109.133               objects.githubusercontent.com
+140.82.114.26                 live.github.com
+185.199.110.133               media.githubusercontent.com
+185.199.110.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.109.133               raw.githubusercontent.com
-185.199.109.133               user-images.githubusercontent.com
+185.199.110.133               raw.githubusercontent.com
+185.199.110.133               user-images.githubusercontent.com
 13.107.226.39                 vscode.dev  # Timeout
-140.82.114.22                 education.github.com
-185.199.109.133               private-user-images.githubusercontent.com
+140.82.112.22                 education.github.com
+185.199.110.133               private-user-images.githubusercontent.com
 ||1377a.xyz^
 ||180zhengkkl.com^
 ||18479.pw^
@@ -16081,8 +16081,6 @@
 ||785008.com^  
 ||778538.com^  
 ||49789c.com^  
-||5eucpusr8lbadd6e66vmuv1sok57bf04dcdpidko5hpg5od8erhfuuoo.saxysec.com^
-||mc2jm0545vj420i4qbr2bds8q1pocd8jlfr887i10c0hdlsccqqfun19.saxysec.com^
 ||pow.wandx5.cn^
 ||qw.wandx5.cn^
 ||jibh.zhangxy2.cn^
@@ -153765,7 +153763,6 @@
 @@||video.da.mgtv.com^
 @@||m2.da.mgtv.com^
 @@||gamezop.com^
-@@||woocall.sina.com.cn^
 @@||www.uzzf.com^
 @@||uzzf.com^
 @@||www.mairuan.com^
@@ -153805,7 +153802,6 @@
 @@||prod-chat-kimi-tos.moonshot.cn^
 @@||na1r.services.adobe.com^
 @@||ereg.adobe.com^
-@@||sax.sina.com.cn^
 @@||sdkapi.sms.mob.com^
 @@||news-l.play.aiseet.atianqi.com^
 @@||p-l.play.aiseet.atianqi.com^
@@ -153973,8 +153969,7 @@
 @@||img-vip-ssl.a.88cdn.com^
 @@||xfile2.a.88cdn.com^
 @@||api-shoulei-ssl.xunlei.com^
-@@||topic.openspeech.cn^$important
-@@||imeclient.openspeech.cn^$important
+@@||topic.openspeech.cn^
 @@||srf.xunfei.cn^
 @@||account.xunfei.cn^
 @@||res.xunfei.cn^
@@ -154006,7 +154001,6 @@
 @@||chat.doubao.com^
 @@||search.doubao.com^
 @@||doc.doubao.com^
-@@||log.doubao.com^
 @@||ime-igw.doubao.com^
 @@||flash.taobao.com^
 @@||market.taobao.com^
@@ -154047,9 +154041,6 @@
 @@||security.vivo.com^
 @@||verify.vivo.com^
 @@||antivirus.vivo.com^
-@@||log.vivo.com^
-@@||stat.vivo.com^
-@@||diagnose.vivo.com^
 @@||api.vivo.com^
 @@||cdn.vivo.com^
 @@||data.vivo.com^
@@ -154172,11 +154163,9 @@
 @@||support.oneplus.com^
 @@||service.oneplus.com^
 @@||account.xiaomi.com^
-@@||id.mi.com^
 @@||appstore.pandora.xiaomi.com^
 @@||cdn.pandora.xiaomi.com^
 @@||de.pandora.xiaomi.com^
-@@||lebo.cn^
 @@||dangbei.com^
 @@||api.dangbei.com^
 @@||data.dangbei.com^
@@ -154586,7 +154575,9 @@
 @@||mix.sina.com.cn^
 @@||cre.dp.sina.cn^
 @@||gk.sina.cn^
+@@||woocall.sina.com.cn^
 @@||count.mail.163.com^
+@@||sax.sina.com.cn^
 @@||fp-upload.dun.163.com^
 @@||du.163.com^
 @@||clientlog*music.163.com^

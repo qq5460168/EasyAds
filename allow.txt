@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-04-21 21:06:15
-! 有效规则数量: 3869 条
+! 规则更新时间: 2026-04-22 00:52:05
+! 有效规则数量: 3862 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -1703,7 +1703,6 @@
 @@||video.da.mgtv.com^
 @@||m2.da.mgtv.com^
 @@||gamezop.com^
-@@||woocall.sina.com.cn^
 @@||www.uzzf.com^
 @@||uzzf.com^
 @@||www.mairuan.com^
@@ -1743,7 +1742,6 @@
 @@||prod-chat-kimi-tos.moonshot.cn^
 @@||na1r.services.adobe.com^
 @@||ereg.adobe.com^
-@@||sax.sina.com.cn^
 @@||sdkapi.sms.mob.com^
 @@||news-l.play.aiseet.atianqi.com^
 @@||p-l.play.aiseet.atianqi.com^
@@ -1911,8 +1909,7 @@
 @@||img-vip-ssl.a.88cdn.com^
 @@||xfile2.a.88cdn.com^
 @@||api-shoulei-ssl.xunlei.com^
-@@||topic.openspeech.cn^$important
-@@||imeclient.openspeech.cn^$important
+@@||topic.openspeech.cn^
 @@||srf.xunfei.cn^
 @@||account.xunfei.cn^
 @@||res.xunfei.cn^
@@ -1944,7 +1941,6 @@
 @@||chat.doubao.com^
 @@||search.doubao.com^
 @@||doc.doubao.com^
-@@||log.doubao.com^
 @@||ime-igw.doubao.com^
 @@||flash.taobao.com^
 @@||market.taobao.com^
@@ -1985,9 +1981,6 @@
 @@||security.vivo.com^
 @@||verify.vivo.com^
 @@||antivirus.vivo.com^
-@@||log.vivo.com^
-@@||stat.vivo.com^
-@@||diagnose.vivo.com^
 @@||api.vivo.com^
 @@||cdn.vivo.com^
 @@||data.vivo.com^
@@ -2110,11 +2103,9 @@
 @@||support.oneplus.com^
 @@||service.oneplus.com^
 @@||account.xiaomi.com^
-@@||id.mi.com^
 @@||appstore.pandora.xiaomi.com^
 @@||cdn.pandora.xiaomi.com^
 @@||de.pandora.xiaomi.com^
-@@||lebo.cn^
 @@||dangbei.com^
 @@||api.dangbei.com^
 @@||data.dangbei.com^
@@ -2524,7 +2515,9 @@
 @@||mix.sina.com.cn^
 @@||cre.dp.sina.cn^
 @@||gk.sina.cn^
+@@||woocall.sina.com.cn^
 @@||count.mail.163.com^
+@@||sax.sina.com.cn^
 @@||fp-upload.dun.163.com^
 @@||du.163.com^
 @@||clientlog*music.163.com^

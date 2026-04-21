@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-04-21 13:06:12（北京时间）
-# 共 145327 个域名
+# 生成时间: 2026-04-21 16:52:01（北京时间）
+# 共 145325 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -4255,7 +4255,6 @@
 5ee868d71f.b35fc2842a.com
 5eff937764.e487a41ae0.com
 5egk.com
-5eucpusr8lbadd6e66vmuv1sok57bf04dcdpidko5hpg5od8erhfuuoo.saxysec.com
 5f-hj8-5d2g.dnsdf.com
 5f1qyi04vz.com
 5f242f7db1.com
@@ -79396,7 +79395,6 @@ mc.yandex.com
 mc.yandex.md
 mc.yandex.ru
 mc.yango.com
-mc2jm0545vj420i4qbr2bds8q1pocd8jlfr887i10c0hdlsccqqfun19.saxysec.com
 mc2o133jkwu19fv9.net.fidor.de
 mc5e9p8qx.com
 mc777.cn

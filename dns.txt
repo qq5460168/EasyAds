@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-04-21 13:06:12.202636
+# Generated on 2026-04-21 16:52:01.402784
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -15964,8 +15964,6 @@
 ||785008.com^
 ||778538.com^
 ||49789c.com^
-||5eucpusr8lbadd6e66vmuv1sok57bf04dcdpidko5hpg5od8erhfuuoo.saxysec.com^
-||mc2jm0545vj420i4qbr2bds8q1pocd8jlfr887i10c0hdlsccqqfun19.saxysec.com^
 ||pow.wandx5.cn^
 ||qw.wandx5.cn^
 ||jibh.zhangxy2.cn^

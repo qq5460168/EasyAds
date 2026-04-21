@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-04-21 13:06:15
-# 规则总数: 145371
+# 更新时间: 2026-04-21 16:52:04
+# 规则总数: 145369
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -4259,7 +4259,6 @@
 5ee868d71f.b35fc2842a.com block
 5eff937764.e487a41ae0.com block
 5egk.com block
-5eucpusr8lbadd6e66vmuv1sok57bf04dcdpidko5hpg5od8erhfuuoo.saxysec.com block
 5f-hj8-5d2g.dnsdf.com block
 5f1qyi04vz.com block
 5f242f7db1.com block
@@ -79429,7 +79428,6 @@ mc.yandex.com block
 mc.yandex.md block
 mc.yandex.ru block
 mc.yango.com block
-mc2jm0545vj420i4qbr2bds8q1pocd8jlfr887i10c0hdlsccqqfun19.saxysec.com block
 mc2o133jkwu19fv9.net.fidor.de block
 mc5e9p8qx.com block
 mc777.cn block
