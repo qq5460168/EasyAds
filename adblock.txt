@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-05-01 14:32:15
+! 规则更新时间: 2026-05-01 17:27:19
 ! 有效规则数量: 155922 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
@@ -14733,9 +14733,9 @@
 142.250.152.188     alt8-mtalk.google.com
 180.163.151.161     dl.google.com
 180.163.150.33      dl.l.google.com
-140.82.114.26                 alive.github.com
+140.82.113.26                 alive.github.com
 20.205.243.168                api.github.com
-140.82.112.21                 api.individual.githubcopilot.com
+140.82.113.21                 api.individual.githubcopilot.com
 185.199.111.133               avatars.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
@@ -14747,15 +14747,15 @@
 140.82.113.21                 central.github.com
 185.199.111.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.113.21                 collector.github.com
+140.82.112.22                 collector.github.com
 185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 20.205.243.166                gist.github.com
-16.15.191.41                  github-cloud.s3.amazonaws.com
-52.217.192.89                 github-com.s3.amazonaws.com
-54.231.168.49                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.244.152                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.254.42                  github-production-user-asset-6210df.s3.amazonaws.com
+3.5.8.170                     github-cloud.s3.amazonaws.com
+16.15.229.101                 github-com.s3.amazonaws.com
+16.15.199.67                  github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.114.113                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.169.153                github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
 140.82.113.18                 github.community
@@ -14771,7 +14771,7 @@
 185.199.111.133               raw.githubusercontent.com
 185.199.111.133               user-images.githubusercontent.com
 150.171.110.68                vscode.dev  # Timeout
-140.82.114.21                 education.github.com
+140.82.113.21                 education.github.com
 185.199.111.133               private-user-images.githubusercontent.com
 ||1377a.xyz^
 ||180zhengkkl.com^
