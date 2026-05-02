@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-05-01 20:42:45
-# 规则总数: 145369
+# 更新时间: 2026-05-02 02:01:06
+# 规则总数: 145371
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -18658,6 +18658,7 @@
 0.0.0.0 aoao11241iis.top
 0.0.0.0 aoao12060iis.top
 0.0.0.0 aobuygo.com
+0.0.0.0 aoc-p2.shop
 0.0.0.0 aocaxppjxvhfj.online
 0.0.0.0 aod.echovisuals.com
 0.0.0.0 aod4.societegenerale.fr
@@ -44425,6 +44426,7 @@
 0.0.0.0 edfalaac.com
 0.0.0.0 edfeonai.xyz
 0.0.0.0 edfetifvvgedr.website
+0.0.0.0 edg-n2.top
 0.0.0.0 edg.aicyberconsult.com
 0.0.0.0 edgcmsbgbiipy.com
 0.0.0.0 edge-99.vertjardin.coupons

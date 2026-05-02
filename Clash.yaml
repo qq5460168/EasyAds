@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-05-01 20:42:44
-# 规则总数: 145369
+# 更新时间: 2026-05-02 02:01:05
+# 规则总数: 145371
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -18659,6 +18659,7 @@ payload:
   - 'aoao11241iis.top'
   - 'aoao12060iis.top'
   - 'aobuygo.com'
+  - 'aoc-p2.shop'
   - 'aocaxppjxvhfj.online'
   - 'aod.echovisuals.com'
   - 'aod4.societegenerale.fr'
@@ -44426,6 +44427,7 @@ payload:
   - 'edfalaac.com'
   - 'edfeonai.xyz'
   - 'edfetifvvgedr.website'
+  - 'edg-n2.top'
   - 'edg.aicyberconsult.com'
   - 'edgcmsbgbiipy.com'
   - 'edge-99.vertjardin.coupons'
