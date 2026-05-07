@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-05-06 21:04:22（北京时间）
-# 共 145327 个域名
+# 生成时间: 2026-05-07 02:07:06（北京时间）
+# 共 145328 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -98558,6 +98558,7 @@ qnwkbv.bestsecret.nl
 qnwuamy.top
 qnwucny.top
 qnxrfwtnijcvj.space
+qnywjs.buzz
 qnyxvpsblunca.site
 qnzczf.idc-otsuka.jp
 qnzkkbshdriki.site

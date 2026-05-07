@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-05-06 21:04:26
-# 规则总数: 145371
+# 更新时间: 2026-05-07 02:07:10
+# 规则总数: 145372
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -98597,6 +98597,7 @@
 0.0.0.0 qnwuamy.top
 0.0.0.0 qnwucny.top
 0.0.0.0 qnxrfwtnijcvj.space
+0.0.0.0 qnywjs.buzz
 0.0.0.0 qnyxvpsblunca.site
 0.0.0.0 qnzczf.idc-otsuka.jp
 0.0.0.0 qnzkkbshdriki.site
