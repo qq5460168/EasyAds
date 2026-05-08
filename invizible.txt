@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-05-08 13:14:01
-# 规则总数: 145372
+# 更新时间: 2026-05-08 17:05:04
+# 规则总数: 145392
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -473,6 +473,7 @@
 1.hao123.com block
 1.hnyouneng.com block
 1.hslyqs.com block
+1.huanle739.cc block
 1.i1766.com block
 1.i999d.cn block
 1.iqeq.com.cn block
@@ -2082,6 +2083,7 @@
 3.cn block
 3.guidaye.com block
 3.hlg102a.cc block
+3.se2208hu.cc block
 3.ssqzj.com block
 3.www.02952346.xyz block
 3.www.09284291.xyz block
@@ -4809,6 +4811,7 @@
 6h6pdph56.com block
 6hcht7x5.bohem1apred0m.ru block
 6hejing.cn block
+6hqp8y5w.idtad523.top block
 6hrfl.gjgn5bwhpn4jx99og4py5yervch.cfd block
 6huu.com block
 6i.bracket-fern.ru block
@@ -5065,6 +5068,7 @@
 75to.com block
 75v3.com block
 75z.ripple-cask.ru block
+7600mqsv.njoomsj4.top block
 76065.com block
 760a131226.com block
 7625ef40ff.760a131226.com block
@@ -5771,6 +5775,8 @@
 8e4feb97c7.8ecc2aee4f.com block
 8e688aab72.d162882c98.com block
 8e6c021d8f.com block
+8e7c7ik.anhuiyo.com block
+8e7c7ik.anhuiyo.com.bplslb.com block
 8ea1272194.com block
 8ea4f54913.4e5902f95e.com block
 8eabd9b030.com block
@@ -25035,6 +25041,7 @@ bigstoreminigames.space block
 bihaipack.com block
 bihunekus.com block
 biijyuaeuzssw.online block
+bijenpogfidrrg.com block
 bijkep.hotelesestelar.com block
 bijophomsorsig.com block
 bikechokedattic.com block
@@ -29972,6 +29979,7 @@ cdp.asia block
 cdp.cifinancial.com block
 cdp.cloud.unity.cn block
 cdp.yna.co.kr block
+cdppdgwrq.mcapxr.cn block
 cdptracker.hocmai.com.vn block
 cdr.r0cketf2rm.ru block
 cdrhialzwntyu.store block
@@ -53060,6 +53068,7 @@ gbcxsgsjbemty.site block
 gbdifgyealbpd.site block
 gbdkbtuzvqrun.fun block
 gbdoyxqikbvfigb.xyz block
+gbe29fb.cdn.zjedge.xopo11ek.com block
 gbede.com block
 gbedxtcoyviwt.space block
 gbengene.com block
@@ -58013,6 +58022,7 @@ hccms.com.cn block
 hcdjy.xyz block
 hcdnd101.sme block
 hcdnpe.iareduceri.ro block
+hcdnw123.vip.foreign.cdnhwcibv122.com block
 hcfarche.help block
 hcfbcuapo.com block
 hcg.cloudreach.ru block
@@ -67963,6 +67973,7 @@ jsonads.upnerd.net block
 jsonatm-wss.broker.tplay.qq.com block
 jspg.cc block
 jspgnugrjlvar.xyz block
+jsppfqzqv.mcapxr.cn block
 jspqms.bellevue-ferienhaus.de block
 jsqlysrsrfauh.website block
 jsqmt.qq.c block
@@ -68986,6 +68997,8 @@ kczeqskrgtidi.space block
 kczq.cn block
 kczu-ohhuf.site block
 kd.eland.kr block
+kd2bchz.qinall.com block
+kd2bchz.qinall.com.bplslb.com block
 kd7u.mistyflare.ru block
 kdadngzaspvot.online block
 kdandyckmfpvv.website block
@@ -76796,6 +76809,8 @@ m17d1e83q.com block
 m18.d7mbbmer1d.ru block
 m1c8.quartz-ace.ru block
 m1dr52xc.windbioom.ru block
+m1e3hifb.wbzr100.com block
+m1e3hifb.wbzr100.com.eo.dnse3.com block
 m1jm3nzf2.com block
 m1mqxniout5wul4jv99ikjcjmve.rest block
 m1neqpy21w9hgm.cfd block
@@ -104677,6 +104692,8 @@ s18a.biz block
 s1918.cc block
 s19a.biz block
 s1cta.com block
+s1dxptru.boey2012.com block
+s1dxptru.boey2012.com.eo.dnse3.com block
 s1m.mediav.com block
 s1m4nohq.de block
 s1r.zerkalo.io block
@@ -121775,6 +121792,7 @@ tgmklw.productreview.com.au block
 tgolerogkcbck.online block
 tgophp9p.ai7uninit1at.ru block
 tgoribis.com block
+tgoy162.top block
 tgp.notifysrv.com block
 tgpluprgeoskc.online block
 tgrctrkcelhuj.xyz block
@@ -128756,6 +128774,7 @@ ufmdtcyprejjm.site block
 ufnbgh.meierq.com block
 ufndmiexchjfi.online block
 ufne.cn block
+ufnzvmf-ef5.mt6pu515vhdg.com block
 ufouxbwn.com block
 ufp7o.hushcopper.ru block
 ufpcdn.com block
@@ -142905,6 +142924,7 @@ yr-names.click block
 yr2spd4ucy.com block
 yraexzjnxasnz.site block
 yrbkentraps.life block
+yrdgycacwd18.com block
 yrdsdifwwlicc.site block
 yrduojmxtuhqs.space block
 yrepmy.jochen-schweizer.de block

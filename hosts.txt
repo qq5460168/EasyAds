@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-05-08 13:14:01
-# 规则总数: 145372
+# 更新时间: 2026-05-08 17:05:04
+# 规则总数: 145392
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -473,6 +473,7 @@
 0.0.0.0 1.hao123.com
 0.0.0.0 1.hnyouneng.com
 0.0.0.0 1.hslyqs.com
+0.0.0.0 1.huanle739.cc
 0.0.0.0 1.i1766.com
 0.0.0.0 1.i999d.cn
 0.0.0.0 1.iqeq.com.cn
@@ -2082,6 +2083,7 @@
 0.0.0.0 3.cn
 0.0.0.0 3.guidaye.com
 0.0.0.0 3.hlg102a.cc
+0.0.0.0 3.se2208hu.cc
 0.0.0.0 3.ssqzj.com
 0.0.0.0 3.www.02952346.xyz
 0.0.0.0 3.www.09284291.xyz
@@ -4809,6 +4811,7 @@
 0.0.0.0 6h6pdph56.com
 0.0.0.0 6hcht7x5.bohem1apred0m.ru
 0.0.0.0 6hejing.cn
+0.0.0.0 6hqp8y5w.idtad523.top
 0.0.0.0 6hrfl.gjgn5bwhpn4jx99og4py5yervch.cfd
 0.0.0.0 6huu.com
 0.0.0.0 6i.bracket-fern.ru
@@ -5065,6 +5068,7 @@
 0.0.0.0 75to.com
 0.0.0.0 75v3.com
 0.0.0.0 75z.ripple-cask.ru
+0.0.0.0 7600mqsv.njoomsj4.top
 0.0.0.0 76065.com
 0.0.0.0 760a131226.com
 0.0.0.0 7625ef40ff.760a131226.com
@@ -5771,6 +5775,8 @@
 0.0.0.0 8e4feb97c7.8ecc2aee4f.com
 0.0.0.0 8e688aab72.d162882c98.com
 0.0.0.0 8e6c021d8f.com
+0.0.0.0 8e7c7ik.anhuiyo.com
+0.0.0.0 8e7c7ik.anhuiyo.com.bplslb.com
 0.0.0.0 8ea1272194.com
 0.0.0.0 8ea4f54913.4e5902f95e.com
 0.0.0.0 8eabd9b030.com
@@ -25035,6 +25041,7 @@
 0.0.0.0 bihaipack.com
 0.0.0.0 bihunekus.com
 0.0.0.0 biijyuaeuzssw.online
+0.0.0.0 bijenpogfidrrg.com
 0.0.0.0 bijkep.hotelesestelar.com
 0.0.0.0 bijophomsorsig.com
 0.0.0.0 bikechokedattic.com
@@ -29972,6 +29979,7 @@
 0.0.0.0 cdp.cifinancial.com
 0.0.0.0 cdp.cloud.unity.cn
 0.0.0.0 cdp.yna.co.kr
+0.0.0.0 cdppdgwrq.mcapxr.cn
 0.0.0.0 cdptracker.hocmai.com.vn
 0.0.0.0 cdr.r0cketf2rm.ru
 0.0.0.0 cdrhialzwntyu.store
@@ -53060,6 +53068,7 @@
 0.0.0.0 gbdifgyealbpd.site
 0.0.0.0 gbdkbtuzvqrun.fun
 0.0.0.0 gbdoyxqikbvfigb.xyz
+0.0.0.0 gbe29fb.cdn.zjedge.xopo11ek.com
 0.0.0.0 gbede.com
 0.0.0.0 gbedxtcoyviwt.space
 0.0.0.0 gbengene.com
@@ -58013,6 +58022,7 @@
 0.0.0.0 hcdjy.xyz
 0.0.0.0 hcdnd101.sme
 0.0.0.0 hcdnpe.iareduceri.ro
+0.0.0.0 hcdnw123.vip.foreign.cdnhwcibv122.com
 0.0.0.0 hcfarche.help
 0.0.0.0 hcfbcuapo.com
 0.0.0.0 hcg.cloudreach.ru
@@ -67963,6 +67973,7 @@
 0.0.0.0 jsonatm-wss.broker.tplay.qq.com
 0.0.0.0 jspg.cc
 0.0.0.0 jspgnugrjlvar.xyz
+0.0.0.0 jsppfqzqv.mcapxr.cn
 0.0.0.0 jspqms.bellevue-ferienhaus.de
 0.0.0.0 jsqlysrsrfauh.website
 0.0.0.0 jsqmt.qq.c
@@ -68986,6 +68997,8 @@
 0.0.0.0 kczq.cn
 0.0.0.0 kczu-ohhuf.site
 0.0.0.0 kd.eland.kr
+0.0.0.0 kd2bchz.qinall.com
+0.0.0.0 kd2bchz.qinall.com.bplslb.com
 0.0.0.0 kd7u.mistyflare.ru
 0.0.0.0 kdadngzaspvot.online
 0.0.0.0 kdandyckmfpvv.website
@@ -76796,6 +76809,8 @@
 0.0.0.0 m18.d7mbbmer1d.ru
 0.0.0.0 m1c8.quartz-ace.ru
 0.0.0.0 m1dr52xc.windbioom.ru
+0.0.0.0 m1e3hifb.wbzr100.com
+0.0.0.0 m1e3hifb.wbzr100.com.eo.dnse3.com
 0.0.0.0 m1jm3nzf2.com
 0.0.0.0 m1mqxniout5wul4jv99ikjcjmve.rest
 0.0.0.0 m1neqpy21w9hgm.cfd
@@ -104677,6 +104692,8 @@
 0.0.0.0 s1918.cc
 0.0.0.0 s19a.biz
 0.0.0.0 s1cta.com
+0.0.0.0 s1dxptru.boey2012.com
+0.0.0.0 s1dxptru.boey2012.com.eo.dnse3.com
 0.0.0.0 s1m.mediav.com
 0.0.0.0 s1m4nohq.de
 0.0.0.0 s1r.zerkalo.io
@@ -121775,6 +121792,7 @@
 0.0.0.0 tgolerogkcbck.online
 0.0.0.0 tgophp9p.ai7uninit1at.ru
 0.0.0.0 tgoribis.com
+0.0.0.0 tgoy162.top
 0.0.0.0 tgp.notifysrv.com
 0.0.0.0 tgpluprgeoskc.online
 0.0.0.0 tgrctrkcelhuj.xyz
@@ -128756,6 +128774,7 @@
 0.0.0.0 ufnbgh.meierq.com
 0.0.0.0 ufndmiexchjfi.online
 0.0.0.0 ufne.cn
+0.0.0.0 ufnzvmf-ef5.mt6pu515vhdg.com
 0.0.0.0 ufouxbwn.com
 0.0.0.0 ufp7o.hushcopper.ru
 0.0.0.0 ufpcdn.com
@@ -142905,6 +142924,7 @@
 0.0.0.0 yr2spd4ucy.com
 0.0.0.0 yraexzjnxasnz.site
 0.0.0.0 yrbkentraps.life
+0.0.0.0 yrdgycacwd18.com
 0.0.0.0 yrdsdifwwlicc.site
 0.0.0.0 yrduojmxtuhqs.space
 0.0.0.0 yrepmy.jochen-schweizer.de
