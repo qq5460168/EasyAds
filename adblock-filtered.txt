@@ -14761,6 +14761,9 @@
 ||metrics-picture.d.meituan.net^
 ||route-stats.d.meituan.net^
 ||fans.91selfie.com^
+||gdmf.apple.com^
+||updates-http.cdn-apple.com^
+||xp.apple.com^
 ||yyapp-httpdns.gslb.yy.com^
 ||union-httpdns.gslb.yy.com^
 ||dns2.q2cdn.com^

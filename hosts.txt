@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-05-10 13:00:08
-# 规则总数: 145391
+# 更新时间: 2026-05-10 16:43:50
+# 规则总数: 145394
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -53218,6 +53218,7 @@
 0.0.0.0 gdm1.toner.fr
 0.0.0.0 gdmconvtrck.com
 0.0.0.0 gdmelqact.gartner.com
+0.0.0.0 gdmf.apple.com
 0.0.0.0 gdmgsecure.com
 0.0.0.0 gdmxjbjjo.com
 0.0.0.0 gdn.bigfishgames.com
@@ -130060,6 +130061,7 @@
 0.0.0.0 updatepage.kuwo.cn
 0.0.0.0 updatepush.appstore.vivo.com.cn
 0.0.0.0 updaterack.com
+0.0.0.0 updates-http.cdn-apple.com
 0.0.0.0 updates-s3.binaryage.com
 0.0.0.0 updates.aem.org
 0.0.0.0 updates.conexpoconagg.com
@@ -140813,6 +140815,7 @@
 0.0.0.0 xozpwh9b.sn1pburrow.ru
 0.0.0.0 xozqet.gr-1-tfable.ru
 0.0.0.0 xp.allianz.de
+0.0.0.0 xp.apple.com
 0.0.0.0 xp2023-pix.s3.amazonaws.com
 0.0.0.0 xp3366.com
 0.0.0.0 xp6wsv4c.xyz

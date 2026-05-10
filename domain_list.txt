@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-05-10 13:00:05（北京时间）
-# 共 145327 个域名
+# 生成时间: 2026-05-10 16:43:47（北京时间）
+# 共 145330 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -53187,6 +53187,7 @@ gdls114.com
 gdm1.toner.fr
 gdmconvtrck.com
 gdmelqact.gartner.com
+gdmf.apple.com
 gdmgsecure.com
 gdmxjbjjo.com
 gdn.bigfishgames.com
@@ -130002,6 +130003,7 @@ updatemobilee.com
 updatepage.kuwo.cn
 updatepush.appstore.vivo.com.cn
 updaterack.com
+updates-http.cdn-apple.com
 updates-s3.binaryage.com
 updates.aem.org
 updates.conexpoconagg.com
@@ -140750,6 +140752,7 @@ xoymkdgsafcdh.site
 xozpwh9b.sn1pburrow.ru
 xozqet.gr-1-tfable.ru
 xp.allianz.de
+xp.apple.com
 xp2023-pix.s3.amazonaws.com
 xp3366.com
 xp6wsv4c.xyz

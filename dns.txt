@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-05-10 13:00:04.801750
+# Generated on 2026-05-10 16:43:47.162747
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -14764,6 +14764,9 @@
 ||metrics-picture.d.meituan.net^
 ||route-stats.d.meituan.net^
 ||fans.91selfie.com^
+||gdmf.apple.com^
+||updates-http.cdn-apple.com^
+||xp.apple.com^
 ||yyapp-httpdns.gslb.yy.com^
 ||union-httpdns.gslb.yy.com^
 ||dns2.q2cdn.com^

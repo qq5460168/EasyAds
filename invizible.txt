@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-05-10 13:00:07
-# 规则总数: 145391
+# 更新时间: 2026-05-10 16:43:50
+# 规则总数: 145394
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -53218,6 +53218,7 @@ gdls114.com block
 gdm1.toner.fr block
 gdmconvtrck.com block
 gdmelqact.gartner.com block
+gdmf.apple.com block
 gdmgsecure.com block
 gdmxjbjjo.com block
 gdn.bigfishgames.com block
@@ -130060,6 +130061,7 @@ updatemobilee.com block
 updatepage.kuwo.cn block
 updatepush.appstore.vivo.com.cn block
 updaterack.com block
+updates-http.cdn-apple.com block
 updates-s3.binaryage.com block
 updates.aem.org block
 updates.conexpoconagg.com block
@@ -140813,6 +140815,7 @@ xoymkdgsafcdh.site block
 xozpwh9b.sn1pburrow.ru block
 xozqet.gr-1-tfable.ru block
 xp.allianz.de block
+xp.apple.com block
 xp2023-pix.s3.amazonaws.com block
 xp3366.com block
 xp6wsv4c.xyz block

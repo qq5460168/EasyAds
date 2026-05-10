@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-05-10 13:00:08
-# 规则总数: 145391
+# 更新时间: 2026-05-10 16:43:50
+# 规则总数: 145394
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -53218,6 +53218,7 @@ domain, gdls114.com
 domain, gdm1.toner.fr
 domain, gdmconvtrck.com
 domain, gdmelqact.gartner.com
+domain, gdmf.apple.com
 domain, gdmgsecure.com
 domain, gdmxjbjjo.com
 domain, gdn.bigfishgames.com
@@ -130060,6 +130061,7 @@ domain, updatemobilee.com
 domain, updatepage.kuwo.cn
 domain, updatepush.appstore.vivo.com.cn
 domain, updaterack.com
+domain, updates-http.cdn-apple.com
 domain, updates-s3.binaryage.com
 domain, updates.aem.org
 domain, updates.conexpoconagg.com
@@ -140813,6 +140815,7 @@ domain, xoymkdgsafcdh.site
 domain, xozpwh9b.sn1pburrow.ru
 domain, xozqet.gr-1-tfable.ru
 domain, xp.allianz.de
+domain, xp.apple.com
 domain, xp2023-pix.s3.amazonaws.com
 domain, xp3366.com
 domain, xp6wsv4c.xyz

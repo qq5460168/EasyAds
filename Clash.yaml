@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-05-10 13:00:07
-# 规则总数: 145391
+# 更新时间: 2026-05-10 16:43:49
+# 规则总数: 145394
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -53219,6 +53219,7 @@ payload:
   - 'gdm1.toner.fr'
   - 'gdmconvtrck.com'
   - 'gdmelqact.gartner.com'
+  - 'gdmf.apple.com'
   - 'gdmgsecure.com'
   - 'gdmxjbjjo.com'
   - 'gdn.bigfishgames.com'
@@ -130061,6 +130062,7 @@ payload:
   - 'updatepage.kuwo.cn'
   - 'updatepush.appstore.vivo.com.cn'
   - 'updaterack.com'
+  - 'updates-http.cdn-apple.com'
   - 'updates-s3.binaryage.com'
   - 'updates.aem.org'
   - 'updates.conexpoconagg.com'
@@ -140814,6 +140816,7 @@ payload:
   - 'xozpwh9b.sn1pburrow.ru'
   - 'xozqet.gr-1-tfable.ru'
   - 'xp.allianz.de'
+  - 'xp.apple.com'
   - 'xp2023-pix.s3.amazonaws.com'
   - 'xp3366.com'
   - 'xp6wsv4c.xyz'
