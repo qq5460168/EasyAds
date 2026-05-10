@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-05-10 02:09:15（北京时间）
-# 共 145328 个域名
+# 生成时间: 2026-05-10 06:29:10（北京时间）
+# 共 145327 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -68601,7 +68601,6 @@ k33q8lmkclpg6v2fxf34.rest
 k38.deepbreez3.ru
 k3bos.com
 k3l.cn
-k3l.cn.w.kunlunpi.com
 k3on.com
 k3p.brambleage.ru
 k3v3vqk.w427qtuiv9yhpgpl45n7pmpcrw.cyou
@@ -132797,7 +132796,6 @@ vip.hyz86.com
 vip.id528.com
 vip.jindu179.com
 vip.k3l.cn
-vip.k3l.cn.w.kunlunpi.com
 vip.mall044.com
 vip.maxtor.com
 vip.media8.cn
@@ -134091,6 +134089,7 @@ w.ifrype.com
 w.ilfattoquotidiano.it
 w.inews.qq.com
 w.jscsd.cn
+w.kunlunpi.com
 w.l.qq.com
 w.love4porn.com
 w.m.taobao.com

@@ -15442,9 +15442,8 @@
 ||j5z.cn.w.kunlunaq.com^
 ||uk.sgrrz.cn^
 ||k3l.cn^
-||k3l.cn.w.kunlunpi.com^
+||w.kunlunpi.com^
 ||vip.k3l.cn^
-||vip.k3l.cn.w.kunlunpi.com^
 ||vip.7j0.cn^
 ||szaction.cc^
 ||jtu24k.aoqinglv.cn^

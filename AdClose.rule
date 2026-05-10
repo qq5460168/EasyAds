@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-05-10 02:09:18
-# 规则总数: 145392
+# 更新时间: 2026-05-10 06:29:13
+# 规则总数: 145391
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -68638,7 +68638,6 @@ domain, k33q8lmkclpg6v2fxf34.rest
 domain, k38.deepbreez3.ru
 domain, k3bos.com
 domain, k3l.cn
-domain, k3l.cn.w.kunlunpi.com
 domain, k3on.com
 domain, k3p.brambleage.ru
 domain, k3v3vqk.w427qtuiv9yhpgpl45n7pmpcrw.cyou
@@ -132855,7 +132854,6 @@ domain, vip.hyz86.com
 domain, vip.id528.com
 domain, vip.jindu179.com
 domain, vip.k3l.cn
-domain, vip.k3l.cn.w.kunlunpi.com
 domain, vip.mall044.com
 domain, vip.maxtor.com
 domain, vip.media8.cn
@@ -134149,6 +134147,7 @@ domain, w.ifrype.com
 domain, w.ilfattoquotidiano.it
 domain, w.inews.qq.com
 domain, w.jscsd.cn
+domain, w.kunlunpi.com
 domain, w.l.qq.com
 domain, w.love4porn.com
 domain, w.m.taobao.com

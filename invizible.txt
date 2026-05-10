@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-05-10 02:09:17
-# 规则总数: 145392
+# 更新时间: 2026-05-10 06:29:13
+# 规则总数: 145391
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -68638,7 +68638,6 @@ k33q8lmkclpg6v2fxf34.rest block
 k38.deepbreez3.ru block
 k3bos.com block
 k3l.cn block
-k3l.cn.w.kunlunpi.com block
 k3on.com block
 k3p.brambleage.ru block
 k3v3vqk.w427qtuiv9yhpgpl45n7pmpcrw.cyou block
@@ -132855,7 +132854,6 @@ vip.hyz86.com block
 vip.id528.com block
 vip.jindu179.com block
 vip.k3l.cn block
-vip.k3l.cn.w.kunlunpi.com block
 vip.mall044.com block
 vip.maxtor.com block
 vip.media8.cn block
@@ -134149,6 +134147,7 @@ w.ifrype.com block
 w.ilfattoquotidiano.it block
 w.inews.qq.com block
 w.jscsd.cn block
+w.kunlunpi.com block
 w.l.qq.com block
 w.love4porn.com block
 w.m.taobao.com block

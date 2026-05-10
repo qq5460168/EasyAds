@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-05-10 02:09:14.651656
+# Generated on 2026-05-10 06:29:09.742625
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -15445,9 +15445,8 @@
 ||j5z.cn.w.kunlunaq.com^
 ||uk.sgrrz.cn^
 ||k3l.cn^
-||k3l.cn.w.kunlunpi.com^
+||w.kunlunpi.com^
 ||vip.k3l.cn^
-||vip.k3l.cn.w.kunlunpi.com^
 ||vip.7j0.cn^
 ||szaction.cc^
 ||jtu24k.aoqinglv.cn^

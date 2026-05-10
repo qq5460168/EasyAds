@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-05-10 02:09:17
-# 规则总数: 145392
+# 更新时间: 2026-05-10 06:29:13
+# 规则总数: 145391
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -68638,7 +68638,6 @@
 0.0.0.0 k38.deepbreez3.ru
 0.0.0.0 k3bos.com
 0.0.0.0 k3l.cn
-0.0.0.0 k3l.cn.w.kunlunpi.com
 0.0.0.0 k3on.com
 0.0.0.0 k3p.brambleage.ru
 0.0.0.0 k3v3vqk.w427qtuiv9yhpgpl45n7pmpcrw.cyou
@@ -132855,7 +132854,6 @@
 0.0.0.0 vip.id528.com
 0.0.0.0 vip.jindu179.com
 0.0.0.0 vip.k3l.cn
-0.0.0.0 vip.k3l.cn.w.kunlunpi.com
 0.0.0.0 vip.mall044.com
 0.0.0.0 vip.maxtor.com
 0.0.0.0 vip.media8.cn
@@ -134149,6 +134147,7 @@
 0.0.0.0 w.ilfattoquotidiano.it
 0.0.0.0 w.inews.qq.com
 0.0.0.0 w.jscsd.cn
+0.0.0.0 w.kunlunpi.com
 0.0.0.0 w.l.qq.com
 0.0.0.0 w.love4porn.com
 0.0.0.0 w.m.taobao.com
