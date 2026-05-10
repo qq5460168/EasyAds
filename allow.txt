@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-05-11 00:43:50
-! 有效规则数量: 3862 条
+! 规则更新时间: 2026-05-11 04:40:05
+! 有效规则数量: 3857 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -1996,11 +1996,6 @@
 @@||appleid.apple.com^
 @@||idmsa.apple.com^
 @@||setup.icloud.com^
-@@||updates.cdn-apple.com^
-@@||swcdn.apple.com^
-@@||appldnld.apple.com^
-@@||mesu.apple.com^
-@@||gdmf.apple.com^
 @@||apps.apple.com^
 @@||p47-buy.itunes.apple.com^
 @@||buy.itunes.apple.com^
