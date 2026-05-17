@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-05-17 09:28:50.495696
+# Generated on 2026-05-17 13:07:39.255674
 
 ||10.130.208.223^
 ||106.11.23.107^
@@ -139116,50 +139116,6 @@
 ||vs1.szcu.u3.ucweb.com^
 ||vs2.bjct.u3.ucweb.com^
 ||mobile.events.data.microsoft.com^
-||tat.pandora.xiaomi.com^
-||lcs-cops.adobe.io^
-||cc-api-data.adobe.io^
-||lcs-robs.adobe.io^
-||ic.adobe.io^
-||ph0f2h2csf.adobe.io^
-||cctypekit.adobe.io^
-||cclibraries-defaults-cdn.adobe.com^
-||cc-cdn.adobe.com^
-||alert.kuyun.com^
-||api.hpplay.com.cn^
-||geo2.adobe.com^
-||s3m1.fenxi.com^
-||s3m2.fenxi.com^
-||s3m3.fenxi.com^
-||s3m4.fenxi.com^
-||s1m.mediav.com^
-||s2m.mediav.com^
-||s3m.mediav.com^
-||s4m.mediav.com^
-||cjhd.mediav.com^
-||static.mediav.com^
-||static-ssl.mediav.com^
-||c.tpgjb.top^
-||f.8fenxiang.com^
-||local.info.g9hc4.cn^
-||dxyeyf6ecy.adobe.io^
-||1hzopx6nz7.adobe.io^
-||p13n.adobe.io^
-||p13n-mr.adobe.io^
-||cai-identity.adobe.io^
-||dyzt55url8.adobe.io^
-||gw8gfjbsO5.adobe.io^
-||2ftem87osk.adobe.io^
-||phef2h2csf.adobe.io^
-||7sj9n87sls.adobe.io^
-||b5kbg2ggog.adobe.io^
-||p7uxzbht8h.adobe.io^
-||guzg78logz.adobe.io^
-||crs.cr.adobe.com^
-||photos.adobe.io^
-||cai-splunk-proxy.adobe.io^
-||cap.cyberlink.com^
-||activation.cyberlink.com^
 ||httpdns-browser.platform.dbankcloud.cn^
 ||httpdns.meituan.com^
 ||edge.wshttpdns.com^
@@ -139971,6 +139927,7 @@
 ||fun.360.cn^
 ||fans.91selfie.com^
 ||trackbeat.xiachufang.com^
+||cc-api-data.adobe.io^
 ||abe.ymmiyun.com^
 ||ecom5-normal-lq.ecombdapi.com^
 ||mmocgame.qpic.cn^
@@ -141624,6 +141581,7 @@
 ||adobe-dns.adobe.com^
 ||adobe-dns-2.adobe.com^
 ||adobe-dns-3.adobe.com^
+||geo2.adobe.com^
 ||get3.adobe.com^
 ||hl2rcv.adobe.com^
 ||practivate.adobe.com^
@@ -142070,6 +142028,8 @@
 ||xpe.cxaerp.com^
 ||news.cxxtv.com^
 ||img.cxxyft.com^
+||activation.cyberlink.com^
+||cap.cyberlink.com^
 ||c.cyhx98.com^
 ||imgc.cymzc.com^
 ||imgp.cymzc.com^

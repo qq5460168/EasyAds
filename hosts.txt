@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-05-17 09:28:53
-# 规则总数: 145394
+# 更新时间: 2026-05-17 13:07:43
+# 规则总数: 145354
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -1201,7 +1201,6 @@
 0.0.0.0 1hm2.stormm1nd.ru
 0.0.0.0 1hmklj60i.com
 0.0.0.0 1hwy.com
-0.0.0.0 1hzopx6nz7.adobe.io
 0.0.0.0 1i.lightst0rm.ru
 0.0.0.0 1i580.com
 0.0.0.0 1i8c0f11.de
@@ -1919,7 +1918,6 @@
 0.0.0.0 2fl4vwmp.5t0rmfail.ru
 0.0.0.0 2fnptjci.de
 0.0.0.0 2fourty4.co.za
-0.0.0.0 2ftem87osk.adobe.io
 0.0.0.0 2fujqcklv1rpwwhfo.rest
 0.0.0.0 2fyzxp40.xyz
 0.0.0.0 2fzn4.xyz
@@ -5363,7 +5361,6 @@
 0.0.0.0 7rag9q1on.com
 0.0.0.0 7rh3wjf4o5czkicukz.cyou
 0.0.0.0 7ryx7ph5y.com
-0.0.0.0 7sj9n87sls.adobe.io
 0.0.0.0 7strqfn56s.com
 0.0.0.0 7thvyebqhu7956.cfd
 0.0.0.0 7u4b8l1zt.com
@@ -16507,7 +16504,6 @@
 0.0.0.0 alereinc.actonservice.com
 0.0.0.0 aleroninc.actonservice.com
 0.0.0.0 alersehymnist.cfd
-0.0.0.0 alert.kuyun.com
 0.0.0.0 alertlygayish.cyou
 0.0.0.0 alerts.ironmountain.com
 0.0.0.0 alerts.steadyapp.com
@@ -19022,7 +19018,6 @@
 0.0.0.0 api.hellknight.xyz
 0.0.0.0 api.higame.hismarttv.com
 0.0.0.0 api.hismarttv.com
-0.0.0.0 api.hpplay.com.cn
 0.0.0.0 api.hrshuke.cn
 0.0.0.0 api.htp.hubcloud.com.cn
 0.0.0.0 api.hugemedia.cz
@@ -22867,7 +22862,6 @@
 0.0.0.0 b5gvpk5.com
 0.0.0.0 b5i.cn
 0.0.0.0 b5j6itccyluq.nofluffjobs.com
-0.0.0.0 b5kbg2ggog.adobe.io
 0.0.0.0 b5ow7kq9tgzuqig.rest
 0.0.0.0 b5rr7a.prong8tatsky.coupons
 0.0.0.0 b5v0m3q8.com
@@ -28130,7 +28124,6 @@
 0.0.0.0 c.thredup.com
 0.0.0.0 c.tobidad.cn
 0.0.0.0 c.topya.com
-0.0.0.0 c.tpgjb.top
 0.0.0.0 c.tvsou.com
 0.0.0.0 c.uaa.iqiyi.com
 0.0.0.0 c.v4dwkcv.com
@@ -28508,8 +28501,6 @@
 0.0.0.0 cahnitefulvene.cfd
 0.0.0.0 cahootdisodic.com
 0.0.0.0 cahzlmvowjlcu.space
-0.0.0.0 cai-identity.adobe.io
-0.0.0.0 cai-splunk-proxy.adobe.io
 0.0.0.0 cai75tp.com
 0.0.0.0 caichaidob.net
 0.0.0.0 caider.fun
@@ -29302,7 +29293,6 @@
 0.0.0.0 cc-316.cc
 0.0.0.0 cc-algo-cn.heytapimage.com
 0.0.0.0 cc-api-data.adobe.io
-0.0.0.0 cc-cdn.adobe.com
 0.0.0.0 cc-dt.com
 0.0.0.0 cc-img-cn.heytapimage.com
 0.0.0.0 cc.0133hao.net
@@ -29388,7 +29378,6 @@
 0.0.0.0 ccjzuavqrh.com
 0.0.0.0 cckltgdhvmrux.site
 0.0.0.0 ccktnecnlflta.space
-0.0.0.0 cclibraries-defaults-cdn.adobe.com
 0.0.0.0 cclink.carfax.com
 0.0.0.0 ccluukrajdnyj.space
 0.0.0.0 ccmd.coveredca.com
@@ -29415,7 +29404,6 @@
 0.0.0.0 ccttoocxmymh.net
 0.0.0.0 cctv.adsunion.com
 0.0.0.0 cctyly.com
-0.0.0.0 cctypekit.adobe.io
 0.0.0.0 ccuoqedyqvttq.tech
 0.0.0.0 ccuuxgxhmpntd.online
 0.0.0.0 ccvhugvmaxc.net
@@ -31232,7 +31220,6 @@
 0.0.0.0 cjgdch.com
 0.0.0.0 cjgeqnxnxejet.space
 0.0.0.0 cjgimadfnuztn.online
-0.0.0.0 cjhd.mediav.com
 0.0.0.0 cjhdaujk.xyz
 0.0.0.0 cjhmaygz.com
 0.0.0.0 cjhq.baidu.com
@@ -34970,7 +34957,6 @@
 0.0.0.0 crs-hometab-event.line.me
 0.0.0.0 crs.actonservice.com
 0.0.0.0 crs.baidu.com
-0.0.0.0 crs.cr.adobe.com
 0.0.0.0 crs.pa.br.de
 0.0.0.0 crsope.com
 0.0.0.0 crsphucnxuojo.website
@@ -43217,7 +43203,6 @@
 0.0.0.0 dxvnfdhowouwr.website
 0.0.0.0 dxwsty.cn
 0.0.0.0 dxxbwmpkpxnwv.online
-0.0.0.0 dxyeyf6ecy.adobe.io
 0.0.0.0 dxz454z33ibrc.cloudfront.net
 0.0.0.0 dxzgwti.com
 0.0.0.0 dxzhlgaawhyen.website
@@ -43315,7 +43300,6 @@
 0.0.0.0 dyzc.cn
 0.0.0.0 dyzmo.com
 0.0.0.0 dyzmpx.speedway.fr
-0.0.0.0 dyzt55url8.adobe.io
 0.0.0.0 dz2017.zdzxyplyt.com
 0.0.0.0 dz3tfc2m9.com
 0.0.0.0 dz4ad.com
@@ -48220,7 +48204,6 @@
 0.0.0.0 f-log-test.grammarly.io
 0.0.0.0 f-tigers-wheel-apk-br.pages.dev
 0.0.0.0 f.520tingshu.com
-0.0.0.0 f.8fenxiang.com
 0.0.0.0 f.a23.in
 0.0.0.0 f.airstar.com
 0.0.0.0 f.bloblohub.com
@@ -56948,7 +56931,6 @@
 0.0.0.0 guykantry.cfd
 0.0.0.0 guyoetiepwijy.online
 0.0.0.0 guyssleeted.qpon
-0.0.0.0 guzg78logz.adobe.io
 0.0.0.0 guzlav.bunkerle0p2rd.ru
 0.0.0.0 guzsjdl.cn
 0.0.0.0 guzubezrufxuh.online
@@ -57027,7 +57009,6 @@
 0.0.0.0 gw6.push.mcp.weibo.cn
 0.0.0.0 gw630.com
 0.0.0.0 gw7jpuouik.com
-0.0.0.0 gw8gfjbsO5.adobe.io
 0.0.0.0 gwabduqywxher.website
 0.0.0.0 gwallet.com
 0.0.0.0 gwbb1p2t9s.com
@@ -61313,7 +61294,6 @@
 0.0.0.0 ibyhdkkcdkkii.site
 0.0.0.0 ibyossxwwjeij.website
 0.0.0.0 ibyqykdkuhbfa.space
-0.0.0.0 ic.adobe.io
 0.0.0.0 ic.hopto.org
 0.0.0.0 ic.snssdk.com
 0.0.0.0 ic.softp1ne.ru
@@ -71716,8 +71696,6 @@
 0.0.0.0 lcqdlqsdiwecm.website
 0.0.0.0 lcqrlecxeqqnk.website
 0.0.0.0 lcrakyzahrjqs.site
-0.0.0.0 lcs-cops.adobe.io
-0.0.0.0 lcs-robs.adobe.io
 0.0.0.0 lcs.baidu.com
 0.0.0.0 lcs.dev.surepush.cn
 0.0.0.0 lcs.loginfra.com
@@ -74317,7 +74295,6 @@
 0.0.0.0 loc.xtr2020.com
 0.0.0.0 local-shares.ri.la
 0.0.0.0 local-update.com
-0.0.0.0 local.info.g9hc4.cn
 0.0.0.0 localads.chengzijianzhan.cn
 0.0.0.0 localads.chengzijianzhan.cn.queniurc.com
 0.0.0.0 localaffectrecipe.com
@@ -91537,8 +91514,6 @@
 0.0.0.0 p11q.cn
 0.0.0.0 p123.my
 0.0.0.0 p12acx.com
-0.0.0.0 p13n-mr.adobe.io
-0.0.0.0 p13n.adobe.io
 0.0.0.0 p15vjj3og.com
 0.0.0.0 p16-ad-site-sign-sg.tiktokcdn.com
 0.0.0.0 p16-ad.byteoversea.com
@@ -91666,7 +91641,6 @@
 0.0.0.0 p7jroq6xco.com
 0.0.0.0 p7l0.wildm1st.ru
 0.0.0.0 p7qk.v0rtatouch.ru
-0.0.0.0 p7uxzbht8h.adobe.io
 0.0.0.0 p8.b1o0dmanneq.ru
 0.0.0.0 p834uxchy4uwfvfgj.cfd
 0.0.0.0 p8fu4wvt1ztzpkek.cfd
@@ -93246,7 +93220,6 @@
 0.0.0.0 pgznt.cn
 0.0.0.0 pgzxnpyuitkmz.site
 0.0.0.0 ph-query-1.looksmart.com
-0.0.0.0 ph0f2h2csf.adobe.io
 0.0.0.0 ph48t5l2fy4cgkflp8v.cfd
 0.0.0.0 ph5kobkijeyg4rboce64h.cfd
 0.0.0.0 phabaustoost.net
@@ -93303,7 +93276,6 @@
 0.0.0.0 pheelsouptathoo.net
 0.0.0.0 pheergokraiz.net
 0.0.0.0 pheetsithaurost.net
-0.0.0.0 phef2h2csf.adobe.io
 0.0.0.0 pheftugaiboacm.net
 0.0.0.0 phegnauxoudsez.xyz
 0.0.0.0 pheicfvsrqvdm.online
@@ -93431,7 +93403,6 @@
 0.0.0.0 photogbaluch.help
 0.0.0.0 photographpan.com
 0.0.0.0 photography.hursey.com
-0.0.0.0 photos.adobe.io
 0.0.0.0 photos.kiyonosaki.info
 0.0.0.0 photospace.life
 0.0.0.0 photovault.store
@@ -104694,7 +104665,6 @@
 0.0.0.0 s1cta.com
 0.0.0.0 s1dxptru.boey2012.com
 0.0.0.0 s1dxptru.boey2012.com.eo.dnse3.com
-0.0.0.0 s1m.mediav.com
 0.0.0.0 s1m4nohq.de
 0.0.0.0 s1r.zerkalo.io
 0.0.0.0 s1sentablya.teenfuckhd.com
@@ -104723,7 +104693,6 @@
 0.0.0.0 s28z.cloudm1x.ru
 0.0.0.0 s2d6.com
 0.0.0.0 s2dcm.com
-0.0.0.0 s2m.mediav.com
 0.0.0.0 s2rkge.vmgikpw.com
 0.0.0.0 s2s.adjust.cn
 0.0.0.0 s2s.adjust.com
@@ -104751,11 +104720,6 @@
 0.0.0.0 s364-ad-canl5.nbjz.db9w.com
 0.0.0.0 s3d4.cn
 0.0.0.0 s3g6.com
-0.0.0.0 s3m.mediav.com
-0.0.0.0 s3m1.fenxi.com
-0.0.0.0 s3m2.fenxi.com
-0.0.0.0 s3m3.fenxi.com
-0.0.0.0 s3m4.fenxi.com
 0.0.0.0 s3ov5.bounceme.net
 0.0.0.0 s3r.zerkalo.io
 0.0.0.0 s3t3d2y8.afcdn.net
@@ -104774,7 +104738,6 @@
 0.0.0.0 s45hkb25i.com
 0.0.0.0 s46849916.sc.origins.en25.com
 0.0.0.0 s4e8.cascades.com
-0.0.0.0 s4m.mediav.com
 0.0.0.0 s4ndup.quick5and.ru
 0.0.0.0 s4te24u.com
 0.0.0.0 s4y6lhotaw.com
@@ -116096,7 +116059,6 @@
 0.0.0.0 static-s.iqiyi.com
 0.0.0.0 static-seraph.zhongan.io
 0.0.0.0 static-srv.com
-0.0.0.0 static-ssl.mediav.com
 0.0.0.0 static-ssp.yidianzixun.com
 0.0.0.0 static-trackers.adtarget.me
 0.0.0.0 static-tracking.klaviyo.com
@@ -116232,7 +116194,6 @@
 0.0.0.0 static.masterfr-bid.com
 0.0.0.0 static.maticalm-bid.com
 0.0.0.0 static.media.net
-0.0.0.0 static.mediav.com
 0.0.0.0 static.meijiacun.com
 0.0.0.0 static.miningweekly.com
 0.0.0.0 static.mntzm.com
@@ -120836,7 +120797,6 @@
 0.0.0.0 tastierlawny.cfd
 0.0.0.0 tastiesfoods.com
 0.0.0.0 tastingraport.world
-0.0.0.0 tat.pandora.xiaomi.com
 0.0.0.0 tatagou.com.cn
 0.0.0.0 tataricroque.cyou
 0.0.0.0 tatehj.nylaarp.com

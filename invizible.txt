@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-05-17 09:28:53
-# 规则总数: 145394
+# 更新时间: 2026-05-17 13:07:43
+# 规则总数: 145354
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -1201,7 +1201,6 @@
 1hm2.stormm1nd.ru block
 1hmklj60i.com block
 1hwy.com block
-1hzopx6nz7.adobe.io block
 1i.lightst0rm.ru block
 1i580.com block
 1i8c0f11.de block
@@ -1919,7 +1918,6 @@
 2fl4vwmp.5t0rmfail.ru block
 2fnptjci.de block
 2fourty4.co.za block
-2ftem87osk.adobe.io block
 2fujqcklv1rpwwhfo.rest block
 2fyzxp40.xyz block
 2fzn4.xyz block
@@ -5363,7 +5361,6 @@
 7rag9q1on.com block
 7rh3wjf4o5czkicukz.cyou block
 7ryx7ph5y.com block
-7sj9n87sls.adobe.io block
 7strqfn56s.com block
 7thvyebqhu7956.cfd block
 7u4b8l1zt.com block
@@ -16507,7 +16504,6 @@ alepolesaguran.qpon block
 alereinc.actonservice.com block
 aleroninc.actonservice.com block
 alersehymnist.cfd block
-alert.kuyun.com block
 alertlygayish.cyou block
 alerts.ironmountain.com block
 alerts.steadyapp.com block
@@ -19022,7 +19018,6 @@ api.growingio.com block
 api.hellknight.xyz block
 api.higame.hismarttv.com block
 api.hismarttv.com block
-api.hpplay.com.cn block
 api.hrshuke.cn block
 api.htp.hubcloud.com.cn block
 api.hugemedia.cz block
@@ -22867,7 +22862,6 @@ b5g.cn block
 b5gvpk5.com block
 b5i.cn block
 b5j6itccyluq.nofluffjobs.com block
-b5kbg2ggog.adobe.io block
 b5ow7kq9tgzuqig.rest block
 b5rr7a.prong8tatsky.coupons block
 b5v0m3q8.com block
@@ -28130,7 +28124,6 @@ c.tctyb.cn block
 c.thredup.com block
 c.tobidad.cn block
 c.topya.com block
-c.tpgjb.top block
 c.tvsou.com block
 c.uaa.iqiyi.com block
 c.v4dwkcv.com block
@@ -28508,8 +28501,6 @@ cahkeezufolil.online block
 cahnitefulvene.cfd block
 cahootdisodic.com block
 cahzlmvowjlcu.space block
-cai-identity.adobe.io block
-cai-splunk-proxy.adobe.io block
 cai75tp.com block
 caichaidob.net block
 caider.fun block
@@ -29302,7 +29293,6 @@ cbxxfascjrdjm.space block
 cc-316.cc block
 cc-algo-cn.heytapimage.com block
 cc-api-data.adobe.io block
-cc-cdn.adobe.com block
 cc-dt.com block
 cc-img-cn.heytapimage.com block
 cc.0133hao.net block
@@ -29388,7 +29378,6 @@ ccjlyeghbdppq.website block
 ccjzuavqrh.com block
 cckltgdhvmrux.site block
 ccktnecnlflta.space block
-cclibraries-defaults-cdn.adobe.com block
 cclink.carfax.com block
 ccluukrajdnyj.space block
 ccmd.coveredca.com block
@@ -29415,7 +29404,6 @@ cctrkom.creditcards.com block
 ccttoocxmymh.net block
 cctv.adsunion.com block
 cctyly.com block
-cctypekit.adobe.io block
 ccuoqedyqvttq.tech block
 ccuuxgxhmpntd.online block
 ccvhugvmaxc.net block
@@ -31232,7 +31220,6 @@ cjfqtu.vitafy.ch block
 cjgdch.com block
 cjgeqnxnxejet.space block
 cjgimadfnuztn.online block
-cjhd.mediav.com block
 cjhdaujk.xyz block
 cjhmaygz.com block
 cjhq.baidu.com block
@@ -34970,7 +34957,6 @@ crs-event.line.me block
 crs-hometab-event.line.me block
 crs.actonservice.com block
 crs.baidu.com block
-crs.cr.adobe.com block
 crs.pa.br.de block
 crsope.com block
 crsphucnxuojo.website block
@@ -43217,7 +43203,6 @@ dxvfdv.icu block
 dxvnfdhowouwr.website block
 dxwsty.cn block
 dxxbwmpkpxnwv.online block
-dxyeyf6ecy.adobe.io block
 dxz454z33ibrc.cloudfront.net block
 dxzgwti.com block
 dxzhlgaawhyen.website block
@@ -43315,7 +43300,6 @@ dyyptiqcfnedr.site block
 dyzc.cn block
 dyzmo.com block
 dyzmpx.speedway.fr block
-dyzt55url8.adobe.io block
 dz2017.zdzxyplyt.com block
 dz3tfc2m9.com block
 dz4ad.com block
@@ -48220,7 +48204,6 @@ f-log-at.grammarly.io block
 f-log-test.grammarly.io block
 f-tigers-wheel-apk-br.pages.dev block
 f.520tingshu.com block
-f.8fenxiang.com block
 f.a23.in block
 f.airstar.com block
 f.bloblohub.com block
@@ -56948,7 +56931,6 @@ guyjrraidsrlk.store block
 guykantry.cfd block
 guyoetiepwijy.online block
 guyssleeted.qpon block
-guzg78logz.adobe.io block
 guzlav.bunkerle0p2rd.ru block
 guzsjdl.cn block
 guzubezrufxuh.online block
@@ -57027,7 +57009,6 @@ gw51.cn block
 gw6.push.mcp.weibo.cn block
 gw630.com block
 gw7jpuouik.com block
-gw8gfjbsO5.adobe.io block
 gwabduqywxher.website block
 gwallet.com block
 gwbb1p2t9s.com block
@@ -61313,7 +61294,6 @@ ibxxxm11tyli9uy.rest block
 ibyhdkkcdkkii.site block
 ibyossxwwjeij.website block
 ibyqykdkuhbfa.space block
-ic.adobe.io block
 ic.hopto.org block
 ic.snssdk.com block
 ic.softp1ne.ru block
@@ -71716,8 +71696,6 @@ lcportal.kbinsure.co.kr block
 lcqdlqsdiwecm.website block
 lcqrlecxeqqnk.website block
 lcrakyzahrjqs.site block
-lcs-cops.adobe.io block
-lcs-robs.adobe.io block
 lcs.baidu.com block
 lcs.dev.surepush.cn block
 lcs.loginfra.com block
@@ -74317,7 +74295,6 @@ loc.sexymilfspics.com block
 loc.xtr2020.com block
 local-shares.ri.la block
 local-update.com block
-local.info.g9hc4.cn block
 localads.chengzijianzhan.cn block
 localads.chengzijianzhan.cn.queniurc.com block
 localaffectrecipe.com block
@@ -91537,8 +91514,6 @@ p11-sign.douyinpic.com block
 p11q.cn block
 p123.my block
 p12acx.com block
-p13n-mr.adobe.io block
-p13n.adobe.io block
 p15vjj3og.com block
 p16-ad-site-sign-sg.tiktokcdn.com block
 p16-ad.byteoversea.com block
@@ -91666,7 +91641,6 @@ p7h1silo3f.app.cainthus.com block
 p7jroq6xco.com block
 p7l0.wildm1st.ru block
 p7qk.v0rtatouch.ru block
-p7uxzbht8h.adobe.io block
 p8.b1o0dmanneq.ru block
 p834uxchy4uwfvfgj.cfd block
 p8fu4wvt1ztzpkek.cfd block
@@ -93246,7 +93220,6 @@ pgzjhqnndpyyt.site block
 pgznt.cn block
 pgzxnpyuitkmz.site block
 ph-query-1.looksmart.com block
-ph0f2h2csf.adobe.io block
 ph48t5l2fy4cgkflp8v.cfd block
 ph5kobkijeyg4rboce64h.cfd block
 phabaustoost.net block
@@ -93303,7 +93276,6 @@ pheedo.com block
 pheelsouptathoo.net block
 pheergokraiz.net block
 pheetsithaurost.net block
-phef2h2csf.adobe.io block
 pheftugaiboacm.net block
 phegnauxoudsez.xyz block
 pheicfvsrqvdm.online block
@@ -93431,7 +93403,6 @@ photo.zhanhevr.cn block
 photogbaluch.help block
 photographpan.com block
 photography.hursey.com block
-photos.adobe.io block
 photos.kiyonosaki.info block
 photospace.life block
 photovault.store block
@@ -104694,7 +104665,6 @@ s19a.biz block
 s1cta.com block
 s1dxptru.boey2012.com block
 s1dxptru.boey2012.com.eo.dnse3.com block
-s1m.mediav.com block
 s1m4nohq.de block
 s1r.zerkalo.io block
 s1sentablya.teenfuckhd.com block
@@ -104723,7 +104693,6 @@ s2564.sc.origins.en25.com block
 s28z.cloudm1x.ru block
 s2d6.com block
 s2dcm.com block
-s2m.mediav.com block
 s2rkge.vmgikpw.com block
 s2s.adjust.cn block
 s2s.adjust.com block
@@ -104751,11 +104720,6 @@ s362693299.aon.com block
 s364-ad-canl5.nbjz.db9w.com block
 s3d4.cn block
 s3g6.com block
-s3m.mediav.com block
-s3m1.fenxi.com block
-s3m2.fenxi.com block
-s3m3.fenxi.com block
-s3m4.fenxi.com block
 s3ov5.bounceme.net block
 s3r.zerkalo.io block
 s3t3d2y8.afcdn.net block
@@ -104774,7 +104738,6 @@ s41p4.lightb0x.ru block
 s45hkb25i.com block
 s46849916.sc.origins.en25.com block
 s4e8.cascades.com block
-s4m.mediav.com block
 s4ndup.quick5and.ru block
 s4te24u.com block
 s4y6lhotaw.com block
@@ -116096,7 +116059,6 @@ static-rtb2.programmatics.net block
 static-s.iqiyi.com block
 static-seraph.zhongan.io block
 static-srv.com block
-static-ssl.mediav.com block
 static-ssp.yidianzixun.com block
 static-trackers.adtarget.me block
 static-tracking.klaviyo.com block
@@ -116232,7 +116194,6 @@ static.masoffer.net block
 static.masterfr-bid.com block
 static.maticalm-bid.com block
 static.media.net block
-static.mediav.com block
 static.meijiacun.com block
 static.miningweekly.com block
 static.mntzm.com block
@@ -120836,7 +120797,6 @@ tastercloskey.com block
 tastierlawny.cfd block
 tastiesfoods.com block
 tastingraport.world block
-tat.pandora.xiaomi.com block
 tatagou.com.cn block
 tataricroque.cyou block
 tatehj.nylaarp.com block
