@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-05-21 02:36:07
-# 规则总数: 145396
+# 更新时间: 2026-05-21 07:42:45
+# 规则总数: 145397
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -77318,6 +77318,7 @@ payload:
   - 'mallapi2.qinlinkeji.com'
   - 'mallioras.openapp.link'
   - 'mallowweeds.shop'
+  - 'malluktig.in'
   - 'malmtufted.cyou'
   - 'malocacomals.com'
   - 'malog.byapps.co.kr'

@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-05-21 02:36:08
-# 规则总数: 145396
+# 更新时间: 2026-05-21 07:42:46
+# 规则总数: 145397
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -77317,6 +77317,7 @@ domain, mall0.qiyipic.com
 domain, mallapi2.qinlinkeji.com
 domain, mallioras.openapp.link
 domain, mallowweeds.shop
+domain, malluktig.in
 domain, malmtufted.cyou
 domain, malocacomals.com
 domain, malog.byapps.co.kr

@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-05-21 02:36:08
-# 规则总数: 145396
+# 更新时间: 2026-05-21 07:42:46
+# 规则总数: 145397
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -77317,6 +77317,7 @@
 0.0.0.0 mallapi2.qinlinkeji.com
 0.0.0.0 mallioras.openapp.link
 0.0.0.0 mallowweeds.shop
+0.0.0.0 malluktig.in
 0.0.0.0 malmtufted.cyou
 0.0.0.0 malocacomals.com
 0.0.0.0 malog.byapps.co.kr
