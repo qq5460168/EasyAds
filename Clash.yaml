@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-05-20 21:45:04
-# 规则总数: 145394
+# 更新时间: 2026-05-21 02:36:07
+# 规则总数: 145396
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -89116,6 +89116,7 @@ payload:
   - 'okdyvjqdrbguk.online'
   - 'okeaxgugq.com'
   - 'okedvxsttyjlc.website'
+  - 'okeeblr.com'
   - 'okeezyxflelvs.website'
   - 'okevdqibjxzmr.space'
   - 'okforwardt.fun'
@@ -121022,6 +121023,7 @@ payload:
   - 'tcloaksandtheirc.org'
   - 'tcmcpbjvotuaa.space'
   - 'tcmdlflufggcn.com'
+  - 'tcmxmlu.com'
   - 'tcnaecgsqurme.online'
   - 'tcolfwuhtwqln.space'
   - 'tcp.newyworlds.com'

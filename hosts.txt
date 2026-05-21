@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-05-20 21:45:04
-# 规则总数: 145394
+# 更新时间: 2026-05-21 02:36:08
+# 规则总数: 145396
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -89115,6 +89115,7 @@
 0.0.0.0 okdyvjqdrbguk.online
 0.0.0.0 okeaxgugq.com
 0.0.0.0 okedvxsttyjlc.website
+0.0.0.0 okeeblr.com
 0.0.0.0 okeezyxflelvs.website
 0.0.0.0 okevdqibjxzmr.space
 0.0.0.0 okforwardt.fun
@@ -121021,6 +121022,7 @@
 0.0.0.0 tcloaksandtheirc.org
 0.0.0.0 tcmcpbjvotuaa.space
 0.0.0.0 tcmdlflufggcn.com
+0.0.0.0 tcmxmlu.com
 0.0.0.0 tcnaecgsqurme.online
 0.0.0.0 tcolfwuhtwqln.space
 0.0.0.0 tcp.newyworlds.com
