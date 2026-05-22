@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-05-22 14:22:38
-# 规则总数: 145397
+# 更新时间: 2026-05-22 17:45:58
+# 规则总数: 145406
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -15233,6 +15233,7 @@
 0.0.0.0 aeisqs.icu
 0.0.0.0 aeiwzejwyzqjy.rocks
 0.0.0.0 aejravyfcejxe.site
+0.0.0.0 aekjg-cdn.77t-tusu.com
 0.0.0.0 aekmrkebaawzm.online
 0.0.0.0 aekpzxaghjyxa.global
 0.0.0.0 aeletheacd.com
@@ -39984,6 +39985,7 @@
 0.0.0.0 dftmuptixnvgl.com
 0.0.0.0 dftoutiao.com
 0.0.0.0 dftraanudh.com
+0.0.0.0 dftveb.xn--6krw8b915a62m.com
 0.0.0.0 dfuijqrojtvcb.site
 0.0.0.0 dfuvslppaxhzv.site
 0.0.0.0 dfuxpeudrhrpj.online
@@ -42853,6 +42855,7 @@
 0.0.0.0 duhkxehelalch.store
 0.0.0.0 duhsv690.cinderpouch.ru
 0.0.0.0 duhxgrfaziemg.site
+0.0.0.0 dui.suiji.red
 0.0.0.0 duidoaghteqgs.website
 0.0.0.0 duier.top
 0.0.0.0 duihl.cn
@@ -59402,6 +59405,7 @@
 0.0.0.0 hmyjoj.5-fifth.com
 0.0.0.0 hmziwy.yearbookordercenter.com
 0.0.0.0 hmzxoegngasft.site
+0.0.0.0 hn.bfvvs.com
 0.0.0.0 hnasd.com
 0.0.0.0 hnaxddjuzflyy.space
 0.0.0.0 hnbhrt.xyz
@@ -71283,6 +71287,7 @@
 0.0.0.0 lamaismftnerr.cfd
 0.0.0.0 lamamari.cyou
 0.0.0.0 lamanyatrip.cfd
+0.0.0.0 lambda.raidrive.com
 0.0.0.0 lambmotorabash.com
 0.0.0.0 lambspithole.cfd
 0.0.0.0 lame-home.pro
@@ -76562,6 +76567,7 @@
 0.0.0.0 m.lovezhishou.com
 0.0.0.0 m.luckym.ca
 0.0.0.0 m.lusrg.cn
+0.0.0.0 m.lwlm-nideta.cc
 0.0.0.0 m.lyjz001.com
 0.0.0.0 m.lzida.com
 0.0.0.0 m.lzytt.com
@@ -86109,6 +86115,7 @@
 0.0.0.0 nfmvsq.giuseppezanotti.com
 0.0.0.0 nfnsqnmfkgiuq.space
 0.0.0.0 nfnvqfghrmnfk.space
+0.0.0.0 nfnykg.xn--6krw8b915a62m.com
 0.0.0.0 nfowjkbbjyorh.site
 0.0.0.0 nfpqhhcuvjdhj.website
 0.0.0.0 nfptar.giordanoshop.com
@@ -101567,6 +101574,7 @@
 0.0.0.0 resumetwigincarnate.com
 0.0.0.0 resurrectionincomplete.com
 0.0.0.0 reswagebashlik.help
+0.0.0.0 reszavxz.malunwudi.com
 0.0.0.0 ret.xinlongrubber.com
 0.0.0.0 retagro.com
 0.0.0.0 retail-client-events-service.internal.salsify.com
@@ -104027,6 +104035,7 @@
 0.0.0.0 rxi8jcy0aq.com
 0.0.0.0 rxidhevafwczq.online
 0.0.0.0 rxiewfjyestco.website
+0.0.0.0 rxing.rxyoo.net
 0.0.0.0 rxiptliymhnrv.online
 0.0.0.0 rxjdbeabdctcn.website
 0.0.0.0 rxjvmsvfvstue.website

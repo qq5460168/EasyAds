@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-05-22 14:22:34.380392
+# Generated on 2026-05-22 17:45:54.892189
 
 ||10.130.208.223^
 ||106.11.23.107^
@@ -139163,6 +139163,15 @@
 ||cai-splunk-proxy.adobe.io^
 ||cap.cyberlink.com^
 ||activation.cyberlink.com^
+||lambda.raidrive.com^
+||m.lwlm-nideta.cc^
+||nfnykg.xn--6krw8b915a62m.com^
+||reszavxz.malunwudi.com^
+||aekjg-cdn.77t-tusu.com^
+||dftveb.xn--6krw8b915a62m.com^
+||rxing.rxyoo.net^
+||hn.bfvvs.com^
+||dui.suiji.red^
 ||httpdns-browser.platform.dbankcloud.cn^
 ||httpdns.meituan.com^
 ||edge.wshttpdns.com^

@@ -139160,6 +139160,15 @@
 ||cai-splunk-proxy.adobe.io^
 ||cap.cyberlink.com^
 ||activation.cyberlink.com^
+||lambda.raidrive.com^
+||m.lwlm-nideta.cc^
+||nfnykg.xn--6krw8b915a62m.com^
+||reszavxz.malunwudi.com^
+||aekjg-cdn.77t-tusu.com^
+||dftveb.xn--6krw8b915a62m.com^
+||rxing.rxyoo.net^
+||hn.bfvvs.com^
+||dui.suiji.red^
 ||httpdns-browser.platform.dbankcloud.cn^
 ||httpdns.meituan.com^
 ||edge.wshttpdns.com^
