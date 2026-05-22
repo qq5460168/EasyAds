@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-05-22 02:37:57.201242
+# Generated on 2026-05-22 07:38:02.556418
 
 ||10.130.208.223^
 ||106.11.23.107^
