@@ -139289,7 +139289,12 @@
 ||ugc-upload.3g.qq.com^
 ||richmedia.video.qq.com^
 ||gdmf.apple.com^
+||swscan.apple.com^
+||swquery.apple.com^
+||swdownload.apple.com^
+||swcdn.apple.com^
 ||updates-http.cdn-apple.com^
+||appldnld.apple.com^
 ||xp.apple.com^
 ||yyapp-httpdns.gslb.yy.com^
 ||union-httpdns.gslb.yy.com^

@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-05-23 02:14:41
-# 规则总数: 145406
+# 更新时间: 2026-05-23 06:29:22
+# 规则总数: 145411
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -20227,6 +20227,7 @@ appjiagu.com block
 applaudenviable.com block
 applausetint.com block
 applcuts.cyou block
+appldnld.apple.com block
 apple-service93.ru block
 apple.analnoe24.com block
 apple.arabtoons.net block
@@ -118879,10 +118880,12 @@ swatledgesling.com block
 swaw.cn block
 sway.g1zmobrain.ru block
 swbbtzshzxsve.space block
+swcdn.apple.com block
 swcnmtb.top block
 swcycyjwymqrw.website block
 swcypfzfkfj.com block
 swdced.open32.nl block
+swdownload.apple.com block
 swdqortugmmrj.online block
 sweatdatess.com block
 sweaterwarmly.com block
@@ -119027,7 +119030,9 @@ swpgjai.pop.weddingeeos.com block
 swqavzfztuonn.online block
 swqleb.adidas.ru block
 swqmuo.icu block
+swquery.apple.com block
 swrperkeds.com block
+swscan.apple.com block
 swskkgfyhcldxe.net block
 swtagnfimnhdt.website block
 swtdssqbxhcesfh.com block

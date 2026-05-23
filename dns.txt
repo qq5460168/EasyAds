@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-05-23 02:14:37.536307
+# Generated on 2026-05-23 06:29:19.033989
 
 ||10.130.208.223^
 ||106.11.23.107^
@@ -139292,7 +139292,12 @@
 ||ugc-upload.3g.qq.com^
 ||richmedia.video.qq.com^
 ||gdmf.apple.com^
+||swscan.apple.com^
+||swquery.apple.com^
+||swdownload.apple.com^
+||swcdn.apple.com^
 ||updates-http.cdn-apple.com^
+||appldnld.apple.com^
 ||xp.apple.com^
 ||yyapp-httpdns.gslb.yy.com^
 ||union-httpdns.gslb.yy.com^

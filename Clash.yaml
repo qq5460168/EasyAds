@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-05-23 02:14:40
-# 规则总数: 145406
+# 更新时间: 2026-05-23 06:29:21
+# 规则总数: 145411
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -20228,6 +20228,7 @@ payload:
   - 'applaudenviable.com'
   - 'applausetint.com'
   - 'applcuts.cyou'
+  - 'appldnld.apple.com'
   - 'apple-service93.ru'
   - 'apple.analnoe24.com'
   - 'apple.arabtoons.net'
@@ -118880,10 +118881,12 @@ payload:
   - 'swaw.cn'
   - 'sway.g1zmobrain.ru'
   - 'swbbtzshzxsve.space'
+  - 'swcdn.apple.com'
   - 'swcnmtb.top'
   - 'swcycyjwymqrw.website'
   - 'swcypfzfkfj.com'
   - 'swdced.open32.nl'
+  - 'swdownload.apple.com'
   - 'swdqortugmmrj.online'
   - 'sweatdatess.com'
   - 'sweaterwarmly.com'
@@ -119028,7 +119031,9 @@ payload:
   - 'swqavzfztuonn.online'
   - 'swqleb.adidas.ru'
   - 'swqmuo.icu'
+  - 'swquery.apple.com'
   - 'swrperkeds.com'
+  - 'swscan.apple.com'
   - 'swskkgfyhcldxe.net'
   - 'swtagnfimnhdt.website'
   - 'swtdssqbxhcesfh.com'

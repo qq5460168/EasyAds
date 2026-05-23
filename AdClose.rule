@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-05-23 02:14:41
-# 规则总数: 145406
+# 更新时间: 2026-05-23 06:29:22
+# 规则总数: 145411
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -20227,6 +20227,7 @@ domain, appjiagu.com
 domain, applaudenviable.com
 domain, applausetint.com
 domain, applcuts.cyou
+domain, appldnld.apple.com
 domain, apple-service93.ru
 domain, apple.analnoe24.com
 domain, apple.arabtoons.net
@@ -118879,10 +118880,12 @@ domain, swatledgesling.com
 domain, swaw.cn
 domain, sway.g1zmobrain.ru
 domain, swbbtzshzxsve.space
+domain, swcdn.apple.com
 domain, swcnmtb.top
 domain, swcycyjwymqrw.website
 domain, swcypfzfkfj.com
 domain, swdced.open32.nl
+domain, swdownload.apple.com
 domain, swdqortugmmrj.online
 domain, sweatdatess.com
 domain, sweaterwarmly.com
@@ -119027,7 +119030,9 @@ domain, swpgjai.pop.weddingeeos.com
 domain, swqavzfztuonn.online
 domain, swqleb.adidas.ru
 domain, swqmuo.icu
+domain, swquery.apple.com
 domain, swrperkeds.com
+domain, swscan.apple.com
 domain, swskkgfyhcldxe.net
 domain, swtagnfimnhdt.website
 domain, swtdssqbxhcesfh.com

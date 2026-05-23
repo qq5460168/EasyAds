@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-05-23 02:14:41
-# 规则总数: 145406
+# 更新时间: 2026-05-23 06:29:22
+# 规则总数: 145411
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -20227,6 +20227,7 @@
 0.0.0.0 applaudenviable.com
 0.0.0.0 applausetint.com
 0.0.0.0 applcuts.cyou
+0.0.0.0 appldnld.apple.com
 0.0.0.0 apple-service93.ru
 0.0.0.0 apple.analnoe24.com
 0.0.0.0 apple.arabtoons.net
@@ -118879,10 +118880,12 @@
 0.0.0.0 swaw.cn
 0.0.0.0 sway.g1zmobrain.ru
 0.0.0.0 swbbtzshzxsve.space
+0.0.0.0 swcdn.apple.com
 0.0.0.0 swcnmtb.top
 0.0.0.0 swcycyjwymqrw.website
 0.0.0.0 swcypfzfkfj.com
 0.0.0.0 swdced.open32.nl
+0.0.0.0 swdownload.apple.com
 0.0.0.0 swdqortugmmrj.online
 0.0.0.0 sweatdatess.com
 0.0.0.0 sweaterwarmly.com
@@ -119027,7 +119030,9 @@
 0.0.0.0 swqavzfztuonn.online
 0.0.0.0 swqleb.adidas.ru
 0.0.0.0 swqmuo.icu
+0.0.0.0 swquery.apple.com
 0.0.0.0 swrperkeds.com
+0.0.0.0 swscan.apple.com
 0.0.0.0 swskkgfyhcldxe.net
 0.0.0.0 swtagnfimnhdt.website
 0.0.0.0 swtdssqbxhcesfh.com

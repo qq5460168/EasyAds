@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-05-23 02:14:37（北京时间）
-# 共 145342 个域名
+# 生成时间: 2026-05-23 06:29:19（北京时间）
+# 共 145347 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -20207,6 +20207,7 @@ appjiagu.com
 applaudenviable.com
 applausetint.com
 applcuts.cyou
+appldnld.apple.com
 apple-service93.ru
 apple.analnoe24.com
 apple.arabtoons.net
@@ -118823,10 +118824,12 @@ swatledgesling.com
 swaw.cn
 sway.g1zmobrain.ru
 swbbtzshzxsve.space
+swcdn.apple.com
 swcnmtb.top
 swcycyjwymqrw.website
 swcypfzfkfj.com
 swdced.open32.nl
+swdownload.apple.com
 swdqortugmmrj.online
 sweatdatess.com
 sweaterwarmly.com
@@ -118971,7 +118974,9 @@ swpgjai.pop.weddingeeos.com
 swqavzfztuonn.online
 swqleb.adidas.ru
 swqmuo.icu
+swquery.apple.com
 swrperkeds.com
+swscan.apple.com
 swskkgfyhcldxe.net
 swtagnfimnhdt.website
 swtdssqbxhcesfh.com
