@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-05-24 16:53:47.889465
+# Generated on 2026-05-24 20:44:31.363845
 
 ||10.130.208.223^
 ||106.11.23.107^
@@ -139854,7 +139854,6 @@
 ||zd.fzmf.cn^
 ||j5z.cn.w.kunlunaq.com^
 ||uk.sgrrz.cn^
-||w.kunlunpi.com^
 ||vip.k3l.cn^
 ||vip.7j0.cn^
 ||jtu24k.aoqinglv.cn^

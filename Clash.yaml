@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-05-24 16:53:50
-# 规则总数: 145411
+# 更新时间: 2026-05-24 20:44:34
+# 规则总数: 145410
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -134167,7 +134167,6 @@ payload:
   - 'w.ilfattoquotidiano.it'
   - 'w.inews.qq.com'
   - 'w.jscsd.cn'
-  - 'w.kunlunpi.com'
   - 'w.l.qq.com'
   - 'w.love4porn.com'
   - 'w.m.taobao.com'

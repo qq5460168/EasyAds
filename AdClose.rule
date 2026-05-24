@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-05-24 16:53:51
-# 规则总数: 145411
+# 更新时间: 2026-05-24 20:44:35
+# 规则总数: 145410
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -134166,7 +134166,6 @@ domain, w.ifrype.com
 domain, w.ilfattoquotidiano.it
 domain, w.inews.qq.com
 domain, w.jscsd.cn
-domain, w.kunlunpi.com
 domain, w.l.qq.com
 domain, w.love4porn.com
 domain, w.m.taobao.com
