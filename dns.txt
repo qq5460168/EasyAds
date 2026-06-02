@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-06-02 16:05:59.366101
+# Generated on 2026-06-02 22:18:07.347761
 
 ||malluktig.in^
 ||mavrtracktor.com^
