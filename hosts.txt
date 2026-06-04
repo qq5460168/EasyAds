@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-06-04 02:52:56
-# 规则总数: 145410
+# 更新时间: 2026-06-04 08:13:39
+# 规则总数: 145411
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -98287,6 +98287,7 @@
 0.0.0.0 qigplplee.com
 0.0.0.0 qigreveth.com
 0.0.0.0 qigyvkoeducgu.online
+0.0.0.0 qihang168.top
 0.0.0.0 qihaoqu.com
 0.0.0.0 qihegkxiytaah.online
 0.0.0.0 qihnajipjpmii.online
