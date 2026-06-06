@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-06-06 13:13:31（北京时间）
-# 共 145347 个域名
+# 生成时间: 2026-06-06 17:02:36（北京时间）
+# 共 145346 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -123239,7 +123239,6 @@ tongkhohangnhat.abphotos.link
 tongmancheerly.help
 tongqing2015.com
 tongueq2.top
-tongzhi.cup.com.cn
 tonicheaviness.com
 toningboogerwoalds.qpon
 tonjonduppa.com

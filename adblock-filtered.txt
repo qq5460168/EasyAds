@@ -16716,7 +16716,6 @@
 ||6osurvos.fn.bytedance.net^
 ||microapp.bytedance.com^
 ||bdxiguaimg.com^
-||tongzhi.cup.com.cn^
 ||sdk.verification.jiguang.cn^
 ||smartop-sdkapi.jiguang.cn^
 ||license.vod2.myqcloud.com^

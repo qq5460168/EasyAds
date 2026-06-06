@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-06-06 13:13:33
-# 规则总数: 145411
+# 更新时间: 2026-06-06 17:02:51
+# 规则总数: 145410
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -123297,7 +123297,6 @@ payload:
   - 'tongmancheerly.help'
   - 'tongqing2015.com'
   - 'tongueq2.top'
-  - 'tongzhi.cup.com.cn'
   - 'tonicheaviness.com'
   - 'toningboogerwoalds.qpon'
   - 'tonjonduppa.com'

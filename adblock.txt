@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-06-06 21:13:34
+! 规则更新时间: 2026-06-07 01:02:52
 ! 有效规则数量: 155975 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
@@ -23406,7 +23406,6 @@
 ||6osurvos.fn.bytedance.net^
 ||microapp.bytedance.com^
 ||bdxiguaimg.com^
-||tongzhi.cup.com.cn^
 ||sdk.verification.jiguang.cn^
 ||smartop-sdkapi.jiguang.cn^
 ||license.vod2.myqcloud.com^
@@ -153805,6 +153804,7 @@
 @@||www.xn--sss604efuw.com^
 @@||xp.apple.com^
 @@||ynuf.alipay.com^
+@@||tongzhi.cup.com.cn^$important
 @@||vdn5.vzuu.com^$important
 @@||kunlunpi.com^$important
 @@||redditmedia.com^

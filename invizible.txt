@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-06-06 13:13:34
-# 规则总数: 145411
+# 更新时间: 2026-06-06 17:02:52
+# 规则总数: 145410
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -123296,7 +123296,6 @@ tongkhohangnhat.abphotos.link block
 tongmancheerly.help block
 tongqing2015.com block
 tongueq2.top block
-tongzhi.cup.com.cn block
 tonicheaviness.com block
 toningboogerwoalds.qpon block
 tonjonduppa.com block

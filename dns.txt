@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-06-06 13:13:31.338920
+# Generated on 2026-06-06 17:02:36.033888
 
 ||qihang168.top^
 ||malluktig.in^
@@ -16719,7 +16719,6 @@
 ||6osurvos.fn.bytedance.net^
 ||microapp.bytedance.com^
 ||bdxiguaimg.com^
-||tongzhi.cup.com.cn^
 ||sdk.verification.jiguang.cn^
 ||smartop-sdkapi.jiguang.cn^
 ||license.vod2.myqcloud.com^
