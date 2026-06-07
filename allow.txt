@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-06-07 21:25:53
-! 有效规则数量: 3874 条
+! 规则更新时间: 2026-06-08 01:07:34
+! 有效规则数量: 3872 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -1703,9 +1703,9 @@
 @@||www.xn--sss604efuw.com^
 @@||xp.apple.com^
 @@||ynuf.alipay.com^
-@@||tongzhi.cup.com.cn^$important
-@@||vdn5.vzuu.com^$important
-@@||kunlunpi.com^$important
+@@||tongzhi.cup.com.cn^
+@@||vdn5.vzuu.com^
+@@||kunlunpi.com^
 @@||redditmedia.com^
 @@||juejin.cn^
 @@||www.juejin.cn^
@@ -2955,8 +2955,6 @@
 @@||valuecommerce.com^
 @@||dwz.cn^
 @@||c.fa.jd.com^
-@@||1music.cc^$important
-@@||backend.1music.cc^$important
 @@||haohuo.jinritemai.com^ 
 @@||aod.itunes.apple.com^$important
 @@||aod.itunes.g.aaplimg.com^$important
