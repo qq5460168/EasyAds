@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-06-07 10:23:11.270457
+# Generated on 2026-06-07 13:25:46.483505
 
 ||qihang168.top^
 ||malluktig.in^
