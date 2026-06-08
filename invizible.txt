@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-06-07 21:02:54
-# 规则总数: 145410
+# 更新时间: 2026-06-08 02:49:53
+# 规则总数: 145411
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -132027,6 +132027,7 @@ vdn5-1.vzuu.com block
 vdn5.vzuu.com block
 vdn6.vzuu.com block
 vdnh.cn block
+vdo3c.org block
 vdocifgpcjirs.online block
 vdopia.com block
 vdpozxvnmhbqn.website block

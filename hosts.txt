@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-06-07 21:02:55
-# 规则总数: 145410
+# 更新时间: 2026-06-08 02:49:53
+# 规则总数: 145411
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -132027,6 +132027,7 @@
 0.0.0.0 vdn5.vzuu.com
 0.0.0.0 vdn6.vzuu.com
 0.0.0.0 vdnh.cn
+0.0.0.0 vdo3c.org
 0.0.0.0 vdocifgpcjirs.online
 0.0.0.0 vdopia.com
 0.0.0.0 vdpozxvnmhbqn.website

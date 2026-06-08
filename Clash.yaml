@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-06-07 21:02:54
-# 规则总数: 145410
+# 更新时间: 2026-06-08 02:49:53
+# 规则总数: 145411
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -132028,6 +132028,7 @@ payload:
   - 'vdn5.vzuu.com'
   - 'vdn6.vzuu.com'
   - 'vdnh.cn'
+  - 'vdo3c.org'
   - 'vdocifgpcjirs.online'
   - 'vdopia.com'
   - 'vdpozxvnmhbqn.website'

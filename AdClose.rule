@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-06-07 21:02:55
-# 规则总数: 145410
+# 更新时间: 2026-06-08 02:49:53
+# 规则总数: 145411
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -132027,6 +132027,7 @@ domain, vdn5-1.vzuu.com
 domain, vdn5.vzuu.com
 domain, vdn6.vzuu.com
 domain, vdnh.cn
+domain, vdo3c.org
 domain, vdocifgpcjirs.online
 domain, vdopia.com
 domain, vdpozxvnmhbqn.website

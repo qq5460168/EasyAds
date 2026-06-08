@@ -1,6 +1,7 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-06-07 21:02:51.962549
+# Generated on 2026-06-08 02:49:50.605692
 
+||vdo3c.org^
 ||qihang168.top^
 ||malluktig.in^
 ||mavrtracktor.com^
