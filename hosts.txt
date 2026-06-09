@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-06-09 07:39:44
-# 规则总数: 145411
+# 更新时间: 2026-06-09 10:53:40
+# 规则总数: 145412
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -127524,6 +127524,7 @@
 0.0.0.0 ttkmtmvtrezer.online
 0.0.0.0 ttkozptvhnnzd.com
 0.0.0.0 ttkuvjwuqf.xyz
+0.0.0.0 ttkxny.com
 0.0.0.0 ttlhwufpaqwkw.site
 0.0.0.0 ttlm.cc
 0.0.0.0 ttlowe.com

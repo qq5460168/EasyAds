@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-06-09 07:39:40（北京时间）
-# 共 145347 个域名
+# 生成时间: 2026-06-09 10:53:37（北京时间）
+# 共 145348 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -127467,6 +127467,7 @@ ttkfjmovlwrvb.space
 ttkmtmvtrezer.online
 ttkozptvhnnzd.com
 ttkuvjwuqf.xyz
+ttkxny.com
 ttlhwufpaqwkw.site
 ttlm.cc
 ttlowe.com
