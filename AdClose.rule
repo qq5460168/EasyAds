@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-06-09 21:43:16
-# 规则总数: 145412
+# 更新时间: 2026-06-10 02:40:26
+# 规则总数: 145413
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -32280,6 +32280,7 @@ domain, cmnvfgkayxagg.website
 domain, cmon.congress.gov
 domain, cmop.mgtv.com
 domain, cmorautniwdao.space
+domain, cmos3.org
 domain, cmp.courrierinternational.com
 domain, cmp.dreamlab.pl
 domain, cmp.finn.no

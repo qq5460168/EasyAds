@@ -1,6 +1,8 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-06-09 21:43:11.779843
+# Generated on 2026-06-10 02:40:22.744427
 
+||cmos3.org^
+||mc.yandex.ru^
 ||ttkxny.com^
 ||vdo3c.org^
 ||qihang168.top^
@@ -117701,7 +117703,6 @@
 ||mc.webvisor.org^
 ||mc.yandex.com^
 ||mc.yandex.md^
-||mc.yandex.ru^
 ||mc.yango.com^
 ||mc2o133jkwu19fv9.net.fidor.de^
 ||mcacry.trendhim.it^

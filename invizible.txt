@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-06-09 21:43:15
-# 规则总数: 145412
+# 更新时间: 2026-06-10 02:40:25
+# 规则总数: 145413
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -32280,6 +32280,7 @@ cmnvfgkayxagg.website block
 cmon.congress.gov block
 cmop.mgtv.com block
 cmorautniwdao.space block
+cmos3.org block
 cmp.courrierinternational.com block
 cmp.dreamlab.pl block
 cmp.finn.no block

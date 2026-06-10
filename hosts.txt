@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-06-09 21:43:15
-# 规则总数: 145412
+# 更新时间: 2026-06-10 02:40:25
+# 规则总数: 145413
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -32280,6 +32280,7 @@
 0.0.0.0 cmon.congress.gov
 0.0.0.0 cmop.mgtv.com
 0.0.0.0 cmorautniwdao.space
+0.0.0.0 cmos3.org
 0.0.0.0 cmp.courrierinternational.com
 0.0.0.0 cmp.dreamlab.pl
 0.0.0.0 cmp.finn.no

@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-06-09 21:43:15
-# 规则总数: 145412
+# 更新时间: 2026-06-10 02:40:25
+# 规则总数: 145413
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -32281,6 +32281,7 @@ payload:
   - 'cmon.congress.gov'
   - 'cmop.mgtv.com'
   - 'cmorautniwdao.space'
+  - 'cmos3.org'
   - 'cmp.courrierinternational.com'
   - 'cmp.dreamlab.pl'
   - 'cmp.finn.no'
