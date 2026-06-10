@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-06-10 08:01:48.238912
+# Generated on 2026-06-10 14:57:33.665429
 
 ||cmos3.org^
 ||mc.yandex.ru^
