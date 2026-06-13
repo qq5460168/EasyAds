@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-06-13 02:39:25.611718
+# Generated on 2026-06-13 07:40:55.427540
 
 ||1377a.xyz^
 ||180zhengkkl.com^
@@ -6282,6 +6282,7 @@
 ||vlion.cn^
 ||yfanads.com^
 ||zhangyuyidong.cn^
+||3ie0h3b.com^
 ||cmos3.org^
 ||mc.yandex.ru^
 ||ttkxny.com^
