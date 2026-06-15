@@ -6197,14 +6197,12 @@
 ||tmfmazu.m.qq.com^
 ||tmfsdk.m.qq.com^
 ||tmfsdktcpv4.m.qq.com^
-||tnc0-alisc1.zijieapi.com^
 ||tnc3-aliec1.toutiaoapi.com^
 ||tnc3-aliec2.bytedance.com^
 ||tnc3-aliec2.snssdk.com^
 ||tnc3-aliec2.toutiaoapi.com^
 ||tnc3-alisc1.snssdk.com^
 ||tnc3-alisc1.toutiaoapi.com^
-||tnc3-alisc2.zijieapi.com^
 ||tnc3-bjlgy.toutiaoapi.com^
 ||tpa-hcdn.iqiyi.com^
 ||tpc.googlesyndication-cn.com^
@@ -135415,9 +135413,11 @@
 ||tnc-boot.capcutapi.com^
 ||tnc-sg.capcutapi.com^
 ||tnc-v2-boot.capcutapi.com^
+||tnc0-alisc1.zijieapi.com^
 ||tnc16-alisg.isnssdk.com^
 ||tnc16-normal-us-ttp.capcutapi.us^
 ||tnc16-useast1a.isnssdk.com^
+||tnc3-alisc2.zijieapi.com^
 ||tncpzu.marelbo.com^
 ||tnegqr.bohme.com^
 ||tnhcsf.holzkern.com^

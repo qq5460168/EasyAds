@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-06-15 17:53:56
-! 有效规则数量: 3876 条
+! 规则更新时间: 2026-06-16 01:02:20
+! 有效规则数量: 3878 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -1703,7 +1703,7 @@
 @@||www.xn--sss604efuw.com^
 @@||xp.apple.com^
 @@||ynuf.alipay.com^
-@@||na61-na62.wagbridge.advertisement.tanx.com^
+@@||alb-jjexm35p5nv4ven8gt.cn-shenzhen.alb.aliyuncsslb.com^
 @@||appcfg.v.qq.com^$important
 @@||m-api.uc.cn^
 @@||tongzhi.cup.com.cn^
@@ -2165,6 +2165,7 @@
 @@||ossapi.baidu.com^
 @@||med-fe.cdn.bcebos.com^
 @@||static.tieba.baidu.com^
+@@||tieba-ares.cdn.bcebos.com^
 @@||gsp1.baidu.com^
 @@||sp0.baidu.com^
 @@||sp2.baidu.com^
@@ -2958,6 +2959,7 @@
 @@||valuecommerce.com^
 @@||dwz.cn^
 @@||c.fa.jd.com^
+@@||na61-na62.wagbridge.advertisement.tanx.com^
 @@||dnscheck.tools^
 @@||data-sdk-uuid-log.d.meituan.net^
 @@||catdot.dianping.com^
@@ -3879,4 +3881,4 @@
 @@||ecmb.bdimg.com^$important
 @@||srv.sec.miui.com^$important
 @@||haohuo.jinritemai.com^ 
-@@||c.fa.jd.com^
+@@||na61-na62.wagbridge.advertisement.tanx.com^
