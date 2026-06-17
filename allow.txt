@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-06-17 06:06:46
-! 有效规则数量: 3878 条
+! 规则更新时间: 2026-06-17 10:53:37
+! 有效规则数量: 3890 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -1908,6 +1908,18 @@
 @@||duga.zhihu.com^
 @@||audiopay.pcdn.xmcdn.com^
 @@||award.xmcdn.com^
+@@||onelap.cn^
+@@||u.onelap.cn^
+@@||onelap.com^
+@@||wattp.net^
+@@||api.onelap.cn^
+@@||static.onelap.cn^
+@@||img.onelap.cn^
+@@||cdn.onelap.cn^
+@@||race.onelap.cn^
+@@||data.onelap.cn^
+@@||magene.cn^
+@@||api.magene.cn^
 @@||login.xunlei.com^
 @@||my.xunlei.com^
 @@||user.xunlei.com^
