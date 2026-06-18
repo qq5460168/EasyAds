@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-06-18 16:38:59
-! 有效规则数量: 3890 条
+! 规则更新时间: 2026-06-18 22:51:16
+! 有效规则数量: 3894 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -1704,11 +1704,10 @@
 @@||xp.apple.com^
 @@||ynuf.alipay.com^
 @@||alb-jjexm35p5nv4ven8gt.cn-shenzhen.alb.aliyuncsslb.com^
-@@||appcfg.v.qq.com^$important
+@@||appcfg.v.qq.com^
 @@||m-api.uc.cn^
 @@||tongzhi.cup.com.cn^
 @@||vdn5.vzuu.com^
-@@||kunlunpi.com^
 @@||redditmedia.com^
 @@||juejin.cn^
 @@||www.juejin.cn^
@@ -1736,7 +1735,7 @@
 @@||free-aos-cdn-image.amap.com^
 @@||store.is.autonavi.com^
 @@||anythinktech.com^
-@@||h35.ynodd.cn^$
+@@||h35.ynodd.cn^
 @@||api.crashguard.me^
 @@||pzdown.laomaotao.com^
 @@||api.weathercn.com^
@@ -1889,6 +1888,7 @@
 @@||brand.heytap.com^
 @@||storedl1.nearme.com.cn^
 @@||api-cn.cdo.heytapmobi.com^
+@@||obus-dc20058-cn.heytapmobi.com^
 @@||m.zhibo8.com^
 @@||common.jbzj.com^
 @@||bucket-ynote-online-cdn.note.youdao.com^
@@ -1935,6 +1935,7 @@
 @@||kankan.xunlei.com^
 @@||video.xunlei.com^
 @@||v.xunlei.com^
+@@||admin-oss-xlvip.a.88cdn.com^
 @@||res.qhmsg.com^
 @@||img-vip-ssl.a.88cdn.com^
 @@||xfile2.a.88cdn.com^
@@ -2106,6 +2107,7 @@
 @@||oppo.yidianzixun.com^
 @@||ib11.go2yd.com^
 @@||u.oppomobile.com^
+@@||conn1.oppomobile.com^
 @@||appconf.heytapdownload.com^
 @@||msec.opposhop.cn^
 @@||obus-cn.dc.heytapmobi.com^
@@ -2223,6 +2225,7 @@
 @@||wx.tenpay.com^
 @@||wxpay.qpic.cn^
 @@||gtimg.wechatpay.cn^
+@@||wxpaylogo.qpic.cn^
 @@||cnlogin.cainiao.com^
 @@||17u.cn^
 @@||dir.minigame.qq.com^
@@ -2485,6 +2488,8 @@
 @@||mos.m.taobao.com^
 @@||g.shumafen.cn^
 @@||ip.taobao.com^
+@@||kunlunpi.com^
+@@||dorangesource.alicdn.com^
 @@||v9-novelapp.fqnovelvod.com^
 @@||tnc3-aliec2.snssdk.com^
 @@||v*-fq-tts.fqnovelvod.com^
@@ -3818,7 +3823,6 @@
 @@||vweixinf.tc.qq.com^$important
 @@||vod-settings.bytedanceapi.com^$app=com.phoenix.read
 @@||backupapi.lkong.com^$important
-@@||appcfg.v.qq.com^
 @@||api.live.bilibili.com^$important
 @@||m..bilibili.com^$important
 @@||app.bilibili.com^$important
