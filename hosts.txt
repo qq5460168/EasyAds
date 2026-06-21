@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-06-20 21:07:29
-# 规则总数: 145414
+# 更新时间: 2026-06-21 02:54:36
+# 规则总数: 145415
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -104160,6 +104160,7 @@
 0.0.0.0 rzsgxmm.cn
 0.0.0.0 rzskdw.cn
 0.0.0.0 rzsyenebnyvgs.website
+0.0.0.0 rzuagqomzl.in
 0.0.0.0 rzuitwlxozftj.website
 0.0.0.0 rzuqqpwtpkztw.online
 0.0.0.0 rzvcdclxehmnd.global
