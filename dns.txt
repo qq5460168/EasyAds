@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-06-21 21:06:46.195879
+# Generated on 2026-06-22 02:57:05.007575
 
 ||1377a.xyz^
 ||180zhengkkl.com^
