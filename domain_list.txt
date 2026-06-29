@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-06-29 08:51:52（北京时间）
-# 共 145351 个域名
+# 生成时间: 2026-06-29 15:33:54（北京时间）
+# 共 145377 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -12114,6 +12114,7 @@ ad-h5-station-cdn.soulapp.cn
 ad-hatena.com
 ad-img.diyidan.net
 ad-imp.hismarttv.com
+ad-loan.com
 ad-locus.com
 ad-log-upload-os.hoyoverse.com
 ad-log-upload.mihoyo.com
@@ -12373,6 +12374,7 @@ ad.jiemian.com
 ad.jorte.com
 ad.jsnbrynb.com
 ad.juksy.com
+ad.juziloan.com
 ad.jxnews.com.cn
 ad.k.21cn.com
 ad.k98y.cn
@@ -12409,6 +12411,7 @@ ad.line-scdn.net
 ad.linksynergy.com
 ad.liveinternet.ru
 ad.livere.co.kr
+ad.loansdk.com
 ad.lomadee.com
 ad.love.hu
 ad.lovefree.cc
@@ -19024,6 +19027,7 @@ api.joybj.com
 api.juliangcili.com
 api.jumpingapplecloud.com
 api.june.so
+api.juzijinke.com
 api.ketedata.com
 api.kickoffo.site
 api.kingdata.ksyun.com
@@ -24504,6 +24508,7 @@ bestdisplayformats.com
 beste1.icu
 bestecnyov.click
 besteersteel.cfd
+bestfenqi.com
 bestfreecounterstat.com
 bestfuckapps.com
 bestfunnyads.com
@@ -68098,6 +68103,7 @@ jugularmatches.help
 jugumgenteel.cfd
 jugurslrrneem.space
 juhe.cn
+juhuiwangluokeji.com
 juiceadv.com
 juiceadv.net
 juicelicking.com
@@ -68256,7 +68262,10 @@ juysqudhjre.xyz
 juyu.app
 juywkhbpmswmq.website
 juzi.cn
+juzifenqi.com
+juzijinke.com
 juzilm.com
+juzishuke.com
 juzmat.f0undoutw2y.ru
 juzn.cn
 juzqsq.finanzcheck.de
@@ -74250,9 +74259,16 @@ loam.clears0il.ru
 loam.s0ftcliff.ru
 loamaushaihu.net
 loamilybudgingbioral.cfd
+loan-ad.cn
+loan-advert.com
+loan-stat.com
+loan-track.com
+loan-track.juzishuke.com
 loandatec.com
+loanlink.cn
 loans.rategenius.com
 loansales.cbre.com
+loantrack.cn
 loaptaijuw.com
 loastees.net
 loathesparkledisperse.com
@@ -77275,6 +77291,7 @@ maling.dn.no
 malismfil.cyou
 maljxp.cn
 mall-dsp2.qinlinkeji.com
+mall.juzijinke.com
 mall0.qiyipic.com
 mallapi2.qinlinkeji.com
 mallioras.openapp.link
@@ -97155,8 +97172,11 @@ push.getbeamer.com
 push.gifshow.com
 push.house
 push.intreface.com
+push.jiguang.cn
+push.juzidata.com
 push.knd.ro
 push.ksapisrv.com
+push.loan-stat.com
 push.m.youku.com
 push.mayads.store
 push.mobile.kugou.com
@@ -108731,6 +108751,7 @@ shtilnya.com
 shtptt.cupshe.com
 shtrack.kingsoft.jp
 shtt.shuqw.com
+shturl.cc
 shuanshu.com.com
 shuatircnroml.website
 shubadubadlskjfkf.com
@@ -115892,6 +115913,7 @@ stat.jetsetter.com
 stat.jogaszvilag.hu
 stat.juridicas.com
 stat.jusnetkarnovgroup.pt
+stat.juzitrack.com
 stat.kaago.com
 stat.kbs.co.kr
 stat.khanate.pro
@@ -116179,6 +116201,7 @@ static.itrack.it
 static.jampp.com
 static.javxxx.me
 static.jotterads.com
+static.juzijinke.com
 static.konnectads.com
 static.kremsondigital.com
 static.ku6.com
@@ -125146,6 +125169,7 @@ track.invtrusts.co.uk
 track.ivia.com
 track.juno.com
 track.juststarz.com
+track.juzijinke.com
 track.kiafudousan.com
 track.kinetiksoft.com
 track.kiomi.com
@@ -125161,6 +125185,7 @@ track.libii.cn
 track.linksynergy.com
 track.list-finder.jp
 track.livasoft.com.tr
+track.loan-ad.cn
 track.lookerpets.com
 track.magazineluiza.com.br
 track.mailerlite.com
@@ -126150,6 +126175,7 @@ tracking.uberflip.com
 tracking.uk.adp.com
 tracking.ukwm.co.uk
 tracking.umbrella.com
+tracking.umeng.com
 tracking.umms.org
 tracking.unisabana.edu.co
 tracking.univtec.com

@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-06-29 08:51:52.356860
+# Generated on 2026-06-29 15:33:53.870983
 
 ||1377a.xyz^
 ||180zhengkkl.com^
@@ -144898,6 +144898,32 @@
 ||zd.fzmf.cn^
 ||j5z.cn.w.kunlunaq.com^
 ||uk.sgrrz.cn^
+||juzijinke.com^
+||juzishuke.com^
+||juhuiwangluokeji.com^
+||api.juzijinke.com^
+||mall.juzijinke.com^
+||static.juzijinke.com^
+||track.juzijinke.com^
+||loan-track.juzishuke.com^
+||push.juzidata.com^
+||ad.juziloan.com^
+||stat.juzitrack.com^
+||track.loan-ad.cn^
+||push.loan-stat.com^
+||ad.loansdk.com^
+||juzifenqi.com^
+||bestfenqi.com^
+||loan-ad.cn^
+||ad-loan.com^
+||loan-advert.com^
+||loan-track.com^
+||loan-stat.com^
+||loantrack.cn^
+||shturl.cc^
+||loanlink.cn^
+||push.jiguang.cn^
+||tracking.umeng.com^
 ||vip.k3l.cn^
 ||vip.7j0.cn^
 ||jtu24k.aoqinglv.cn^

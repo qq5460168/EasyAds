@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-06-29 08:51:55
-# 规则总数: 145415
+# 更新时间: 2026-06-29 15:33:57
+# 规则总数: 145441
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -12133,6 +12133,7 @@
 0.0.0.0 ad-hatena.com
 0.0.0.0 ad-img.diyidan.net
 0.0.0.0 ad-imp.hismarttv.com
+0.0.0.0 ad-loan.com
 0.0.0.0 ad-locus.com
 0.0.0.0 ad-log-upload-os.hoyoverse.com
 0.0.0.0 ad-log-upload.mihoyo.com
@@ -12392,6 +12393,7 @@
 0.0.0.0 ad.jorte.com
 0.0.0.0 ad.jsnbrynb.com
 0.0.0.0 ad.juksy.com
+0.0.0.0 ad.juziloan.com
 0.0.0.0 ad.jxnews.com.cn
 0.0.0.0 ad.k.21cn.com
 0.0.0.0 ad.k98y.cn
@@ -12428,6 +12430,7 @@
 0.0.0.0 ad.linksynergy.com
 0.0.0.0 ad.liveinternet.ru
 0.0.0.0 ad.livere.co.kr
+0.0.0.0 ad.loansdk.com
 0.0.0.0 ad.lomadee.com
 0.0.0.0 ad.love.hu
 0.0.0.0 ad.lovefree.cc
@@ -19044,6 +19047,7 @@
 0.0.0.0 api.juliangcili.com
 0.0.0.0 api.jumpingapplecloud.com
 0.0.0.0 api.june.so
+0.0.0.0 api.juzijinke.com
 0.0.0.0 api.ketedata.com
 0.0.0.0 api.kickoffo.site
 0.0.0.0 api.kingdata.ksyun.com
@@ -24526,6 +24530,7 @@
 0.0.0.0 beste1.icu
 0.0.0.0 bestecnyov.click
 0.0.0.0 besteersteel.cfd
+0.0.0.0 bestfenqi.com
 0.0.0.0 bestfreecounterstat.com
 0.0.0.0 bestfuckapps.com
 0.0.0.0 bestfunnyads.com
@@ -68135,6 +68140,7 @@
 0.0.0.0 jugumgenteel.cfd
 0.0.0.0 jugurslrrneem.space
 0.0.0.0 juhe.cn
+0.0.0.0 juhuiwangluokeji.com
 0.0.0.0 juiceadv.com
 0.0.0.0 juiceadv.net
 0.0.0.0 juicelicking.com
@@ -68293,7 +68299,10 @@
 0.0.0.0 juyu.app
 0.0.0.0 juywkhbpmswmq.website
 0.0.0.0 juzi.cn
+0.0.0.0 juzifenqi.com
+0.0.0.0 juzijinke.com
 0.0.0.0 juzilm.com
+0.0.0.0 juzishuke.com
 0.0.0.0 juzmat.f0undoutw2y.ru
 0.0.0.0 juzn.cn
 0.0.0.0 juzqsq.finanzcheck.de
@@ -74294,9 +74303,16 @@
 0.0.0.0 loam.s0ftcliff.ru
 0.0.0.0 loamaushaihu.net
 0.0.0.0 loamilybudgingbioral.cfd
+0.0.0.0 loan-ad.cn
+0.0.0.0 loan-advert.com
+0.0.0.0 loan-stat.com
+0.0.0.0 loan-track.com
+0.0.0.0 loan-track.juzishuke.com
 0.0.0.0 loandatec.com
+0.0.0.0 loanlink.cn
 0.0.0.0 loans.rategenius.com
 0.0.0.0 loansales.cbre.com
+0.0.0.0 loantrack.cn
 0.0.0.0 loaptaijuw.com
 0.0.0.0 loastees.net
 0.0.0.0 loathesparkledisperse.com
@@ -77322,6 +77338,7 @@
 0.0.0.0 malismfil.cyou
 0.0.0.0 maljxp.cn
 0.0.0.0 mall-dsp2.qinlinkeji.com
+0.0.0.0 mall.juzijinke.com
 0.0.0.0 mall0.qiyipic.com
 0.0.0.0 mallapi2.qinlinkeji.com
 0.0.0.0 mallioras.openapp.link
@@ -97209,8 +97226,11 @@
 0.0.0.0 push.gifshow.com
 0.0.0.0 push.house
 0.0.0.0 push.intreface.com
+0.0.0.0 push.jiguang.cn
+0.0.0.0 push.juzidata.com
 0.0.0.0 push.knd.ro
 0.0.0.0 push.ksapisrv.com
+0.0.0.0 push.loan-stat.com
 0.0.0.0 push.m.youku.com
 0.0.0.0 push.mayads.store
 0.0.0.0 push.mobile.kugou.com
@@ -108787,6 +108807,7 @@
 0.0.0.0 shtptt.cupshe.com
 0.0.0.0 shtrack.kingsoft.jp
 0.0.0.0 shtt.shuqw.com
+0.0.0.0 shturl.cc
 0.0.0.0 shuanshu.com.com
 0.0.0.0 shuatircnroml.website
 0.0.0.0 shubadubadlskjfkf.com
@@ -115948,6 +115969,7 @@
 0.0.0.0 stat.jogaszvilag.hu
 0.0.0.0 stat.juridicas.com
 0.0.0.0 stat.jusnetkarnovgroup.pt
+0.0.0.0 stat.juzitrack.com
 0.0.0.0 stat.kaago.com
 0.0.0.0 stat.kbs.co.kr
 0.0.0.0 stat.khanate.pro
@@ -116235,6 +116257,7 @@
 0.0.0.0 static.jampp.com
 0.0.0.0 static.javxxx.me
 0.0.0.0 static.jotterads.com
+0.0.0.0 static.juzijinke.com
 0.0.0.0 static.konnectads.com
 0.0.0.0 static.kremsondigital.com
 0.0.0.0 static.ku6.com
@@ -125203,6 +125226,7 @@
 0.0.0.0 track.ivia.com
 0.0.0.0 track.juno.com
 0.0.0.0 track.juststarz.com
+0.0.0.0 track.juzijinke.com
 0.0.0.0 track.kiafudousan.com
 0.0.0.0 track.kinetiksoft.com
 0.0.0.0 track.kiomi.com
@@ -125218,6 +125242,7 @@
 0.0.0.0 track.linksynergy.com
 0.0.0.0 track.list-finder.jp
 0.0.0.0 track.livasoft.com.tr
+0.0.0.0 track.loan-ad.cn
 0.0.0.0 track.lookerpets.com
 0.0.0.0 track.magazineluiza.com.br
 0.0.0.0 track.mailerlite.com
@@ -126207,6 +126232,7 @@
 0.0.0.0 tracking.uk.adp.com
 0.0.0.0 tracking.ukwm.co.uk
 0.0.0.0 tracking.umbrella.com
+0.0.0.0 tracking.umeng.com
 0.0.0.0 tracking.umms.org
 0.0.0.0 tracking.unisabana.edu.co
 0.0.0.0 tracking.univtec.com
