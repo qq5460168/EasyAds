@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-07-01 21:20:47.103751
+# Generated on 2026-07-02 02:33:23.145955
 
 ||1377a.xyz^
 ||180zhengkkl.com^
@@ -14676,6 +14676,7 @@
 ||fipabtomqok.com^
 ||vs1.szcu.u3.ucweb.com^
 ||vs2.bjct.u3.ucweb.com^
+||ad.xiaomi.com^
 ||120.226.10.195^
 ||120.232.58.157^
 ||120.232.6.158^
@@ -90551,7 +90552,6 @@
 ||ad.wurangxian.top^
 ||ad.wynk.in^
 ||ad.wz.cz^
-||ad.xiaomi.com^
 ||ad.xrea.com^
 ||ad.xxam.org^
 ||ad.yadro.ru^
