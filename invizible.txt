@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-07-03 20:55:28
-# 规则总数: 145747
+# 更新时间: 2026-07-04 02:06:49
+# 规则总数: 145736
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -14119,6 +14119,7 @@ ads.lejuliang.com block
 ads.lemmatechnologies.com block
 ads.lesbianpersonals.com block
 ads.lingyuexiu.cn block
+ads.linkedin.cn block
 ads.linkedin.com block
 ads.livenation.com block
 ads.log.kafka.top block
@@ -20499,7 +20500,6 @@ appsrv4.madserving.com block
 appstorages.com block
 appstore.qzone.qq.com block
 appstoreort-stsdk.vivo.com.cn block
-appstorepnrt-stsdk.vivo.com.cn block
 appsupdate.sinaapp.com block
 appsupport.qq.com block
 appsupport.stargame.com block
@@ -26763,7 +26763,6 @@ brandaffinity.net block
 brandclik.com block
 branddnewcode1.me block
 brandlabs.ai block
-brandlog.vivo.com.cn block
 brandmovers-delivery.reviveservers.com block
 brandnewapp.pro block
 brandnewsnorted.com block
@@ -27057,7 +27056,6 @@ brooklynway.openapp.link block
 brookrivet.com block
 brooktollery.cfd block
 broonleetmen.help block
-brort.stsdk.vivo.com.cn block
 brosdefender.com block
 brostraffic.com block
 broth.s0uponwe2ther.ru block
@@ -33576,7 +33574,6 @@ connecthost.live block
 connectingadjusthospitality.com block
 connectingcurioustraced.com block
 connectingresort.com block
-connection-center.vivo.com.cn block
 connection.arrow.com block
 connection.verical.com block
 connectionhearddock.com block
@@ -47213,6 +47210,7 @@ etm-consult.de block
 etnomedia-static.reviveservers.com block
 etobeasasile.org block
 etoilesromance.cfd block
+etoolads.cn block
 etooqcedvlzyh.space block
 etoote.com block
 etop.ro block
@@ -49070,7 +49068,6 @@ fbzqfomrzgudj.online block
 fc-ccimage.baidu.com block
 fc-feed.cdn.bcebos.com block
 fc-id.sensic.net block
-fc-open-materiel.vivo.com.cn block
 fc.3dmgame.com block
 fc.gaizong.cn block
 fc.itmedia.co.jp block
@@ -89819,7 +89816,6 @@ omzbksdojksnt.online block
 omzkdhbltgcyi.website block
 omzwmjdqihtxs.website block
 omzylhvhwp.com block
-on-device-ai.vivo.com.cn block
 on.allposters.com block
 on.art.com block
 on.dextra.ch block
@@ -90692,7 +90688,6 @@ orsmfg.notino.de block
 orsqgxiuhkitm.website block
 orssgypxniykf.space block
 ort-stsdk.vivo.com.cn block
-ort.stsdk.vivo.com.cn block
 ortc.cc block
 orthalresshotfiant.qpon block
 orthantisabelartar.cyou block
@@ -93247,7 +93242,6 @@ perkyexcitedlyscenario.com block
 perkymodel.com block
 perkywin.pro block
 perlitebrandi.qpon block
-perm-api.vivo.com.cn block
 permanentillnessclever.com block
 permcresoxy.cfd block
 permdsllbsdem.xyz block
@@ -97696,7 +97690,6 @@ pwzxkpphqoeby.store block
 px-intl.ucweb.com block
 px.adfulplatform.com block
 px.adhigh.net block
-px.ads.linkedin.cn block
 px.ads.linkedin.com block
 px.blog.hu block
 px.derstandard.at block
@@ -109677,7 +109670,6 @@ skierjollyobsolete.com block
 skifowage.qpon block
 skijoreafront.help block
 skilfulsaturatematters.com block
-skill-platform-prd.vivo.com.cn block
 skillalums.cyou block
 skillcharging.com block
 skilletperonei.com block
@@ -115835,7 +115827,6 @@ st-adsgame.vivo.com.cn block
 st-fly.b-cdn.net block
 st-n.ads3-adnow.com block
 st-nlyss1.plala.or.jp block
-st-sentinel.vivo.com.cn block
 st-to-uv.com block
 st-widget.s3.amazonaws.com block
 st.anastasija.lt block
@@ -116007,7 +115998,6 @@ stape.net block
 stapecdn.com block
 stapespotherb.com block
 stapledsaur.top block
-stappupgrade.vivo.com.cn block
 staqnet.com block
 star-advertising.com block
 star-clicks.com block
@@ -118645,7 +118635,6 @@ sultrymomentarily.com block
 sumatang.com block
 sumatoad.com block
 sumbreta.com block
-sumdiff.vivo.com.cn block
 sumeformorede.org block
 summa.h0dikim2n.ru block
 summary.bookoffonline.co.jp block

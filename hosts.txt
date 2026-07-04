@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-07-03 20:55:28
-# 规则总数: 145747
+# 更新时间: 2026-07-04 02:06:49
+# 规则总数: 145736
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -14119,6 +14119,7 @@
 0.0.0.0 ads.lemmatechnologies.com
 0.0.0.0 ads.lesbianpersonals.com
 0.0.0.0 ads.lingyuexiu.cn
+0.0.0.0 ads.linkedin.cn
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.livenation.com
 0.0.0.0 ads.log.kafka.top
@@ -20499,7 +20500,6 @@
 0.0.0.0 appstorages.com
 0.0.0.0 appstore.qzone.qq.com
 0.0.0.0 appstoreort-stsdk.vivo.com.cn
-0.0.0.0 appstorepnrt-stsdk.vivo.com.cn
 0.0.0.0 appsupdate.sinaapp.com
 0.0.0.0 appsupport.qq.com
 0.0.0.0 appsupport.stargame.com
@@ -26763,7 +26763,6 @@
 0.0.0.0 brandclik.com
 0.0.0.0 branddnewcode1.me
 0.0.0.0 brandlabs.ai
-0.0.0.0 brandlog.vivo.com.cn
 0.0.0.0 brandmovers-delivery.reviveservers.com
 0.0.0.0 brandnewapp.pro
 0.0.0.0 brandnewsnorted.com
@@ -27057,7 +27056,6 @@
 0.0.0.0 brookrivet.com
 0.0.0.0 brooktollery.cfd
 0.0.0.0 broonleetmen.help
-0.0.0.0 brort.stsdk.vivo.com.cn
 0.0.0.0 brosdefender.com
 0.0.0.0 brostraffic.com
 0.0.0.0 broth.s0uponwe2ther.ru
@@ -33576,7 +33574,6 @@
 0.0.0.0 connectingadjusthospitality.com
 0.0.0.0 connectingcurioustraced.com
 0.0.0.0 connectingresort.com
-0.0.0.0 connection-center.vivo.com.cn
 0.0.0.0 connection.arrow.com
 0.0.0.0 connection.verical.com
 0.0.0.0 connectionhearddock.com
@@ -47213,6 +47210,7 @@
 0.0.0.0 etnomedia-static.reviveservers.com
 0.0.0.0 etobeasasile.org
 0.0.0.0 etoilesromance.cfd
+0.0.0.0 etoolads.cn
 0.0.0.0 etooqcedvlzyh.space
 0.0.0.0 etoote.com
 0.0.0.0 etop.ro
@@ -49070,7 +49068,6 @@
 0.0.0.0 fc-ccimage.baidu.com
 0.0.0.0 fc-feed.cdn.bcebos.com
 0.0.0.0 fc-id.sensic.net
-0.0.0.0 fc-open-materiel.vivo.com.cn
 0.0.0.0 fc.3dmgame.com
 0.0.0.0 fc.gaizong.cn
 0.0.0.0 fc.itmedia.co.jp
@@ -89819,7 +89816,6 @@
 0.0.0.0 omzkdhbltgcyi.website
 0.0.0.0 omzwmjdqihtxs.website
 0.0.0.0 omzylhvhwp.com
-0.0.0.0 on-device-ai.vivo.com.cn
 0.0.0.0 on.allposters.com
 0.0.0.0 on.art.com
 0.0.0.0 on.dextra.ch
@@ -90692,7 +90688,6 @@
 0.0.0.0 orsqgxiuhkitm.website
 0.0.0.0 orssgypxniykf.space
 0.0.0.0 ort-stsdk.vivo.com.cn
-0.0.0.0 ort.stsdk.vivo.com.cn
 0.0.0.0 ortc.cc
 0.0.0.0 orthalresshotfiant.qpon
 0.0.0.0 orthantisabelartar.cyou
@@ -93247,7 +93242,6 @@
 0.0.0.0 perkymodel.com
 0.0.0.0 perkywin.pro
 0.0.0.0 perlitebrandi.qpon
-0.0.0.0 perm-api.vivo.com.cn
 0.0.0.0 permanentillnessclever.com
 0.0.0.0 permcresoxy.cfd
 0.0.0.0 permdsllbsdem.xyz
@@ -97696,7 +97690,6 @@
 0.0.0.0 px-intl.ucweb.com
 0.0.0.0 px.adfulplatform.com
 0.0.0.0 px.adhigh.net
-0.0.0.0 px.ads.linkedin.cn
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 px.blog.hu
 0.0.0.0 px.derstandard.at
@@ -109677,7 +109670,6 @@
 0.0.0.0 skifowage.qpon
 0.0.0.0 skijoreafront.help
 0.0.0.0 skilfulsaturatematters.com
-0.0.0.0 skill-platform-prd.vivo.com.cn
 0.0.0.0 skillalums.cyou
 0.0.0.0 skillcharging.com
 0.0.0.0 skilletperonei.com
@@ -115835,7 +115827,6 @@
 0.0.0.0 st-fly.b-cdn.net
 0.0.0.0 st-n.ads3-adnow.com
 0.0.0.0 st-nlyss1.plala.or.jp
-0.0.0.0 st-sentinel.vivo.com.cn
 0.0.0.0 st-to-uv.com
 0.0.0.0 st-widget.s3.amazonaws.com
 0.0.0.0 st.anastasija.lt
@@ -116007,7 +115998,6 @@
 0.0.0.0 stapecdn.com
 0.0.0.0 stapespotherb.com
 0.0.0.0 stapledsaur.top
-0.0.0.0 stappupgrade.vivo.com.cn
 0.0.0.0 staqnet.com
 0.0.0.0 star-advertising.com
 0.0.0.0 star-clicks.com
@@ -118645,7 +118635,6 @@
 0.0.0.0 sumatang.com
 0.0.0.0 sumatoad.com
 0.0.0.0 sumbreta.com
-0.0.0.0 sumdiff.vivo.com.cn
 0.0.0.0 sumeformorede.org
 0.0.0.0 summa.h0dikim2n.ru
 0.0.0.0 summary.bookoffonline.co.jp

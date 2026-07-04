@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-07-03 20:55:28
-# 规则总数: 145747
+# 更新时间: 2026-07-04 02:06:49
+# 规则总数: 145736
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -14119,6 +14119,7 @@ domain, ads.lejuliang.com
 domain, ads.lemmatechnologies.com
 domain, ads.lesbianpersonals.com
 domain, ads.lingyuexiu.cn
+domain, ads.linkedin.cn
 domain, ads.linkedin.com
 domain, ads.livenation.com
 domain, ads.log.kafka.top
@@ -20499,7 +20500,6 @@ domain, appsrv4.madserving.com
 domain, appstorages.com
 domain, appstore.qzone.qq.com
 domain, appstoreort-stsdk.vivo.com.cn
-domain, appstorepnrt-stsdk.vivo.com.cn
 domain, appsupdate.sinaapp.com
 domain, appsupport.qq.com
 domain, appsupport.stargame.com
@@ -26763,7 +26763,6 @@ domain, brandaffinity.net
 domain, brandclik.com
 domain, branddnewcode1.me
 domain, brandlabs.ai
-domain, brandlog.vivo.com.cn
 domain, brandmovers-delivery.reviveservers.com
 domain, brandnewapp.pro
 domain, brandnewsnorted.com
@@ -27057,7 +27056,6 @@ domain, brooklynway.openapp.link
 domain, brookrivet.com
 domain, brooktollery.cfd
 domain, broonleetmen.help
-domain, brort.stsdk.vivo.com.cn
 domain, brosdefender.com
 domain, brostraffic.com
 domain, broth.s0uponwe2ther.ru
@@ -33576,7 +33574,6 @@ domain, connecthost.live
 domain, connectingadjusthospitality.com
 domain, connectingcurioustraced.com
 domain, connectingresort.com
-domain, connection-center.vivo.com.cn
 domain, connection.arrow.com
 domain, connection.verical.com
 domain, connectionhearddock.com
@@ -47213,6 +47210,7 @@ domain, etm-consult.de
 domain, etnomedia-static.reviveservers.com
 domain, etobeasasile.org
 domain, etoilesromance.cfd
+domain, etoolads.cn
 domain, etooqcedvlzyh.space
 domain, etoote.com
 domain, etop.ro
@@ -49070,7 +49068,6 @@ domain, fbzqfomrzgudj.online
 domain, fc-ccimage.baidu.com
 domain, fc-feed.cdn.bcebos.com
 domain, fc-id.sensic.net
-domain, fc-open-materiel.vivo.com.cn
 domain, fc.3dmgame.com
 domain, fc.gaizong.cn
 domain, fc.itmedia.co.jp
@@ -89819,7 +89816,6 @@ domain, omzbksdojksnt.online
 domain, omzkdhbltgcyi.website
 domain, omzwmjdqihtxs.website
 domain, omzylhvhwp.com
-domain, on-device-ai.vivo.com.cn
 domain, on.allposters.com
 domain, on.art.com
 domain, on.dextra.ch
@@ -90692,7 +90688,6 @@ domain, orsmfg.notino.de
 domain, orsqgxiuhkitm.website
 domain, orssgypxniykf.space
 domain, ort-stsdk.vivo.com.cn
-domain, ort.stsdk.vivo.com.cn
 domain, ortc.cc
 domain, orthalresshotfiant.qpon
 domain, orthantisabelartar.cyou
@@ -93247,7 +93242,6 @@ domain, perkyexcitedlyscenario.com
 domain, perkymodel.com
 domain, perkywin.pro
 domain, perlitebrandi.qpon
-domain, perm-api.vivo.com.cn
 domain, permanentillnessclever.com
 domain, permcresoxy.cfd
 domain, permdsllbsdem.xyz
@@ -97696,7 +97690,6 @@ domain, pwzxkpphqoeby.store
 domain, px-intl.ucweb.com
 domain, px.adfulplatform.com
 domain, px.adhigh.net
-domain, px.ads.linkedin.cn
 domain, px.ads.linkedin.com
 domain, px.blog.hu
 domain, px.derstandard.at
@@ -109677,7 +109670,6 @@ domain, skierjollyobsolete.com
 domain, skifowage.qpon
 domain, skijoreafront.help
 domain, skilfulsaturatematters.com
-domain, skill-platform-prd.vivo.com.cn
 domain, skillalums.cyou
 domain, skillcharging.com
 domain, skilletperonei.com
@@ -115835,7 +115827,6 @@ domain, st-adsgame.vivo.com.cn
 domain, st-fly.b-cdn.net
 domain, st-n.ads3-adnow.com
 domain, st-nlyss1.plala.or.jp
-domain, st-sentinel.vivo.com.cn
 domain, st-to-uv.com
 domain, st-widget.s3.amazonaws.com
 domain, st.anastasija.lt
@@ -116007,7 +115998,6 @@ domain, stape.net
 domain, stapecdn.com
 domain, stapespotherb.com
 domain, stapledsaur.top
-domain, stappupgrade.vivo.com.cn
 domain, staqnet.com
 domain, star-advertising.com
 domain, star-clicks.com
@@ -118645,7 +118635,6 @@ domain, sultrymomentarily.com
 domain, sumatang.com
 domain, sumatoad.com
 domain, sumbreta.com
-domain, sumdiff.vivo.com.cn
 domain, sumeformorede.org
 domain, summa.h0dikim2n.ru
 domain, summary.bookoffonline.co.jp
