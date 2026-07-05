@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-07-05 02:15:22
-# 规则总数: 145736
+# 更新时间: 2026-07-05 07:18:53
+# 规则总数: 145444
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -709,7 +709,6 @@ domain, 12.com
 domain, 12.cookcai.com
 domain, 12.notify.bizonads-ssp.com
 domain, 12.notifysrv.com
-domain, 120.226.10.195
 domain, 120.232.202.5
 domain, 120.232.202.6
 domain, 120.232.202.7
@@ -717,8 +716,6 @@ domain, 120.232.207.80
 domain, 120.232.210.151
 domain, 120.232.210.153
 domain, 120.232.210.155
-domain, 120.232.58.157
-domain, 120.232.6.158
 domain, 1200555.com
 domain, 1205qitiao2022.xyz
 domain, 1206q3-giqvvwa1jie9-017.cbhdmir.cn
@@ -10960,7 +10957,6 @@ domain, aametrics.aktia.fi
 domain, aamt.nbcnews.com
 domain, aamt.newsapp.telemundo.com
 domain, aamt.today.com
-domain, aan.amazon.com
 domain, aanalytics.adelaide.edu.au
 domain, aanetwork.vn
 domain, aanqylta.com
@@ -11019,8 +11015,6 @@ domain, aawdlvr.com
 domain, aawfewvoclrhp.online
 domain, aawspeedy.com
 domain, aax-eu.amazon-adsystem.com
-domain, aax-eu.amazon.com
-domain, aax-us-east.amazon-adsystem.com
 domain, aax.amazon-adsystem.com
 domain, aaxads.com
 domain, aaxlrghdrbiw.xyz
@@ -11280,7 +11274,6 @@ domain, ablink.info.timhortons.com
 domain, ablink.info.vida.com
 domain, ablink.juicer.li.me
 domain, ablink.kfc.com.au
-domain, ablink.kochava.com
 domain, ablink.lifecycle.onxmaps.com
 domain, ablink.loyal.timhortons.ca
 domain, ablink.loyal.timhortons.com
@@ -11510,11 +11503,9 @@ domain, abt.nike.com
 domain, abt.nl.bauhaus
 domain, abt.s3.yandex.net
 domain, abtamldv.com
-domain, abtasty.com
 domain, abtaurosa.club
 domain, abtauthprd.samsungcloudsolution.com
 domain, abtest-ch.snssdk.com
-domain, abtest.ai
 domain, abtest.alibaba.com
 domain, abtest.swrve.com
 domain, abtest.wtzw.com
@@ -11524,7 +11515,6 @@ domain, abtest3-misc-lf.zijieapi.com
 domain, abtest3-misc-lq.zijieapi.com
 domain, abtestvm.bytedance.com
 domain, abtfliping.top
-domain, abtk.pinduoduo.com
 domain, abtrcker.com
 domain, abtt.pufenchuanmu.com
 domain, abuaac.suzette-shop.jp
@@ -11765,7 +11755,6 @@ domain, accutrain.actonservice.com
 domain, accuzip.actonservice.com
 domain, accwww9.53kf.com
 domain, acdcdn.com
-domain, acdn.adnxs.com
 domain, acdn01.vidox.net
 domain, acdojsqocgvoj.online
 domain, acds-events.adobe.io
@@ -12153,6 +12142,7 @@ domain, ad-m.asia
 domain, ad-mapps.com
 domain, ad-maven.com
 domain, ad-miner.com
+domain, ad-monitor.huya.com
 domain, ad-monitor.sh9130.com
 domain, ad-ndtv.3s.com.vn
 domain, ad-nex.com
@@ -12235,7 +12225,6 @@ domain, ad.accessmediaproductions.com
 domain, ad.accesstrade.vn
 domain, ad.aceplanet.co.kr
 domain, ad.adhouyi.cn
-domain, ad.admitad.com
 domain, ad.adondemand.com
 domain, ad.afy11.net
 domain, ad.aidalan.com
@@ -12307,7 +12296,6 @@ domain, ad.dl.mainpost.de
 domain, ad.dl.mz.de
 domain, ad.dl.volksstimme.de
 domain, ad.dline.com.tr
-domain, ad.dm.gg
 domain, ad.dokrmob.com
 domain, ad.domainfactory.de
 domain, ad.donanimhaber.com
@@ -12467,7 +12455,6 @@ domain, ad.mediastorm.hu
 domain, ad.mesomorphosis.com
 domain, ad.mgd.de
 domain, ad.mi.com
-domain, ad.midongtech.com
 domain, ad.mnt123.com
 domain, ad.mobile.youku.com
 domain, ad.moe.video
@@ -12535,7 +12522,6 @@ domain, ad.rejichoice.jp
 domain, ad.reklamport.com
 domain, ad.reklm.com
 domain, ad.richmob.cn
-domain, ad.samsungadhub.com
 domain, ad.santa.lv
 domain, ad.scdn.io
 domain, ad.search.ch
@@ -12556,7 +12542,6 @@ domain, ad.slimspots.com
 domain, ad.slutload.com
 domain, ad.smaad.jp
 domain, ad.smaato.net
-domain, ad.smartadserver.com
 domain, ad.smartclip.net
 domain, ad.sohu.com
 domain, ad.spielothek.so
@@ -12583,6 +12568,7 @@ domain, ad.tianmu.mobi
 domain, ad.tk.cn
 domain, ad.toutiao.com
 domain, ad.tpmn.co.kr
+domain, ad.track.66mobi.com
 domain, ad.tradertimerz.media
 domain, ad.tubelegion.com
 domain, ad.turn.com
@@ -13556,7 +13542,6 @@ domain, adnet.qq.com
 domain, adnet.ru
 domain, adnet.sohu.com
 domain, adnetpub.yaolan.com
-domain, adnetstatic.vivo.com.cn
 domain, adnetworkperformance.com
 domain, adnetwrk.com
 domain, adnew.wifi8.com
@@ -13858,7 +13843,6 @@ domain, ads-delivery.gameforge.com
 domain, ads-delivery.gunosy.com
 domain, ads-dev.pinterest.com
 domain, ads-dot-fbc-web-2018.uc.r.appspot.com
-domain, ads-dot.midongtech.com
 domain, ads-drcn.platform.hihonorcloud.com
 domain, ads-gdl.imovideo.ru
 domain, ads-image.production-public.tubi.io
@@ -13870,8 +13854,6 @@ domain, ads-jp.tiktok.com
 domain, ads-lb.serving-sys.cn
 domain, ads-leaseweb.appsgeyser.com
 domain, ads-marketing-vivofs.vivo.com.cn
-domain, ads-mas-us.vivobrowser.com
-domain, ads-mas.vivobrowser.com
 domain, ads-media.gameforge.com
 domain, ads-partners.coupang.com
 domain, ads-pixiv.net
@@ -13988,7 +13970,6 @@ domain, ads.cungcau.vn
 domain, ads.cup.com.cn
 domain, ads.cybersales.cz
 domain, ads.dada.it
-domain, ads.dailymotion.com
 domain, ads.dandelionchocolate.jp
 domain, ads.datateam.co.uk
 domain, ads.daydaycook.com.cn
@@ -14119,7 +14100,6 @@ domain, ads.lejuliang.com
 domain, ads.lemmatechnologies.com
 domain, ads.lesbianpersonals.com
 domain, ads.lingyuexiu.cn
-domain, ads.linkedin.cn
 domain, ads.linkedin.com
 domain, ads.livenation.com
 domain, ads.log.kafka.top
@@ -14134,7 +14114,6 @@ domain, ads.mediaodyssey.com
 domain, ads.medienhaus.de
 domain, ads.metropolis.co.jp
 domain, ads.microsoft.com
-domain, ads.midongtech.com
 domain, ads.mmania.com
 domain, ads.mobilityware.com
 domain, ads.mobvertising.net
@@ -14628,8 +14607,6 @@ domain, adsmind.gdtimg.com
 domain, adsmind.gdtimg.com.svideolego-dk.sched.dcloudstc.com
 domain, adsmind.tc.qq.com
 domain, adsmind.ugdtimg.com
-domain, adsmind.ugdtimg.com.svideolego-dk.sched.dcloudstc.com
-domain, adsmind.ugdtimg.com.tcdn.qq.com
 domain, adsmo.ru
 domain, adsmogo.com
 domain, adsmoloco.com
@@ -14692,7 +14669,6 @@ domain, adsrvr.org
 domain, adss.dotdo.net
 domain, adss.video.qq.com
 domain, adss.yahoo.com
-domain, adsserver.yadro.ru
 domain, adstag0102.xyz
 domain, adstage-analytics.herokuapp.com
 domain, adstat.4u.pl
@@ -14745,7 +14721,6 @@ domain, adsy.mail.bg
 domain, adsymptotic.com
 domain, adsynergy.com
 domain, adsys.chinacloudapp.cn
-domain, adsys.nineton.cn
 domain, adsys.sinovision.net
 domain, adsys.townnews.com
 domain, adsystem.simplemachines.org
@@ -14913,7 +14888,6 @@ domain, adv-front.devpnd.com
 domain, adv-img.edilportale.com
 domain, adv-sv-show.focus.cn
 domain, adv-sv-stat.focus.cn
-domain, adv.adriver.ru
 domain, adv.anhsangvacuocsong.vn
 domain, adv.api.mucfc.com
 domain, adv.app.qq.com
@@ -15552,7 +15526,6 @@ domain, afloatpantplayer.com
 domain, aflxrrwjninvc.website
 domain, afm01.com
 domain, afmfaaoswjfdl.online
-domain, afminer.com
 domain, afmrmyacgrvqq.store
 domain, afmuaatkgvhtq.website
 domain, afmvms.dealdash.com
@@ -15726,7 +15699,6 @@ domain, aggregatedcompetitivefrock.com
 domain, aggregateknowledge.com
 domain, aggregationdestructoppression.com
 domain, aggregationmodest.com
-domain, aggregator.service.usercentrics.eu
 domain, aggressive-door.pro
 domain, aggressivecomfort.pro
 domain, aggressiveinformation.pro
@@ -17176,7 +17148,6 @@ domain, amphibian.tboa.club
 domain, amphidnamable.cyou
 domain, ample-speaker.pro
 domain, amplify.madison365.com
-domain, amplify.outbrain.com
 domain, amplifypixel.outbrain.com
 domain, amplilab.thepure.app
 domain, amplitude-experiment.bandlab.com
@@ -17485,7 +17456,6 @@ domain, analytics.alrajhibank.com.sa
 domain, analytics.amakings.com
 domain, analytics.americanfunds.com
 domain, analytics.amig.com
-domain, analytics.amplitude.com
 domain, analytics.analytics-egain.com
 domain, analytics.andisearch.com
 domain, analytics.andrewsmith.com.au
@@ -18130,7 +18100,6 @@ domain, analytics.turk.pro
 domain, analytics.turnertv.com
 domain, analytics.tv189.cn
 domain, analytics.tver.jp
-domain, analytics.twitter.com
 domain, analytics.ubports.com
 domain, analytics.ubs.com
 domain, analytics.uhhospitals.org
@@ -18532,7 +18501,6 @@ domain, anqqvcthxh.xyz
 domain, anquan.baidu.com
 domain, anquan.org
 domain, anr8p.windc0ve.ru
-domain, anrdoezrs.net
 domain, anreson.net
 domain, anrfvqiycrybr.store
 domain, ans.avast.com
@@ -18970,9 +18938,7 @@ domain, api.adv.ott.cibntv.net
 domain, api.adxnow.com
 domain, api.afdback.ppsimg.com
 domain, api.ahjinshu.com
-domain, api.airbrake.io
 domain, api.aloparatoriuz.com
-domain, api.amplitude.com
 domain, api.amplitudeexperiment.com
 domain, api.android.dianru.com
 domain, api.anti.wauee.com
@@ -18993,13 +18959,11 @@ domain, api.arity.com
 domain, api.autopilothq.com
 domain, api.axept.io
 domain, api.bailingjiankang.com
-domain, api.bcovlive.io
 domain, api.bitcoinusdtusdc.xyz
 domain, api.bitp.it
 domain, api.blackcrow.ai
 domain, api.bluerunningshadow.com
 domain, api.boclinkads.com
-domain, api.branch.io
 domain, api.brandlabs.ai
 domain, api.brokenchairlaugh.com
 domain, api.brs.intl.miui.com
@@ -19014,7 +18978,6 @@ domain, api.cid.samba.tv
 domain, api.clickaine.com
 domain, api.cmt.mob.com
 domain, api.coolguang.com
-domain, api.crashlytics.com
 domain, api.croct.io
 domain, api.cupid.iqiyi.com
 domain, api.cupid.qiyi.com
@@ -19046,7 +19009,6 @@ domain, api.faba.pw
 domain, api.fanqiesdk.com
 domain, api.fastmoonclimbed.com
 domain, api.files.link
-domain, api.flagsmith.com
 domain, api.floatingcarforgotten.com
 domain, api.flocktory.com
 domain, api.flygame.io
@@ -19067,7 +19029,6 @@ domain, api.growingio.com
 domain, api.hellknight.xyz
 domain, api.higame.hismarttv.com
 domain, api.hismarttv.com
-domain, api.honeybadger.io
 domain, api.hpplay.com.cn
 domain, api.hrshuke.cn
 domain, api.htp.hubcloud.com.cn
@@ -19077,7 +19038,6 @@ domain, api.iapps.ifeng.com
 domain, api.iegadp.qq.com
 domain, api.iimedia.cn
 domain, api.ijunhai.com
-domain, api.impact.com
 domain, api.installer.xiaomi.com
 domain, api.instant.one
 domain, api.intensifier.de
@@ -19095,7 +19055,6 @@ domain, api.kickoffo.site
 domain, api.kingdata.ksyun.com
 domain, api.koudaikj.com
 domain, api.kwaizt.com
-domain, api.launchdarkly.com
 domain, api.leadbolt.net
 domain, api.learnings.ai
 domain, api.liumingye.cn
@@ -19133,7 +19092,6 @@ domain, api.playlet.qq.com
 domain, api.plyair.com
 domain, api.ppoi.org
 domain, api.primecaster.net
-domain, api.privacy-center.org
 domain, api.pubfinity.com
 domain, api.push.daoyoudao.com
 domain, api.push.le.com
@@ -19141,20 +19099,16 @@ domain, api.qcmm07.com
 domain, api.qttunion.com
 domain, api.qvpublish.com
 domain, api.ra2.xlmc.sec.miui.com
-domain, api.raygun.io
 domain, api.rees46.com
 domain, api.revenuads.com
 domain, api.rideraid.net
-domain, api.rlcdn.com
 domain, api.robquiz.com
-domain, api.rollbar.com
 domain, api.rtnews.pro
 domain, api.rvere.com
 domain, api.ryanyao.design
 domain, api.sa.hismarttv.com
 domain, api.sae.systems
 domain, api.scwsf.com
-domain, api.segment.io
 domain, api.shanghailingye.cn
 domain, api.share.mob.com
 domain, api.shinybirdwhispered.com
@@ -19173,7 +19127,6 @@ domain, api.subiz.com.vn
 domain, api.subiz.net
 domain, api.subiz.xyz
 domain, api.sve.cc
-domain, api.taboola.com
 domain, api.taboola.sve.cc
 domain, api.taggrs.io
 domain, api.telemetry.watchabc.go.com
@@ -19190,7 +19143,6 @@ domain, api.ujian.cc
 domain, api.umengcn.org
 domain, api.uniplayad.com
 domain, api.us.hismarttv.com
-domain, api.usercentrics.eu
 domain, api.userstyles.org
 domain, api.valuemedia-ltd.com
 domain, api.verify.mob.com
@@ -19224,7 +19176,6 @@ domain, api01pbmp.zhuishushenqi.com
 domain, api02u58f.zhuishushenqi.com
 domain, api1.kwaixiaodian.com
 domain, api168168.com
-domain, api2.amplitude.com
 domain, api2.appsflyer.com
 domain, api2.boclinkads.com
 domain, api2.branch.io
@@ -19268,7 +19219,6 @@ domain, apipub.oumma.com
 domain, apiqqmug.atendimentozm.com
 domain, apirasutexruk.website
 domain, apis.4bn.xyz
-domain, apis.google.com
 domain, apis301.com
 domain, apischedule.ksyungslb.com
 domain, apisensor.actonservice.com
@@ -19315,7 +19265,6 @@ domain, apm.suning.cn
 domain, apm.tnet.nl
 domain, apm.yahoo.co.jp
 domain, apmcx60sm5.com
-domain, apmebf.com
 domain, apmplus.ap-southeast-1.volces.com
 domain, apmplus.volces.com
 domain, apmtihukajqmjxd.xyz
@@ -19412,7 +19361,6 @@ domain, app.accelerate.zoominfo.com
 domain, app.acekuwait.com
 domain, app.acm.dzwww.com
 domain, app.activityhero.com
-domain, app.adjust.com
 domain, app.adjust.io
 domain, app.advertisingsolutions.att-mail.com
 domain, app.airtrack.jp
@@ -19532,7 +19480,6 @@ domain, app.connect.vmware.com
 domain, app.connect.wgbh.org
 domain, app.connect.wgby.org
 domain, app.connections.te.com
-domain, app.convertkit.com
 domain, app.cookdtv.com
 domain, app.corp.tableausoftware.com
 domain, app.coto.world
@@ -19821,7 +19768,6 @@ domain, app.lacr.motorolasolutions.com
 domain, app.lamy-liaisons.fr
 domain, app.lark.com
 domain, app.latrobehealth.com.au
-domain, app.launchdarkly.com
 domain, app.lawnlove.com
 domain, app.leadership.kenblanchard.com
 domain, app.leadsrx.com
@@ -19834,7 +19780,6 @@ domain, app.levi.com
 domain, app.libertyfirstcreditunionarena.com
 domain, app.libertyflames.com
 domain, app.libre.org
-domain, app.link
 domain, app.link.livibank.com
 domain, app.link.nba.com
 domain, app.livechatoo.com
@@ -19954,7 +19899,6 @@ domain, app.payomatic.com
 domain, app.payon.mn
 domain, app.pbr.com
 domain, app.pdf.ac
-domain, app.pendo.io
 domain, app.pennathletics.com
 domain, app.perk9parcel.coupons
 domain, app.pethoops.com
@@ -20168,7 +20112,6 @@ domain, app.update.vodafone.co.uk
 domain, app.updates.digicert.com
 domain, app.usajaguars.com
 domain, app.usctrojans.com
-domain, app.usercentrics.eu
 domain, app.utlob.com
 domain, app.utrockets.com
 domain, app.uu.cc
@@ -21340,7 +21283,6 @@ domain, assets.gametools.win
 domain, assets.garron.blog
 domain, assets.garron.me
 domain, assets.harafunnel.com
-domain, assets.mailerlite.com
 domain, assets.mikeroulston.com
 domain, assets.modeathletics.com
 domain, assets.modehypertext.com
@@ -21664,7 +21606,6 @@ domain, atropicdarius.cfd
 domain, ats.alot.com
 domain, ats.auction.co.kr
 domain, ats.otto.de
-domain, ats.rlcdn.com
 domain, atservineor.com
 domain, atsg.me
 domain, atsgiu.icu
@@ -21732,7 +21673,6 @@ domain, attractive-external.pro
 domain, attractivecutier9t3.com
 domain, attractivereception.com
 domain, attrapincha.com
-domain, attri.mobi
 domain, attributedconcernedamendable.com
 domain, attributedrelease.com
 domain, attribution.airbridge.io
@@ -21817,7 +21757,6 @@ domain, audiotouch.info
 domain, audiovisionworks.com
 domain, audit.303br.net
 domain, audit.median.hu
-domain, audit.quantcast.mgr.consensu.org
 domain, audit.shaa.it
 domain, audit.webinform.hu
 domain, auditioneasterhelm.com
@@ -22215,7 +22154,6 @@ domain, awheecethe.net
 domain, awheelboxes.world
 domain, awhiledad.com
 domain, awhilediplomagloss.com
-domain, awin1.com
 domain, awiqjcfwgywqm.site
 domain, awirjmnjqvtqyh.com
 domain, awistats.com
@@ -23116,7 +23054,6 @@ domain, badge.b2ckymembe7.ru
 domain, badgegirdle.com
 domain, badger.pager.app
 domain, badgerjeff.com
-domain, badges.instagram.com
 domain, badirectoryz.carte-gr.total.fr
 domain, badjocks.com
 domain, badjs.qq.com
@@ -23295,7 +23232,6 @@ domain, balphyra.com
 domain, balsamosprenge.qpon
 domain, balvalur.com
 domain, balvehgmhw.com
-domain, bam-cell.nr-data.net
 domain, bam.nr-data.net
 domain, bamautzky.de
 domain, bambansufi.shop
@@ -23417,7 +23353,6 @@ domain, banneroctober.store
 domain, bannerpower.com
 domain, banners-cdn77.trafficfactory.biz
 domain, banners-slb.mobile.yandex.net
-domain, banners.adfox.ru
 domain, banners.adultfriendfinder.com
 domain, banners.alt.com
 domain, banners.amigos.com
@@ -23899,7 +23834,6 @@ domain, bctt.igaming-service.io
 domain, bctuafpdwarbm.site
 domain, bcugzudit.com
 domain, bcusuopfexyrv.net
-domain, bcvp0rtal.com
 domain, bcwljq.batteryempire.de
 domain, bcwpdvigokzca.space
 domain, bcxauquczqgci.site
@@ -25274,7 +25208,6 @@ domain, bitcasino365.b-cdn.net
 domain, bitclub.network
 domain, bitclubnetwork.com
 domain, bitcoin-cashcard.com
-domain, bitcoinplus.com
 domain, bitdragonapp.monster
 domain, bite.softp1ne.ru
 domain, bite.theta.sogoucdn.com
@@ -25918,7 +25851,6 @@ domain, bnc.chewchunks.com
 domain, bnc.citylink.ro
 domain, bnc.cityscope.media
 domain, bnc.findlife.com.tw
-domain, bnc.lt
 domain, bnc.luxurysportsrelocation.com
 domain, bnc.mksp.io
 domain, bnc.oustme.com
@@ -27474,7 +27406,6 @@ domain, bugs01231ko.com
 domain, bugs2022.com
 domain, bugscrawled.com
 domain, bugshasrub.cyou
-domain, bugsnag.com
 domain, bugsnag.shopbop.amazon.dev
 domain, bugtags.com
 domain, bugweedsewnthegns.cfd
@@ -28094,7 +28025,6 @@ domain, c.ads.rgyun.com
 domain, c.albss.com
 domain, c.algovid.com
 domain, c.amazinglybrilliant.com.au
-domain, c.amazon-adsystem.com
 domain, c.anmeilai.net
 domain, c.aquaservice.com
 domain, c.arstechnica.com
@@ -28108,10 +28038,8 @@ domain, c.betrad.com
 domain, c.bidtoolads.com
 domain, c.bigcomics.bid
 domain, c.bigmir.net
-domain, c.bing.com
 domain, c.bloblohub.com
 domain, c.bxb.oupeng.com
-domain, c.clarity.ms
 domain, c.cnzz.com
 domain, c.codeonclick.com
 domain, c.corriere.it
@@ -28947,7 +28875,6 @@ domain, captorsunricht.cyou
 domain, capture-api.ap3prod.com
 domain, capture.condenastdigital.com
 domain, capture.norm0care.com
-domain, capture.trackjs.com
 domain, captureinsolenceexamine.com
 domain, capturescaldsomewhat.com
 domain, captureukdmyatyten.org
@@ -29509,7 +29436,6 @@ domain, cczepkzqknflg.website
 domain, ccztgy.elgiganten.dk
 domain, cd.bendibao.com
 domain, cd.chemistanddruggist.co.uk
-domain, cd.connatix.com
 domain, cd2bkmz3rz.com
 domain, cd5685662d.com
 domain, cd717179d0.569f43f295.com
@@ -29585,7 +29511,6 @@ domain, cdn-media.brightline.tv
 domain, cdn-new-ad.wtzw.com
 domain, cdn-new-ad.wtzw.com.g4.bdydns.com
 domain, cdn-partners-references.lesoir.be
-domain, cdn-pci.optimizely.com
 domain, cdn-pic.com
 domain, cdn-plugin-sync-upgrade-juui.hismarttv.com
 domain, cdn-px-v1.metrix.az
@@ -29609,7 +29534,6 @@ domain, cdn.5bong.com
 domain, cdn.7nsc.cn
 domain, cdn.9823df.com
 domain, cdn.9gtb.com
-domain, cdn.abtest.ai
 domain, cdn.ad-platform.jmty.jp
 domain, cdn.ad.page
 domain, cdn.adapi.fotoable.com
@@ -29638,7 +29562,6 @@ domain, cdn.alistcloud.com
 domain, cdn.aliwjo.com
 domain, cdn.almacz.com
 domain, cdn.alota.xyz
-domain, cdn.amplitude.com
 domain, cdn.anyshare.icu
 domain, cdn.app.kachapt.cn
 domain, cdn.app.liuxingyul.cn
@@ -29662,7 +29585,6 @@ domain, cdn.bhlph.com
 domain, cdn.biff.travel
 domain, cdn.bnmkl.com
 domain, cdn.borhaj.com
-domain, cdn.branch.io
 domain, cdn.buram.xyz
 domain, cdn.c-i.as
 domain, cdn.caahwq.com
@@ -29678,11 +29600,9 @@ domain, cdn.cloudvideosa.com
 domain, cdn.cmgadx.com
 domain, cdn.cmop.mgtv.com
 domain, cdn.comedia.coccoc.com
-domain, cdn.configcat.com
 domain, cdn.conservativestar.com
 domain, cdn.content-hoster.xyz
 domain, cdn.cooguo.com
-domain, cdn.cookielaw.org
 domain, cdn.cpex.cz
 domain, cdn.creative-bars1.com
 domain, cdn.crsope.com
@@ -29739,7 +29659,6 @@ domain, cdn.hamwo.cloud
 domain, cdn.hanaya-m.com
 domain, cdn.haocaa.com
 domain, cdn.headlinesmart.com
-domain, cdn.heapanalytics.com
 domain, cdn.hhjow.com
 domain, cdn.hhmako.cloud
 domain, cdn.hip-97166b.com
@@ -29779,7 +29698,6 @@ domain, cdn.jllstudio.com
 domain, cdn.jquery-cdn.cc
 domain, cdn.js.fpaudience.com
 domain, cdn.jwalf.com
-domain, cdn.jwplayer.com
 domain, cdn.kaizenplatform.net
 domain, cdn.karpatzi.com
 domain, cdn.keajs.com
@@ -29796,8 +29714,6 @@ domain, cdn.leightonbroadcasting.com
 domain, cdn.liftoff-creatives.io
 domain, cdn.lodeo.io
 domain, cdn.logbase.io
-domain, cdn.logrocket.io
-domain, cdn.lr-ingest.com
 domain, cdn.lu.sogoucdn.com
 domain, cdn.luckyorange.com
 domain, cdn.luyten-98c.com
@@ -29824,7 +29740,6 @@ domain, cdn.mouseflow.com
 domain, cdn.mtinsqq.com
 domain, cdn.munilf.com
 domain, cdn.mwrgi.com
-domain, cdn.mxpnl.com
 domain, cdn.myadsmyanmar.com
 domain, cdn.mypcbackup.com
 domain, cdn.namol.xyz
@@ -29844,9 +29759,7 @@ domain, cdn.npcta.xyz
 domain, cdn.numberworld.org
 domain, cdn.nuqwe.com
 domain, cdn.odoscope.cloud
-domain, cdn.onetrust.com
 domain, cdn.optaim.com
-domain, cdn.optimizely.com
 domain, cdn.optmn.cloud
 domain, cdn.optoutadvertising.com
 domain, cdn.orjfun.com
@@ -29854,12 +29767,10 @@ domain, cdn.outfit7.com
 domain, cdn.ovqds.com
 domain, cdn.paluinho.cloud
 domain, cdn.pctv.xyz
-domain, cdn.pendo.io
 domain, cdn.personare.com.br
 domain, cdn.pfiuyt.com
 domain, cdn.pinktriangle.ca
 domain, cdn.piuyt.com
-domain, cdn.piwik.pro
 domain, cdn.pllah.com
 domain, cdn.plmwsl.com
 domain, cdn.plrst.com
@@ -29869,7 +29780,6 @@ domain, cdn.popmyads.com
 domain, cdn.posawaj.com
 domain, cdn.powerinboxedge.com
 domain, cdn.pranmcpkx.com
-domain, cdn.privacy-mgmt.com
 domain, cdn.ptomw.com
 domain, cdn.puata.info
 domain, cdn.puyjjq.com
@@ -29880,10 +29790,8 @@ domain, cdn.qgerr.com
 domain, cdn.quagfa.com
 domain, cdn.rapolok.com
 domain, cdn.rausfml.com
-domain, cdn.ravenjs.com
 domain, cdn.ravm.tv
 domain, cdn.rawqel.com
-domain, cdn.raygun.io
 domain, cdn.read.html5.qq.com
 domain, cdn.responsiq.com
 domain, cdn.revive-adserver.net
@@ -29893,15 +29801,12 @@ domain, cdn.rlets.com
 domain, cdn.rlnads.net
 domain, cdn.roemoss.com
 domain, cdn.rofant.com
-domain, cdn.rollbar.com
 domain, cdn.rqwel.com
 domain, cdn.rtyufo.com
 domain, cdn.samsungcloudsolution.net
 domain, cdn.sblhp.com
 domain, cdn.scdng.com
 domain, cdn.sdtraff.com
-domain, cdn.segment.com
-domain, cdn.segment.io
 domain, cdn.semifinal-matching.coupons
 domain, cdn.sentinelp.com
 domain, cdn.seonintelligence.com
@@ -29916,10 +29821,7 @@ domain, cdn.soulapp.cn
 domain, cdn.sov.stream
 domain, cdn.sp.rizhao9.com
 domain, cdn.sphinxtube.com
-domain, cdn.split.io
 domain, cdn.spnut.com
-domain, cdn.spotxcdn.com
-domain, cdn.springserve.com
 domain, cdn.srxy.xyz
 domain, cdn.sslph.com
 domain, cdn.stat-track.com
@@ -29927,7 +29829,6 @@ domain, cdn.stoic-media.com
 domain, cdn.stray228.com
 domain, cdn.sy-d.io
 domain, cdn.syinga.com
-domain, cdn.taboola.com
 domain, cdn.tagbox.io
 domain, cdn.tahwox.com
 domain, cdn.tazlo.cloud
@@ -29957,7 +29858,6 @@ domain, cdn.vinit.cloud
 domain, cdn.viowrel.com
 domain, cdn.vonkol.com
 domain, cdn.vue-js.cyou
-domain, cdn.vwo.com
 domain, cdn.wasp-182b.com
 domain, cdn.weiye.net
 domain, cdn.wenzhangba.cn
@@ -30114,7 +30014,6 @@ domain, cdwmpt.com
 domain, cdwmtt.com
 domain, cdwqxjtpptrxm.online
 domain, cdyqc.com
-domain, ce.lijit.com
 domain, ce.x-opt.io
 domain, ce2b8dz.com
 domain, ce4f19e315.com
@@ -30299,7 +30198,6 @@ domain, cert-test.sandbox.google.com
 domain, certainwolveshonestly.com
 domain, certiechipsmiled.cyou
 domain, certifiedblob.com
-domain, certify.alexametrics.com
 domain, certify.nasm.org
 domain, certjnrvy.com
 domain, certona.net
@@ -31753,7 +31651,6 @@ domain, click.e.tdbank.com
 domain, click.eclk.club
 domain, click.eclkxopteam.com
 domain, click.ecxclk.com
-domain, click.em.pardot.com
 domain, click.em.soothe.com
 domain, click.email.houndapp.com
 domain, click.email.soundhound.com
@@ -31794,12 +31691,10 @@ domain, click.kataweb.it
 domain, click.kmindex.ru
 domain, click.lenovo.com
 domain, click.liftoff.io
-domain, click.linksynergy.com
 domain, click.lmbcustomersupport.com
 domain, click.mail.carousell.com
 domain, click.mail.thecarousell.com
 domain, click.mail.theknot.com
-domain, click.mailerlite.com
 domain, click.mainexclkdir.com
 domain, click.mainexdircllk.com
 domain, click.mainexpclkdir.com
@@ -31907,7 +31802,6 @@ domain, clickprotects.com
 domain, clickpunch.icu
 domain, clickpupbit.com
 domain, clicks.6thstreet.com
-domain, clicks.aweber.com
 domain, clicks.beap.bc.yahoo.com
 domain, clicks.burgerking.co.uk
 domain, clicks.dealer.com
@@ -32011,7 +31905,6 @@ domain, clients.belairdirect.com
 domain, clients.hermes-investment.com
 domain, clients.intact.ca
 domain, clients.nbc-insurance.ca
-domain, clientservices.googleapis.com
 domain, clientslaugh.com
 domain, clifads.com
 domain, cliff-side-sync.brightcliff.in.net
@@ -32342,7 +32235,6 @@ domain, cm.downloader.commercial.kuaishou.com
 domain, cm.e.qq.com
 domain, cm.eyereturn.com
 domain, cm.fancyapi.com
-domain, cm.g.doubleclick.net
 domain, cm.informaengage.com
 domain, cm.jd.com
 domain, cm.kwad.com
@@ -32406,7 +32298,6 @@ domain, cmp.lemonde.fr
 domain, cmp.lepoint.fr
 domain, cmp.netzwelt.de
 domain, cmp.nouvelobs.com
-domain, cmp.quantcast.com
 domain, cmp.tek.no
 domain, cmp.telerama.fr
 domain, cmp.vidcoin.com
@@ -32531,7 +32422,6 @@ domain, cnfxflakkwavih.xyz
 domain, cngbpl.directliquidation.com
 domain, cnhbxx.com
 domain, cnhsocial-brasil.online
-domain, cnhv.co
 domain, cnicusoxbowtermite.cfd
 domain, cnimpsil.com
 domain, cnjikkiehkpea.site
@@ -32788,7 +32678,6 @@ domain, coilerssneezer.cfd
 domain, coin-api.y5coin.com
 domain, coin-have.com
 domain, coin-hive-proxy-ybydcnjgkl.now.sh
-domain, coin-hive-proxy.com
 domain, coin-hive.com
 domain, coinad.media
 domain, coinadster.com
@@ -32796,10 +32685,7 @@ domain, coinblind.com
 domain, coinerra.com
 domain, coinersnubby.help
 domain, coinhive-manager.com
-domain, coinhive-proxy.com
 domain, coinhive.com
-domain, coinhiveproxy.com
-domain, coinimp.com
 domain, coinio.cc
 domain, coinmarketcaps.cfd
 domain, coinminerz.com
@@ -33388,7 +33274,6 @@ domain, config.ioam.de
 domain, config.kuyun.com
 domain, config.mobisage.cn
 domain, config.push.sogou.com
-domain, config.samsungads.com
 domain, config.toto.zipoapps.com
 domain, config.unityads.unity3d.com
 domain, config2.mparticle.com
@@ -33468,7 +33353,6 @@ domain, connect.dexterchaney.com
 domain, connect.digi.com
 domain, connect.dimensiondata.com
 domain, connect.evocalize.com
-domain, connect.facebook.net
 domain, connect.flowroute.com
 domain, connect.frontier.com
 domain, connect.fwd.hcahealthcare.com
@@ -33578,7 +33462,6 @@ domain, connection.arrow.com
 domain, connection.verical.com
 domain, connectionhearddock.com
 domain, connectionsdivide.com
-domain, connectivitycheck.vivo.com.cn
 domain, connectlp.keysight.com
 domain, connectmychart.goziohealth.com
 domain, connectoritineraryswimming.com
@@ -33606,15 +33489,10 @@ domain, conscomms.com
 domain, conseil.seicgland.ch
 domain, conseils.dotbase.com
 domain, consensusarticles.com
-domain, consent-api.exponential.com
-domain, consent-pref.trustarc.com
 domain, consent.clientemais.paodeacucar.com
-domain, consent.cookiebot.com
 domain, consent.cookiefirst.com
 domain, consent.easybrain.com
 domain, consent.online.paodeacucar.com
-domain, consent.trustarc.com
-domain, consentcdn.cookiebot.com
 domain, consequencerelic.com
 domain, consequentlyvisithector.com
 domain, conservefelt.com
@@ -33693,7 +33571,6 @@ domain, consumeairlinercalligraphy.com
 domain, consumer.equifax.com
 domain, consumer.fumblingvacation.pro
 domain, consumer.inform.equifax.com
-domain, consumer.krxd.net
 domain, consuteflyway.qpon
 domain, contact-gloss-production.accelerator.net
 domain, contact-us.adp.ca
@@ -33853,7 +33730,6 @@ domain, contents.pwc.com
 domain, contentspotions.com
 domain, contestjoe.com
 domain, context.hotline.ua
-domain, contextual.media.net
 domain, contextweb.com
 domain, contineljs.com
 domain, continentalgroup.net.in
@@ -33875,8 +33751,6 @@ domain, contributionabdicatemoral.com
 domain, contributorshaveangry.com
 domain, contriveddisparage.com
 domain, control-zoo-dai-default.tvinteractive.tv
-domain, control.adjust.com
-domain, control.kochava.com
 domain, control.tvinteractive.tv
 domain, control2.tvinteractive.tv
 domain, controlaffliction.com
@@ -33964,7 +33838,6 @@ domain, cookieless-data.com
 domain, cookiemapping.wrating.com
 domain, cookiemon-analytics.azurewebsites.net
 domain, cookies-adobe.kbc.be
-domain, cookies-data.onetrust.io
 domain, cookies-sfs.siemens.com
 domain, cookies.cmpnet.com
 domain, cookies.ec4u.com
@@ -34601,7 +34474,6 @@ domain, cpu-admin.baidu.com
 domain, cpu-api.infor.pl
 domain, cpu-openapi.baidu.com
 domain, cpu.baidu.com
-domain, cpu.js.org
 domain, cpubwwactk.xyz
 domain, cpucdn.baidu.com
 domain, cpueaimrtggmd.space
@@ -35173,7 +35045,6 @@ domain, cryptershgs.lovestoblog.com
 domain, cryptertyyu.42web.io
 domain, crypticrallye.com
 domain, crypto-ads.net
-domain, crypto-loot.com
 domain, crypto-loot.org
 domain, crypto-o.click
 domain, crypto.egghead.link
@@ -35181,8 +35052,6 @@ domain, cryptoatom.care
 domain, cryptobeneluxbanner.care
 domain, cryptobuffet.care
 domain, cryptojimmy.care
-domain, cryptoloot.org
-domain, cryptoloot.pro
 domain, cryptomaster.care
 domain, cryptomcw.com
 domain, cryptonewsdom.care
@@ -35670,7 +35539,6 @@ domain, customercare.aircycle.com
 domain, customerevents.dradis.netflix.com
 domain, customerevents.netflix.com
 domain, customerexperience.verintsystemsinc.com
-domain, customeriomail.com
 domain, customernormallyseventh.com
 domain, customerrelations.theinstitutes.org
 domain, customers-capitalbank-jo-877029.p06.elqsandbox.com
@@ -39944,7 +39812,6 @@ domain, dev.runtimeflow.net
 domain, dev.smartrbuyer.com
 domain, dev.sswt.co
 domain, dev.tg.youxi.com
-domain, dev.visualwebsiteoptimizer.com
 domain, devacton.simpleviewinc.com
 domain, devaluequalmrelative.com
 domain, devastatedleech.com
@@ -40431,7 +40298,6 @@ domain, didi8975.com
 domain, dididy.xyz
 domain, didmakingby.xyz
 domain, didna.io
-domain, didomi.io
 domain, didosegba.com
 domain, didptkzemmkrr.website
 domain, didrichornero.cfd
@@ -42308,7 +42174,6 @@ domain, dp45nhyltt487.cloudfront.net
 domain, dp94m8xzwqsjk.cloudfront.net
 domain, dpb3g4kqr8xz.cloudfront.net
 domain, dpbgnf.xyz
-domain, dpbolvw.net
 domain, dpcgdnvvcysuo.website
 domain, dpckzt.mesrecettesfaciles.fr
 domain, dpcythtqehtbu.website
@@ -44590,13 +44455,11 @@ domain, edge-cache2.perkparcel.coupons
 domain, edge-mobile-static.azureedge.net.iberostar.com
 domain, edge.ads.twitch.tv
 domain, edge.afco.com
-domain, edge.api.flagsmith.com
 domain, edge.bell.ca
 domain, edge.bigbrothercanada.ca
 domain, edge.bridgetrusttitle.com
 domain, edge.cafo.com
 domain, edge.foodnetwork.ca
-domain, edge.fullstory.com
 domain, edge.globaltv.com
 domain, edge.grandbridge.com
 domain, edge.hgtv.ca
@@ -45775,7 +45638,6 @@ domain, email-mandrill.id90travel.com
 domain, email-marketo.branch.rocks
 domain, email-messagegears.branch.rocks
 domain, email-moengage.branch.rocks
-domain, email-open.dripemail2.com
 domain, email-rapidmail.branch.rocks
 domain, email-sailthru.branch.io
 domain, email-selligent.branch.rocks
@@ -45834,7 +45696,6 @@ domain, email.everyonesocial.unity.com
 domain, email.festiva.com
 domain, email.floatme.io
 domain, email.fretello.com
-domain, email.getresponse.com
 domain, email.goodrx.com
 domain, email.happ.social
 domain, email.headsuphealth.com
@@ -45845,7 +45706,6 @@ domain, email.link.flipgive.com
 domain, email.lottehotel.com
 domain, email.luminpdf.com
 domain, email.mail.floatme.io
-domain, email.mailgun.net
 domain, email.member.theknot.com
 domain, email.mg.everyonesocial.com
 domain, email.mg.repuzzlic.com
@@ -46026,7 +45886,6 @@ domain, emissigougers.cfd
 domain, emissionidiompolygon.com
 domain, emitlavas.click
 domain, emiyvktgfxb.xyz
-domain, emjcd.com
 domain, emjrwypl.xyz
 domain, emjs.mkzhan.com
 domain, emkarto.fun
@@ -47210,7 +47069,6 @@ domain, etm-consult.de
 domain, etnomedia-static.reviveservers.com
 domain, etobeasasile.org
 domain, etoilesromance.cfd
-domain, etoolads.cn
 domain, etooqcedvlzyh.space
 domain, etoote.com
 domain, etop.ro
@@ -47640,7 +47498,6 @@ domain, events.interface.com
 domain, events.jotform.com
 domain, events.kalooga.com
 domain, events.kangan.edu.au
-domain, events.launchdarkly.com
 domain, events.lbesecapi.com
 domain, events.limango.com
 domain, events.mapbox.com
@@ -47687,7 +47544,6 @@ domain, events.shareably.net
 domain, events.shoplift.ai
 domain, events.sk.ht
 domain, events.splash-screen.net
-domain, events.split.io
 domain, events.squarespace.com
 domain, events.storifyme.com
 domain, events.stylux.io
@@ -48391,7 +48247,6 @@ domain, f.pie.org
 domain, f.qcwzx.net.cn
 domain, f.revotas.com
 domain, f.seksohub.com
-domain, f.vimeocdn.com
 domain, f.xyu.tv
 domain, f.yijikm.com
 domain, f.yueyetiyu.com
@@ -48592,7 +48447,6 @@ domain, facai103.ytzjbf.cn
 domain, facai383.oss-cn-guangzhou.aliyuncs.com
 domain, face2.ishoppingapp.com
 domain, facebook-ads.hara.vn
-domain, facebook.net
 domain, facebookinbox-omni-onapp.haravan.com
 domain, facebookma.cn
 domain, facebowbaloney.qpon
@@ -48933,7 +48787,6 @@ domain, fastlyvetanda.qpon
 domain, fastnativead.com
 domain, fastorfar.com
 domain, fastpack.ship48mint.coupons
-domain, fastpool.xyz
 domain, fastpopunder.com
 domain, fastshippingsbd.com
 domain, fastsky.swiftmotion.coupons
@@ -50264,7 +50117,6 @@ domain, firdoagh.net
 domain, fire.cl0udriver.ru
 domain, fire.solutions.jci.com
 domain, firearmtire.com
-domain, firebase-settings.crashlytics.com
 domain, firebasedynamiclinks.googleapis.com
 domain, firebaseinstallations.googleapis.com
 domain, firebaselogging-pa.googleapis.com
@@ -50742,7 +50594,6 @@ domain, flqjbuvqpxlzt.website
 domain, flqoezitoyuse.today
 domain, flrdra.com
 domain, flrlrdl1.quartz-sketch.ru
-domain, fls-na.amazon-adsystem.com
 domain, fls-na.amazon.com
 domain, fls.doubleclick.net
 domain, flsfzr.cn
@@ -51734,7 +51585,6 @@ domain, freshroute.ship48mint.coupons
 domain, freshudder.mooingtaste.in.net
 domain, freshuprise.takeoverspring.in.net
 domain, fresnel-events.vimeocdn.com
-domain, fresnel.vimeocdn.com
 domain, fresnelraggery.cyou
 domain, fresserhops.qpon
 domain, fretansal.marimar.sbs
@@ -52149,7 +51999,6 @@ domain, fullletter.com
 domain, fullmworkhovdi.org
 domain, fullstack.vip
 domain, fullstacknir.com
-domain, fullstory.com
 domain, fulltraffic.net
 domain, fullvids.space
 domain, fullyslape.shop
@@ -52832,7 +52681,6 @@ domain, gaciwhemsaz.net
 domain, gad.kugou.com
 domain, gaddmozoudjmo.space
 domain, gadgetfortunatelysunny.com
-domain, gads.pubmatic.com
 domain, gadsabs.com
 domain, gadsatz.com
 domain, gadslimz.com
@@ -53359,7 +53207,6 @@ domain, gdcr3388.com
 domain, gddsnekpickps.space
 domain, gdecordingholo.info
 domain, gdeigri.com
-domain, gdeslon.ru
 domain, gdfkbvbifnncj.online
 domain, gdfp.gifshow.com
 domain, gdfp.ksapisrv.com
@@ -53395,7 +53242,6 @@ domain, gdolr.cn
 domain, gdonqrdtzhvfq.space
 domain, gdphhl.elite-auto.fr
 domain, gdpj8lm2t.com
-domain, gdpr.trustarc.com
 domain, gdqhim.icu
 domain, gdqlno.weisshaus.de
 domain, gdqmnvweycjnl.website
@@ -53667,7 +53513,6 @@ domain, geoip.syracuse.com
 domain, geolcamelot.qpon
 domain, geolcornin.cfd
 domain, geolocation.forbes.com
-domain, geolocation.onetrust.com
 domain, geolocation.outreach.com
 domain, geologycontentillegally.com
 domain, geologylineal.com
@@ -53908,7 +53753,6 @@ domain, getclicky.com
 domain, getconnected.infor.com
 domain, getdev.payso.ca
 domain, getdeviceinf.com
-domain, getdrip.com
 domain, getfluxfile.com
 domain, geticdespondhulkier.cfd
 domain, getinfo.fullsail.edu
@@ -53930,7 +53774,6 @@ domain, getoptad360.com
 domain, getoverenergy.com
 domain, getpopunder.com
 domain, getpxq.rivolishop.com
-domain, getresponse.com
 domain, getrockerbox.com
 domain, getryos.com
 domain, gets.myoyster.mx
@@ -55463,7 +55306,6 @@ domain, go.shutterstock.com
 domain, go.simco-ion.com
 domain, go.simplomarketing.com
 domain, go.sirved.com
-domain, go.skimresources.com
 domain, go.skippy.ai
 domain, go.smartjobr.com
 domain, go.snipsnap.it
@@ -57523,7 +57365,6 @@ domain, h3yn6whlnn1hne7wfg25pf.rest
 domain, h45pmx1.cn
 domain, h48gqv7oi4fo7z5guxfmigrbuo815.cyou
 domain, h4b0srs.cn
-domain, h4es48.z.cjjd14.com
 domain, h4htfgrei0.com
 domain, h4o.snare-plum.ru
 domain, h4o565egjgi0v4bz.hubhubhub.name
@@ -61219,7 +61060,6 @@ domain, i.viafoura.co
 domain, i.vip.iqiyi.com
 domain, i.w55c.net
 domain, i.xicairencs.cn
-domain, i.ys7.com
 domain, i.zhuoyaju.com
 domain, i0k.cn
 domain, i0y0i9vz0.com
@@ -61414,7 +61254,6 @@ domain, iazgviiojwhpm.online
 domain, iazwzp.lyst.com
 domain, ib-hl.snssdk.com
 domain, ib.adnxs.co
-domain, ib.adnxs.com
 domain, ib.snssdk.com
 domain, ib.snssdk.com.edgekey.net
 domain, ib1y9etg6xen3ok6frkj6xzr8xu.cfd
@@ -61760,7 +61599,6 @@ domain, ids1.deliver.ifeng.com
 domain, idsqxdtwseasl.online
 domain, idsrscpzgpgzw.rocks
 domain, idstatus.sky.com
-domain, idsync.rlcdn.com
 domain, idtftadck.xyz
 domain, idubwz.cn
 domain, iduk.barcodesgroup.com
@@ -62319,7 +62157,6 @@ domain, image.uczzd.cn
 domain, image.yafytg.cn
 domain, image.zzd.sm.cn
 domain, image2.printstation8.com
-domain, image2.pubmatic.com
 domain, image3.chelaile.net.cn
 domain, imageads.canoe.ca
 domain, imageads.codoon.com
@@ -62838,7 +62675,6 @@ domain, images.studentlending.ca
 domain, images.swiss-equestrian.ch
 domain, images.tableau.com
 domain, images.tableausoftware.com
-domain, images.taboola.com
 domain, images.tr-mail.bsh-group.com
 domain, images.tyyjzs.cn
 domain, images.ubmamgevents.com
@@ -63221,7 +63057,6 @@ domain, imp2aff.com
 domain, impact-betegy.com
 domain, impact-dm.actonservice.com
 domain, impact.carmeuse.com
-domain, impact.com
 domain, impact.go.economist.com
 domain, impactcdn.com
 domain, impactify.media
@@ -64434,7 +64269,6 @@ domain, ingest.m2catalyst.com
 domain, ingest.make.rvapps.io
 domain, ingest.make.rvohealth.com
 domain, ingest.sentry
-domain, ingest.sentry.io
 domain, ingest.webcol.sdp.peacocktv.com
 domain, ingesteer.services-prod.nsvcs.net
 domain, ingestion.webanalytics.italia.it
@@ -64602,7 +64436,6 @@ domain, insideoftech.com
 domain, insidescapra.qpon
 domain, insidethegames.live
 domain, insidiousdimension.pro
-domain, insight.adsrvr.org
 domain, insight.aon.com
 domain, insight.autovistagroup.com
 domain, insight.bellmetric.net
@@ -65329,7 +65162,6 @@ domain, iquirc.motionrc.com
 domain, iqvojbqacilzm.website
 domain, iqwkkpchugfbk.space
 domain, iqyioj.harryanddavid.com
-domain, ir-na.amazon-adsystem.com
 domain, ir-sdk.dun.163.com
 domain, ir-sdk.dun.163yun.com
 domain, ir-sdk.guardease.com
@@ -67879,7 +67711,6 @@ domain, js-apac-ss.ysm.yahoo.com
 domain, js-check.com
 domain, js-collector.icewood.net
 domain, js-hurling.com
-domain, js-rwk.pull.etoote.com
 domain, js-whjx.com
 domain, js.05sun.com
 domain, js.133u.com
@@ -67934,7 +67765,6 @@ domain, js.gewuwen.com
 domain, js.go2sdk.com
 domain, js.gov.cfd
 domain, js.hkslg520.com
-domain, js.honeybadger.io
 domain, js.hslyqs.com
 domain, js.icast.cn
 domain, js.idgdmg.com.cn
@@ -68959,7 +68789,6 @@ domain, kalynking.site
 domain, kamasstumeric.cyou
 domain, kamberro.lol
 domain, kamchatka-io.traveler.today
-domain, kameleoon.eu
 domain, kamichisemi.help
 domain, kamidnlmuxsal.xyz
 domain, kamidonsky.rest
@@ -71720,7 +71549,6 @@ domain, launch1266.fun
 domain, launchbit.com
 domain, launcher.smart-tv.cn
 domain, launcherimg.smart-tv.cn
-domain, launches.appsflyer.com
 domain, launches.appsflyersdk.com
 domain, launchingonsetwhirlwind.com
 domain, launchingspooky.com
@@ -73862,7 +73690,6 @@ domain, lisnkphenonfq.online
 domain, lispaircraftcraziness.com
 domain, lissesdistend.shop
 domain, list-ads.com
-domain, list-manage.com
 domain, listedfluking.qpon
 domain, listen.trakks.com
 domain, listen.tunein.com
@@ -75145,7 +74972,6 @@ domain, logs.getfiddler.com
 domain, logs.gshopper.com
 domain, logs.hotstar.com
 domain, logs.ironsrc.mobi
-domain, logs.logrocket.io
 domain, logs.mezmo.com
 domain, logs.naukri.com
 domain, logs.nebulahoroscope.com
@@ -75830,8 +75656,6 @@ domain, lsxmg.com
 domain, lsxpzalzmioxq.online
 domain, lsyaicl.icu
 domain, lsykbtaljztxr.online
-domain, lt.activecampaign.com
-domain, lt.pardot.com
 domain, lt.shuinn7.top
 domain, lt3f9p5ox2.com
 domain, lt88896.com
@@ -77397,7 +77221,6 @@ domain, mail17.notifysrv.com
 domain, mail2.carte-gr.total.fr
 domain, mail2.happ.social
 domain, mailboxboynutrition.com
-domain, mailchimp.com
 domain, mailcoupletime.net
 domain, mailderef.mail.com
 domain, mailer.carte-gr.total.fr
@@ -77595,7 +77418,6 @@ domain, mandombeth.cfd
 domain, mandorewaxhaw.qpon
 domain, mandrill.castingcollective.net
 domain, mandrill.yellowfruit.co
-domain, mandrillapp.com
 domain, mandrillapp.zola.com
 domain, manettisebacic.cyou
 domain, mangalexcheat.cfd
@@ -79372,7 +79194,6 @@ domain, matamant.com
 domain, matcaogeujmco.website
 domain, match.adsby.bidtheatre.com
 domain, match.adsrvr.cn
-domain, match.adsrvr.org
 domain, match.c8.net.ua
 domain, match.p4p.1688.com
 domain, match.prod.bidr.io
@@ -79415,7 +79236,6 @@ domain, matomo.a1.by
 domain, matomo.akbal.dev
 domain, matomo.bantheme.xyz
 domain, matomo.clanto.cloud
-domain, matomo.cloud
 domain, matomo.cloudfront.similarweb.io
 domain, matomo.datago.ru
 domain, matomo.eduwill.net
@@ -82052,7 +81872,6 @@ domain, metrik.freitag.de
 domain, metrika.kontur.ru
 domain, metrika.lookmovie2.to
 domain, metrika.myseldon.com
-domain, metrika.yandex.com
 domain, metrika.yandex.ru
 domain, metrisecaiques.cyou
 domain, metrisesikhs.com
@@ -82511,7 +82330,6 @@ domain, miner.pages.dev
 domain, minerad.com
 domain, mineraltip.com
 domain, minergate.com
-domain, minero-proxy.com
 domain, minero.cc
 domain, minesage.com
 domain, minfo.wps.cn
@@ -82779,7 +82597,6 @@ domain, mixhillvedism.com
 domain, mixomniture.rbs.com
 domain, mixpanel-proxy.coingecko.com
 domain, mixpanel-proxy.ted.com
-domain, mixpanel.com
 domain, mixpanel.tigocloud.net
 domain, mixpo.com
 domain, mixtureanticipationsuede.com
@@ -83286,10 +83103,8 @@ domain, mob2.welltastic-app.com
 domain, mobad.ijinshan.com
 domain, mobadme.jp
 domain, mobads-logs.baidu.com
-domain, mobads-logs.e.shifen.com
 domain, mobads-pre-config.cdn.bcebos.com
 domain, mobads.baidu.com
-domain, mobads.e.shifen.com
 domain, mobagent.com
 domain, mobaliyun.res.mgtv.com
 domain, mobantong.oss-cn-hangzhou.aliyuncs.com
@@ -83337,7 +83152,6 @@ domain, mobile.everytap.com
 domain, mobile.excedo.io
 domain, mobile.expensify.com
 domain, mobile.hippovideo.io
-domain, mobile.launchdarkly.com
 domain, mobile.locumprime.co.uk
 domain, mobile.mailchimpapp.com
 domain, mobile.reki.tv
@@ -86526,7 +86340,6 @@ domain, nieae.xyz
 domain, niebiaoyyds.com
 domain, niecesprivilegelimelight.com
 domain, niecesweep.com
-domain, nielsen.com
 domain, nievesouraris.cfd
 domain, nievolmqn.com
 domain, nifebsuksy.net
@@ -87296,7 +87109,6 @@ domain, notification.tubecup.net
 domain, notificationallow.com
 domain, notifications.viafoura.co
 domain, notifications.website
-domain, notifier.airbrake.io
 domain, notifiter.youmi.net
 domain, notiflist.com
 domain, notifpush.com
@@ -88258,7 +88070,6 @@ domain, o.swisscom.ch
 domain, o.webmd.com
 domain, o.xbox.com
 domain, o.zjjrlx4.com
-domain, o0.ingest.sentry.io
 domain, o000oo.com
 domain, o02220aokk.com
 domain, o02231aokk.com
@@ -90225,13 +90036,11 @@ domain, open-set-api.shenshiads.com
 domain, open-test.wynk.in
 domain, open-uc.cn
 domain, open-zone-monitor.clearfield.in.net
-domain, open.activecampaign.com
 domain, open.ailo.app
 domain, open.anghami.com
 domain, open.bitcoinmagazine.app
 domain, open.catchapp.mobi
 domain, open.clerkie.io
-domain, open.convertkit.com
 domain, open.ditch.cash
 domain, open.douyin.com
 domain, open.drivescore.com
@@ -90275,7 +90084,6 @@ domain, openads.friendfinder.com
 domain, openapi-news.meizu.com
 domain, openapi.guanjia.qq.com
 domain, openapi.samsung.com
-domain, openapi.vivo.com.cn
 domain, opencan.net
 domain, opencdnpddpic2.cdn.vsjwtcdn.com
 domain, opencdnpddvod2.jomodns.com
@@ -90405,7 +90213,6 @@ domain, opt8.co
 domain, optad360.io
 domain, optad360.net
 domain, optaim.com
-domain, optanon.blob.core.windows.net
 domain, opti-digital.com
 domain, opticksprotection.com
 domain, opticlygremio.com
@@ -92022,7 +91829,6 @@ domain, pagead.google.com
 domain, pagead.l.google.com
 domain, pagead2.googleadservices.com
 domain, pagead2.googlesyndication.com
-domain, pagead2.googlevideo.com
 domain, pageantlethal.com
 domain, pagechoice.com
 domain, pagechoice.net
@@ -93119,7 +92925,6 @@ domain, pendentxylenes.cyou
 domain, pendingbawdricrepeal.cfd
 domain, pendlerayful.cfd
 domain, pendo-data-prod.box.com
-domain, pendo.io
 domain, pengauto.cn
 domain, penguest.xyz
 domain, penguin.craftpeak.io
@@ -93741,7 +93546,6 @@ domain, physicsimpatient.com
 domain, physicspresume.com
 domain, phytonsfurner.com
 domain, pi.ispot.tv
-domain, pi.pardot.com
 domain, pi.technik3d.com
 domain, pi87t.ga8tukh1yat.ru
 domain, piabalitersuncle.cfd
@@ -94129,7 +93933,6 @@ domain, pivotpointsecurity.actonservice.com
 domain, pivotrunner.com
 domain, pivsen.dur2tionjuda5.ru
 domain, piwik.filecrypt.cc
-domain, piwik.pro
 domain, piwtjrrdfhtlc.website
 domain, pix.airbusgroup.com
 domain, pix.boursorama.com
@@ -94173,7 +93976,6 @@ domain, pixel.archipro.co.nz
 domain, pixel.archivecaslytosk.onion
 domain, pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 domain, pixel.augsburger-allgemeine.de
-domain, pixel.aweber.com
 domain, pixel.aws.pfnetwork.net
 domain, pixel.barion.com
 domain, pixel.biano.cz
@@ -94218,7 +94020,6 @@ domain, pixel.leadlovers.app
 domain, pixel.lilystyle.ai
 domain, pixel.locker2.com
 domain, pixel.magentamarketing.com
-domain, pixel.mailchimp.com
 domain, pixel.mathtag.com
 domain, pixel.mintigo.com
 domain, pixel.mtrcs.samba.tv
@@ -94551,13 +94352,10 @@ domain, platform.adcannyads.com
 domain, platform.artilleryads.com
 domain, platform.cid.samba.tv
 domain, platform.datazoom.io
-domain, platform.instagram.com
 domain, platform.iteratehq.com
-domain, platform.linkedin.com
 domain, platform.loyaltylion.com
 domain, platform.showcasead.com
 domain, platform.trafficmoose.com
-domain, platform.twitter.com
 domain, platform.wondershare.com
 domain, platformsnarcotic.com
 domain, platformsolutions.shutterstock.com
@@ -94909,7 +94707,6 @@ domain, plungesprinterscanty.com
 domain, plunkerganser.cyou
 domain, pluralhurtfulnorris.com
 domain, pluralrepeldecember.com
-domain, plus.google.com
 domain, plus.tourispo.com
 domain, plusavecmoins.adp.ca
 domain, plusgo.win
@@ -95867,7 +95664,6 @@ domain, prd-collector-anon.ex.co
 domain, prd-collector-anon.playbuzz.com
 domain, prd-collector-platform.ex.co
 domain, prd.api.bleacherreport.com
-domain, prd.jwpltx.com
 domain, prderrordumphsm.samsungcloudsolution.com
 domain, prdohgp.cn
 domain, prdqdbzquveuz.online
@@ -95899,7 +95695,6 @@ domain, prebid-dev.reworldmediafactory.com
 domain, prebid-log.getpublica.com
 domain, prebid-server-canary.ifunny.co
 domain, prebid-server.newsbreak.com
-domain, prebid.adnxs.com
 domain, prebid.cwi.re
 domain, prebid.loopmertb.com
 domain, prebid.scope3.com
@@ -96189,14 +95984,12 @@ domain, pristineswing.pro
 domain, pritesol.com
 domain, pritheeemulant.cfd
 domain, privacy-api.9gag.com
-domain, privacy-mgmt.com
 domain, privacy-sandbox.appsflyersdk.com
 domain, privacy.outdoorsg.com
 domain, privacy.qq.com
 domain, privacyarmory.com
 domain, privacycounter.com
 domain, privacyfriendly.netlify.app
-domain, privacymanager.io
 domain, privacysearching.com
 domain, privacyspell.com
 domain, private-hide.com
@@ -96634,7 +96427,6 @@ domain, prowl.j1ttersnap.ru
 domain, prowl.mistyw0lf.ru
 domain, prowlenthusiasticcongest.com
 domain, prowlerinfralactify.cyou
-domain, prox.sendinblue.com
 domain, proxena-images.reviveservers.com
 domain, proxena-secure.reviveservers.com
 domain, proxima.midjourney.com
@@ -97138,7 +96930,6 @@ domain, pub1.co
 domain, pub1.cope.es
 domain, pub2.webmanagercenter.com
 domain, pubads-wiinvent.tv360.vn
-domain, pubads.g.doubleclick.net
 domain, pubadx.one
 domain, pubbirdf.com
 domain, pubcoderace.com
@@ -97690,7 +97481,6 @@ domain, pwzxkpphqoeby.store
 domain, px-intl.ucweb.com
 domain, px.adfulplatform.com
 domain, px.adhigh.net
-domain, px.ads.linkedin.com
 domain, px.blog.hu
 domain, px.derstandard.at
 domain, px.dmp.zaloapp.com
@@ -99265,7 +99055,6 @@ domain, quanliyouxi.cn
 domain, quanlyphongnet.com
 domain, quansj.cn
 domain, quanta-wave.com
-domain, quantcast.mgr.consensu.org
 domain, quantcount.com
 domain, quantoz.xyz
 domain, quantserve.com
@@ -99817,7 +99606,6 @@ domain, r.jakuli.com
 domain, r.kleertjes.com
 domain, r.l.youku.com
 domain, r.lafamo.com
-domain, r.logrocket.io
 domain, r.mail.163.com
 domain, r.maintoast.com
 domain, r.maintrck.com
@@ -100315,7 +100103,6 @@ domain, rawbonechamise.qpon
 domain, raxedmyopias.qpon
 domain, raxxkxvipsusz.site
 domain, ray0ut.sunfold.ru
-domain, raygun.io
 domain, rayjump.com
 domain, raymondtoaster.com
 domain, rayoncarvist.cfd
@@ -100888,7 +100675,6 @@ domain, redclassic.actonservice.com
 domain, redcore.redwood.in.net
 domain, reddedstobs.cfd
 domain, reddishpandal.help
-domain, redditmedia.com
 domain, redditstream.arborapps.io
 domain, reddleops.pro
 domain, reddwarf.till-sanders.de
@@ -101112,7 +100898,6 @@ domain, regiftjugger.cfd
 domain, regimentchat.com
 domain, regimesangliae.cyou
 domain, region-sync-base.brightvale.ru
-domain, region1.google-analytics.com
 domain, regionads.ru
 domain, regionalavouchcreeping.com
 domain, regionconfig.amplitude.com
@@ -101479,7 +101264,6 @@ domain, reporo.net
 domain, report-edge.agora.io
 domain, report-ps.meettech.net
 domain, report-stream-55.dev-trace-analyzer.coupons
-domain, report-sy.adview.cn
 domain, report.1-1.io
 domain, report.23video.com
 domain, report.504.su
@@ -101514,7 +101298,6 @@ domain, reporting.singlefeed.com
 domain, reportlog.dftoutiao.com
 domain, reports-api.sqreen.io
 domain, reports-tsi.tangerine.io
-domain, reports.crashlytics.com
 domain, reports.hibu.com
 domain, reports.koalametrics.com
 domain, reports.omegacommerce.com
@@ -101812,7 +101595,6 @@ domain, resultlinks.com
 domain, results.certifyads.com
 domain, results.checkshield.net
 domain, results.clickverifier.online
-domain, results.optimizely.com
 domain, results.sierrapiedmont.com
 domain, results.uservalidate.co.uk
 domain, resume.management
@@ -102842,7 +102624,6 @@ domain, roll.b2ckymembe7.ru
 domain, rollafkhgfene.space
 domain, rollbackavenge.com
 domain, rollbar.actonservice.com
-domain, rollbar.com
 domain, rollerbizarreunanimously.com
 domain, rollerefficiency.com
 domain, rollingsalt.com
@@ -103245,7 +103026,6 @@ domain, rrypbcicshtso.online
 domain, rrznha.lanvin-en-bleu.com
 domain, rs-stripe.com
 domain, rs.adpinfo.com
-domain, rs.fullstory.com
 domain, rs.mail.ru
 domain, rs.picmega.com
 domain, rs.sinajs.cn
@@ -103730,7 +103510,6 @@ domain, rtb.exoclick.com
 domain, rtb.metrigo.com
 domain, rtb.nativeads.com
 domain, rtb.nowsrv.com
-domain, rtb.openx.net
 domain, rtb.optidigital.com
 domain, rtb.prnteen.com
 domain, rtb.prod.carbonatixaudio.com
@@ -104805,7 +104584,6 @@ domain, s.sh.qihoo.com
 domain, s.shiftrro.com
 domain, s.sick.com
 domain, s.simcoe.com
-domain, s.skimresources.com
 domain, s.slideroctober.store
 domain, s.so.360.cn
 domain, s.sofoot.com
@@ -104904,7 +104682,6 @@ domain, s.zlongad.com
 domain, s.zxwdw.com
 domain, s.zzcdn.me
 domain, s0-greate.net
-domain, s0.2mdn.net
 domain, s010.net.jumia.sn
 domain, s02.bestsecret.com
 domain, s03.optimix.asia
@@ -105056,7 +104833,6 @@ domain, s638zqw3.5t0rmr1dge.ru
 domain, s65m.win
 domain, s6h.windsh1ft.ru
 domain, s6in.cc
-domain, s7.addthis.com
 domain, s7227wuo.xyz
 domain, s72h7io4o.com
 domain, s762.pressenterprise.com
@@ -106738,14 +106514,10 @@ domain, sdk.open.lbs.igexin.com
 domain, sdk.open.phone.igexin.com
 domain, sdk.open.talk.igexin.com
 domain, sdk.optimove.net
-domain, sdk.privacy-center.org
 domain, sdk.push.mob.com
 domain, sdk.renrenjihua.com
-domain, sdk.singular.net
 domain, sdk.sipujia.cn
-domain, sdk.split.io
 domain, sdk.starbolt.io
-domain, sdk.tianmu.mobi
 domain, sdk.verification.jiguang.cn
 domain, sdk2xr232.top
 domain, sdk4push.com
@@ -106866,7 +106638,6 @@ domain, search.boffoads.com
 domain, search.flairadscpc.com
 domain, search.ixigua.com
 domain, search.semp.net
-domain, search.spotxchange.com
 domain, search.uzduociubankas.lt
 domain, search.video.iqiyi.com
 domain, search3-search.ixigua.com
@@ -106985,7 +106756,6 @@ domain, secure.52enterprisingdetails.com
 domain, secure.7-companycompany.com
 domain, secure.acor1sign.com
 domain, secure.adata.ca.com
-domain, secure.adnxs.com
 domain, secure.adp.ca
 domain, secure.adpinfo.com
 domain, secure.agile-company-247.com
@@ -107689,7 +107459,6 @@ domain, send.preply.com
 domain, sendeeliquifypargos.cyou
 domain, sendexcepting.com
 domain, sendgrid.employeelinkapp.com
-domain, sendgrid.net
 domain, sendmepush.com
 domain, sendmoney.americanexpress.co.uk
 domain, sendpoint.ship9fig.coupons
@@ -107833,7 +107602,6 @@ domain, sentry.fintopia.tech
 domain, sentry.io
 domain, sentry.iont
 domain, sentry.kuaishou.com
-domain, sentry.kugou.com
 domain, sentry.mediacdn.vn
 domain, sentry.music.163.com
 domain, sentry.pnblab.com
@@ -108597,7 +108365,6 @@ domain, share.yugengamers.com
 domain, share2.360vuz.com
 domain, share2.ca5hunse1fish.ru
 domain, shareasale-analytics.com
-domain, shareasale.com
 domain, sharebang.com
 domain, sharecodepro.com
 domain, shared.65twenty.com
@@ -108612,7 +108379,6 @@ domain, sharen.oyorooms.com
 domain, sharepointads.com
 domain, shareresults.com
 domain, sharesceral.uno
-domain, sharethis.com
 domain, sharethrough.com
 domain, sharevault.cloud
 domain, sharing.kptncook.com
@@ -109026,7 +108792,6 @@ domain, shrill-hell.pro
 domain, shrillbighearted.com
 domain, shrimpinvestigation.com
 domain, shrineresorthighjack.com
-domain, shrsl.com
 domain, shrubburlyjaunty.com
 domain, shrubbysecantsfulsome.cfd
 domain, shrubsconfused.com
@@ -109046,7 +108811,6 @@ domain, shtptt.cupshe.com
 domain, shtrack.kingsoft.jp
 domain, shtt.shuqw.com
 domain, shturl.cc
-domain, shua-music.shinet.cn
 domain, shuanshu.com.com
 domain, shuatircnroml.website
 domain, shubadubadlskjfkf.com
@@ -109107,7 +108871,6 @@ domain, siamangphilip.shop
 domain, siamangsnorter.qpon
 domain, siaxvhzwolzwq.space
 domain, siazlw.cetroloja.com.br
-domain, sibautomation.com
 domain, sibbediceleaf.click
 domain, sibbybordrag.cfd
 domain, sibilantrespectablerelative.com
@@ -109382,7 +109145,6 @@ domain, singlesgetmatched.com
 domain, singmwn51g.com
 domain, singmwn54g.com
 domain, singoutbalancevisitation.com
-domain, singular.net
 domain, singulardisappointmentdisqualify.com
 domain, sinicdiswood.help
 domain, sinisterbatchoddly.com
@@ -109476,7 +109238,6 @@ domain, sitecats.troweprice.com
 domain, sitecounter.site
 domain, sitectlyst.saksfifthavenue.com
 domain, sitedataprocessing.com
-domain, siteimproveanalytics.com
 domain, siteintercept.allegiancetech.com
 domain, sitel.actonservice.com
 domain, sitemaji.com
@@ -109680,7 +109441,6 @@ domain, skillydikage.shop
 domain, skilpoterased.help
 domain, skilyake.net
 domain, skimosunturnwench.cfd
-domain, skimresources.com
 domain, skincheckwa-app.hotdoc.com.au
 domain, skink.asorman.io
 domain, skinkedeirack.shop
@@ -109955,7 +109715,6 @@ domain, slowlyrearmslawgive.cyou
 domain, slpfgvuovgj.com
 domain, slqhoitusidsr.site
 domain, slryca.meyou.jp
-domain, sls-android.cn-beijing.log.aliyuncs.com
 domain, slslkeszupdwl.space
 domain, slsuggestion.live
 domain, slthavjtoxjoi.site
@@ -113306,7 +113065,6 @@ domain, snalytics.travelinsurance.ca
 domain, snammar-jumntal.com
 domain, snap-affairs.com
 domain, snap.j1ttersnap.ru
-domain, snap.licdn.com
 domain, snap.snapmobile.asia
 domain, snapads.com
 domain, snapmobileasia.net
@@ -114163,7 +113921,6 @@ domain, sourcegraph.notifysrv.com
 domain, sourcepoint-mms.aetv.com
 domain, sourcepoint-mms.history.com
 domain, sourcepoint-mms.mylifetime.com
-domain, sourcepoint.mgr.consensu.org
 domain, sourcerealisejeopardy.com
 domain, sources.nxp.com
 domain, sourcetobin.com
@@ -115468,7 +115225,6 @@ domain, sslstats.postescanada-canadapost.ca
 domain, sslstats.ssl.postescanada-canadapost.ca
 domain, sslstats.worldagentdirect.com
 domain, ssltest2.branch.io
-domain, sslwidget.criteo.com
 domain, ssm.codes
 domain, ssmile.dentsplysirona.com
 domain, ssmr.nuro.jp
@@ -115828,7 +115584,6 @@ domain, st-fly.b-cdn.net
 domain, st-n.ads3-adnow.com
 domain, st-nlyss1.plala.or.jp
 domain, st-to-uv.com
-domain, st-widget.s3.amazonaws.com
 domain, st.anastasija.lt
 domain, st.asiaxbit.com
 domain, st.avsplow.com
@@ -116402,7 +116157,6 @@ domain, static.ad2click.in
 domain, static.adcannyads.com
 domain, static.adconnect.vn
 domain, static.additionaldisplay.com
-domain, static.addtoany.com
 domain, static.admidainsight.com
 domain, static.admozartexchange.com
 domain, static.admozartppc.com
@@ -116441,14 +116195,12 @@ domain, static.blulab.net
 domain, static.cdnativepush.com
 domain, static.ceramicartsnetwork.org
 domain, static.chaoticinteractions.com
-domain, static.chartbeat.com
 domain, static.cloud-suites.xyz
 domain, static.consulcesi.it
 domain, static.content-sync.xyz
 domain, static.contentsrch.com
 domain, static.cranberryads.com
 domain, static.creativethingsdoneright.top
-domain, static.criteo.net
 domain, static.critic.media
 domain, static.danarimedia.com
 domain, static.degpeg.com
@@ -116495,7 +116247,6 @@ domain, static.hae123.cn
 domain, static.hawkads.in
 domain, static.hollandhortimedia.nl
 domain, static.hoomeeyesmanbest.org
-domain, static.hotjar.com
 domain, static.hotmaracas.fun
 domain, static.hvgrt.hu
 domain, static.hyprmx.com
@@ -116510,7 +116261,6 @@ domain, static.jampp.com
 domain, static.javxxx.me
 domain, static.jotterads.com
 domain, static.juzijinke.com
-domain, static.kameleoon.com
 domain, static.konnectads.com
 domain, static.kremsondigital.com
 domain, static.ku6.com
@@ -118175,7 +117925,6 @@ domain, stream.corporatefinanceinstitute.com
 domain, stream.datago.ru
 domain, stream.heavenmedia.net
 domain, stream.kolorowey.com
-domain, stream.launchdarkly.com
 domain, stream.shuzilm.cn
 domain, stream.snssdk.com
 domain, stream.spongead.com
@@ -118189,7 +117938,6 @@ domain, streamflash-app.com
 domain, streamhg05032026.shop
 domain, streaming.leightonbroadcasting.com
 domain, streaming.rtbiddingplatform.com
-domain, streaming.split.io
 domain, streammobs.com
 domain, streamnova-hub.com
 domain, streampsh.top
@@ -118884,7 +118632,6 @@ domain, survey.communication.qualfon.com
 domain, survey.interquest.com
 domain, survey.mazda.com.au
 domain, survey.notifysrv.com
-domain, survey.watson.microsoft.com
 domain, survey.xo.com
 domain, surveyonline.top
 domain, surveys.executiveboard.com
@@ -119540,15 +119287,12 @@ domain, sync.ipredictive.com
 domain, sync.mathtag.com
 domain, sync.morgdm.ru
 domain, sync.opendsp.ru
-domain, sync.outbrain.com
 domain, sync.platform.lightad.com
 domain, sync.programmatica.com
 domain, sync.rambler.ru
 domain, sync.republer.com
-domain, sync.search.spotxchange.com
 domain, sync.shinobi.jp
 domain, sync.spotim.market
-domain, sync.springserve.com
 domain, sync.teamrtb.net
 domain, sync.tidaltv.com
 domain, sync2.audtd.com
@@ -119887,7 +119631,6 @@ domain, t.clearmaptrck.store
 domain, t.clic2buy.com
 domain, t.clickscope.fun
 domain, t.cnsjx.net
-domain, t.co
 domain, t.cofcsports.com
 domain, t.collect.yinyuetai.com
 domain, t.collectiveaudience.co
@@ -120002,7 +119745,6 @@ domain, t.hmwy.io
 domain, t.hokiesports.com
 domain, t.home.news.cn
 domain, t.hornetsports.com
-domain, t.hubspotemail.net
 domain, t.huskers.com
 domain, t.hypers.com.cn
 domain, t.hyros.com
@@ -120154,7 +119896,6 @@ domain, t.seesaa.net
 domain, t.selectyourtickets.com
 domain, t.semafor.com
 domain, t.seminoles.com
-domain, t.sendinblue.com
 domain, t.service.thetimes.co.uk
 domain, t.sfajacks.com
 domain, t.sharethis.com
@@ -120560,7 +120301,6 @@ domain, tagm.eduscho.at
 domain, tagm.tchibo.de
 domain, tagm.uneedcomms.com
 domain, tagman.britishairways.com
-domain, tagmanager.google.com
 domain, tagmanager.yodobashi.com
 domain, tagmwu.thalia.at
 domain, tagourounakia.openapp.link
@@ -120591,7 +120331,6 @@ domain, tags.pw.adn.cloud
 domain, tags.refinery89.com
 domain, tags.soloway.ru
 domain, tags.stepstone.com
-domain, tags.tiqcdn.com
 domain, tags2.adshell.net
 domain, tags4.revdepo.com
 domain, tagservice.maximus.mobkoi.com
@@ -123154,7 +122893,6 @@ domain, tkpopup.asia
 domain, tkpopup.vn
 domain, tkportal.aotter.net
 domain, tkqjtaurqpltn.store
-domain, tkqlhce.com
 domain, tkqwurl.icu
 domain, tkrconnector.com
 domain, tkrecorder.aotter.net
@@ -125395,12 +125133,10 @@ domain, track.concur.com
 domain, track.concur.com.au
 domain, track.concur.com.sg
 domain, track.connectwise.com
-domain, track.constantcontact.com
 domain, track.contently.com
 domain, track.cordial.io
 domain, track.cornerstonebuildingbrands.com
 domain, track.craudia.com
-domain, track.customer.io
 domain, track.datescan.info
 domain, track.deloitte.com
 domain, track.dictionary.com
@@ -125485,7 +125221,6 @@ domain, track.info.rarediseaseadvisor.com
 domain, track.info.renalandurologynews.com
 domain, track.info.rheumatologyadvisor.com
 domain, track.info.thecardiologyadvisor.com
-domain, track.innoads.cn
 domain, track.inspirage.com
 domain, track.into-giving.com
 domain, track.intoglobal.com
@@ -125514,7 +125249,6 @@ domain, track.loan-ad.cn
 domain, track.lookerpets.com
 domain, track.magazineluiza.com.br
 domain, track.mailerlite.com
-domain, track.mailgun.org
 domain, track.marketingcube.com.au
 domain, track.mdsmatch.com
 domain, track.mentor.com
@@ -125651,7 +125385,6 @@ domain, trackbeat.xiachufang.com
 domain, trackcherry.com
 domain, trackcitg.com
 domain, trackclicks.info
-domain, trackcmp.net
 domain, trackcommon.hujiang.com
 domain, trackdb.go3.tv
 domain, tracker-00.qvb.qcloud.com
@@ -125794,7 +125527,6 @@ domain, tracker.winload.de
 domain, tracker.wordstream.com
 domain, tracker.wpserveur.net
 domain, tracker.xgen.dev
-domain, tracker.yfanads.com
 domain, tracker.zmaticoo.com
 domain, trackerads.com
 domain, trackerapi.ebxcdn.com
@@ -125812,7 +125544,6 @@ domain, trackhorizon.nnmtools.com
 domain, tracki.click
 domain, trackid.globoid.globo.com
 domain, trackimpression.com
-domain, tracking-adnet.vivo.com.cn
 domain, tracking-amp.vnexpress.net
 domain, tracking-api-4lasu2nlcq-ew.a.run.app
 domain, tracking-api.bookzone.ro
@@ -126619,7 +126350,6 @@ domain, trackingssl.yongo.be
 domain, trackingtraffo.com
 domain, trackingvn.zingplay.com
 domain, trackity.tiki.vn
-domain, trackjs.com
 domain, trackla.stackla.com
 domain, tracklog.58.com
 domain, trackmarketing.staubli.com
@@ -126983,7 +126713,6 @@ domain, trendpiecers.rest
 domain, trends.mobile.sina.cn
 domain, trends.newsmaxwidget.com
 domain, trends.privacywall.org
-domain, trends.revcontent.com
 domain, trendysleets.cyou
 domain, trenpyle.com
 domain, trentalburrito.com
@@ -129130,7 +128859,6 @@ domain, ugbqsahpyjuvq.website
 domain, ugc-upload.3g.qq.com
 domain, ugc.moji001.com
 domain, ugcbrainient-a.akamaihd.net
-domain, ugccsy.qq.com
 domain, ugcmoydrlgxzs.site
 domain, ugcttpvomdvzu.online
 domain, ugd.gtimg.com
@@ -129677,7 +129405,6 @@ domain, un1.takefoto.cn
 domain, unaces.com
 domain, unactkiosk.com
 domain, unagedsarcous.com
-domain, unagi-na.amazon.com
 domain, unaisscreams.qpon
 domain, unaitrey.shop
 domain, unakinloggin.com
@@ -130739,7 +130466,6 @@ domain, urwvphdnwhdzl.site
 domain, urx77.cc
 domain, urxbvw.tui.nl
 domain, urzdgpwphacny.site
-domain, us-ads.openx.net
 domain, us-api.samsungyosemite.com
 domain, us-behavior.apitd.net
 domain, us-central1-markuphero.cloudfunctions.net
@@ -130755,7 +130481,6 @@ domain, us.adserver.yahoo.com
 domain, us.appbackupapi.micloud.xiaomi.net.iberostar.com
 domain, us.bannyat.com
 domain, us.bs.serving-sys.com
-domain, us.edge.rms.media.net
 domain, us.l.qq.com
 domain, us.lucanet.com
 domain, us.mattamyhomes.com
@@ -130777,7 +130502,6 @@ domain, usaerklaert.foolhardywear.pro
 domain, usage.centsdonations.com
 domain, usage.digitalconcerthall.com
 domain, usage.influxdata.com
-domain, usage.trackjs.com
 domain, usageanalytics.coveo.com
 domain, usainoad.net
 domain, usajtxtwb.xyz
@@ -130846,7 +130570,6 @@ domain, users.rentbabe.com
 domain, usersegment.wpdigital.net
 domain, userstat.net
 domain, userstats.shopee.vn
-domain, usersync.krxd.net
 domain, usertag.online
 domain, usertrack.alibaba-inc.com
 domain, uservoice.com
@@ -131880,7 +131603,6 @@ domain, v6-novelapp-nxyd.fqnovelvod.com
 domain, v6-novelapp.fqnovelvod.com
 domain, v62199.com
 domain, v65hz4cb.b1ondepi8s.ru
-domain, v66-ad.ndcjl.com
 domain, v66v66.com
 domain, v6awsnf8ejjjsefh.sjucaie2.top
 domain, v6hfl4.top
@@ -132243,7 +131965,6 @@ domain, vbyuqtivyaemk.space
 domain, vbyyrfqfbom.net
 domain, vbzlokvdommwl.online
 domain, vbztjfpvbfnic.site
-domain, vc.hotjar.io
 domain, vcache.kvod10.com
 domain, vcaltfivskzon.online
 domain, vcaqexl.com
@@ -132831,7 +132552,6 @@ domain, vhqdzoxpepcem.store
 domain, vhqr0k3x5b3jd.com
 domain, vhr6.ravelmint.ru
 domain, vhrbxb.vidaxl.nl
-domain, vhs.wwstat.com
 domain, vhsrwd.aip24.pl
 domain, vhsutpgui.xyz
 domain, vhubnllmwrsyp.site
@@ -132915,7 +132635,6 @@ domain, vid-rtb-sg.xapads.com
 domain, vid-rtb.xapads.com
 domain, vid.applovin.com
 domain, vid.me
-domain, vid.springserve.com
 domain, vid12031hl.com
 domain, vid12040hl.com
 domain, vid12050hl.com
@@ -132939,7 +132658,6 @@ domain, video-ad.sm.cn
 domain, video-adblocker.com
 domain, video-ads-module.ad-tech.nbcuni.com
 domain, video-ads.a2z.com
-domain, video-ads.twitter.com
 domain, video-analytics-api.cloudinary.com
 domain, video-cn.snssdk.com
 domain, video-dsp.pddpic.com
@@ -134290,7 +134008,6 @@ domain, vwjsiywwgynud.online
 domain, vwkhdi.cn
 domain, vwmdzetaikxvc.site
 domain, vwmtrauf.com
-domain, vwo.com
 domain, vwoalbekrhqam.online
 domain, vwonwkaqvq-a.global.ssl.fastly.net
 domain, vwotiw.agazeta.com.br
@@ -135756,7 +135473,6 @@ domain, webtrends.yccdn.com
 domain, webtrendslive.com
 domain, webts.adac.de
 domain, webview.unityads.unity3d.com
-domain, webvisor.com
 domain, webvisor.org
 domain, webvitals.luxnet.ua
 domain, webxmr.com
@@ -137520,7 +137236,6 @@ domain, wrangleagarum.help
 domain, wrangleclaspinteract.com
 domain, wrap.hollowzip.ru
 domain, wrappedenolase.help
-domain, wrapper-api.sp-prod.net
 domain, wrapper.bracdn.online
 domain, wrapper.lemde.fr
 domain, wrapstupendous.com
@@ -137619,7 +137334,6 @@ domain, wrywcoocbugen.online
 domain, ws-br-cdn.kwai.net.iberostar.com
 domain, ws-goguardian.pusher.com
 domain, ws-keyboard.shouji.sogou.com
-domain, ws-na.amazon-adsystem.com
 domain, ws-pro-pull.kwai.net.iberostar.com
 domain, ws.audioeye.com
 domain, ws.deal4harbor.coupons
@@ -138178,7 +137892,6 @@ domain, www.atl-6-ga.com
 domain, www.atlas-3ib.com
 domain, www.avismarketing.gr
 domain, www.avple.video
-domain, www.awin1.com
 domain, www.azera-s014.com
 domain, www.azhibo.com
 domain, www.b0fe2304c355.com
@@ -138252,7 +137965,6 @@ domain, www.chronischepancreatitis.nl
 domain, www.cinemaonceoddlyfatal.com
 domain, www.ciscenje.net.jumia.com.ng
 domain, www.claiks.com
-domain, www.clarity.ms
 domain, www.click-to-trace.com
 domain, www.clients.net.anwalt.de
 domain, www.cloud-9751.com
@@ -138411,7 +138123,6 @@ domain, www.go-static.info
 domain, www.goasrv.com
 domain, www.golp4elik.com
 domain, www.google-analytics.com
-domain, www.googleadservices.com
 domain, www.googletagmanager.com
 domain, www.goshoverfeed.com
 domain, www.govchengdu.cn
@@ -139117,7 +138828,6 @@ domain, www3.americanprogressaction.org
 domain, www3.bimobject.com
 domain, www3.gfa.org
 domain, www3.motumb2b.com
-domain, www3.smartadserver.com
 domain, www3.strsoftware.com
 domain, www3s.bimmerpartswholesale.com
 domain, www3s.ing.be
@@ -141000,7 +140710,6 @@ domain, xmonwu59ojtz5fk3q.cfd
 domain, xmpoiotsmpkro.website
 domain, xmpzln.icu
 domain, xmqrvx.jewelry-queen-shop.com
-domain, xmr.omine.org
 domain, xmrmngqivbgpx.site
 domain, xmrpsdbnnviqu.website
 domain, xmrts.com
@@ -143840,7 +143549,6 @@ domain, yzykttcy.com
 domain, yzytb.com
 domain, yzzakfgemqbsj.site
 domain, yzzqza.vanillashu.co.kr
-domain, z-na.amazon-adsystem.com
 domain, z-node.telemetry-api-v1.coupons
 domain, z-xiao.xyz
 domain, z.cdn.protect-ad.com

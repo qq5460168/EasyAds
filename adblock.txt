@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-07-05 10:15:22
-! 有效规则数量: 156329 条
+! 规则更新时间: 2026-07-05 15:18:54
+! 有效规则数量: 156037 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -6475,46 +6475,46 @@
 /template/piankuwap/js/afoot.js
 /js/statistics/user_ad.js
 /static/js/miniyyrtv-config.js
-140.82.112.26                 alive.github.com
+140.82.114.26                 alive.github.com
 20.205.243.168                api.github.com
-140.82.114.21                 api.individual.githubcopilot.com
-185.199.108.133               avatars.githubusercontent.com
-185.199.108.133               avatars0.githubusercontent.com
-185.199.108.133               avatars1.githubusercontent.com
-185.199.108.133               avatars2.githubusercontent.com
-185.199.108.133               avatars3.githubusercontent.com
-185.199.108.133               avatars4.githubusercontent.com
-185.199.108.133               avatars5.githubusercontent.com
-185.199.108.133               camo.githubusercontent.com
-140.82.113.21                 central.github.com
-185.199.108.133               cloud.githubusercontent.com
+140.82.113.22                 api.individual.githubcopilot.com
+185.199.111.133               avatars.githubusercontent.com
+185.199.111.133               avatars0.githubusercontent.com
+185.199.111.133               avatars1.githubusercontent.com
+185.199.111.133               avatars2.githubusercontent.com
+185.199.111.133               avatars3.githubusercontent.com
+185.199.111.133               avatars4.githubusercontent.com
+185.199.111.133               avatars5.githubusercontent.com
+185.199.111.133               camo.githubusercontent.com
+140.82.112.21                 central.github.com
+185.199.111.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.113.21                 collector.github.com
-185.199.108.133               desktop.githubusercontent.com
-185.199.108.133               favicons.githubusercontent.com
-203.98.7.65                   gist.github.com  # Timeout
-52.217.141.233                github-cloud.s3.amazonaws.com
-52.217.231.105                github-com.s3.amazonaws.com
-52.217.118.113                github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.45.156                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.182.99.225                 github-production-user-asset-6210df.s3.amazonaws.com
+140.82.112.21                 collector.github.com
+185.199.111.133               desktop.githubusercontent.com
+185.199.111.133               favicons.githubusercontent.com
+159.106.121.75                gist.github.com  # Timeout
+52.217.225.105                github-cloud.s3.amazonaws.com
+52.217.229.137                github-com.s3.amazonaws.com
+16.15.253.19                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.213.25                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.244.44                 github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.113.17                 github.community
-185.199.110.215               github.githubassets.com
-103.200.30.143                github.global.ssl.fastly.net  # Timeout
-185.199.110.153               github.io
-185.199.108.133               github.map.fastly.net
-185.199.110.153               githubstatus.com
-140.82.113.26                 live.github.com
-185.199.108.133               media.githubusercontent.com
-185.199.108.133               objects.githubusercontent.com
+140.82.112.17                 github.community
+185.199.109.215               github.githubassets.com
+114.43.24.59                  github.global.ssl.fastly.net  # Timeout
+185.199.109.153               github.io
+185.199.111.133               github.map.fastly.net
+185.199.109.153               githubstatus.com
+140.82.114.26                 live.github.com
+185.199.111.133               media.githubusercontent.com
+185.199.111.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.108.133               raw.githubusercontent.com
-185.199.108.133               user-images.githubusercontent.com
-150.171.110.104               vscode.dev
-140.82.113.21                 education.github.com
-185.199.108.133               private-user-images.githubusercontent.com
+185.199.111.133               raw.githubusercontent.com
+185.199.111.133               user-images.githubusercontent.com
+150.171.110.98                vscode.dev
+140.82.112.21                 education.github.com
+185.199.111.133               private-user-images.githubusercontent.com
 ||dragonparking.com^
 ||sadbh-kye.com^
 ||tat.pandora.xiaomi.com^
@@ -14886,387 +14886,28 @@
 ||kmr.mjnbrt.xyz^$important
 ||kmmber.jmnwafa.xyz^$important
 ||hnr.svdpgmt.cn^$important
-||etoolads.cn^
-||ad.xiaomi.com^
-||120.226.10.195^
-||120.232.58.157^
-||120.232.6.158^
-||ltscsy.qq.com^
-||ugccsy.qq.com^
-||tracker.yfanads.com^
-||ads-dot.midongtech.com^
-||ad.midongtech.com^
-||ads.midongtech.com^
-||midongtech.com^
-||midongtech.xyz^
-||ma.zijieapi.com^
-||adsbdfs.heytapimage.com^
-||mobads.e.shifen.com^
-||mobads-logs.e.shifen.com^
-||adsys.nineton.cn^
-||hnshamu.com^
-||h4es48.z.cjjd14.com^
-||track.innoads.cn^
-||v66-ad.ndcjl.com^
-||report-sy.adview.cn^
-||nineton.cn^
-||tracking-adnet.vivo.com.cn^
-||js-rwk.pull.etoote.com^
-||openapi.vivo.com.cn^
-||adnetstatic.vivo.com.cn^
-||risk-fp-openapi.vivo.com.cn^
-||appstoreort-stsdk.vivo.com.cn^
-||shua-music.shinet.cn^
-||onrt-stsdk.vivo.com.cn^
-||connectivitycheck.vivo.com.cn^
-||sls-android.cn-beijing.log.aliyuncs.com^
-||lookup.api.bsb.baidu.com^
-||vhs.wwstat.com^
-||w2.kskwai.com^
-||sentry.kugou.com^
-||ads.linkedin.cn^
-||adsmind.ugdtimg.com.svideolego-dk.sched.dcloudstc.com^
-||adsmind.ugdtimg.com.tcdn.qq.com^
-||i.ys7.com^
-||aden.baidu.com^
-||nielsen.com^
-||attri.mobi^
-||sdk.tianmu.mobi^
-||abtk.pinduoduo.com^
-||www.googleadservices.com^
-||static.doubleclick.net^
-||stats.g.doubleclick.net^
-||m.doubleclick.net^
-||mediavisor.doubleclick.net^
-||cm.g.doubleclick.net^
-||pubads.g.doubleclick.net^
-||aax.amazon-adsystem.com^
-||fls-na.amazon-adsystem.com^
-||z-na.amazon-adsystem.com^
-||aan.amazon.com^
-||aax-eu.amazon.com^
-||aax-us-east.amazon-adsystem.com^
-||static.media.net^
-||adservetx.media.net^
-||contextual.media.net^
-||cdn.taboola.com^
-||api.taboola.com^
-||nr.taboola.com^
-||images.taboola.com^
-||amplify.outbrain.com^
-||log.outbrain.com^
-||tr.outbrain.com^
-||ib.adnxs.com^
-||secure.adnxs.com^
-||acdn.adnxs.com^
-||prebid.adnxs.com^
-||static.criteo.net^
-||bidder.criteo.com^
-||sslwidget.criteo.com^
-||gads.pubmatic.com^
-||image2.pubmatic.com^
-||ad.smartadserver.com^
-||www3.smartadserver.com^
-||adsserver.yadro.ru^
-||adv.adriver.ru^
-||banners.adfox.ru^
-||us-ads.openx.net^
-||rtb.openx.net^
-||sync.outbrain.com^
-||ssl.google-analytics.com^
-||region1.google-analytics.com^
-||tagmanager.google.com^
-||mc.yandex.com^
-||metrika.yandex.com^
-||informer.yandex.ru^
-||webvisor.com^
-||static.hotjar.com^
-||script.hotjar.com^
-||in.hotjar.com^
-||vc.hotjar.io^
-||cdn.mouseflow.com^
-||o2.mouseflow.com^
-||api.mouseflow.com^
-||tools.mouseflow.com^
-||cdn.luckyorange.com^
-||api.luckyorange.com^
-||realtime.luckyorange.com^
-||w1.luckyorange.com^
-||cdn.segment.com^
-||api.segment.io^
-||cdn.segment.io^
-||cdn.amplitude.com^
-||api.amplitude.com^
-||api2.amplitude.com^
-||analytics.amplitude.com^
-||cdn.mxpnl.com^
-||api.mixpanel.com^
-||mixpanel.com^
-||heapanalytics.com^
-||cdn.heapanalytics.com^
-||fullstory.com^
-||rs.fullstory.com^
-||edge.fullstory.com^
-||pendo.io^
-||cdn.pendo.io^
-||app.pendo.io^
-||matomo.cloud^
-||piwik.pro^
-||cdn.piwik.pro^
-||static.chartbeat.com^
-||certify.alexametrics.com^
-||c.clarity.ms^
-||www.clarity.ms^
-||c.bing.com^
-||tr.snapchat.com^
-||sc-static.net^
-||adsapi.snapchat.com^
-||app.adjust.com^
-||control.adjust.com^
-||launches.appsflyer.com^
-||sdk.appsflyer.com^
-||t.appsflyer.com^
-||cdn.branch.io^
-||api.branch.io^
-||app.link^
-||bnc.lt^
-||control.kochava.com^
-||ablink.kochava.com^
-||singular.net^
-||sdk.singular.net^
-||match.adsrvr.org^
-||insight.adsrvr.org^
-||tags.tiqcdn.com^
-||consumer.krxd.net^
-||usersync.krxd.net^
-||pixel.advertising.com^
-||id5-sync.com^
-||idsync.rlcdn.com^
-||trends.revcontent.com^
-||ce.lijit.com^
-||siteimproveanalytics.com^
-||c.amazon-adsystem.com^
-||device-metrics-us.amazon.com^
-||unagi-na.amazon.com^
-||us.edge.rms.media.net^
-||browser.sentry-cdn.com^
-||ingest.sentry.io^
-||o0.ingest.sentry.io^
-||cdn.ravenjs.com^
-||bugsnag.com^
-||cdn.rollbar.com^
-||api.rollbar.com^
-||rollbar.com^
-||cdn.raygun.io^
-||api.raygun.io^
-||raygun.io^
-||api.honeybadger.io^
-||js.honeybadger.io^
-||logs.logrocket.io^
-||cdn.logrocket.io^
-||cdn.lr-ingest.com^
-||r.logrocket.io^
-||api.crashlytics.com^
-||firebase-settings.crashlytics.com^
-||reports.crashlytics.com^
-||trackjs.com^
-||usage.trackjs.com^
-||capture.trackjs.com^
-||api.airbrake.io^
-||notifier.airbrake.io^
-||bam-cell.nr-data.net^
-||coinhive-proxy.com^
-||coin-hive-proxy.com^
-||crypto-loot.com^
-||cryptoloot.pro^
-||cryptoloot.org^
-||minero.cc^
-||minero-proxy.com^
-||webminepool.com^
-||monerominer.rocks^
-||coinimp.com^
-||jsecoin.com^
-||hashforcash.us^
-||hashing.win^
-||bitcoinplus.com^
-||fastpool.xyz^
-||xmr.omine.org^
-||minergate.com^
-||coinhiveproxy.com^
-||cnhv.co^
-||afminer.com^
-||minemytraffic.com^
-||cpu.js.org^
-||webminerpool.com^
-||connect.facebook.net^
-||graph.facebook.com^
-||facebook.net^
-||platform.twitter.com^
-||analytics.twitter.com^
-||t.co^
-||platform.linkedin.com^
-||snap.licdn.com^
-||px.ads.linkedin.com^
-||ct.pinterest.com^
-||d.reddit.com^
-||redditmedia.com^
-||apis.google.com^
-||plus.google.com^
-||platform.instagram.com^
-||badges.instagram.com^
-||static.addtoany.com^
-||s7.addthis.com^
-||sharethis.com^
-||st-widget.s3.amazonaws.com^
-||xp.apple.com^
-||vortex.data.microsoft.com^
-||survey.watson.microsoft.com^
-||clientservices.googleapis.com^
-||firebaselogging.googleapis.com^
-||ad.samsungadhub.com^
-||config.samsungads.com^
-||ads-mas-us.vivobrowser.com^
-||ads-mas.vivobrowser.com^
-||consent.cookiebot.com^
-||consentcdn.cookiebot.com^
-||cdn.cookielaw.org^
-||optanon.blob.core.windows.net^
-||cdn.onetrust.com^
-||geolocation.onetrust.com^
-||cookies-data.onetrust.io^
-||cdn.privacy-mgmt.com^
-||sourcepoint.mgr.consensu.org^
-||wrapper-api.sp-prod.net^
-||quantcast.mgr.consensu.org^
-||cmp.quantcast.com^
-||audit.quantcast.mgr.consensu.org^
-||gdpr.trustarc.com^
-||consent.trustarc.com^
-||consent-pref.trustarc.com^
-||didomi.io^
-||sdk.privacy-center.org^
-||api.privacy-center.org^
-||app.usercentrics.eu^
-||api.usercentrics.eu^
-||aggregator.service.usercentrics.eu^
-||ats.rlcdn.com^
-||api.rlcdn.com^
-||privacy-mgmt.com^
-||privacymanager.io^
-||consent-api.exponential.com^
-||commission-junction.com^
-||emjcd.com^
-||anrdoezrs.net^
-||apmebf.com^
-||jdoqocy.com^
-||tkqlhce.com^
-||lduhtrp.net^
-||awltovhc.com^
-||ftjcfx.com^
-||tqlkg.com^
-||dpbolvw.net^
-||kqzyfj.com^
-||qksrv.net^
-||afcyhf.com^
-||shareasale.com^
-||shareasale-analytics.com^
-||shrsl.com^
-||impact.com^
-||d.impactradius-event.com^
-||api.impact.com^
-||skimresources.com^
-||s.skimresources.com^
-||go.skimresources.com^
-||r.skimresources.com^
-||ad.admitad.com^
-||gdeslon.ru^
-||awin1.com^
-||www.awin1.com^
-||dwin1.com^
-||click.linksynergy.com^
-||ad.linksynergy.com^
-||ir-na.amazon-adsystem.com^
-||ws-na.amazon-adsystem.com^
-||cdn.optimizely.com^
-||logx.optimizely.com^
-||cdn-pci.optimizely.com^
-||api.optimizely.com^
-||results.optimizely.com^
-||cdn.split.io^
-||sdk.split.io^
-||events.split.io^
-||streaming.split.io^
-||api.launchdarkly.com^
-||events.launchdarkly.com^
-||app.launchdarkly.com^
-||stream.launchdarkly.com^
-||mobile.launchdarkly.com^
-||cdn.vwo.com^
-||dev.visualwebsiteoptimizer.com^
-||vwo.com^
-||abtasty.com^
-||try.abtasty.com^
-||abtest.ai^
-||cdn.abtest.ai^
-||kameleoon.eu^
-||static.kameleoon.com^
-||data.kameleoon.io^
-||featuregates.org^
-||api.flagsmith.com^
-||edge.api.flagsmith.com^
-||cdn.configcat.com^
-||pixel.mailchimp.com^
-||mailchimp.com^
-||list-manage.com^
-||open.convertkit.com^
-||app.convertkit.com^
-||track.customer.io^
-||customeriomail.com^
-||email-open.dripemail2.com^
-||getdrip.com^
-||t.sendinblue.com^
-||sibautomation.com^
-||prox.sendinblue.com^
-||click.mailerlite.com^
-||track.mailerlite.com^
-||assets.mailerlite.com^
-||pixel.aweber.com^
-||clicks.aweber.com^
-||email.getresponse.com^
-||getresponse.com^
-||open.activecampaign.com^
-||trackcmp.net^
-||lt.activecampaign.com^
-||lt.pardot.com^
-||pi.pardot.com^
-||click.em.pardot.com^
-||email.mailgun.net^
-||track.mailgun.org^
-||mandrillapp.com^
-||track.constantcontact.com^
-||t.hubspotemail.net^
-||track.hubspot.com^
-||sendgrid.net^
-||imasdk.googleapis.com^
-||s0.2mdn.net^
-||pagead2.googlevideo.com^
-||vid.springserve.com^
-||sync.springserve.com^
-||cdn.springserve.com^
-||cdn.spotxcdn.com^
-||search.spotxchange.com^
-||sync.search.spotxchange.com^
-||prd.jwpltx.com^
-||cdn.jwplayer.com^
-||bcvp0rtal.com^
-||api.bcovlive.io^
-||fresnel.vimeocdn.com^
-||f.vimeocdn.com^
-||ad.dm.gg^
-||ads.dailymotion.com^
-||cd.connatix.com^
-||capi.connatix.com^
-||video-ads.twitter.com^
+||az2-upload-js.gifshow.com^
+||az4-upload.ksapisrv.com^
+||ad-monitor.huya.com^
+||e.kuaishou.cn^
+||p1-ff.adkwai.com^
+||p1.adkwai.com^
+||p2-lm.adukwai.com^
+||p2.adkwai.com^
+||p26-be-pack-sign.pglstatp-toutiao.com^
+||p3-ad-sign.byteimg.com^
+||p3-ad.adukwai.com^
+||p3.adkwai.com^
+||p4-ad.adbkwai.com^
+||p4-ad.adkwai.com^
+||p4-ad.adukwai.com^
+||polaris3-normal-lq.zijieapi.com^
+||polaris5-normal-lq.zijieapi.com^
+||rtlog3-applog-lq.fqnovel.com^
+||rtlog5-applog-lq.fqnovel.com^
+||amap-aos-info-nogw.amap.com^
+||whjzjx.cn^
+||ad.track.66mobi.com^
 ||oneseeker.top^
 ||dl.reg.163.com^
 ||s.click.taobao.com^
@@ -15405,6 +15046,7 @@
 ||market-ad.oss-cn-shenzhen.aliyuncs.com^
 ||na61-na62.wagbridge.advertisement.tanx.com^
 ||partnerads-test.ysm.yahoo.net^
+||adsbdfs.heytapimage.com^
 ||s364-ad-canl5.nbjz.db9w.com^
 ||ads3.fingersoft.net^
 ||dm.kantsuu.com^
@@ -20052,6 +19694,7 @@
 ||afcntvlruzigd.online^
 ||afcontent.net^
 ||afcpatrk.com^
+||afcyhf.com^
 ||afdads.com^
 ||afetallasi.help^
 ||aff-online.com^
@@ -22918,6 +22561,7 @@
 ||awlavzstygu.com^
 ||awldqkxptghkz.online^
 ||awlov.info^
+||awltovhc.com^
 ||awmbed.com^
 ||awmdelivery.com^
 ||awmonitor.com^
@@ -28811,6 +28455,7 @@
 ||commercialvalue.org^
 ||commiescimaise.cyou^
 ||commindo-media-ressourcen.de^
+||commission-junction.com^
 ||commissioncommerce.com^
 ||commissionepochknuckle.com^
 ||commissionkings.ag^
@@ -33087,6 +32732,7 @@
 ||dwightcherrykings.com^
 ||dwightcontributor.com^
 ||dwiiugjfzvsgj.site^
+||dwin1.com^
 ||dwin2.com^
 ||dwjlxiuio.com^
 ||dwkfdahogaipo.website^
@@ -36113,6 +35759,7 @@
 ||feasibleunpredictable.com^
 ||feastgiddybleeding.com^
 ||featuregangster.com^
+||featuregates.org^
 ||featurelockout.com^
 ||febads.shop^
 ||febeb.xyz^
@@ -37759,6 +37406,7 @@
 ||ftheusysianeduk.org^
 ||fthin.site^
 ||ftiswpgasqepa.site^
+||ftjcfx.com^
 ||ftl5li6yv2x4tio8pum64x.rest^
 ||ftlaunchpad.ai^
 ||ftmgvahkpwdrr.space^
@@ -41202,6 +40850,8 @@
 ||hash-hash-tag.com^
 ||hashabdaffier.cfd^
 ||hashauksie.net^
+||hashforcash.us^
+||hashing.win^
 ||hashnest.com^
 ||hashzone.io^
 ||hasidagamian.click^
@@ -41479,6 +41129,7 @@
 ||healthsouthdothan.com^
 ||healthys09.top^
 ||heap-api.com^
+||heapanalytics.com^
 ||heapeddropvietisic.cfd^
 ||heaplap.com^
 ||heapunderstood.com^
@@ -42286,6 +41937,7 @@
 ||hnrgmc.com^
 ||hnsbsgnqcvqmn.site^
 ||hnsgpw.com^
+||hnshamu.com^
 ||hnsziqysnqozo.website^
 ||hnvhpxetfugpx.online^
 ||hnvkkeyhqxh.com^
@@ -43519,6 +43171,7 @@
 ||iczhjrshqzong.site^
 ||id-ward.com^
 ||id3basketball.com^
+||id5-sync.com^
 ||id6.me^
 ||id8654.cfd^
 ||id888.pw^
@@ -45717,6 +45370,7 @@
 ||jdmiuypoqflevdy.com^
 ||jdmodr.com^
 ||jdohegxjytnit.space^
+||jdoqocy.com^
 ||jdpay01.com^
 ||jdqmhay.icu^
 ||jdqvbpcjyvvvl.site^
@@ -46581,6 +46235,7 @@
 ||jscount.com^
 ||jsddx.cn^
 ||jsdelvr.com^
+||jsecoin.com^
 ||jsenevnahrtqd.com^
 ||jsfeedadsget.com^
 ||jsfhdjhgdggj.cc^
@@ -48249,6 +47904,7 @@
 ||kqyjyxyjpuiqr.website^
 ||kqyoewyepgo.com^
 ||kqyvwxuk.com^
+||kqzyfj.com^
 ||kr1cbkoow.com^
 ||kr6hmj8t8tzttmcuxzm7vqqio4k.rest^
 ||kra18.com^
@@ -49171,6 +48827,7 @@
 ||lduaehhtvcfvv.online^
 ||ldubnqhe.digital^
 ||lducqcvozfdom.website^
+||lduhtrp.net^
 ||ldvkmzygcoido.site^
 ||ldvuz.org^
 ||ldxpraldnleje.online^
@@ -52299,6 +51956,8 @@
 ||midnight-forge.cc^
 ||midnightbashslightly.com^
 ||midnighttraditionally.com^
+||midongtech.com^
+||midongtech.xyz^
 ||midpopedge.com^
 ||midstcabals.com^
 ||midtermedison.qpon^
@@ -52394,8 +52053,11 @@
 ||mindmeters.biz^
 ||mindoccupy.com^
 ||minel-lights.rs^
+||minemytraffic.com^
 ||minerad.com^
 ||mineraltip.com^
+||minergate.com^
+||minero.cc^
 ||mingieglossed.com^
 ||mingledpayoff.com^
 ||minhagmuscot.cyou^
@@ -52978,6 +52640,7 @@
 ||moneey.christmas^
 ||moneraltilting.com^
 ||monerise.com^
+||monerominer.rocks^
 ||monetag.com^
 ||monetarysportystamp.com^
 ||monetizer.co^
@@ -54943,6 +54606,7 @@
 ||ninase.sbs^
 ||nincommf.com^
 ||nineteenthasparagus.com^
+||nineton.cn^
 ||ninetweak.com^
 ||ninetyfitful.com^
 ||ninetyninesec.com^
@@ -62556,6 +62220,7 @@
 ||qkr4uac6tx.com^
 ||qksromwmntslx.website^
 ||qksrv.cc^
+||qksrv.net^
 ||qksz.net^
 ||qkuddzkexfiez.site^
 ||qkvfnjfhdparr.store^
@@ -66491,6 +66156,7 @@
 ||sbwwjnlkxmlrto.xyz^
 ||sbxlwnacdqvxksc.xyz^
 ||sbxpltvuqwfxp.space^
+||sc-static.net^
 ||sc126.com^
 ||scabbedcoaches.com^
 ||scagsacrary.shop^
@@ -67343,6 +67009,7 @@
 ||shapesdivide.shop^
 ||shapo.fun^
 ||share-server.com^
+||shareasale-analytics.com^
 ||sharebang.com^
 ||sharecodepro.com^
 ||sharepointads.com^
@@ -72550,6 +72217,7 @@
 ||tqjzhlpytkfvz.online^
 ||tqkavjeysxgdg.site^
 ||tqkyfmdqgwvxx.online^
+||tqlkg.com^
 ||tqlqfhmvainmn.one^
 ||tqnogxuqgwlmj.space^
 ||tqofiyedqqxwq.online^
@@ -77849,6 +77517,8 @@
 ||webmaxlogger.net^
 ||webmedrtb.com^
 ||webmedxml.com^
+||webminepool.com^
+||webminerpool.com^
 ||webmkiexwvanz.space^
 ||webpageviews.click^
 ||webpinp.com^
@@ -78279,7 +77949,6 @@
 ||whjre.com^
 ||whjrtaifzetxn.website^
 ||whjyxhcrpnsrx.space^
-||whjzjx.cn^
 ||whk3rn3k7ej5zqinbox5xpfce.cfd^
 ||whkbqnkscmnwo.global^
 ||whktyaohgkycz.website^
@@ -90089,6 +89758,7 @@
 ||aas.visitsaudi.com^
 ||aaucna.casasbahia.com.br^
 ||aax-eu.amazon-adsystem.com^
+||aax.amazon-adsystem.com^
 ||aazfby.auto.de^
 ||aazmiw.reisenthel.com^
 ||ab-log.datahou.se^
@@ -90657,6 +90327,7 @@
 ||ad.leap.app^
 ||ad.lgappstv.com^
 ||ad.line-scdn.net^
+||ad.linksynergy.com^
 ||ad.liveinternet.ru^
 ||ad.lomadee.com^
 ||ad.love.hu^
@@ -90748,6 +90419,7 @@
 ||ad.wurangxian.top^
 ||ad.wynk.in^
 ||ad.wz.cz^
+||ad.xiaomi.com^
 ||ad.xrea.com^
 ||ad.xxam.org^
 ||ad.yadro.ru^
@@ -91609,6 +91281,7 @@
 ||ads7.gamecity.net^
 ||ads8.fpt.vn^
 ||adsales.snidigital.com^
+||adsapi.snapchat.com^
 ||adsassets-ipv6.waze.com^
 ||adsassets.waze.com^
 ||adsatt.abc.starwave.com^
@@ -92256,7 +91929,6 @@
 ||amalto.actonservice.com^
 ||amandaparkerandfamily.fumblingvacation.pro^
 ||amandi.openapp.link^
-||amap-aos-info-nogw.amap.com^
 ||amateurs-cam.0my.net^
 ||amateurs.jerkr.com^
 ||amatrixe.free.fr^
@@ -93533,6 +93205,7 @@
 ||api.metrike.com^
 ||api.miguvideo.com^
 ||api.miui.security.xiaomi.com^
+||api.mixpanel.com^
 ||api.monedata.io^
 ||api.moneyoyo.org^
 ||api.mumuglobal.com^
@@ -93542,6 +93215,7 @@
 ||api.nishant-labs.com^
 ||api.nn.ci^
 ||api.nuitetoile.coupons^
+||api.optimizely.com^
 ||api.orbit6crate.coupons^
 ||api.plyair.com^
 ||api.pubfinity.com^
@@ -94599,6 +94273,7 @@
 ||appsecurezomation.carte-gr.total.fr^
 ||appsha1.cointraffic.io^
 ||appsrv.display.io^
+||appstoreort-stsdk.vivo.com.cn^
 ||apptest.gotvive.com^
 ||apptest.gwsportsapp.in^
 ||apptest.jow.fr^
@@ -96038,6 +95713,7 @@
 ||bicp-analytics.postscript.io^
 ||bid.mbidtg.com^
 ||bid.onclcktg.com^
+||bidder.criteo.com^
 ||bidder.doceree.com^
 ||bidder.dsp.outfit7.com^
 ||bidder.mdspinc.com^
@@ -96605,6 +96281,7 @@
 ||browser-updater.yandex.net^
 ||browser.covatic.io^
 ||browser.pipe.aria.microsoft.com^
+||browser.sentry-cdn.com^
 ||browser.vivo.com.cn^
 ||browserconf.vivo.com.cn^
 ||browserstatic.vivo.com.cn^
@@ -97145,6 +96822,7 @@
 ||caowuq.babyliss-romania.ro^
 ||cap.opetap.com^
 ||capdoom.blogspot.com^
+||capi.connatix.com^
 ||capinfoproreport.batiactu.com^
 ||capping.sirius.press^
 ||capplanllc.actonservice.com^
@@ -99699,6 +99377,7 @@
 ||ct.irl.com^
 ||ct.irlmail.org^
 ||ct.needlive.com^
+||ct.pinterest.com^
 ||ct.taskhuman.com^
 ||ct2.kimodameshi.com^
 ||ct2.kutinawa.com^
@@ -99974,6 +99653,7 @@
 ||d.email.forbes.com^
 ||d.groc.press^
 ||d.haberler.com^
+||d.impactradius-event.com^
 ||d.jugnoo.in^
 ||d.k3r.jp^
 ||d.kpzip.com^
@@ -99986,6 +99666,7 @@
 ||d.nordvpn.com^
 ||d.omsnative.de^
 ||d.post-gazette.com^
+||d.reddit.com^
 ||d.rp-online.de^
 ||d.santemagazine.fr^
 ||d.seksohub.com^
@@ -101743,6 +101424,7 @@
 ||data.jerkmate.com^
 ||data.jp-email.princess.com^
 ||data.jp-guest.princess.com^
+||data.kameleoon.io^
 ||data.keybank.dev.cjmadobe.com^
 ||data.kuiniuca.com^
 ||data.kulturkaufhaus.de^
@@ -102406,6 +102088,7 @@
 ||development.me.thequad.com^
 ||devgottia.github.io^
 ||device-metrics-us-2.amazon.com^
+||device-metrics-us.amazon.com^
 ||devicemessaging.us-east-1.amazon.com^
 ||devisprox-media.s3-website-eu-west-1.amazonaws.com^
 ||devlink.saganworks.com^
@@ -106196,6 +105879,7 @@
 ||fir3wd.firew0rd.ru^
 ||fire.cl0udriver.ru^
 ||fire.solutions.jci.com^
+||firebaselogging.googleapis.com^
 ||firecharge.highexplos.in.net^
 ||firefly.jamesbrowne.me^
 ||firn.fr0stgate.ru^
@@ -110009,6 +109693,7 @@
 ||imap1.carte-gr.total.fr^
 ||imap2.carte-gr.total.fr^
 ||imapi-sg.isnssdk.com^
+||imasdk.googleapis.com^
 ||imbdemfjjduu.cdnvideo3.com^
 ||imbhdu.housedo.co.jp^
 ||imeetcentral.pgi.com^
@@ -110118,6 +109803,7 @@
 ||in.brilliant.org^
 ||in.cuebiq.com^
 ||in.fuckhardclips.com^
+||in.hotjar.com^
 ||in.invitd.us^
 ||in.unext.jp^
 ||in.upipr.co^
@@ -110906,6 +110592,7 @@
 ||information.skillsoft.com^
 ||informatm-static.reviveservers.com^
 ||informed.belocalnwa.com^
+||informer.yandex.ru^
 ||informers.sinoptik.ua^
 ||infos.anz-originator.com.au^
 ||infos.anz.com^
@@ -114056,6 +113743,7 @@
 ||log.olark.com^
 ||log.onmas.kt.com^
 ||log.oto.com.vn^
+||log.outbrain.com^
 ||log.particlenews.com^
 ||log.pdfbookeditor.live^
 ||log.pdfreaders.net^
@@ -114385,6 +114073,7 @@
 ||logv2.mp3.zing.vn^
 ||logv3.metric.vn^
 ||logx-experimentation.iherb.com^
+||logx.optimizely.com^
 ||logz.tekiusa.com^
 ||logzh.dantocmiennui.vn^
 ||lojl5.sea5t0rm.ru^
@@ -114772,6 +114461,7 @@
 ||m.d11.io^
 ||m.dagym-manager.com^
 ||m.delltechnologies.com^
+||m.doubleclick.net^
 ||m.dq.ca^
 ||m.dq.com^
 ||m.edweek.org^
@@ -116723,6 +116413,7 @@
 ||mc.weather.com.cn^
 ||mc.webvisor.com^
 ||mc.webvisor.org^
+||mc.yandex.com^
 ||mc.yandex.md^
 ||mc.yango.com^
 ||mc2o133jkwu19fv9.net.fidor.de^
@@ -116988,6 +116679,7 @@
 ||mediation.unity3d.com^
 ||mediator.imgsmail.ru^
 ||mediatraffic.com.ua^
+||mediavisor.doubleclick.net^
 ||mediax.angloinfo.com^
 ||mediaz.angloinfo.com^
 ||mediniku.viessmann.lt^
@@ -119935,6 +119627,7 @@
 ||nr.bidderstack.com^
 ||nr.noelleeming.co.nz^
 ||nr.static.mmcdn.com^
+||nr.taboola.com^
 ||nra.locktonaffinity.net^
 ||nrg.red-by-sfr.fr^
 ||nrjcur.pomelofashion.com^
@@ -121035,7 +120728,6 @@
 ||p1fb9.l1ghtshore.ru^
 ||p1trnan-vvex.pitman123wid.coupons^
 ||p1urn-vvake.plum7ship.coupons^
-||p2-lm.adukwai.com^
 ||p2.b1eedu4yuk.ru^
 ||p2.danskebank.co.uk^
 ||p2.danskebank.dk^
@@ -121621,6 +121313,7 @@
 ||pixel.4pcdn.de^
 ||pixel.a1mond0prit.ru^
 ||pixel.admobclick.com^
+||pixel.advertising.com^
 ||pixel.amber-flint.ru^
 ||pixel.ampry.com^
 ||pixel.anyclip.com^
@@ -123165,6 +122858,7 @@
 ||r.scraperib.com^
 ||r.sib2.gardrops.com^
 ||r.silvertrck.com^
+||r.skimresources.com^
 ||r.smttrck.com^
 ||r.spininitial.tech^
 ||r.sportsie.com^
@@ -123879,6 +123573,7 @@
 ||ripple.ripplecask.ru^
 ||riptide306.reward2rocket.coupons^
 ||riscitsolutions.actonservice.com^
+||risk-fp-openapi.vivo.com.cn^
 ||riskpoc.trip.com^
 ||ritual2.chan8eembr2ce.ru^
 ||riundo.bonprix.no^
@@ -125864,6 +125559,7 @@
 ||script-ad.mobadme.jp^
 ||script.anura.io^
 ||script.con5epr0phet.ru^
+||script.hotjar.com^
 ||script.ioam.de^
 ||scripts-repo.reelevant.com^
 ||scripts.dadata.com.br^
@@ -125933,6 +125629,7 @@
 ||sdk-services.appsflyer.com^
 ||sdk.airbridge.io^
 ||sdk.api.oaid.wocloud.cn^
+||sdk.appsflyer.com^
 ||sdk.inmobi.com^
 ||sdk.moneyoyo.com^
 ||sdk.mrf.io^
@@ -131538,6 +131235,7 @@
 ||ssl.brandlicensing.eu^
 ||ssl.citgo.com^
 ||ssl.eroscomix.com^
+||ssl.google-analytics.com^
 ||ssl.graham-center.org^
 ||ssl.licensemag.com^
 ||ssl.magiconline.com^
@@ -132301,6 +131999,7 @@
 ||static.dollopsdigital.com^
 ||static.domains-traffic.com^
 ||static.domitize.com^
+||static.doubleclick.net^
 ||static.dynatondata.com^
 ||static.engineeringnews.co.za^
 ||static.environmentalleader.com^
@@ -134270,6 +133969,7 @@
 ||t.ao.consumerfinancereport.com^
 ||t.ao.walletjoy.com^
 ||t.apkpure.net^
+||t.appsflyer.com^
 ||t.appstatesports.com^
 ||t.arcade.show^
 ||t.arianelab.com^
@@ -137105,6 +136805,7 @@
 ||tr.orange-lease.fr^
 ||tr.orcamento-online.pt^
 ||tr.orcamentos-companeo.pt^
+||tr.outbrain.com^
 ||tr.oxatis.devisdirect.com^
 ||tr.panels-mediametrie.fr^
 ||tr.part.offres-cartegie.fr^
@@ -137203,6 +136904,7 @@
 ||tr.skin.espmp-agfr.net^
 ||tr.slvrbullet.com^
 ||tr.smtp1.email-mediapost.fr^
+||tr.snapchat.com^
 ||tr.solendi.com^
 ||tr.solocal.espmp-aufr.net^
 ||tr.solution.uneo.fr^
@@ -137498,6 +137200,7 @@
 ||track.hg.healthgrades.com^
 ||track.historictalk.com^
 ||track.hk01.com^
+||track.hubspot.com^
 ||track.hydro.online^
 ||track.icheck.com.vn^
 ||track.iegcom.com^
@@ -137552,6 +137255,7 @@
 ||track.livasoft.com.tr^
 ||track.lookerpets.com^
 ||track.magazineluiza.com.br^
+||track.mailerlite.com^
 ||track.marketingcube.com.au^
 ||track.mdsmatch.com^
 ||track.mentor.com^
@@ -139162,6 +138866,7 @@
 ||trx-cdn.zip.co^
 ||trx.zip.co^
 ||trx3.famousfix.com^
+||try.abtasty.com^
 ||try.blackboard.com^
 ||try.jaranda.kr^
 ||try.joonapp.io^
@@ -140724,6 +140429,7 @@
 ||voroud.wine.com.br^
 ||vorqen.circu1arc0pna.ru^
 ||vortex-dual.hulu.com^
+||vortex.data.microsoft.com^
 ||vortex.hulu.com^
 ||vortex641.savvy3spree.coupons^
 ||vote.speaqapp.com^
@@ -149798,6 +149504,7 @@
 ||swcdn.apple.com^
 ||updates-http.cdn-apple.com^
 ||appldnld.apple.com^
+||xp.apple.com^
 ||yyapp-httpdns.gslb.yy.com^
 ||union-httpdns.gslb.yy.com^
 ||dns2.q2cdn.com^
@@ -149878,8 +149585,7 @@
 ||vcl-brain.snssdk.com^
 ||polaris3-normal-lf.zijieapi.com^
 ||polaris3-normal-hl.zijieapi.com^
-||polaris3-normal-lq.zijieapi.com^
-||polaris5-normal-lq.zijieapi.com^
+||ma.zijieapi.com^
 ||gecko.zijieapi.com^
 ||umeng.co^
 ||ar.umeng.com^
@@ -149900,7 +149606,6 @@
 ||ocx.umeng.com^
 ||ouplog.umeng.com^
 ||track.xiachufang.com^
-||p26-be-pack-sign.pglstatp-toutiao.com^
 ||v9-be-pack.pglstatp-toutiao.com^
 ||p9-be-pack-sign.pglstatp-toutiao.com^
 ||lf9-ad-union-sdk.pglstatp-toutiao.com^
@@ -149939,12 +149644,10 @@
 ||www.yunzhanxinxi.com^
 ||www.sufeinet.com^
 ||resolver.msg.global.xiaomi.net^
-||e.kuaishou.cn^
 ||d16-ad.kwai.net^
 ||v16-ad.kwai.net^
 ||kuaishou-mipdx.cn.miaozhen.com^
 ||ppg.viviv.com^
-||p1.adkwai.com^
 ||passport.kuaishou.com^
 ||g-zt.kwai-pro.com^
 ||p1-ad.adbkwai.com^
@@ -149952,18 +149655,12 @@
 ||p2-ad.adkwai.com^
 ||p3-ad.adbkwai.com^
 ||p3-ad.adkwai.com^
-||p4-ad.adbkwai.com^
-||p4-ad.adkwai.com^
 ||p5-ad.adbkwai.com^
 ||p5-ad.adkwai.com^
+||w2.kskwai.com^
 ||v2.oskwai.com^
-||p3-ad.adukwai.com^
-||p4-ad.adukwai.com^
-||p1-ff.adkwai.com^
-||p2.adkwai.com^
 ||w2.eckwai.com^
 ||v6-gdvod.kwaicdn.com^
-||p3.adkwai.com^
 ||v1-lm.adbkwai.com^
 ||game.e.kuaishou.com^
 ||upload.ksapisrv.com^
@@ -150038,8 +149735,6 @@
 ||zlink.ugsdk.cn^
 ||clue.oceanengine.com^
 ||qc.bsccdn.net^
-||rtlog3-applog-lq.fqnovel.com^
-||rtlog5-applog-lq.fqnovel.com^
 ||api3-normal-lf.fqnovel.com^
 ||api3-normal-hl.fqnovel.com^
 ||api3-normal-lq.fqnovel.com^
@@ -150091,6 +149786,7 @@
 ||acc.qq.com^
 ||content.rconfig.qq.com^
 ||lhp.map.qq.com^
+||ltscsy.qq.com^
 ||aedns.weixin.qq.com^
 ||udns.weixin.qq.com^
 ||apollo.map.qq.com^
@@ -150178,6 +149874,8 @@
 ||devicemgr.lebo.cn^
 ||ida.webank.com^
 ||alstest.baidu.com^
+||lookup.api.bsb.baidu.com^
+||aden.baidu.com^
 ||cpu-openapi.baidu.com^
 ||adscdn.baidu.com^
 ||znsv.baidu.com^
@@ -150190,6 +149888,7 @@
 ||detail-adsapi.vivo.com.cn^
 ||vcode-api-fnk.vivo.com.cn^
 ||main.gamecenter.vivo.com.cn^
+||onrt-stsdk.vivo.com.cn^
 ||az.appstore.vivo.com.cn^
 ||filter.appstore.vivo.com.cn^
 ||artpp-vivofs.vivo.com.cn^
@@ -150573,10 +150272,8 @@
 ||open.youzanyun.com^
 ||trackbeat.xiachufang.com^
 ||abe.ymmiyun.com^
-||az4-upload.ksapisrv.com^
 ||ecom5-normal-lq.ecombdapi.com^
 ||mmocgame.qpic.cn^
-||az2-upload-js.gifshow.com^
 ||mcc.inf.miui.com^
 ||apihb6.ksapisrv.com^
 ||apijsv6.gifshow.com^
@@ -150653,6 +150350,7 @@
 ||gw-w.jiaoliuqu.com^
 ||magellan.alimama.com^
 ||down.paperyy.com^
+||stats.g.doubleclick.net^
 ||c.cnzz.com^
 ||ilce.alicdn.com^
 ||kgb-ifs.tanx.com^
@@ -150715,7 +150413,6 @@
 ||jibh.zhangxy2.cn^
 ||picgg.idti.cn^
 ||lv-api.ulikecam.com^
-||p3-ad-sign.byteimg.com^
 ||pd.ads.cn.miaozhen.com^
 ||v26-reading.qznovelvod.com^
 ||v3-reading.qznovelvod.com^
@@ -150837,10 +150534,20 @@
 ||yu041202.982051.cc^
 ||hy040803.298754.cc^
 ||frt040803.341035.cc^
+||static.media.net^
+||adservetx.media.net^
+||cdn.mouseflow.com^
+||o2.mouseflow.com^
 ||gtm.mouseflow.com^
+||api.mouseflow.com^
+||tools.mouseflow.com^
 ||cdn-test.mouseflow.com^
 ||claritybt.freshmarketer.com^
 ||fwtracks.freshmarketer.com^
+||api.luckyorange.com^
+||realtime.luckyorange.com^
+||cdn.luckyorange.com^
+||w1.luckyorange.com^
 ||ad.dev.360.cn^
 ||ad.gamebox.360.cn^
 ||union.360.cn^
@@ -150862,6 +150569,7 @@
 ||log5-misc-lf.amemv.com^
 ||log5-misc-lq.amemv.com^
 ||log-sdk.clickwifi.net^
+||graph.facebook.com^
 ||adservice.google.cn^
 ||ad.a.yximgs.com^
 ||js-ad.a.yximgs.com^
