@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-07-12 06:27:29
-# 规则总数: 145444
+# 更新时间: 2026-07-12 09:44:49
+# 规则总数: 145446
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -788,6 +788,7 @@
 130gelh8q.de block
 13121e3d88.com block
 1314dh.com block
+131r3lknzg.com block
 132.red-81-42-249.staticip.rima-tde.net block
 1338999.com block
 1338f95c76.com block
@@ -76152,6 +76153,7 @@ lxpgll.icu block
 lxqcgj.com block
 lxqjy-obtr.love block
 lxriqzmffbtnd.online block
+lxrjekw.com block
 lxstat.com block
 lxsway.alltforforaldrar.se block
 lxsway.blogg.se block

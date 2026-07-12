@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-07-12 06:27:29
-# 规则总数: 145444
+# 更新时间: 2026-07-12 09:44:49
+# 规则总数: 145446
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -789,6 +789,7 @@ payload:
   - '130gelh8q.de'
   - '13121e3d88.com'
   - '1314dh.com'
+  - '131r3lknzg.com'
   - '132.red-81-42-249.staticip.rima-tde.net'
   - '1338999.com'
   - '1338f95c76.com'
@@ -76153,6 +76154,7 @@ payload:
   - 'lxqcgj.com'
   - 'lxqjy-obtr.love'
   - 'lxriqzmffbtnd.online'
+  - 'lxrjekw.com'
   - 'lxstat.com'
   - 'lxsway.alltforforaldrar.se'
   - 'lxsway.blogg.se'

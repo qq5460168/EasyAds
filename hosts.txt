@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-07-12 06:27:30
-# 规则总数: 145444
+# 更新时间: 2026-07-12 09:44:49
+# 规则总数: 145446
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -788,6 +788,7 @@
 0.0.0.0 130gelh8q.de
 0.0.0.0 13121e3d88.com
 0.0.0.0 1314dh.com
+0.0.0.0 131r3lknzg.com
 0.0.0.0 132.red-81-42-249.staticip.rima-tde.net
 0.0.0.0 1338999.com
 0.0.0.0 1338f95c76.com
@@ -76152,6 +76153,7 @@
 0.0.0.0 lxqcgj.com
 0.0.0.0 lxqjy-obtr.love
 0.0.0.0 lxriqzmffbtnd.online
+0.0.0.0 lxrjekw.com
 0.0.0.0 lxstat.com
 0.0.0.0 lxsway.alltforforaldrar.se
 0.0.0.0 lxsway.blogg.se
