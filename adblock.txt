@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-07-12 09:57:53
-! 有效规则数量: 156037 条
+! 规则更新时间: 2026-07-12 14:27:30
+! 有效规则数量: 156062 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -6475,9 +6475,9 @@
 /template/piankuwap/js/afoot.js
 /js/statistics/user_ad.js
 /static/js/miniyyrtv-config.js
-140.82.114.25                 alive.github.com
+140.82.112.26                 alive.github.com
 20.205.243.168                api.github.com
-140.82.112.22                 api.individual.githubcopilot.com
+140.82.113.21                 api.individual.githubcopilot.com
 185.199.109.133               avatars.githubusercontent.com
 185.199.109.133               avatars0.githubusercontent.com
 185.199.109.133               avatars1.githubusercontent.com
@@ -6486,33 +6486,33 @@
 185.199.109.133               avatars4.githubusercontent.com
 185.199.109.133               avatars5.githubusercontent.com
 185.199.109.133               camo.githubusercontent.com
-140.82.113.22                 central.github.com
+140.82.114.21                 central.github.com
 185.199.109.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.112.22                 collector.github.com
+140.82.114.21                 collector.github.com
 185.199.109.133               desktop.githubusercontent.com
 185.199.109.133               favicons.githubusercontent.com
-243.185.187.39                gist.github.com  # Timeout
-16.15.207.236                 github-cloud.s3.amazonaws.com
-52.216.40.193                 github-com.s3.amazonaws.com
-52.217.78.36                  github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.192.9                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.165.233                github-production-user-asset-6210df.s3.amazonaws.com
+37.61.54.158                  gist.github.com  # Timeout
+16.182.43.57                  github-cloud.s3.amazonaws.com
+52.217.169.209                github-com.s3.amazonaws.com
+52.217.228.225                github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.172.169                github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.182.34.97                  github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.114.18                 github.community
-185.199.110.215               github.githubassets.com
-128.242.240.117               github.global.ssl.fastly.net  # Timeout
+140.82.114.17                 github.community
+185.199.111.215               github.githubassets.com
+31.13.95.169                  github.global.ssl.fastly.net
 185.199.108.153               github.io
 185.199.109.133               github.map.fastly.net
 185.199.108.153               githubstatus.com
-140.82.113.26                 live.github.com
+140.82.114.25                 live.github.com
 185.199.109.133               media.githubusercontent.com
 185.199.109.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.109.133               raw.githubusercontent.com
 185.199.109.133               user-images.githubusercontent.com
-150.171.110.98                vscode.dev
+150.171.110.103               vscode.dev
 140.82.113.21                 education.github.com
 185.199.109.133               private-user-images.githubusercontent.com
 ||dragonparking.com^
@@ -152264,7 +152264,9 @@
 @@||baijiahao.baidu.com^
 @@||baike.baidu.com^
 @@||baikebcs.bdimg.com^
+@@||base.cup.com.cn^
 @@||bbs.huorong.cn^
+@@||bbs.mcmod.cn^
 @@||bbs.tampermonkey.net.cn^
 @@||bdsmtest.org^
 @@||bdsmtv.cc^
@@ -152280,6 +152282,7 @@
 @@||bookcover.yuewen.com^
 @@||bossaudioandcomic-1252317822.image.myqcloud.com^
 @@||browser.360.cn^
+@@||bug.mcmod.cn^
 @@||c.58cdn.com.cn^
 @@||c.fantia.jp^
 @@||c.pc.qq.com^
@@ -152345,6 +152348,7 @@
 @@||cn.app.chat.xiaomi.net^
 @@||cn.bing.com^
 @@||cn.pornhub.com^
+@@||cn.unionpay.com^
 @@||cn.uptodown.com^
 @@||cnbj1.fds.api.xiaomi.com^
 @@||comate-ide.cdn.bcebos.com^
@@ -152593,6 +152597,7 @@
 @@||i.dell.com^
 @@||i.gtimg.cn^
 @@||i.imgur.com^
+@@||i.mcmod.cn^
 @@||i.meituan.com^
 @@||i.mi.com^
 @@||i.pximg.net^
@@ -152604,6 +152609,7 @@
 @@||i72.lanzoug.com^
 @@||i82.lanzoug.com^
 @@||iaas.cloud.tencent.com^
+@@||iassapi.cup.com.cn^
 @@||id.163.com^
 @@||ifdian.net^
 @@||iframe.arkoselabs.com^
@@ -152732,6 +152738,7 @@
 @@||lf6-cdn2-tos.bytegoofy.com^
 @@||liangcang-material.alicdn.com^
 @@||lib.sinaapp.com^
+@@||life.cup.com.cn^
 @@||lifemakeovermysg.archosaur.com^
 @@||lightnovel.us^
 @@||limestart.cn^
@@ -152740,6 +152747,7 @@
 @@||line3-h5-mobile-api.biligame.com^
 @@||line3-h5-pc-api.biligame.com^
 @@||line3-statics-h5-mobile-api.biligame.net^
+@@||link.mcmod.cn^
 @@||link.zhihu.com^
 @@||linux.do^
 @@||liuyun.io^
@@ -152860,6 +152868,8 @@
 @@||mobile.ximalaya.com^
 @@||mobile.xunlei.com^
 @@||mobile.yangkeduo.com^
+@@||modfile.mcmod.cn^
+@@||modrinth.com^
 @@||modyolo.com^
 @@||mp.163.com^
 @@||mp.yidianzixun.com^
@@ -152943,6 +152953,8 @@
 @@||obs.tr-west-1.myhuaweicloud.com^
 @@||omofun.link^
 @@||one.one.one.one^
+@@||open.unionpay.com^
+@@||open.unionpayintl.com^
 @@||openapi.vmall.com^
 @@||osp.meituan.net^
 @@||oss.b3logfile.com^
@@ -153017,6 +153029,7 @@
 @@||passport.yuewen.com^
 @@||patchwiki.biligame.com^
 @@||pay.bilibili.com^
+@@||pay.cup.com.cn^
 @@||pay.openspeech.cn^
 @@||payapp.weixin.qq.com^
 @@||pbs.twimg.com^
@@ -153046,6 +153059,7 @@
 @@||pl.taptap.cn^
 @@||platform.deepseek.com^
 @@||play.163.com^
+@@||play.mcmod.cn^
 @@||plyr.io^
 @@||podman.io^
 @@||pool.v6.bt.n0808.com^
@@ -153154,6 +153168,7 @@
 @@||sbanh.com^
 @@||sbfast.com^
 @@||sbfull.com^
+@@||scene.cup.com.cn^
 @@||scriptcat.org^
 @@||sd.360.cn^
 @@||sdk.jinrishici.com^
@@ -153161,6 +153176,7 @@
 @@||sdk.ptqy.gitv.tv^
 @@||sdk.xyapi.game.qq.com^
 @@||se*.360simg.com^
+@@||search.mcmod.cn^
 @@||search.sogoucdn.com^
 @@||searchrec.marketplace-intl.huaweicloud.com^
 @@||service.mkey.163.com^
@@ -153198,11 +153214,13 @@
 @@||ssl-cdn.static.browser.mi-img.com^
 @@||ssl.gstatic.com^
 @@||ssl.p.jwpcdn.com^
+@@||sso.curseforge.com^
 @@||ssr.m.goofish.com^
 @@||st.jingxi.com^
 @@||starlusts.com^
 @@||stat6.y.qq.com^
 @@||static-*.xvideos-cdn.com^
+@@||static-beta.curseforge.com^
 @@||static-cdn77.xnxx-cdn.com^
 @@||static-hw.xnxx-cdn.com^
 @@||static-l3.xnxx-cdn.com^
@@ -153220,6 +153238,7 @@
 @@||static.hdslb.com^
 @@||static.iqiyi.com^
 @@||static.itellyou.cn^
+@@||static.mcmod.cn^
 @@||static.miraheze.org^
 @@||static.pddpic.com^
 @@||static.spankbang.com^
@@ -153300,6 +153319,7 @@
 @@||tot.hoyoverse.com^
 @@||tousu.sina.cn^
 @@||tousu.sina.com.cn^
+@@||travel.cup.com.cn^
 @@||ts.market.mi-img.com^
 @@||ts1.tc.mm.bing.net^
 @@||ts2.tc.mm.bing.net^
@@ -153326,6 +153346,7 @@
 @@||uc.huorong.cn^
 @@||ugame.9game.cn^
 @@||ugurl.cn^
+@@||uiam.unionpayintl.com^
 @@||union-click.jd.com^
 @@||union.jd.com^
 @@||unisdk.update.netease.com^
@@ -153438,6 +153459,8 @@
 @@||www.cloudflare-cn.com^
 @@||www.cloudflare.com^
 @@||www.cloudns.net^
+@@||www.cup.com.cn^
+@@||www.curseforge.com^
 @@||www.deepseek.com^
 @@||www.dell.com^
 @@||www.dianping.com^
@@ -153483,6 +153506,7 @@
 @@||www.listary.com^
 @@||www.listary.net^
 @@||www.maserati.com^
+@@||www.mcmod.cn^
 @@||www.meituan.com^
 @@||www.meizu.com^
 @@||www.mercedes-benz.com.cn^
@@ -153526,6 +153550,7 @@
 @@||www.tencent.net.cn^
 @@||www.tiantiantiaosheng.com^
 @@||www.toutiao.com^
+@@||www.unionpayintl.com^
 @@||www.vmall.com^
 @@||www.wnacg.com^
 @@||www.xanimeporn.com^
