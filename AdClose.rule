@@ -1,5 +1,5 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-07-16 06:11:43
+# 更新时间: 2026-07-16 10:00:38
 # 规则总数: 145446
 
 domain, -normal-lq.zijieapi.com
@@ -6479,6 +6479,7 @@ domain, HG321.CC
 domain, I9z.cn
 domain, IMTY.US
 domain, JK98.CC
+domain, Media.net
 domain, a-ads.com
 domain, a-api.skz.dev
 domain, a-counter.kiev.ua
@@ -79878,7 +79879,6 @@ domain, media.ignitium.com
 domain, media.jointreport-switch.com
 domain, media.leahy-ifp.com
 domain, media.mobpartner.mobi
-domain, media.net
 domain, media.netpositive.hu
 domain, media.netrefer.com
 domain, media.olmiweb.com

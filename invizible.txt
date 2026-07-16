@@ -1,5 +1,5 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-07-16 06:11:43
+# 更新时间: 2026-07-16 10:00:37
 # 规则总数: 145446
 
 -normal-lq.zijieapi.com block
@@ -6479,6 +6479,7 @@ HG321.CC block
 I9z.cn block
 IMTY.US block
 JK98.CC block
+Media.net block
 a-ads.com block
 a-api.skz.dev block
 a-counter.kiev.ua block
@@ -79878,7 +79879,6 @@ media.ignitium.com block
 media.jointreport-switch.com block
 media.leahy-ifp.com block
 media.mobpartner.mobi block
-media.net block
 media.netpositive.hu block
 media.netrefer.com block
 media.olmiweb.com block
