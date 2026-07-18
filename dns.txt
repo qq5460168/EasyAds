@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-07-18 12:56:28.837791
+# Generated on 2026-07-18 16:47:33.300772
 
 ||vs1.szcu.u3.ucweb.com^
 ||vs2.bjct.u3.ucweb.com^
