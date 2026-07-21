@@ -2933,7 +2933,6 @@
 ||datacollection.uve.weibo.com^
 ||dc.sigmob.cn^
 ||de.tynt.com^
-||dig.bdurl.net^
 ||dm.toutiao.com^
 ||domain.aishengji.com^
 ||doubleclick-cn.net^
@@ -3063,7 +3062,6 @@
 ||mapi.m.jd.com^
 ||mazu.m.qq.com^
 ||mbdlog.iqiyi.com^
-||mcs.zijieapi.com^
 ||medproad.com^
 ||micro-xdb.com^
 ||mini-prog-drm.vodplayvideo.net^
@@ -3480,6 +3478,7 @@
 ||df101.yblar.cn^
 ||dfsj8050.ahyyxpk.com^
 ||dhfkw.renq.ufyij.cn^
+||dig.bdurl.net^
 ||dmaoaikufn2.com^
 ||ds4x53xfg4f53gh453h.top^
 ||e54.e5449949.vip^
@@ -116869,6 +116868,7 @@
 ||mcs.tiktokv.us^
 ||mcs.tiktokw.us^
 ||mcs.us.tiktokv.com^
+||mcs.zijieapi.com^
 ||mcs16-normal-us-ttp.capcutapi.us^
 ||mcw.actonservice.com^
 ||mcx.deepcl0ud.ru^

@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-07-21 06:24:30.394282
+# Generated on 2026-07-21 10:18:26.352298
 
 ||vs1.szcu.u3.ucweb.com^
 ||vs2.bjct.u3.ucweb.com^
@@ -2936,7 +2936,6 @@
 ||datacollection.uve.weibo.com^
 ||dc.sigmob.cn^
 ||de.tynt.com^
-||dig.bdurl.net^
 ||dm.toutiao.com^
 ||domain.aishengji.com^
 ||doubleclick-cn.net^
@@ -3066,7 +3065,6 @@
 ||mapi.m.jd.com^
 ||mazu.m.qq.com^
 ||mbdlog.iqiyi.com^
-||mcs.zijieapi.com^
 ||medproad.com^
 ||micro-xdb.com^
 ||mini-prog-drm.vodplayvideo.net^
@@ -3483,6 +3481,7 @@
 ||df101.yblar.cn^
 ||dfsj8050.ahyyxpk.com^
 ||dhfkw.renq.ufyij.cn^
+||dig.bdurl.net^
 ||dmaoaikufn2.com^
 ||ds4x53xfg4f53gh453h.top^
 ||e54.e5449949.vip^
@@ -116872,6 +116871,7 @@
 ||mcs.tiktokv.us^
 ||mcs.tiktokw.us^
 ||mcs.us.tiktokv.com^
+||mcs.zijieapi.com^
 ||mcs16-normal-us-ttp.capcutapi.us^
 ||mcw.actonservice.com^
 ||mcx.deepcl0ud.ru^
