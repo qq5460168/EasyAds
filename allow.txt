@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-07-22 09:53:56
-! 有效规则数量: 3927 条
+! 规则更新时间: 2026-07-22 14:23:11
+! 有效规则数量: 3940 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -297,6 +297,7 @@
 @@||abs.twimg.com^
 @@||account.agiso.com^
 @@||account.dianping.com^
+@@||account.qzhua.net^
 @@||account.xfinfr.com^
 @@||accountapi.dianping.com^
 @@||accscdn4public.m.taobao.com^
@@ -328,10 +329,12 @@
 @@||animerep.com^
 @@||annas-archive.org^
 @@||aod.cos.tx.xmcdn.com^
+@@||ap-*-*.agora.io^
 @@||api-docs.deepseek.com^
 @@||api-edge.cognitive.microsofttranslator.com^
 @@||api-n0vadp-static.hoyoverse.com^
 @@||api.account.xiaomi.com^
+@@||api.agora.io^
 @@||api.cc.163.com^
 @@||api.comm.miui.com^
 @@||api.coolapk1s.com^
@@ -546,9 +549,12 @@
 @@||doc.oplist.org^
 @@||dockerstatic.com^
 @@||docrdsfx76ssb.cloudfront.net^
+@@||docs.chmlfrp.net^
 @@||docs.doudou.fun^
 @@||docs.idqqimg.com^
 @@||docs.scriptcat.org^
+@@||docs.trae.ai^
+@@||docs.trae.cn^
 @@||docs.vilinko.com^
 @@||domains-ws.revved.com^
 @@||doris.yidianzixun.com^
@@ -632,6 +638,7 @@
 @@||flowus.cn^
 @@||fonts.googleapis.com^
 @@||fonts.gstatic.com^
+@@||forum.trae.cn^
 @@||fourhoi.com^
 @@||framework.cdn-go.cn^
 @@||funimg.pddpic.com^
@@ -835,6 +842,7 @@
 @@||l36-danmu.hi.163.com^
 @@||l36.gdl.netease.com^
 @@||l36.update.netease.com^
+@@||l36.update.nieapps.com^
 @@||laohuangli.bmcx.com^
 @@||laowang.vip^
 @@||laowangappb93ibiu.cihiu487giuew87lk.xyz^
@@ -1121,6 +1129,7 @@
 @@||p6-sign.douyinpic.com^
 @@||p6-webcast-sign.douyinpic.com^
 @@||p6.douyinpic.com^
+@@||p9-arcosite.byteimg.com^
 @@||p9-catpcha.byteimg.com^
 @@||p9-faceu-img-sign.byteimg.com^
 @@||p9-heycan-hgt-sign.byteimg.com^
@@ -1129,6 +1138,7 @@
 @@||p9-webcast-sign.douyinpic.com^
 @@||p9.douyinpic.com^
 @@||pages.github.com^
+@@||panel.chmlfrp.net^
 @@||papegames.qiyukf.com^
 @@||parking.namesilo.com^
 @@||party.163.com^
@@ -1563,6 +1573,7 @@
 @@||www.bytedance.com^
 @@||www.chinaunicom.com.cn^
 @@||www.chinaunicom.com^
+@@||www.chmlfrp.net^
 @@||www.clips4sale.com^
 @@||www.cloudflare-cn.com^
 @@||www.cloudflare.com^
@@ -1576,6 +1587,7 @@
 @@||www.doudou.fun^
 @@||www.douyin.com^
 @@||www.dpfile.com^
+@@||www.emojiall.com^
 @@||www.enigmaprotector.cn^
 @@||www.enigmaprotector.com^
 @@||www.epicgames.com^
@@ -1615,6 +1627,7 @@
 @@||www.listary.net^
 @@||www.maserati.com^
 @@||www.mcmod.cn^
+@@||www.mefrp.com^
 @@||www.meituan.com^
 @@||www.meizu.com^
 @@||www.mercedes-benz.com.cn^
