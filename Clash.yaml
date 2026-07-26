@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-07-26 16:51:59
-# 规则总数: 145459
+# 更新时间: 2026-07-26 20:48:05
+# 规则总数: 145460
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -13897,6 +13897,7 @@ payload:
   - 'ads.ad2iction.com'
   - 'ads.adadapted.com'
   - 'ads.adfox.ru'
+  - 'ads.adfunlink.com'
   - 'ads.adinmotech.com'
   - 'ads.admatrix.vn'
   - 'ads.administrator.de'

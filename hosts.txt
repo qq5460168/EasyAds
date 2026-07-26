@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-07-26 16:52:00
-# 规则总数: 145459
+# 更新时间: 2026-07-26 20:48:05
+# 规则总数: 145460
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -13896,6 +13896,7 @@
 0.0.0.0 ads.ad2iction.com
 0.0.0.0 ads.adadapted.com
 0.0.0.0 ads.adfox.ru
+0.0.0.0 ads.adfunlink.com
 0.0.0.0 ads.adinmotech.com
 0.0.0.0 ads.admatrix.vn
 0.0.0.0 ads.administrator.de

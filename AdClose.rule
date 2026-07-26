@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-07-26 16:52:00
-# 规则总数: 145459
+# 更新时间: 2026-07-26 20:48:05
+# 规则总数: 145460
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -13896,6 +13896,7 @@ domain, ads.activestate.com
 domain, ads.ad2iction.com
 domain, ads.adadapted.com
 domain, ads.adfox.ru
+domain, ads.adfunlink.com
 domain, ads.adinmotech.com
 domain, ads.admatrix.vn
 domain, ads.administrator.de

@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-07-26 16:52:00
-# 规则总数: 145459
+# 更新时间: 2026-07-26 20:48:05
+# 规则总数: 145460
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -13896,6 +13896,7 @@ ads.activestate.com block
 ads.ad2iction.com block
 ads.adadapted.com block
 ads.adfox.ru block
+ads.adfunlink.com block
 ads.adinmotech.com block
 ads.admatrix.vn block
 ads.administrator.de block

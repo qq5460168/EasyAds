@@ -15694,6 +15694,7 @@ DOMAIN,adks.hpplay.cn,reject
 DOMAIN,adlink-api.huan.tv,reject
 DOMAIN,ads-jp.tiktok.com,reject
 DOMAIN,ads-sdk-api.ranfenghd.com,reject
+DOMAIN,ads.adfunlink.com,reject
 DOMAIN,ads.auctions.yahoo.com,reject
 DOMAIN,ads.huan.tv,reject
 DOMAIN,ads.huantest.com,reject
