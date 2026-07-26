@@ -16066,6 +16066,10 @@ DOMAIN,ads.sinaimg.cn,reject
 DOMAIN,fpvideo.shenshiads.com,reject
 DOMAIN,ad.track.66mobi.com,reject
 DOMAIN,oneseeker.top,reject
+DOMAIN,i.snssdk.com,reject
+DOMAIN,sf3-ttcdn-tos.pstatp.com,reject
+DOMAIN,snssdk.com,reject
+DOMAIN,novel.pangolin-sdk-toutiao.com,reject
 DOMAIN,00028hg.com,reject
 DOMAIN,000aaap2023.com,reject
 DOMAIN,000free.us,reject
@@ -109610,7 +109614,6 @@ DOMAIN,i.sandbox.love,reject
 DOMAIN,i.shelf.im,reject
 DOMAIN,i.singular.net,reject
 DOMAIN,i.skimresources.com,reject
-DOMAIN,i.snssdk.com,reject
 DOMAIN,i.spyn.co,reject
 DOMAIN,i.tct-rom.com,reject
 DOMAIN,i.temiz.co,reject
@@ -120302,7 +120305,6 @@ DOMAIN,nova.v0xenridge.ru,reject
 DOMAIN,nova3.redb1rth.ru,reject
 DOMAIN,novarecoverycenter.actonservice.com,reject
 DOMAIN,novedades.telecomfibercorp.com.ar,reject
-DOMAIN,novel.pangolin-sdk-toutiao.com,reject
 DOMAIN,now.catersource.com,reject
 DOMAIN,now.cummins.com,reject
 DOMAIN,now.cumminsfiltration.com,reject
@@ -127235,7 +127237,6 @@ DOMAIN,sf.fl0wmortar.ru,reject
 DOMAIN,sf.groc.press,reject
 DOMAIN,sf1-fe-pack.pglstatp-toutiao.com,reject
 DOMAIN,sf16-telemetry-proxy-oci.tiktokcdn-us.com,reject
-DOMAIN,sf3-ttcdn-tos.pstatp.com,reject
 DOMAIN,sf4567w2a56q.branch.salesfloor.net,reject
 DOMAIN,sf5q8gbnve37.branch.salesfloor.net,reject
 DOMAIN,sf6-fe-pack.pglstatp-toutiao.com,reject

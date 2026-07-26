@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-07-25 20:42:02.203667
+# Generated on 2026-07-26 02:00:47.194156
 
 ||aizhantj.com^
 ||lxrjekw.com^
@@ -16107,6 +16107,11 @@
 ||fpvideo.shenshiads.com^
 ||ad.track.66mobi.com^
 ||oneseeker.top^
+||i.snssdk.com^
+||is.snssdk.com^
+||sf3-ttcdn-tos.pstatp.com^
+||snssdk.com^
+||novel.pangolin-sdk-toutiao.com^
 ||00028hg.com^
 ||000aaap2023.com^
 ||000free.us^
@@ -109661,7 +109666,6 @@
 ||i.shelf.im^
 ||i.singular.net^
 ||i.skimresources.com^
-||i.snssdk.com^
 ||i.spyn.co^
 ||i.tct-rom.com^
 ||i.temiz.co^
@@ -111721,7 +111725,6 @@
 ||is-log.furunavi.jp^
 ||is.boldf0nt.ru^
 ||is.lg.com^
-||is.snssdk.com^
 ||isac.thermofisher.com^
 ||isbamic.actonservice.com^
 ||isbworld.aon.com^
@@ -120359,7 +120362,6 @@
 ||nova3.redb1rth.ru^
 ||novarecoverycenter.actonservice.com^
 ||novedades.telecomfibercorp.com.ar^
-||novel.pangolin-sdk-toutiao.com^
 ||now.catersource.com^
 ||now.cummins.com^
 ||now.cumminsfiltration.com^
@@ -127296,7 +127298,6 @@
 ||sf.groc.press^
 ||sf1-fe-pack.pglstatp-toutiao.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
-||sf3-ttcdn-tos.pstatp.com^
 ||sf4567w2a56q.branch.salesfloor.net^
 ||sf5q8gbnve37.branch.salesfloor.net^
 ||sf6-fe-pack.pglstatp-toutiao.com^

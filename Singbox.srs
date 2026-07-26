@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-07-25 20:42:05
-# 规则总数: 145446
+# 更新时间: 2026-07-26 02:00:50
+# 规则总数: 145447
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -113191,6 +113191,7 @@ domain: snr4.canalplus.com, policy: reject
 domain: sns-paopao.iqiyi.com, policy: reject
 domain: sns2.secureforms.mcafee.com, policy: reject
 domain: snsfdmmzpixhn.site, policy: reject
+domain: snssdk.com, policy: reject
 domain: snssdk.gatedata.org, policy: reject
 domain: snsv.ru, policy: reject
 domain: sntcbhv.com, policy: reject

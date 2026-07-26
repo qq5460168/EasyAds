@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-07-25 20:42:05
-# 规则总数: 145446
+# 更新时间: 2026-07-26 02:00:51
+# 规则总数: 145447
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -113191,6 +113191,7 @@ domain, snr4.canalplus.com
 domain, sns-paopao.iqiyi.com
 domain, sns2.secureforms.mcafee.com
 domain, snsfdmmzpixhn.site
+domain, snssdk.com
 domain, snssdk.gatedata.org
 domain, snsv.ru
 domain, sntcbhv.com

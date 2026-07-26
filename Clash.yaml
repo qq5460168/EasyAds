@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-07-25 20:42:04
-# 规则总数: 145446
+# 更新时间: 2026-07-26 02:00:50
+# 规则总数: 145447
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -113192,6 +113192,7 @@ payload:
   - 'sns-paopao.iqiyi.com'
   - 'sns2.secureforms.mcafee.com'
   - 'snsfdmmzpixhn.site'
+  - 'snssdk.com'
   - 'snssdk.gatedata.org'
   - 'snsv.ru'
   - 'sntcbhv.com'

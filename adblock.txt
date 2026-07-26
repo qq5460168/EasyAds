@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-07-26 04:42:05
-! 有效规则数量: 156084 条
+! 规则更新时间: 2026-07-26 10:00:51
+! 有效规则数量: 156085 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -16246,6 +16246,11 @@
 ||fpvideo.shenshiads.com^
 ||ad.track.66mobi.com^
 ||oneseeker.top^
+||i.snssdk.com^
+||is.snssdk.com^
+||sf3-ttcdn-tos.pstatp.com^
+||snssdk.com^
+||novel.pangolin-sdk-toutiao.com^
 ||00028hg.com^
 ||000aaap2023.com^
 ||000free.us^
@@ -109800,7 +109805,6 @@
 ||i.shelf.im^
 ||i.singular.net^
 ||i.skimresources.com^
-||i.snssdk.com^
 ||i.spyn.co^
 ||i.tct-rom.com^
 ||i.temiz.co^
@@ -111860,7 +111864,6 @@
 ||is-log.furunavi.jp^
 ||is.boldf0nt.ru^
 ||is.lg.com^
-||is.snssdk.com^
 ||isac.thermofisher.com^
 ||isbamic.actonservice.com^
 ||isbworld.aon.com^
@@ -120498,7 +120501,6 @@
 ||nova3.redb1rth.ru^
 ||novarecoverycenter.actonservice.com^
 ||novedades.telecomfibercorp.com.ar^
-||novel.pangolin-sdk-toutiao.com^
 ||now.catersource.com^
 ||now.cummins.com^
 ||now.cumminsfiltration.com^
@@ -127435,7 +127437,6 @@
 ||sf.groc.press^
 ||sf1-fe-pack.pglstatp-toutiao.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
-||sf3-ttcdn-tos.pstatp.com^
 ||sf4567w2a56q.branch.salesfloor.net^
 ||sf5q8gbnve37.branch.salesfloor.net^
 ||sf6-fe-pack.pglstatp-toutiao.com^
@@ -152108,9 +152109,9 @@
 ||auai2951.xn--oor702fa592u.com^$important
 ||2708tc.cw060d.com^$important
 ||002d91b34425d7227wt.1yvcx5.com^$important
-140.82.114.25                 alive.github.com
+140.82.113.26                 alive.github.com
 20.205.243.168                api.github.com
-140.82.113.21                 api.individual.githubcopilot.com
+140.82.112.22                 api.individual.githubcopilot.com
 185.199.110.133               avatars.githubusercontent.com
 185.199.110.133               avatars0.githubusercontent.com
 185.199.110.133               avatars1.githubusercontent.com
@@ -152119,34 +152120,34 @@
 185.199.110.133               avatars4.githubusercontent.com
 185.199.110.133               avatars5.githubusercontent.com
 185.199.110.133               camo.githubusercontent.com
-140.82.114.21                 central.github.com
+140.82.112.21                 central.github.com
 185.199.110.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.113.22                 collector.github.com
+140.82.113.21                 collector.github.com
 185.199.110.133               desktop.githubusercontent.com
 185.199.110.133               favicons.githubusercontent.com
-203.98.7.65                   gist.github.com  # Timeout
-54.231.136.49                 github-cloud.s3.amazonaws.com
-52.217.175.1                  github-com.s3.amazonaws.com
-16.182.106.169                github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.222.97                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.252.151                 github-production-user-asset-6210df.s3.amazonaws.com
+159.106.121.75                gist.github.com  # Timeout
+52.216.208.105                github-cloud.s3.amazonaws.com
+16.15.252.126                 github-com.s3.amazonaws.com
+54.231.197.129                github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.212.136                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.229.71                  github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.114.17                 github.community
-185.199.110.215               github.githubassets.com
-130.211.15.150                github.global.ssl.fastly.net
+140.82.112.18                 github.community
+185.199.111.215               github.githubassets.com
+31.13.94.49                   github.global.ssl.fastly.net
 185.199.110.153               github.io
 185.199.110.133               github.map.fastly.net
 185.199.110.153               githubstatus.com
-140.82.112.26                 live.github.com
+140.82.113.26                 live.github.com
 185.199.110.133               media.githubusercontent.com
 185.199.110.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.110.133               raw.githubusercontent.com
 185.199.110.133               user-images.githubusercontent.com
-150.171.110.103               vscode.dev
-140.82.114.21                 education.github.com
+150.171.110.104               vscode.dev
+140.82.112.21                 education.github.com
 185.199.110.133               private-user-images.githubusercontent.com
 @@||iqiyi.com/static/js/adfe.5aa3302c.js
 @@||qhres2.com^$domain=www.n.cn
