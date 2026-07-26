@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-07-26 02:00:50
-# 规则总数: 145447
+# 更新时间: 2026-07-26 06:30:45
+# 规则总数: 145459
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -32113,6 +32113,7 @@ cloud7.c1oudcat.ru block
 cloudad.asia block
 cloudads-a.akamaihd.net block
 cloudasbook.com block
+cloudauth-device-dualstack.cn-shanghai.aliyuncs.com block
 cloudbitshift.com block
 cloudcdn.yousee.com block
 cloudcinemaheavily.com block
@@ -52486,6 +52487,7 @@ g.3lian.com block
 g.51network.com block
 g.6sfg.com block
 g.ad8.cc block
+g.alicdn.com block
 g.aligames.com block
 g.analytics.versa-ai.com block
 g.baidu.com block
@@ -72073,6 +72075,7 @@ lemma.go0dsc1ence.ru block
 lemmaheralds.com block
 lemming.nicolasmenard.com block
 lemming.vivian.do block
+lemon.gameley.com block
 lemonpi.io block
 lemonpier.com block
 lemouwee.com block
@@ -72231,6 +72234,7 @@ lf-leads-fe-scm.bytecdn.com block
 lf-reward-video.bytedcdn.com block
 lf-static.tiktokpangle-cdn-us.com block
 lf-wkrs.wkbrowser.com block
+lf1-cdn-tos.bytegoofy.com block
 lf26-sf-be-pack-sign.pglstatp-toutiao.com block
 lf2cgxz0b.com block
 lf3-ad-union-sdk.pglstatp-toutiao.com block
@@ -82044,6 +82048,7 @@ mgtms.cc block
 mgucbdhsjjnni.site block
 mgujumljajzgt.store block
 mgux.cn block
+mgw.mpaas.cn-hangzhou.aliyuncs.com block
 mgwcn.com block
 mgwl668.com block
 mgx7befpnqvwhtzlgk.cfd block
@@ -83536,6 +83541,7 @@ morellelaccaseleve.cyou block
 morellopoemlinge.qpon block
 morelroogrels.com block
 moren-1252794300.file.myqcloud.com block
+mores.anythinktech.com block
 mores.toponad.com block
 morestamping.com block
 morfreyoutfast.qpon block
@@ -83777,6 +83783,7 @@ mpb9mizgl7zqbjyfb899.cfd block
 mpbrz.com block
 mpc-co.actonservice.com block
 mpc.nicequest.com block
+mpcfg.fancydsp.com block
 mpctyogbxwezj.space block
 mpdkfhyvpvttt.site block
 mpebncqjoepwq.space block
@@ -106485,8 +106492,10 @@ sdk-monitoring.ogury.co block
 sdk-open-phone.getui.com block
 sdk-orion.appboy.com block
 sdk-services.appsflyer.com block
+sdk-track.66mobi.com block
 sdk.1rtb.net block
 sdk.ad.smaato.net block
+sdk.adhuanxiao.com block
 sdk.adx.adwangmai.com block
 sdk.airbridge.io block
 sdk.alibaba.com.ailbaba.me block
@@ -107985,6 +107994,7 @@ sf4567w2a56q.branch.salesfloor.net block
 sf5q8gbnve37.branch.salesfloor.net block
 sf6-be-pack.pglstatp-toutiao.com block
 sf6-fe-pack.pglstatp-toutiao.com block
+sf6-fe-tos.pglstatp-toutiao.com block
 sf6-ttcdn-tos.pstatp.com block
 sfa.com.ar block
 sfacjbrjfczyy.online block
@@ -131606,6 +131616,7 @@ v6-novelapp-nxyd.fqnovelvod.com block
 v6-novelapp.fqnovelvod.com block
 v62199.com block
 v65hz4cb.b1ondepi8s.ru block
+v66-ad.ndcjl.com block
 v66v66.com block
 v6awsnf8ejjjsefh.sjucaie2.top block
 v6hfl4.top block
@@ -134511,6 +134522,7 @@ wallingmimir.com block
 wallopackton.life block
 wallowwholike.com block
 wallowwholikedtoc.org block
+wallpaper-1258344696.file.myqcloud.com block
 wallpapersfacts.com block
 wallsquillsoutslid.cyou block
 walnutamyenamor.cyou block

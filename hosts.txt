@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-07-26 02:00:50
-# 规则总数: 145447
+# 更新时间: 2026-07-26 06:30:45
+# 规则总数: 145459
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -32113,6 +32113,7 @@
 0.0.0.0 cloudad.asia
 0.0.0.0 cloudads-a.akamaihd.net
 0.0.0.0 cloudasbook.com
+0.0.0.0 cloudauth-device-dualstack.cn-shanghai.aliyuncs.com
 0.0.0.0 cloudbitshift.com
 0.0.0.0 cloudcdn.yousee.com
 0.0.0.0 cloudcinemaheavily.com
@@ -52486,6 +52487,7 @@
 0.0.0.0 g.51network.com
 0.0.0.0 g.6sfg.com
 0.0.0.0 g.ad8.cc
+0.0.0.0 g.alicdn.com
 0.0.0.0 g.aligames.com
 0.0.0.0 g.analytics.versa-ai.com
 0.0.0.0 g.baidu.com
@@ -72073,6 +72075,7 @@
 0.0.0.0 lemmaheralds.com
 0.0.0.0 lemming.nicolasmenard.com
 0.0.0.0 lemming.vivian.do
+0.0.0.0 lemon.gameley.com
 0.0.0.0 lemonpi.io
 0.0.0.0 lemonpier.com
 0.0.0.0 lemouwee.com
@@ -72231,6 +72234,7 @@
 0.0.0.0 lf-reward-video.bytedcdn.com
 0.0.0.0 lf-static.tiktokpangle-cdn-us.com
 0.0.0.0 lf-wkrs.wkbrowser.com
+0.0.0.0 lf1-cdn-tos.bytegoofy.com
 0.0.0.0 lf26-sf-be-pack-sign.pglstatp-toutiao.com
 0.0.0.0 lf2cgxz0b.com
 0.0.0.0 lf3-ad-union-sdk.pglstatp-toutiao.com
@@ -82044,6 +82048,7 @@
 0.0.0.0 mgucbdhsjjnni.site
 0.0.0.0 mgujumljajzgt.store
 0.0.0.0 mgux.cn
+0.0.0.0 mgw.mpaas.cn-hangzhou.aliyuncs.com
 0.0.0.0 mgwcn.com
 0.0.0.0 mgwl668.com
 0.0.0.0 mgx7befpnqvwhtzlgk.cfd
@@ -83536,6 +83541,7 @@
 0.0.0.0 morellopoemlinge.qpon
 0.0.0.0 morelroogrels.com
 0.0.0.0 moren-1252794300.file.myqcloud.com
+0.0.0.0 mores.anythinktech.com
 0.0.0.0 mores.toponad.com
 0.0.0.0 morestamping.com
 0.0.0.0 morfreyoutfast.qpon
@@ -83777,6 +83783,7 @@
 0.0.0.0 mpbrz.com
 0.0.0.0 mpc-co.actonservice.com
 0.0.0.0 mpc.nicequest.com
+0.0.0.0 mpcfg.fancydsp.com
 0.0.0.0 mpctyogbxwezj.space
 0.0.0.0 mpdkfhyvpvttt.site
 0.0.0.0 mpebncqjoepwq.space
@@ -106485,8 +106492,10 @@
 0.0.0.0 sdk-open-phone.getui.com
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk-services.appsflyer.com
+0.0.0.0 sdk-track.66mobi.com
 0.0.0.0 sdk.1rtb.net
 0.0.0.0 sdk.ad.smaato.net
+0.0.0.0 sdk.adhuanxiao.com
 0.0.0.0 sdk.adx.adwangmai.com
 0.0.0.0 sdk.airbridge.io
 0.0.0.0 sdk.alibaba.com.ailbaba.me
@@ -107985,6 +107994,7 @@
 0.0.0.0 sf5q8gbnve37.branch.salesfloor.net
 0.0.0.0 sf6-be-pack.pglstatp-toutiao.com
 0.0.0.0 sf6-fe-pack.pglstatp-toutiao.com
+0.0.0.0 sf6-fe-tos.pglstatp-toutiao.com
 0.0.0.0 sf6-ttcdn-tos.pstatp.com
 0.0.0.0 sfa.com.ar
 0.0.0.0 sfacjbrjfczyy.online
@@ -131606,6 +131616,7 @@
 0.0.0.0 v6-novelapp.fqnovelvod.com
 0.0.0.0 v62199.com
 0.0.0.0 v65hz4cb.b1ondepi8s.ru
+0.0.0.0 v66-ad.ndcjl.com
 0.0.0.0 v66v66.com
 0.0.0.0 v6awsnf8ejjjsefh.sjucaie2.top
 0.0.0.0 v6hfl4.top
@@ -134511,6 +134522,7 @@
 0.0.0.0 wallopackton.life
 0.0.0.0 wallowwholike.com
 0.0.0.0 wallowwholikedtoc.org
+0.0.0.0 wallpaper-1258344696.file.myqcloud.com
 0.0.0.0 wallpapersfacts.com
 0.0.0.0 wallsquillsoutslid.cyou
 0.0.0.0 walnutamyenamor.cyou

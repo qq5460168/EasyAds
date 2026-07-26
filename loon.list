@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-07-26 10:00:48
-# 规则统计: 总计145385条 (IP:146 DOMAIN:0 SUFFIX:145239 KEYWORD:0)
+# 更新时间(北京时间): 2026-07-26 14:30:42
+# 规则统计: 总计145397条 (IP:146 DOMAIN:0 SUFFIX:145251 KEYWORD:0)
 
 # IP规则
 IP-CIDR,10.130.208.223,REJECT,no-resolve
@@ -32097,6 +32097,7 @@ DOMAIN-SUFFIX,cloud7.c1oudcat.ru,REJECT
 DOMAIN-SUFFIX,cloudad.asia,REJECT
 DOMAIN-SUFFIX,cloudads-a.akamaihd.net,REJECT
 DOMAIN-SUFFIX,cloudasbook.com,REJECT
+DOMAIN-SUFFIX,cloudauth-device-dualstack.cn-shanghai.aliyuncs.com,REJECT
 DOMAIN-SUFFIX,cloudbitshift.com,REJECT
 DOMAIN-SUFFIX,cloudcdn.yousee.com,REJECT
 DOMAIN-SUFFIX,cloudcinemaheavily.com,REJECT
@@ -52466,6 +52467,7 @@ DOMAIN-SUFFIX,g.3lian.com,REJECT
 DOMAIN-SUFFIX,g.51network.com,REJECT
 DOMAIN-SUFFIX,g.6sfg.com,REJECT
 DOMAIN-SUFFIX,g.ad8.cc,REJECT
+DOMAIN-SUFFIX,g.alicdn.com,REJECT
 DOMAIN-SUFFIX,g.aligames.com,REJECT
 DOMAIN-SUFFIX,g.analytics.versa-ai.com,REJECT
 DOMAIN-SUFFIX,g.baidu.com,REJECT
@@ -72035,6 +72037,7 @@ DOMAIN-SUFFIX,lemma.go0dsc1ence.ru,REJECT
 DOMAIN-SUFFIX,lemmaheralds.com,REJECT
 DOMAIN-SUFFIX,lemming.nicolasmenard.com,REJECT
 DOMAIN-SUFFIX,lemming.vivian.do,REJECT
+DOMAIN-SUFFIX,lemon.gameley.com,REJECT
 DOMAIN-SUFFIX,lemonpi.io,REJECT
 DOMAIN-SUFFIX,lemonpier.com,REJECT
 DOMAIN-SUFFIX,lemouwee.com,REJECT
@@ -72193,6 +72196,7 @@ DOMAIN-SUFFIX,lf-leads-fe-scm.bytecdn.com,REJECT
 DOMAIN-SUFFIX,lf-reward-video.bytedcdn.com,REJECT
 DOMAIN-SUFFIX,lf-static.tiktokpangle-cdn-us.com,REJECT
 DOMAIN-SUFFIX,lf-wkrs.wkbrowser.com,REJECT
+DOMAIN-SUFFIX,lf1-cdn-tos.bytegoofy.com,REJECT
 DOMAIN-SUFFIX,lf26-sf-be-pack-sign.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,lf2cgxz0b.com,REJECT
 DOMAIN-SUFFIX,lf3-ad-union-sdk.pglstatp-toutiao.com,REJECT
@@ -82001,6 +82005,7 @@ DOMAIN-SUFFIX,mgtms.cc,REJECT
 DOMAIN-SUFFIX,mgucbdhsjjnni.site,REJECT
 DOMAIN-SUFFIX,mgujumljajzgt.store,REJECT
 DOMAIN-SUFFIX,mgux.cn,REJECT
+DOMAIN-SUFFIX,mgw.mpaas.cn-hangzhou.aliyuncs.com,REJECT
 DOMAIN-SUFFIX,mgwcn.com,REJECT
 DOMAIN-SUFFIX,mgwl668.com,REJECT
 DOMAIN-SUFFIX,mgx7befpnqvwhtzlgk.cfd,REJECT
@@ -83492,6 +83497,7 @@ DOMAIN-SUFFIX,morellelaccaseleve.cyou,REJECT
 DOMAIN-SUFFIX,morellopoemlinge.qpon,REJECT
 DOMAIN-SUFFIX,morelroogrels.com,REJECT
 DOMAIN-SUFFIX,moren-1252794300.file.myqcloud.com,REJECT
+DOMAIN-SUFFIX,mores.anythinktech.com,REJECT
 DOMAIN-SUFFIX,mores.toponad.com,REJECT
 DOMAIN-SUFFIX,morestamping.com,REJECT
 DOMAIN-SUFFIX,morfreyoutfast.qpon,REJECT
@@ -83733,6 +83739,7 @@ DOMAIN-SUFFIX,mpb9mizgl7zqbjyfb899.cfd,REJECT
 DOMAIN-SUFFIX,mpbrz.com,REJECT
 DOMAIN-SUFFIX,mpc-co.actonservice.com,REJECT
 DOMAIN-SUFFIX,mpc.nicequest.com,REJECT
+DOMAIN-SUFFIX,mpcfg.fancydsp.com,REJECT
 DOMAIN-SUFFIX,mpctyogbxwezj.space,REJECT
 DOMAIN-SUFFIX,mpdkfhyvpvttt.site,REJECT
 DOMAIN-SUFFIX,mpebncqjoepwq.space,REJECT
@@ -106433,8 +106440,10 @@ DOMAIN-SUFFIX,sdk-monitoring.ogury.co,REJECT
 DOMAIN-SUFFIX,sdk-open-phone.getui.com,REJECT
 DOMAIN-SUFFIX,sdk-orion.appboy.com,REJECT
 DOMAIN-SUFFIX,sdk-services.appsflyer.com,REJECT
+DOMAIN-SUFFIX,sdk-track.66mobi.com,REJECT
 DOMAIN-SUFFIX,sdk.1rtb.net,REJECT
 DOMAIN-SUFFIX,sdk.ad.smaato.net,REJECT
+DOMAIN-SUFFIX,sdk.adhuanxiao.com,REJECT
 DOMAIN-SUFFIX,sdk.adx.adwangmai.com,REJECT
 DOMAIN-SUFFIX,sdk.airbridge.io,REJECT
 DOMAIN-SUFFIX,sdk.alibaba.com.ailbaba.me,REJECT
@@ -107933,6 +107942,7 @@ DOMAIN-SUFFIX,sf4567w2a56q.branch.salesfloor.net,REJECT
 DOMAIN-SUFFIX,sf5q8gbnve37.branch.salesfloor.net,REJECT
 DOMAIN-SUFFIX,sf6-be-pack.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,sf6-fe-pack.pglstatp-toutiao.com,REJECT
+DOMAIN-SUFFIX,sf6-fe-tos.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,sf6-ttcdn-tos.pstatp.com,REJECT
 DOMAIN-SUFFIX,sfa.com.ar,REJECT
 DOMAIN-SUFFIX,sfacjbrjfczyy.online,REJECT
@@ -131552,6 +131562,7 @@ DOMAIN-SUFFIX,v6-novelapp-nxyd.fqnovelvod.com,REJECT
 DOMAIN-SUFFIX,v6-novelapp.fqnovelvod.com,REJECT
 DOMAIN-SUFFIX,v62199.com,REJECT
 DOMAIN-SUFFIX,v65hz4cb.b1ondepi8s.ru,REJECT
+DOMAIN-SUFFIX,v66-ad.ndcjl.com,REJECT
 DOMAIN-SUFFIX,v66v66.com,REJECT
 DOMAIN-SUFFIX,v6awsnf8ejjjsefh.sjucaie2.top,REJECT
 DOMAIN-SUFFIX,v6hfl4.top,REJECT
@@ -134457,6 +134468,7 @@ DOMAIN-SUFFIX,wallingmimir.com,REJECT
 DOMAIN-SUFFIX,wallopackton.life,REJECT
 DOMAIN-SUFFIX,wallowwholike.com,REJECT
 DOMAIN-SUFFIX,wallowwholikedtoc.org,REJECT
+DOMAIN-SUFFIX,wallpaper-1258344696.file.myqcloud.com,REJECT
 DOMAIN-SUFFIX,wallpapersfacts.com,REJECT
 DOMAIN-SUFFIX,wallsquillsoutslid.cyou,REJECT
 DOMAIN-SUFFIX,walnutamyenamor.cyou,REJECT

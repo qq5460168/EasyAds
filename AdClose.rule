@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-07-26 02:00:51
-# 规则总数: 145447
+# 更新时间: 2026-07-26 06:30:45
+# 规则总数: 145459
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -32113,6 +32113,7 @@ domain, cloud7.c1oudcat.ru
 domain, cloudad.asia
 domain, cloudads-a.akamaihd.net
 domain, cloudasbook.com
+domain, cloudauth-device-dualstack.cn-shanghai.aliyuncs.com
 domain, cloudbitshift.com
 domain, cloudcdn.yousee.com
 domain, cloudcinemaheavily.com
@@ -52486,6 +52487,7 @@ domain, g.3lian.com
 domain, g.51network.com
 domain, g.6sfg.com
 domain, g.ad8.cc
+domain, g.alicdn.com
 domain, g.aligames.com
 domain, g.analytics.versa-ai.com
 domain, g.baidu.com
@@ -72073,6 +72075,7 @@ domain, lemma.go0dsc1ence.ru
 domain, lemmaheralds.com
 domain, lemming.nicolasmenard.com
 domain, lemming.vivian.do
+domain, lemon.gameley.com
 domain, lemonpi.io
 domain, lemonpier.com
 domain, lemouwee.com
@@ -72231,6 +72234,7 @@ domain, lf-leads-fe-scm.bytecdn.com
 domain, lf-reward-video.bytedcdn.com
 domain, lf-static.tiktokpangle-cdn-us.com
 domain, lf-wkrs.wkbrowser.com
+domain, lf1-cdn-tos.bytegoofy.com
 domain, lf26-sf-be-pack-sign.pglstatp-toutiao.com
 domain, lf2cgxz0b.com
 domain, lf3-ad-union-sdk.pglstatp-toutiao.com
@@ -82044,6 +82048,7 @@ domain, mgtms.cc
 domain, mgucbdhsjjnni.site
 domain, mgujumljajzgt.store
 domain, mgux.cn
+domain, mgw.mpaas.cn-hangzhou.aliyuncs.com
 domain, mgwcn.com
 domain, mgwl668.com
 domain, mgx7befpnqvwhtzlgk.cfd
@@ -83536,6 +83541,7 @@ domain, morellelaccaseleve.cyou
 domain, morellopoemlinge.qpon
 domain, morelroogrels.com
 domain, moren-1252794300.file.myqcloud.com
+domain, mores.anythinktech.com
 domain, mores.toponad.com
 domain, morestamping.com
 domain, morfreyoutfast.qpon
@@ -83777,6 +83783,7 @@ domain, mpb9mizgl7zqbjyfb899.cfd
 domain, mpbrz.com
 domain, mpc-co.actonservice.com
 domain, mpc.nicequest.com
+domain, mpcfg.fancydsp.com
 domain, mpctyogbxwezj.space
 domain, mpdkfhyvpvttt.site
 domain, mpebncqjoepwq.space
@@ -106485,8 +106492,10 @@ domain, sdk-monitoring.ogury.co
 domain, sdk-open-phone.getui.com
 domain, sdk-orion.appboy.com
 domain, sdk-services.appsflyer.com
+domain, sdk-track.66mobi.com
 domain, sdk.1rtb.net
 domain, sdk.ad.smaato.net
+domain, sdk.adhuanxiao.com
 domain, sdk.adx.adwangmai.com
 domain, sdk.airbridge.io
 domain, sdk.alibaba.com.ailbaba.me
@@ -107985,6 +107994,7 @@ domain, sf4567w2a56q.branch.salesfloor.net
 domain, sf5q8gbnve37.branch.salesfloor.net
 domain, sf6-be-pack.pglstatp-toutiao.com
 domain, sf6-fe-pack.pglstatp-toutiao.com
+domain, sf6-fe-tos.pglstatp-toutiao.com
 domain, sf6-ttcdn-tos.pstatp.com
 domain, sfa.com.ar
 domain, sfacjbrjfczyy.online
@@ -131606,6 +131616,7 @@ domain, v6-novelapp-nxyd.fqnovelvod.com
 domain, v6-novelapp.fqnovelvod.com
 domain, v62199.com
 domain, v65hz4cb.b1ondepi8s.ru
+domain, v66-ad.ndcjl.com
 domain, v66v66.com
 domain, v6awsnf8ejjjsefh.sjucaie2.top
 domain, v6hfl4.top
@@ -134511,6 +134522,7 @@ domain, wallingmimir.com
 domain, wallopackton.life
 domain, wallowwholike.com
 domain, wallowwholikedtoc.org
+domain, wallpaper-1258344696.file.myqcloud.com
 domain, wallpapersfacts.com
 domain, wallsquillsoutslid.cyou
 domain, walnutamyenamor.cyou

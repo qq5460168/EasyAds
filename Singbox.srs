@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-07-26 02:00:50
-# 规则总数: 145447
+# 更新时间: 2026-07-26 06:30:44
+# 规则总数: 145459
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -32113,6 +32113,7 @@ domain: cloud7.c1oudcat.ru, policy: reject
 domain: cloudad.asia, policy: reject
 domain: cloudads-a.akamaihd.net, policy: reject
 domain: cloudasbook.com, policy: reject
+domain: cloudauth-device-dualstack.cn-shanghai.aliyuncs.com, policy: reject
 domain: cloudbitshift.com, policy: reject
 domain: cloudcdn.yousee.com, policy: reject
 domain: cloudcinemaheavily.com, policy: reject
@@ -52486,6 +52487,7 @@ domain: g.3lian.com, policy: reject
 domain: g.51network.com, policy: reject
 domain: g.6sfg.com, policy: reject
 domain: g.ad8.cc, policy: reject
+domain: g.alicdn.com, policy: reject
 domain: g.aligames.com, policy: reject
 domain: g.analytics.versa-ai.com, policy: reject
 domain: g.baidu.com, policy: reject
@@ -72073,6 +72075,7 @@ domain: lemma.go0dsc1ence.ru, policy: reject
 domain: lemmaheralds.com, policy: reject
 domain: lemming.nicolasmenard.com, policy: reject
 domain: lemming.vivian.do, policy: reject
+domain: lemon.gameley.com, policy: reject
 domain: lemonpi.io, policy: reject
 domain: lemonpier.com, policy: reject
 domain: lemouwee.com, policy: reject
@@ -72231,6 +72234,7 @@ domain: lf-leads-fe-scm.bytecdn.com, policy: reject
 domain: lf-reward-video.bytedcdn.com, policy: reject
 domain: lf-static.tiktokpangle-cdn-us.com, policy: reject
 domain: lf-wkrs.wkbrowser.com, policy: reject
+domain: lf1-cdn-tos.bytegoofy.com, policy: reject
 domain: lf26-sf-be-pack-sign.pglstatp-toutiao.com, policy: reject
 domain: lf2cgxz0b.com, policy: reject
 domain: lf3-ad-union-sdk.pglstatp-toutiao.com, policy: reject
@@ -82044,6 +82048,7 @@ domain: mgtms.cc, policy: reject
 domain: mgucbdhsjjnni.site, policy: reject
 domain: mgujumljajzgt.store, policy: reject
 domain: mgux.cn, policy: reject
+domain: mgw.mpaas.cn-hangzhou.aliyuncs.com, policy: reject
 domain: mgwcn.com, policy: reject
 domain: mgwl668.com, policy: reject
 domain: mgx7befpnqvwhtzlgk.cfd, policy: reject
@@ -83536,6 +83541,7 @@ domain: morellelaccaseleve.cyou, policy: reject
 domain: morellopoemlinge.qpon, policy: reject
 domain: morelroogrels.com, policy: reject
 domain: moren-1252794300.file.myqcloud.com, policy: reject
+domain: mores.anythinktech.com, policy: reject
 domain: mores.toponad.com, policy: reject
 domain: morestamping.com, policy: reject
 domain: morfreyoutfast.qpon, policy: reject
@@ -83777,6 +83783,7 @@ domain: mpb9mizgl7zqbjyfb899.cfd, policy: reject
 domain: mpbrz.com, policy: reject
 domain: mpc-co.actonservice.com, policy: reject
 domain: mpc.nicequest.com, policy: reject
+domain: mpcfg.fancydsp.com, policy: reject
 domain: mpctyogbxwezj.space, policy: reject
 domain: mpdkfhyvpvttt.site, policy: reject
 domain: mpebncqjoepwq.space, policy: reject
@@ -106485,8 +106492,10 @@ domain: sdk-monitoring.ogury.co, policy: reject
 domain: sdk-open-phone.getui.com, policy: reject
 domain: sdk-orion.appboy.com, policy: reject
 domain: sdk-services.appsflyer.com, policy: reject
+domain: sdk-track.66mobi.com, policy: reject
 domain: sdk.1rtb.net, policy: reject
 domain: sdk.ad.smaato.net, policy: reject
+domain: sdk.adhuanxiao.com, policy: reject
 domain: sdk.adx.adwangmai.com, policy: reject
 domain: sdk.airbridge.io, policy: reject
 domain: sdk.alibaba.com.ailbaba.me, policy: reject
@@ -107985,6 +107994,7 @@ domain: sf4567w2a56q.branch.salesfloor.net, policy: reject
 domain: sf5q8gbnve37.branch.salesfloor.net, policy: reject
 domain: sf6-be-pack.pglstatp-toutiao.com, policy: reject
 domain: sf6-fe-pack.pglstatp-toutiao.com, policy: reject
+domain: sf6-fe-tos.pglstatp-toutiao.com, policy: reject
 domain: sf6-ttcdn-tos.pstatp.com, policy: reject
 domain: sfa.com.ar, policy: reject
 domain: sfacjbrjfczyy.online, policy: reject
@@ -131606,6 +131616,7 @@ domain: v6-novelapp-nxyd.fqnovelvod.com, policy: reject
 domain: v6-novelapp.fqnovelvod.com, policy: reject
 domain: v62199.com, policy: reject
 domain: v65hz4cb.b1ondepi8s.ru, policy: reject
+domain: v66-ad.ndcjl.com, policy: reject
 domain: v66v66.com, policy: reject
 domain: v6awsnf8ejjjsefh.sjucaie2.top, policy: reject
 domain: v6hfl4.top, policy: reject
@@ -134511,6 +134522,7 @@ domain: wallingmimir.com, policy: reject
 domain: wallopackton.life, policy: reject
 domain: wallowwholike.com, policy: reject
 domain: wallowwholikedtoc.org, policy: reject
+domain: wallpaper-1258344696.file.myqcloud.com, policy: reject
 domain: wallpapersfacts.com, policy: reject
 domain: wallsquillsoutslid.cyou, policy: reject
 domain: walnutamyenamor.cyou, policy: reject

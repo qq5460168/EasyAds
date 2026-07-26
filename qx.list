@@ -16070,6 +16070,20 @@ DOMAIN,i.snssdk.com,reject
 DOMAIN,sf3-ttcdn-tos.pstatp.com,reject
 DOMAIN,snssdk.com,reject
 DOMAIN,novel.pangolin-sdk-toutiao.com,reject
+DOMAIN,dsp-api-cn.metricslinks.com,reject
+DOMAIN,mores.anythinktech.com,reject
+DOMAIN,sf6-fe-tos.pglstatp-toutiao.com,reject
+DOMAIN,lf1-cdn-tos.bytegoofy.com,reject
+DOMAIN,mgw.mpaas.cn-hangzhou.aliyuncs.com,reject
+DOMAIN,cloudauth-device-dualstack.cn-shanghai.aliyuncs.com,reject
+DOMAIN,g.alicdn.com,reject
+DOMAIN,sdk.adhuanxiao.com,reject
+DOMAIN,v66-ad.ndcjl.com,reject
+DOMAIN,mpcfg.fancydsp.com,reject
+DOMAIN,lemon.gameley.com,reject
+DOMAIN,sdk-track.66mobi.com,reject
+DOMAIN,wallpaper-1258344696.file.myqcloud.com,reject
+DOMAIN,nadvideo.baidu.com,reject
 DOMAIN,00028hg.com,reject
 DOMAIN,000aaap2023.com,reject
 DOMAIN,000free.us,reject
@@ -103736,7 +103750,6 @@ DOMAIN,dshcej.aosom.co.uk,reject
 DOMAIN,dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws,reject
 DOMAIN,dsnymrk0k4p3v.cloudfront.net,reject
 DOMAIN,dsoxjxin5jji.controlconceptsusa.com,reject
-DOMAIN,dsp-api-cn.metricslinks.com,reject
 DOMAIN,dsp-api.xaprio.com,reject
 DOMAIN,dsp-east.nativeads.com,reject
 DOMAIN,dsp-eu.nativeads.com,reject
@@ -119836,7 +119849,6 @@ DOMAIN,nab0k0v-llnk.nabokov30slam.coupons,reject
 DOMAIN,nacre.tsi8eikay2k.ru,reject
 DOMAIN,nadelle.wantsext.me,reject
 DOMAIN,nadir.cl0udcrest.ru,reject
-DOMAIN,nadvideo.baidu.com,reject
 DOMAIN,nafmxc.1083.fr,reject
 DOMAIN,naidileobram.actonservice.com,reject
 DOMAIN,nakisa.actonservice.com,reject

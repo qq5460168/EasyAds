@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-07-26 02:00:47.194156
+# Generated on 2026-07-26 06:30:41.970755
 
 ||aizhantj.com^
 ||lxrjekw.com^
@@ -16112,6 +16112,20 @@
 ||sf3-ttcdn-tos.pstatp.com^
 ||snssdk.com^
 ||novel.pangolin-sdk-toutiao.com^
+||dsp-api-cn.metricslinks.com^
+||mores.anythinktech.com^
+||sf6-fe-tos.pglstatp-toutiao.com^
+||lf1-cdn-tos.bytegoofy.com^
+||mgw.mpaas.cn-hangzhou.aliyuncs.com^
+||cloudauth-device-dualstack.cn-shanghai.aliyuncs.com^
+||g.alicdn.com^
+||sdk.adhuanxiao.com^
+||v66-ad.ndcjl.com^
+||mpcfg.fancydsp.com^
+||lemon.gameley.com^
+||sdk-track.66mobi.com^
+||wallpaper-1258344696.file.myqcloud.com^
+||nadvideo.baidu.com^
 ||00028hg.com^
 ||000aaap2023.com^
 ||000free.us^
@@ -103786,7 +103800,6 @@
 ||dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws^
 ||dsnymrk0k4p3v.cloudfront.net^
 ||dsoxjxin5jji.controlconceptsusa.com^
-||dsp-api-cn.metricslinks.com^
 ||dsp-api.xaprio.com^
 ||dsp-east.nativeads.com^
 ||dsp-eu.nativeads.com^
@@ -119893,7 +119906,6 @@
 ||nacre.tsi8eikay2k.ru^
 ||nadelle.wantsext.me^
 ||nadir.cl0udcrest.ru^
-||nadvideo.baidu.com^
 ||nafmxc.1083.fr^
 ||naidileobram.actonservice.com^
 ||nakisa.actonservice.com^
