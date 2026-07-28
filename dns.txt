@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-07-28 10:27:17.932328
+# Generated on 2026-07-28 13:45:19.065368
 
 ||aizhantj.com^
 ||lxrjekw.com^
@@ -12862,6 +12862,11 @@
 ||tapwhigwy.com^
 ||ahqovxli.com^
 ||fipabtomqok.com^
+||bizhi.360.cn^
+||wallpaper.apc.360.cn^
+||huabao.360.cn^
+||openbox.mobilem.360.cn^
+||bizhi360.com^
 ||gdmf.apple.com^
 ||mesu.apple.com^
 ||swscan.apple.com^
@@ -13688,7 +13693,6 @@
 ||w.l.qq.com^
 ||wit.qq.com^
 ||ws.sj.qq.com^
-||www.baidu.com.sogou.360.cn.qq.com.hunlaife.cn^
 ||wxsnsad.tc.qq.com^
 ||wxsnsdy.tc.qq.com^
 ||wxsnsdy.video.qq.com^
@@ -142564,6 +142568,7 @@
 ||www.azera-s014.com^
 ||www.badb5refl.com^
 ||www.bae5tracker.com^
+||www.baidu.com.sogou.360.cn.qq.com.hunlaife.cn^
 ||www.bait4role.com^
 ||www.bali6nora.com^
 ||www.bank8line.com^

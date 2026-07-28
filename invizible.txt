@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-07-28 10:27:21
-# 规则总数: 145460
+# 更新时间: 2026-07-28 13:45:22
+# 规则总数: 145465
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -25257,6 +25257,8 @@ biz37.net block
 biz5.kankan.com block
 bizanti.youwatch.org block
 bizayzouhfmqb.site block
+bizhi.360.cn block
+bizhi360.com block
 bizhixiang.cn block
 bizibgjvenyhc.space block
 bizlhvylltftl.space block
@@ -60345,6 +60347,7 @@ hu9.j1ttersnap.ru block
 hua.com block
 hua4207.xyz block
 hua8889.top block
+huabao.360.cn block
 huahuaka.com block
 hualigs.cn block
 huangxiu6.com block
@@ -90094,6 +90097,7 @@ openads.friendfinder.com block
 openapi-news.meizu.com block
 openapi.guanjia.qq.com block
 openapi.samsung.com block
+openbox.mobilem.360.cn block
 opencan.net block
 opencdnpddpic2.cdn.vsjwtcdn.com block
 opencdnpddvod2.jomodns.com block
@@ -134524,6 +134528,7 @@ wallopackton.life block
 wallowwholike.com block
 wallowwholikedtoc.org block
 wallpaper-1258344696.file.myqcloud.com block
+wallpaper.apc.360.cn block
 wallpapersfacts.com block
 wallsquillsoutslid.cyou block
 walnutamyenamor.cyou block

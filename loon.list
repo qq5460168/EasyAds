@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-07-28 18:27:18
-# 规则统计: 总计145398条 (IP:146 DOMAIN:0 SUFFIX:145252 KEYWORD:0)
+# 更新时间(北京时间): 2026-07-28 21:45:19
+# 规则统计: 总计145403条 (IP:146 DOMAIN:0 SUFFIX:145257 KEYWORD:0)
 
 # IP规则
 IP-CIDR,10.130.208.223,REJECT,no-resolve
@@ -25245,6 +25245,8 @@ DOMAIN-SUFFIX,biz37.net,REJECT
 DOMAIN-SUFFIX,biz5.kankan.com,REJECT
 DOMAIN-SUFFIX,bizanti.youwatch.org,REJECT
 DOMAIN-SUFFIX,bizayzouhfmqb.site,REJECT
+DOMAIN-SUFFIX,bizhi.360.cn,REJECT
+DOMAIN-SUFFIX,bizhi360.com,REJECT
 DOMAIN-SUFFIX,bizhixiang.cn,REJECT
 DOMAIN-SUFFIX,bizibgjvenyhc.space,REJECT
 DOMAIN-SUFFIX,bizlhvylltftl.space,REJECT
@@ -60322,6 +60324,7 @@ DOMAIN-SUFFIX,hu9.j1ttersnap.ru,REJECT
 DOMAIN-SUFFIX,hua.com,REJECT
 DOMAIN-SUFFIX,hua4207.xyz,REJECT
 DOMAIN-SUFFIX,hua8889.top,REJECT
+DOMAIN-SUFFIX,huabao.360.cn,REJECT
 DOMAIN-SUFFIX,huahuaka.com,REJECT
 DOMAIN-SUFFIX,hualigs.cn,REJECT
 DOMAIN-SUFFIX,huangxiu6.com,REJECT
@@ -90047,6 +90050,7 @@ DOMAIN-SUFFIX,openads.friendfinder.com,REJECT
 DOMAIN-SUFFIX,openapi-news.meizu.com,REJECT
 DOMAIN-SUFFIX,openapi.guanjia.qq.com,REJECT
 DOMAIN-SUFFIX,openapi.samsung.com,REJECT
+DOMAIN-SUFFIX,openbox.mobilem.360.cn,REJECT
 DOMAIN-SUFFIX,opencan.net,REJECT
 DOMAIN-SUFFIX,opencdnpddpic2.cdn.vsjwtcdn.com,REJECT
 DOMAIN-SUFFIX,opencdnpddvod2.jomodns.com,REJECT
@@ -134470,6 +134474,7 @@ DOMAIN-SUFFIX,wallopackton.life,REJECT
 DOMAIN-SUFFIX,wallowwholike.com,REJECT
 DOMAIN-SUFFIX,wallowwholikedtoc.org,REJECT
 DOMAIN-SUFFIX,wallpaper-1258344696.file.myqcloud.com,REJECT
+DOMAIN-SUFFIX,wallpaper.apc.360.cn,REJECT
 DOMAIN-SUFFIX,wallpapersfacts.com,REJECT
 DOMAIN-SUFFIX,wallsquillsoutslid.cyou,REJECT
 DOMAIN-SUFFIX,walnutamyenamor.cyou,REJECT

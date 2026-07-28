@@ -12843,6 +12843,11 @@ DOMAIN,ocponcphaafb.com,reject
 DOMAIN,tapwhigwy.com,reject
 DOMAIN,ahqovxli.com,reject
 DOMAIN,fipabtomqok.com,reject
+DOMAIN,bizhi.360.cn,reject
+DOMAIN,wallpaper.apc.360.cn,reject
+DOMAIN,huabao.360.cn,reject
+DOMAIN,openbox.mobilem.360.cn,reject
+DOMAIN,bizhi360.com,reject
 DOMAIN,gdmf.apple.com,reject
 DOMAIN,mesu.apple.com,reject
 DOMAIN,swscan.apple.com,reject
@@ -13664,7 +13669,6 @@ DOMAIN,w.inews.qq.com,reject
 DOMAIN,w.l.qq.com,reject
 DOMAIN,wit.qq.com,reject
 DOMAIN,ws.sj.qq.com,reject
-DOMAIN,www.baidu.com.sogou.360.cn.qq.com.hunlaife.cn,reject
 DOMAIN,wxsnsad.tc.qq.com,reject
 DOMAIN,wxsnsdy.tc.qq.com,reject
 DOMAIN,wxsnsdy.video.qq.com,reject
@@ -142493,6 +142497,7 @@ DOMAIN,www.avismarketing.gr,reject
 DOMAIN,www.azera-s014.com,reject
 DOMAIN,www.badb5refl.com,reject
 DOMAIN,www.bae5tracker.com,reject
+DOMAIN,www.baidu.com.sogou.360.cn.qq.com.hunlaife.cn,reject
 DOMAIN,www.bait4role.com,reject
 DOMAIN,www.bali6nora.com,reject
 DOMAIN,www.bank8line.com,reject

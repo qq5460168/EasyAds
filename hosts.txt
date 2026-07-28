@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-07-28 10:27:21
-# 规则总数: 145460
+# 更新时间: 2026-07-28 13:45:22
+# 规则总数: 145465
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -25257,6 +25257,8 @@
 0.0.0.0 biz5.kankan.com
 0.0.0.0 bizanti.youwatch.org
 0.0.0.0 bizayzouhfmqb.site
+0.0.0.0 bizhi.360.cn
+0.0.0.0 bizhi360.com
 0.0.0.0 bizhixiang.cn
 0.0.0.0 bizibgjvenyhc.space
 0.0.0.0 bizlhvylltftl.space
@@ -60345,6 +60347,7 @@
 0.0.0.0 hua.com
 0.0.0.0 hua4207.xyz
 0.0.0.0 hua8889.top
+0.0.0.0 huabao.360.cn
 0.0.0.0 huahuaka.com
 0.0.0.0 hualigs.cn
 0.0.0.0 huangxiu6.com
@@ -90094,6 +90097,7 @@
 0.0.0.0 openapi-news.meizu.com
 0.0.0.0 openapi.guanjia.qq.com
 0.0.0.0 openapi.samsung.com
+0.0.0.0 openbox.mobilem.360.cn
 0.0.0.0 opencan.net
 0.0.0.0 opencdnpddpic2.cdn.vsjwtcdn.com
 0.0.0.0 opencdnpddvod2.jomodns.com
@@ -134524,6 +134528,7 @@
 0.0.0.0 wallowwholike.com
 0.0.0.0 wallowwholikedtoc.org
 0.0.0.0 wallpaper-1258344696.file.myqcloud.com
+0.0.0.0 wallpaper.apc.360.cn
 0.0.0.0 wallpapersfacts.com
 0.0.0.0 wallsquillsoutslid.cyou
 0.0.0.0 walnutamyenamor.cyou

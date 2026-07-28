@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-07-28 10:27:21
-# 规则总数: 145460
+# 更新时间: 2026-07-28 13:45:22
+# 规则总数: 145465
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -25257,6 +25257,8 @@ domain, biz37.net
 domain, biz5.kankan.com
 domain, bizanti.youwatch.org
 domain, bizayzouhfmqb.site
+domain, bizhi.360.cn
+domain, bizhi360.com
 domain, bizhixiang.cn
 domain, bizibgjvenyhc.space
 domain, bizlhvylltftl.space
@@ -60345,6 +60347,7 @@ domain, hu9.j1ttersnap.ru
 domain, hua.com
 domain, hua4207.xyz
 domain, hua8889.top
+domain, huabao.360.cn
 domain, huahuaka.com
 domain, hualigs.cn
 domain, huangxiu6.com
@@ -90094,6 +90097,7 @@ domain, openads.friendfinder.com
 domain, openapi-news.meizu.com
 domain, openapi.guanjia.qq.com
 domain, openapi.samsung.com
+domain, openbox.mobilem.360.cn
 domain, opencan.net
 domain, opencdnpddpic2.cdn.vsjwtcdn.com
 domain, opencdnpddvod2.jomodns.com
@@ -134524,6 +134528,7 @@ domain, wallopackton.life
 domain, wallowwholike.com
 domain, wallowwholikedtoc.org
 domain, wallpaper-1258344696.file.myqcloud.com
+domain, wallpaper.apc.360.cn
 domain, wallpapersfacts.com
 domain, wallsquillsoutslid.cyou
 domain, walnutamyenamor.cyou

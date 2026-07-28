@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-07-28 18:27:21
-! 有效规则数量: 156098 条
+! 规则更新时间: 2026-07-28 21:45:22
+! 有效规则数量: 156103 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -12959,6 +12959,11 @@
 ||tapwhigwy.com^
 ||ahqovxli.com^
 ||fipabtomqok.com^
+||bizhi.360.cn^
+||wallpaper.apc.360.cn^
+||huabao.360.cn^
+||openbox.mobilem.360.cn^
+||bizhi360.com^
 ||gdmf.apple.com^
 ||mesu.apple.com^
 ||swscan.apple.com^
@@ -13785,7 +13790,6 @@
 ||w.l.qq.com^
 ||wit.qq.com^
 ||ws.sj.qq.com^
-||www.baidu.com.sogou.360.cn.qq.com.hunlaife.cn^
 ||wxsnsad.tc.qq.com^
 ||wxsnsdy.tc.qq.com^
 ||wxsnsdy.video.qq.com^
@@ -142703,6 +142707,7 @@
 ||www.azera-s014.com^
 ||www.badb5refl.com^
 ||www.bae5tracker.com^
+||www.baidu.com.sogou.360.cn.qq.com.hunlaife.cn^
 ||www.bait4role.com^
 ||www.bali6nora.com^
 ||www.bank8line.com^
@@ -152122,9 +152127,9 @@
 ||auai2951.xn--oor702fa592u.com^$important
 ||2708tc.cw060d.com^$important
 ||002d91b34425d7227wt.1yvcx5.com^$important
-140.82.114.26                 alive.github.com
+140.82.113.26                 alive.github.com
 20.205.243.168                api.github.com
-140.82.112.21                 api.individual.githubcopilot.com
+140.82.114.21                 api.individual.githubcopilot.com
 185.199.111.133               avatars.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
@@ -152133,34 +152138,34 @@
 185.199.111.133               avatars4.githubusercontent.com
 185.199.111.133               avatars5.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
-140.82.112.21                 central.github.com
+140.82.112.22                 central.github.com
 185.199.111.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.112.21                 collector.github.com
+140.82.113.22                 collector.github.com
 185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
-59.24.3.173                   gist.github.com  # Timeout
-16.15.245.9                   github-cloud.s3.amazonaws.com
-54.231.135.41                 github-com.s3.amazonaws.com
-54.231.129.57                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.212.209                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.217.241                github-production-user-asset-6210df.s3.amazonaws.com
+159.106.121.75                gist.github.com  # Timeout
+54.231.131.81                 github-cloud.s3.amazonaws.com
+16.182.66.137                 github-com.s3.amazonaws.com
+16.15.252.227                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.237.69                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.182.34.193                 github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.114.18                 github.community
-185.199.111.215               github.githubassets.com
-118.193.240.37                github.global.ssl.fastly.net  # Timeout
-185.199.108.153               github.io
+140.82.114.17                 github.community
+185.199.108.215               github.githubassets.com
+108.160.169.55                github.global.ssl.fastly.net  # Timeout
+185.199.110.153               github.io
 185.199.111.133               github.map.fastly.net
-185.199.108.153               githubstatus.com
-140.82.112.25                 live.github.com
+185.199.110.153               githubstatus.com
+140.82.114.26                 live.github.com
 185.199.111.133               media.githubusercontent.com
 185.199.111.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
 185.199.111.133               user-images.githubusercontent.com
-150.171.110.101               vscode.dev
-140.82.112.22                 education.github.com
+150.171.110.104               vscode.dev
+140.82.114.21                 education.github.com
 185.199.111.133               private-user-images.githubusercontent.com
 @@||iqiyi.com/static/js/adfe.5aa3302c.js
 @@||qhres2.com^$domain=www.n.cn

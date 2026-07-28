@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-07-28 10:27:20
-# 规则总数: 145460
+# 更新时间: 2026-07-28 13:45:22
+# 规则总数: 145465
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -25257,6 +25257,8 @@ domain: biz37.net, policy: reject
 domain: biz5.kankan.com, policy: reject
 domain: bizanti.youwatch.org, policy: reject
 domain: bizayzouhfmqb.site, policy: reject
+domain: bizhi.360.cn, policy: reject
+domain: bizhi360.com, policy: reject
 domain: bizhixiang.cn, policy: reject
 domain: bizibgjvenyhc.space, policy: reject
 domain: bizlhvylltftl.space, policy: reject
@@ -60345,6 +60347,7 @@ domain: hu9.j1ttersnap.ru, policy: reject
 domain: hua.com, policy: reject
 domain: hua4207.xyz, policy: reject
 domain: hua8889.top, policy: reject
+domain: huabao.360.cn, policy: reject
 domain: huahuaka.com, policy: reject
 domain: hualigs.cn, policy: reject
 domain: huangxiu6.com, policy: reject
@@ -90094,6 +90097,7 @@ domain: openads.friendfinder.com, policy: reject
 domain: openapi-news.meizu.com, policy: reject
 domain: openapi.guanjia.qq.com, policy: reject
 domain: openapi.samsung.com, policy: reject
+domain: openbox.mobilem.360.cn, policy: reject
 domain: opencan.net, policy: reject
 domain: opencdnpddpic2.cdn.vsjwtcdn.com, policy: reject
 domain: opencdnpddvod2.jomodns.com, policy: reject
@@ -134524,6 +134528,7 @@ domain: wallopackton.life, policy: reject
 domain: wallowwholike.com, policy: reject
 domain: wallowwholikedtoc.org, policy: reject
 domain: wallpaper-1258344696.file.myqcloud.com, policy: reject
+domain: wallpaper.apc.360.cn, policy: reject
 domain: wallpapersfacts.com, policy: reject
 domain: wallsquillsoutslid.cyou, policy: reject
 domain: walnutamyenamor.cyou, policy: reject
