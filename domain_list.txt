@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-07-28 13:45:19（北京时间）
-# 共 145401 个域名
+# 生成时间: 2026-07-28 17:21:00（北京时间）
+# 共 145418 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -2736,6 +2736,7 @@
 365bibi.com
 365dmp.com
 365safego.com
+365yg.com
 3661193.notify6.com
 3662557.notifysrv.com
 3662593.notifysrv.com
@@ -17028,6 +17029,7 @@ ameedrice.help
 amelandpunter.cfd
 amelatrina.com
 amellusslangs.cfd
+amemv.com
 amendmentbutterfly.com
 amendmentinsistdevotion.com
 amendmentlakeinterim.com
@@ -20378,7 +20380,6 @@ apps.airmeet.com
 apps.ayopop.id
 apps.bannerman.com
 apps.bytesfield-b.com
-apps.bytesfield.com
 apps.circle.com
 apps.crib.in
 apps.daxko-qa.com
@@ -22102,6 +22103,8 @@ aweelinwrapt.cfd
 awejmp.com
 awembd.com
 awemdia.com
+awemeughun.com
+awemeugsoul.com
 awempire.com
 awempt.com
 awemwh.com
@@ -30653,8 +30656,12 @@ chenggao.cn
 chengjiarobot.com
 chengzhao95511.com
 chengzijianzhan.cc
+chengzijianzhan.cn
 chengzijianzhan.com
+chengzijianzhan.net
 chengzijianzhan.shop
+chengzijianzhana.com
+chengzijianzhanb.com
 chengzixinyong.com
 chenhao97.top
 cheniersamvat.cyou
@@ -34612,6 +34619,7 @@ craptroopstammer.com
 crapunpredictablefiddle.com
 crash.163.com
 crash.browser.qq.com
+crash.snssdk.com
 crash2.zhihu.com
 crashapi.growingio.com
 crashes.mo.wps.cn
@@ -35099,6 +35107,7 @@ csg-app.com
 csghyg.reginaclinic.jp
 csgkj.com
 csi.gstatic.com
+csjdeveloper.com
 csjdhxlelvqpa.site
 csjggncfpbhnq.space
 csjkb.com
@@ -44309,6 +44318,7 @@ ecom3-normal-lq.ecombdapi.com
 ecom5-normal-lq.ecombdapi.com
 ecombdapi.com
 ecombdimg.com
+ecombdpage.com
 ecomedtorg.ru
 ecomm.events
 ecommerce-events.adscale.com
@@ -60518,6 +60528,7 @@ huodong.pl.youku.com
 huodong.vip.youku.com
 huohuo.huamuwo.com
 huoju.asia
+huoshanzhibo.com
 hupot.site
 huppothelderly.rest
 huqkbq.misterrunning.com
@@ -62080,6 +62091,7 @@ ilrkcyoqtybaf.website
 ilshiletterismype.org
 iltcaf.immobilienscout24.de
 iltyooondwxst.online
+iluckysf.net
 ilviaggionellatesta.hubhubhub.name
 ilvqos.lyst.es
 ilvumbonf.net
@@ -66851,6 +66863,7 @@ jinklecarted.help
 jinlisaws.com
 jinniespottagy.com
 jinpaigz.com
+jinritemai.com
 jinsha11833.com
 jinshagt222.com
 jinupfolds.cfd
@@ -74309,8 +74322,6 @@ loc.xtr2020.com
 local-shares.ri.la
 local-update.com
 local.info.g9hc4.cn
-localads.chengzijianzhan.cn
-localads.chengzijianzhan.cn.queniurc.com
 localaffectrecipe.com
 locale-respondent-realtor-excellent.trycloudflare.com
 localedgemedia.com
@@ -75743,6 +75754,7 @@ luckydefinition.pro
 luckyforbet.com
 luckyorange.com
 luckypushh.com
+luckysf.net
 lucnmtl.top
 lucnwtl.top
 lucnxzoylxmvu.love
@@ -82320,6 +82332,7 @@ miniature-movie.pro
 miniatureengineering.pro
 minidcsc.kugou.com
 minigame.gtimg.cn
+minigame.zijieapi.com
 minigame5-normal-hl.zijieapi.com
 minigame5-normal-lq.zijieapi.com
 minikenungiddy.qpon
@@ -85633,6 +85646,7 @@ neighboringyellow.com
 neighbourlyrepress.com
 neighrewarn.click
 neihang.me
+neihanshequ.com
 neihhou.com
 neilhoticapwz.space
 neioaxtgggz.com
@@ -103587,6 +103601,7 @@ rtlog.byteoversea.com
 rtlog.isnssdk.com
 rtlog.tiktokv.com
 rtlog.vidown.cn
+rtlog.zijieapi.com
 rtlog3-applog-lq.fqnovel.com
 rtlog5-applog-hl.fqnovel.com
 rtlog5-applog-lq.fqnovel.com
@@ -128827,6 +128842,7 @@ ugdcxl.timeout.com.hk
 ugdcxl.timeout.es
 ugdcxl.timeout.jp
 ugdcxl.timeout.pt
+ugditui.cn
 ugdtimg.com
 ugdtsmfcqm.xyz
 ugdturner.com
@@ -142708,6 +142724,7 @@ youate.co
 youborafds01.com
 youboranqs01.com
 youbuce.lol
+youdianyisi.com
 youfine.lol
 youfumei.com
 yougetwhatyoupayfor.net

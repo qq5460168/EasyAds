@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-07-28 21:45:19
-# 规则统计: 总计145403条 (IP:146 DOMAIN:0 SUFFIX:145257 KEYWORD:0)
+# 更新时间(北京时间): 2026-07-29 01:21:01
+# 规则统计: 总计145420条 (IP:146 DOMAIN:0 SUFFIX:145274 KEYWORD:0)
 
 # IP规则
 IP-CIDR,10.130.208.223,REJECT,no-resolve
@@ -2766,6 +2766,7 @@ DOMAIN-SUFFIX,3658888.com,REJECT
 DOMAIN-SUFFIX,365bibi.com,REJECT
 DOMAIN-SUFFIX,365dmp.com,REJECT
 DOMAIN-SUFFIX,365safego.com,REJECT
+DOMAIN-SUFFIX,365yg.com,REJECT
 DOMAIN-SUFFIX,3661193.notify6.com,REJECT
 DOMAIN-SUFFIX,3662557.notifysrv.com,REJECT
 DOMAIN-SUFFIX,3662593.notifysrv.com,REJECT
@@ -17039,6 +17040,7 @@ DOMAIN-SUFFIX,ameedrice.help,REJECT
 DOMAIN-SUFFIX,amelandpunter.cfd,REJECT
 DOMAIN-SUFFIX,amelatrina.com,REJECT
 DOMAIN-SUFFIX,amellusslangs.cfd,REJECT
+DOMAIN-SUFFIX,amemv.com,REJECT
 DOMAIN-SUFFIX,amendmentbutterfly.com,REJECT
 DOMAIN-SUFFIX,amendmentinsistdevotion.com,REJECT
 DOMAIN-SUFFIX,amendmentlakeinterim.com,REJECT
@@ -20389,7 +20391,6 @@ DOMAIN-SUFFIX,apps.airmeet.com,REJECT
 DOMAIN-SUFFIX,apps.ayopop.id,REJECT
 DOMAIN-SUFFIX,apps.bannerman.com,REJECT
 DOMAIN-SUFFIX,apps.bytesfield-b.com,REJECT
-DOMAIN-SUFFIX,apps.bytesfield.com,REJECT
 DOMAIN-SUFFIX,apps.circle.com,REJECT
 DOMAIN-SUFFIX,apps.crib.in,REJECT
 DOMAIN-SUFFIX,apps.daxko-qa.com,REJECT
@@ -22113,6 +22114,8 @@ DOMAIN-SUFFIX,aweelinwrapt.cfd,REJECT
 DOMAIN-SUFFIX,awejmp.com,REJECT
 DOMAIN-SUFFIX,awembd.com,REJECT
 DOMAIN-SUFFIX,awemdia.com,REJECT
+DOMAIN-SUFFIX,awemeughun.com,REJECT
+DOMAIN-SUFFIX,awemeugsoul.com,REJECT
 DOMAIN-SUFFIX,awempire.com,REJECT
 DOMAIN-SUFFIX,awempt.com,REJECT
 DOMAIN-SUFFIX,awemwh.com,REJECT
@@ -30663,8 +30666,12 @@ DOMAIN-SUFFIX,chenggao.cn,REJECT
 DOMAIN-SUFFIX,chengjiarobot.com,REJECT
 DOMAIN-SUFFIX,chengzhao95511.com,REJECT
 DOMAIN-SUFFIX,chengzijianzhan.cc,REJECT
+DOMAIN-SUFFIX,chengzijianzhan.cn,REJECT
 DOMAIN-SUFFIX,chengzijianzhan.com,REJECT
+DOMAIN-SUFFIX,chengzijianzhan.net,REJECT
 DOMAIN-SUFFIX,chengzijianzhan.shop,REJECT
+DOMAIN-SUFFIX,chengzijianzhana.com,REJECT
+DOMAIN-SUFFIX,chengzijianzhanb.com,REJECT
 DOMAIN-SUFFIX,chengzixinyong.com,REJECT
 DOMAIN-SUFFIX,chenhao97.top,REJECT
 DOMAIN-SUFFIX,cheniersamvat.cyou,REJECT
@@ -34621,6 +34628,7 @@ DOMAIN-SUFFIX,craptroopstammer.com,REJECT
 DOMAIN-SUFFIX,crapunpredictablefiddle.com,REJECT
 DOMAIN-SUFFIX,crash.163.com,REJECT
 DOMAIN-SUFFIX,crash.browser.qq.com,REJECT
+DOMAIN-SUFFIX,crash.snssdk.com,REJECT
 DOMAIN-SUFFIX,crash2.zhihu.com,REJECT
 DOMAIN-SUFFIX,crashapi.growingio.com,REJECT
 DOMAIN-SUFFIX,crashes.mo.wps.cn,REJECT
@@ -35108,6 +35116,7 @@ DOMAIN-SUFFIX,csg-app.com,REJECT
 DOMAIN-SUFFIX,csghyg.reginaclinic.jp,REJECT
 DOMAIN-SUFFIX,csgkj.com,REJECT
 DOMAIN-SUFFIX,csi.gstatic.com,REJECT
+DOMAIN-SUFFIX,csjdeveloper.com,REJECT
 DOMAIN-SUFFIX,csjdhxlelvqpa.site,REJECT
 DOMAIN-SUFFIX,csjggncfpbhnq.space,REJECT
 DOMAIN-SUFFIX,csjkb.com,REJECT
@@ -44319,6 +44328,7 @@ DOMAIN-SUFFIX,ecom3-normal-lq.ecombdapi.com,REJECT
 DOMAIN-SUFFIX,ecom5-normal-lq.ecombdapi.com,REJECT
 DOMAIN-SUFFIX,ecombdapi.com,REJECT
 DOMAIN-SUFFIX,ecombdimg.com,REJECT
+DOMAIN-SUFFIX,ecombdpage.com,REJECT
 DOMAIN-SUFFIX,ecomedtorg.ru,REJECT
 DOMAIN-SUFFIX,ecomm.events,REJECT
 DOMAIN-SUFFIX,ecommerce-events.adscale.com,REJECT
@@ -60526,6 +60536,7 @@ DOMAIN-SUFFIX,huodong.pl.youku.com,REJECT
 DOMAIN-SUFFIX,huodong.vip.youku.com,REJECT
 DOMAIN-SUFFIX,huohuo.huamuwo.com,REJECT
 DOMAIN-SUFFIX,huoju.asia,REJECT
+DOMAIN-SUFFIX,huoshanzhibo.com,REJECT
 DOMAIN-SUFFIX,hupot.site,REJECT
 DOMAIN-SUFFIX,huppothelderly.rest,REJECT
 DOMAIN-SUFFIX,huqkbq.misterrunning.com,REJECT
@@ -62087,6 +62098,7 @@ DOMAIN-SUFFIX,ilrkcyoqtybaf.website,REJECT
 DOMAIN-SUFFIX,ilshiletterismype.org,REJECT
 DOMAIN-SUFFIX,iltcaf.immobilienscout24.de,REJECT
 DOMAIN-SUFFIX,iltyooondwxst.online,REJECT
+DOMAIN-SUFFIX,iluckysf.net,REJECT
 DOMAIN-SUFFIX,ilviaggionellatesta.hubhubhub.name,REJECT
 DOMAIN-SUFFIX,ilvqos.lyst.es,REJECT
 DOMAIN-SUFFIX,ilvumbonf.net,REJECT
@@ -66857,6 +66869,7 @@ DOMAIN-SUFFIX,jinklecarted.help,REJECT
 DOMAIN-SUFFIX,jinlisaws.com,REJECT
 DOMAIN-SUFFIX,jinniespottagy.com,REJECT
 DOMAIN-SUFFIX,jinpaigz.com,REJECT
+DOMAIN-SUFFIX,jinritemai.com,REJECT
 DOMAIN-SUFFIX,jinsha11833.com,REJECT
 DOMAIN-SUFFIX,jinshagt222.com,REJECT
 DOMAIN-SUFFIX,jinupfolds.cfd,REJECT
@@ -74314,8 +74327,6 @@ DOMAIN-SUFFIX,loc.xtr2020.com,REJECT
 DOMAIN-SUFFIX,local-shares.ri.la,REJECT
 DOMAIN-SUFFIX,local-update.com,REJECT
 DOMAIN-SUFFIX,local.info.g9hc4.cn,REJECT
-DOMAIN-SUFFIX,localads.chengzijianzhan.cn,REJECT
-DOMAIN-SUFFIX,localads.chengzijianzhan.cn.queniurc.com,REJECT
 DOMAIN-SUFFIX,localaffectrecipe.com,REJECT
 DOMAIN-SUFFIX,locale-respondent-realtor-excellent.trycloudflare.com,REJECT
 DOMAIN-SUFFIX,localedgemedia.com,REJECT
@@ -75748,6 +75759,7 @@ DOMAIN-SUFFIX,luckydefinition.pro,REJECT
 DOMAIN-SUFFIX,luckyforbet.com,REJECT
 DOMAIN-SUFFIX,luckyorange.com,REJECT
 DOMAIN-SUFFIX,luckypushh.com,REJECT
+DOMAIN-SUFFIX,luckysf.net,REJECT
 DOMAIN-SUFFIX,lucnmtl.top,REJECT
 DOMAIN-SUFFIX,lucnwtl.top,REJECT
 DOMAIN-SUFFIX,lucnxzoylxmvu.love,REJECT
@@ -82324,6 +82336,7 @@ DOMAIN-SUFFIX,miniature-movie.pro,REJECT
 DOMAIN-SUFFIX,miniatureengineering.pro,REJECT
 DOMAIN-SUFFIX,minidcsc.kugou.com,REJECT
 DOMAIN-SUFFIX,minigame.gtimg.cn,REJECT
+DOMAIN-SUFFIX,minigame.zijieapi.com,REJECT
 DOMAIN-SUFFIX,minigame5-normal-hl.zijieapi.com,REJECT
 DOMAIN-SUFFIX,minigame5-normal-lq.zijieapi.com,REJECT
 DOMAIN-SUFFIX,minikenungiddy.qpon,REJECT
@@ -85637,6 +85650,7 @@ DOMAIN-SUFFIX,neighboringyellow.com,REJECT
 DOMAIN-SUFFIX,neighbourlyrepress.com,REJECT
 DOMAIN-SUFFIX,neighrewarn.click,REJECT
 DOMAIN-SUFFIX,neihang.me,REJECT
+DOMAIN-SUFFIX,neihanshequ.com,REJECT
 DOMAIN-SUFFIX,neihhou.com,REJECT
 DOMAIN-SUFFIX,neilhoticapwz.space,REJECT
 DOMAIN-SUFFIX,neioaxtgggz.com,REJECT
@@ -103591,6 +103605,7 @@ DOMAIN-SUFFIX,rtlog.byteoversea.com,REJECT
 DOMAIN-SUFFIX,rtlog.isnssdk.com,REJECT
 DOMAIN-SUFFIX,rtlog.tiktokv.com,REJECT
 DOMAIN-SUFFIX,rtlog.vidown.cn,REJECT
+DOMAIN-SUFFIX,rtlog.zijieapi.com,REJECT
 DOMAIN-SUFFIX,rtlog3-applog-lq.fqnovel.com,REJECT
 DOMAIN-SUFFIX,rtlog5-applog-hl.fqnovel.com,REJECT
 DOMAIN-SUFFIX,rtlog5-applog-lq.fqnovel.com,REJECT
@@ -128831,6 +128846,7 @@ DOMAIN-SUFFIX,ugdcxl.timeout.com.hk,REJECT
 DOMAIN-SUFFIX,ugdcxl.timeout.es,REJECT
 DOMAIN-SUFFIX,ugdcxl.timeout.jp,REJECT
 DOMAIN-SUFFIX,ugdcxl.timeout.pt,REJECT
+DOMAIN-SUFFIX,ugditui.cn,REJECT
 DOMAIN-SUFFIX,ugdtimg.com,REJECT
 DOMAIN-SUFFIX,ugdtsmfcqm.xyz,REJECT
 DOMAIN-SUFFIX,ugdturner.com,REJECT
@@ -142713,6 +142729,7 @@ DOMAIN-SUFFIX,youate.co,REJECT
 DOMAIN-SUFFIX,youborafds01.com,REJECT
 DOMAIN-SUFFIX,youboranqs01.com,REJECT
 DOMAIN-SUFFIX,youbuce.lol,REJECT
+DOMAIN-SUFFIX,youdianyisi.com,REJECT
 DOMAIN-SUFFIX,youfine.lol,REJECT
 DOMAIN-SUFFIX,youfumei.com,REJECT
 DOMAIN-SUFFIX,yougetwhatyoupayfor.net,REJECT

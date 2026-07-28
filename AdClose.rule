@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-07-28 13:45:22
-# 规则总数: 145465
+# 更新时间: 2026-07-28 17:21:04
+# 规则总数: 145482
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -2742,6 +2742,7 @@ domain, 3658888.com
 domain, 365bibi.com
 domain, 365dmp.com
 domain, 365safego.com
+domain, 365yg.com
 domain, 3661193.notify6.com
 domain, 3662557.notifysrv.com
 domain, 3662593.notifysrv.com
@@ -17048,6 +17049,7 @@ domain, ameedrice.help
 domain, amelandpunter.cfd
 domain, amelatrina.com
 domain, amellusslangs.cfd
+domain, amemv.com
 domain, amendmentbutterfly.com
 domain, amendmentinsistdevotion.com
 domain, amendmentlakeinterim.com
@@ -20398,7 +20400,6 @@ domain, apps.airmeet.com
 domain, apps.ayopop.id
 domain, apps.bannerman.com
 domain, apps.bytesfield-b.com
-domain, apps.bytesfield.com
 domain, apps.circle.com
 domain, apps.crib.in
 domain, apps.daxko-qa.com
@@ -22123,6 +22124,8 @@ domain, aweelinwrapt.cfd
 domain, awejmp.com
 domain, awembd.com
 domain, awemdia.com
+domain, awemeughun.com
+domain, awemeugsoul.com
 domain, awempire.com
 domain, awempt.com
 domain, awemwh.com
@@ -30678,8 +30681,12 @@ domain, chenggao.cn
 domain, chengjiarobot.com
 domain, chengzhao95511.com
 domain, chengzijianzhan.cc
+domain, chengzijianzhan.cn
 domain, chengzijianzhan.com
+domain, chengzijianzhan.net
 domain, chengzijianzhan.shop
+domain, chengzijianzhana.com
+domain, chengzijianzhanb.com
 domain, chengzixinyong.com
 domain, chenhao97.top
 domain, cheniersamvat.cyou
@@ -34637,6 +34644,7 @@ domain, craptroopstammer.com
 domain, crapunpredictablefiddle.com
 domain, crash.163.com
 domain, crash.browser.qq.com
+domain, crash.snssdk.com
 domain, crash2.zhihu.com
 domain, crashapi.growingio.com
 domain, crashes.mo.wps.cn
@@ -35124,6 +35132,7 @@ domain, csg-app.com
 domain, csghyg.reginaclinic.jp
 domain, csgkj.com
 domain, csi.gstatic.com
+domain, csjdeveloper.com
 domain, csjdhxlelvqpa.site
 domain, csjggncfpbhnq.space
 domain, csjkb.com
@@ -44336,6 +44345,7 @@ domain, ecom3-normal-lq.ecombdapi.com
 domain, ecom5-normal-lq.ecombdapi.com
 domain, ecombdapi.com
 domain, ecombdimg.com
+domain, ecombdpage.com
 domain, ecomedtorg.ru
 domain, ecomm.events
 domain, ecommerce-events.adscale.com
@@ -60549,6 +60559,7 @@ domain, huodong.pl.youku.com
 domain, huodong.vip.youku.com
 domain, huohuo.huamuwo.com
 domain, huoju.asia
+domain, huoshanzhibo.com
 domain, hupot.site
 domain, huppothelderly.rest
 domain, huqkbq.misterrunning.com
@@ -62110,6 +62121,7 @@ domain, ilrkcyoqtybaf.website
 domain, ilshiletterismype.org
 domain, iltcaf.immobilienscout24.de
 domain, iltyooondwxst.online
+domain, iluckysf.net
 domain, ilviaggionellatesta.hubhubhub.name
 domain, ilvqos.lyst.es
 domain, ilvumbonf.net
@@ -66888,6 +66900,7 @@ domain, jinklecarted.help
 domain, jinlisaws.com
 domain, jinniespottagy.com
 domain, jinpaigz.com
+domain, jinritemai.com
 domain, jinsha11833.com
 domain, jinshagt222.com
 domain, jinupfolds.cfd
@@ -74353,8 +74366,6 @@ domain, loc.xtr2020.com
 domain, local-shares.ri.la
 domain, local-update.com
 domain, local.info.g9hc4.cn
-domain, localads.chengzijianzhan.cn
-domain, localads.chengzijianzhan.cn.queniurc.com
 domain, localaffectrecipe.com
 domain, locale-respondent-realtor-excellent.trycloudflare.com
 domain, localedgemedia.com
@@ -75787,6 +75798,7 @@ domain, luckydefinition.pro
 domain, luckyforbet.com
 domain, luckyorange.com
 domain, luckypushh.com
+domain, luckysf.net
 domain, lucnmtl.top
 domain, lucnwtl.top
 domain, lucnxzoylxmvu.love
@@ -82367,6 +82379,7 @@ domain, miniature-movie.pro
 domain, miniatureengineering.pro
 domain, minidcsc.kugou.com
 domain, minigame.gtimg.cn
+domain, minigame.zijieapi.com
 domain, minigame5-normal-hl.zijieapi.com
 domain, minigame5-normal-lq.zijieapi.com
 domain, minikenungiddy.qpon
@@ -85681,6 +85694,7 @@ domain, neighboringyellow.com
 domain, neighbourlyrepress.com
 domain, neighrewarn.click
 domain, neihang.me
+domain, neihanshequ.com
 domain, neihhou.com
 domain, neilhoticapwz.space
 domain, neioaxtgggz.com
@@ -103641,6 +103655,7 @@ domain, rtlog.byteoversea.com
 domain, rtlog.isnssdk.com
 domain, rtlog.tiktokv.com
 domain, rtlog.vidown.cn
+domain, rtlog.zijieapi.com
 domain, rtlog3-applog-lq.fqnovel.com
 domain, rtlog5-applog-hl.fqnovel.com
 domain, rtlog5-applog-lq.fqnovel.com
@@ -128885,6 +128900,7 @@ domain, ugdcxl.timeout.com.hk
 domain, ugdcxl.timeout.es
 domain, ugdcxl.timeout.jp
 domain, ugdcxl.timeout.pt
+domain, ugditui.cn
 domain, ugdtimg.com
 domain, ugdtsmfcqm.xyz
 domain, ugdturner.com
@@ -142771,6 +142787,7 @@ domain, youate.co
 domain, youborafds01.com
 domain, youboranqs01.com
 domain, youbuce.lol
+domain, youdianyisi.com
 domain, youfine.lol
 domain, youfumei.com
 domain, yougetwhatyoupayfor.net

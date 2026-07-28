@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-07-28 13:45:22
-# 规则总数: 145465
+# 更新时间: 2026-07-28 17:21:03
+# 规则总数: 145482
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -2742,6 +2742,7 @@ domain: 3658888.com, policy: reject
 domain: 365bibi.com, policy: reject
 domain: 365dmp.com, policy: reject
 domain: 365safego.com, policy: reject
+domain: 365yg.com, policy: reject
 domain: 3661193.notify6.com, policy: reject
 domain: 3662557.notifysrv.com, policy: reject
 domain: 3662593.notifysrv.com, policy: reject
@@ -17048,6 +17049,7 @@ domain: ameedrice.help, policy: reject
 domain: amelandpunter.cfd, policy: reject
 domain: amelatrina.com, policy: reject
 domain: amellusslangs.cfd, policy: reject
+domain: amemv.com, policy: reject
 domain: amendmentbutterfly.com, policy: reject
 domain: amendmentinsistdevotion.com, policy: reject
 domain: amendmentlakeinterim.com, policy: reject
@@ -20398,7 +20400,6 @@ domain: apps.airmeet.com, policy: reject
 domain: apps.ayopop.id, policy: reject
 domain: apps.bannerman.com, policy: reject
 domain: apps.bytesfield-b.com, policy: reject
-domain: apps.bytesfield.com, policy: reject
 domain: apps.circle.com, policy: reject
 domain: apps.crib.in, policy: reject
 domain: apps.daxko-qa.com, policy: reject
@@ -22123,6 +22124,8 @@ domain: aweelinwrapt.cfd, policy: reject
 domain: awejmp.com, policy: reject
 domain: awembd.com, policy: reject
 domain: awemdia.com, policy: reject
+domain: awemeughun.com, policy: reject
+domain: awemeugsoul.com, policy: reject
 domain: awempire.com, policy: reject
 domain: awempt.com, policy: reject
 domain: awemwh.com, policy: reject
@@ -30678,8 +30681,12 @@ domain: chenggao.cn, policy: reject
 domain: chengjiarobot.com, policy: reject
 domain: chengzhao95511.com, policy: reject
 domain: chengzijianzhan.cc, policy: reject
+domain: chengzijianzhan.cn, policy: reject
 domain: chengzijianzhan.com, policy: reject
+domain: chengzijianzhan.net, policy: reject
 domain: chengzijianzhan.shop, policy: reject
+domain: chengzijianzhana.com, policy: reject
+domain: chengzijianzhanb.com, policy: reject
 domain: chengzixinyong.com, policy: reject
 domain: chenhao97.top, policy: reject
 domain: cheniersamvat.cyou, policy: reject
@@ -34637,6 +34644,7 @@ domain: craptroopstammer.com, policy: reject
 domain: crapunpredictablefiddle.com, policy: reject
 domain: crash.163.com, policy: reject
 domain: crash.browser.qq.com, policy: reject
+domain: crash.snssdk.com, policy: reject
 domain: crash2.zhihu.com, policy: reject
 domain: crashapi.growingio.com, policy: reject
 domain: crashes.mo.wps.cn, policy: reject
@@ -35124,6 +35132,7 @@ domain: csg-app.com, policy: reject
 domain: csghyg.reginaclinic.jp, policy: reject
 domain: csgkj.com, policy: reject
 domain: csi.gstatic.com, policy: reject
+domain: csjdeveloper.com, policy: reject
 domain: csjdhxlelvqpa.site, policy: reject
 domain: csjggncfpbhnq.space, policy: reject
 domain: csjkb.com, policy: reject
@@ -44336,6 +44345,7 @@ domain: ecom3-normal-lq.ecombdapi.com, policy: reject
 domain: ecom5-normal-lq.ecombdapi.com, policy: reject
 domain: ecombdapi.com, policy: reject
 domain: ecombdimg.com, policy: reject
+domain: ecombdpage.com, policy: reject
 domain: ecomedtorg.ru, policy: reject
 domain: ecomm.events, policy: reject
 domain: ecommerce-events.adscale.com, policy: reject
@@ -60549,6 +60559,7 @@ domain: huodong.pl.youku.com, policy: reject
 domain: huodong.vip.youku.com, policy: reject
 domain: huohuo.huamuwo.com, policy: reject
 domain: huoju.asia, policy: reject
+domain: huoshanzhibo.com, policy: reject
 domain: hupot.site, policy: reject
 domain: huppothelderly.rest, policy: reject
 domain: huqkbq.misterrunning.com, policy: reject
@@ -62110,6 +62121,7 @@ domain: ilrkcyoqtybaf.website, policy: reject
 domain: ilshiletterismype.org, policy: reject
 domain: iltcaf.immobilienscout24.de, policy: reject
 domain: iltyooondwxst.online, policy: reject
+domain: iluckysf.net, policy: reject
 domain: ilviaggionellatesta.hubhubhub.name, policy: reject
 domain: ilvqos.lyst.es, policy: reject
 domain: ilvumbonf.net, policy: reject
@@ -66888,6 +66900,7 @@ domain: jinklecarted.help, policy: reject
 domain: jinlisaws.com, policy: reject
 domain: jinniespottagy.com, policy: reject
 domain: jinpaigz.com, policy: reject
+domain: jinritemai.com, policy: reject
 domain: jinsha11833.com, policy: reject
 domain: jinshagt222.com, policy: reject
 domain: jinupfolds.cfd, policy: reject
@@ -74353,8 +74366,6 @@ domain: loc.xtr2020.com, policy: reject
 domain: local-shares.ri.la, policy: reject
 domain: local-update.com, policy: reject
 domain: local.info.g9hc4.cn, policy: reject
-domain: localads.chengzijianzhan.cn, policy: reject
-domain: localads.chengzijianzhan.cn.queniurc.com, policy: reject
 domain: localaffectrecipe.com, policy: reject
 domain: locale-respondent-realtor-excellent.trycloudflare.com, policy: reject
 domain: localedgemedia.com, policy: reject
@@ -75787,6 +75798,7 @@ domain: luckydefinition.pro, policy: reject
 domain: luckyforbet.com, policy: reject
 domain: luckyorange.com, policy: reject
 domain: luckypushh.com, policy: reject
+domain: luckysf.net, policy: reject
 domain: lucnmtl.top, policy: reject
 domain: lucnwtl.top, policy: reject
 domain: lucnxzoylxmvu.love, policy: reject
@@ -82367,6 +82379,7 @@ domain: miniature-movie.pro, policy: reject
 domain: miniatureengineering.pro, policy: reject
 domain: minidcsc.kugou.com, policy: reject
 domain: minigame.gtimg.cn, policy: reject
+domain: minigame.zijieapi.com, policy: reject
 domain: minigame5-normal-hl.zijieapi.com, policy: reject
 domain: minigame5-normal-lq.zijieapi.com, policy: reject
 domain: minikenungiddy.qpon, policy: reject
@@ -85681,6 +85694,7 @@ domain: neighboringyellow.com, policy: reject
 domain: neighbourlyrepress.com, policy: reject
 domain: neighrewarn.click, policy: reject
 domain: neihang.me, policy: reject
+domain: neihanshequ.com, policy: reject
 domain: neihhou.com, policy: reject
 domain: neilhoticapwz.space, policy: reject
 domain: neioaxtgggz.com, policy: reject
@@ -103641,6 +103655,7 @@ domain: rtlog.byteoversea.com, policy: reject
 domain: rtlog.isnssdk.com, policy: reject
 domain: rtlog.tiktokv.com, policy: reject
 domain: rtlog.vidown.cn, policy: reject
+domain: rtlog.zijieapi.com, policy: reject
 domain: rtlog3-applog-lq.fqnovel.com, policy: reject
 domain: rtlog5-applog-hl.fqnovel.com, policy: reject
 domain: rtlog5-applog-lq.fqnovel.com, policy: reject
@@ -128885,6 +128900,7 @@ domain: ugdcxl.timeout.com.hk, policy: reject
 domain: ugdcxl.timeout.es, policy: reject
 domain: ugdcxl.timeout.jp, policy: reject
 domain: ugdcxl.timeout.pt, policy: reject
+domain: ugditui.cn, policy: reject
 domain: ugdtimg.com, policy: reject
 domain: ugdtsmfcqm.xyz, policy: reject
 domain: ugdturner.com, policy: reject
@@ -142771,6 +142787,7 @@ domain: youate.co, policy: reject
 domain: youborafds01.com, policy: reject
 domain: youboranqs01.com, policy: reject
 domain: youbuce.lol, policy: reject
+domain: youdianyisi.com, policy: reject
 domain: youfine.lol, policy: reject
 domain: youfumei.com, policy: reject
 domain: yougetwhatyoupayfor.net, policy: reject

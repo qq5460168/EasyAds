@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-07-28 13:45:22
-# 规则总数: 145465
+# 更新时间: 2026-07-28 17:21:03
+# 规则总数: 145482
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -2742,6 +2742,7 @@
 365bibi.com block
 365dmp.com block
 365safego.com block
+365yg.com block
 3661193.notify6.com block
 3662557.notifysrv.com block
 3662593.notifysrv.com block
@@ -17048,6 +17049,7 @@ ameedrice.help block
 amelandpunter.cfd block
 amelatrina.com block
 amellusslangs.cfd block
+amemv.com block
 amendmentbutterfly.com block
 amendmentinsistdevotion.com block
 amendmentlakeinterim.com block
@@ -20398,7 +20400,6 @@ apps.airmeet.com block
 apps.ayopop.id block
 apps.bannerman.com block
 apps.bytesfield-b.com block
-apps.bytesfield.com block
 apps.circle.com block
 apps.crib.in block
 apps.daxko-qa.com block
@@ -22123,6 +22124,8 @@ aweelinwrapt.cfd block
 awejmp.com block
 awembd.com block
 awemdia.com block
+awemeughun.com block
+awemeugsoul.com block
 awempire.com block
 awempt.com block
 awemwh.com block
@@ -30678,8 +30681,12 @@ chenggao.cn block
 chengjiarobot.com block
 chengzhao95511.com block
 chengzijianzhan.cc block
+chengzijianzhan.cn block
 chengzijianzhan.com block
+chengzijianzhan.net block
 chengzijianzhan.shop block
+chengzijianzhana.com block
+chengzijianzhanb.com block
 chengzixinyong.com block
 chenhao97.top block
 cheniersamvat.cyou block
@@ -34637,6 +34644,7 @@ craptroopstammer.com block
 crapunpredictablefiddle.com block
 crash.163.com block
 crash.browser.qq.com block
+crash.snssdk.com block
 crash2.zhihu.com block
 crashapi.growingio.com block
 crashes.mo.wps.cn block
@@ -35124,6 +35132,7 @@ csg-app.com block
 csghyg.reginaclinic.jp block
 csgkj.com block
 csi.gstatic.com block
+csjdeveloper.com block
 csjdhxlelvqpa.site block
 csjggncfpbhnq.space block
 csjkb.com block
@@ -44336,6 +44345,7 @@ ecom3-normal-lq.ecombdapi.com block
 ecom5-normal-lq.ecombdapi.com block
 ecombdapi.com block
 ecombdimg.com block
+ecombdpage.com block
 ecomedtorg.ru block
 ecomm.events block
 ecommerce-events.adscale.com block
@@ -60549,6 +60559,7 @@ huodong.pl.youku.com block
 huodong.vip.youku.com block
 huohuo.huamuwo.com block
 huoju.asia block
+huoshanzhibo.com block
 hupot.site block
 huppothelderly.rest block
 huqkbq.misterrunning.com block
@@ -62110,6 +62121,7 @@ ilrkcyoqtybaf.website block
 ilshiletterismype.org block
 iltcaf.immobilienscout24.de block
 iltyooondwxst.online block
+iluckysf.net block
 ilviaggionellatesta.hubhubhub.name block
 ilvqos.lyst.es block
 ilvumbonf.net block
@@ -66888,6 +66900,7 @@ jinklecarted.help block
 jinlisaws.com block
 jinniespottagy.com block
 jinpaigz.com block
+jinritemai.com block
 jinsha11833.com block
 jinshagt222.com block
 jinupfolds.cfd block
@@ -74353,8 +74366,6 @@ loc.xtr2020.com block
 local-shares.ri.la block
 local-update.com block
 local.info.g9hc4.cn block
-localads.chengzijianzhan.cn block
-localads.chengzijianzhan.cn.queniurc.com block
 localaffectrecipe.com block
 locale-respondent-realtor-excellent.trycloudflare.com block
 localedgemedia.com block
@@ -75787,6 +75798,7 @@ luckydefinition.pro block
 luckyforbet.com block
 luckyorange.com block
 luckypushh.com block
+luckysf.net block
 lucnmtl.top block
 lucnwtl.top block
 lucnxzoylxmvu.love block
@@ -82367,6 +82379,7 @@ miniature-movie.pro block
 miniatureengineering.pro block
 minidcsc.kugou.com block
 minigame.gtimg.cn block
+minigame.zijieapi.com block
 minigame5-normal-hl.zijieapi.com block
 minigame5-normal-lq.zijieapi.com block
 minikenungiddy.qpon block
@@ -85681,6 +85694,7 @@ neighboringyellow.com block
 neighbourlyrepress.com block
 neighrewarn.click block
 neihang.me block
+neihanshequ.com block
 neihhou.com block
 neilhoticapwz.space block
 neioaxtgggz.com block
@@ -103641,6 +103655,7 @@ rtlog.byteoversea.com block
 rtlog.isnssdk.com block
 rtlog.tiktokv.com block
 rtlog.vidown.cn block
+rtlog.zijieapi.com block
 rtlog3-applog-lq.fqnovel.com block
 rtlog5-applog-hl.fqnovel.com block
 rtlog5-applog-lq.fqnovel.com block
@@ -128885,6 +128900,7 @@ ugdcxl.timeout.com.hk block
 ugdcxl.timeout.es block
 ugdcxl.timeout.jp block
 ugdcxl.timeout.pt block
+ugditui.cn block
 ugdtimg.com block
 ugdtsmfcqm.xyz block
 ugdturner.com block
@@ -142771,6 +142787,7 @@ youate.co block
 youborafds01.com block
 youboranqs01.com block
 youbuce.lol block
+youdianyisi.com block
 youfine.lol block
 youfumei.com block
 yougetwhatyoupayfor.net block

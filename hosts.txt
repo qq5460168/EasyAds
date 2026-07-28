@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-07-28 13:45:22
-# 规则总数: 145465
+# 更新时间: 2026-07-28 17:21:04
+# 规则总数: 145482
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -2742,6 +2742,7 @@
 0.0.0.0 365bibi.com
 0.0.0.0 365dmp.com
 0.0.0.0 365safego.com
+0.0.0.0 365yg.com
 0.0.0.0 3661193.notify6.com
 0.0.0.0 3662557.notifysrv.com
 0.0.0.0 3662593.notifysrv.com
@@ -17048,6 +17049,7 @@
 0.0.0.0 amelandpunter.cfd
 0.0.0.0 amelatrina.com
 0.0.0.0 amellusslangs.cfd
+0.0.0.0 amemv.com
 0.0.0.0 amendmentbutterfly.com
 0.0.0.0 amendmentinsistdevotion.com
 0.0.0.0 amendmentlakeinterim.com
@@ -20398,7 +20400,6 @@
 0.0.0.0 apps.ayopop.id
 0.0.0.0 apps.bannerman.com
 0.0.0.0 apps.bytesfield-b.com
-0.0.0.0 apps.bytesfield.com
 0.0.0.0 apps.circle.com
 0.0.0.0 apps.crib.in
 0.0.0.0 apps.daxko-qa.com
@@ -22123,6 +22124,8 @@
 0.0.0.0 awejmp.com
 0.0.0.0 awembd.com
 0.0.0.0 awemdia.com
+0.0.0.0 awemeughun.com
+0.0.0.0 awemeugsoul.com
 0.0.0.0 awempire.com
 0.0.0.0 awempt.com
 0.0.0.0 awemwh.com
@@ -30678,8 +30681,12 @@
 0.0.0.0 chengjiarobot.com
 0.0.0.0 chengzhao95511.com
 0.0.0.0 chengzijianzhan.cc
+0.0.0.0 chengzijianzhan.cn
 0.0.0.0 chengzijianzhan.com
+0.0.0.0 chengzijianzhan.net
 0.0.0.0 chengzijianzhan.shop
+0.0.0.0 chengzijianzhana.com
+0.0.0.0 chengzijianzhanb.com
 0.0.0.0 chengzixinyong.com
 0.0.0.0 chenhao97.top
 0.0.0.0 cheniersamvat.cyou
@@ -34637,6 +34644,7 @@
 0.0.0.0 crapunpredictablefiddle.com
 0.0.0.0 crash.163.com
 0.0.0.0 crash.browser.qq.com
+0.0.0.0 crash.snssdk.com
 0.0.0.0 crash2.zhihu.com
 0.0.0.0 crashapi.growingio.com
 0.0.0.0 crashes.mo.wps.cn
@@ -35124,6 +35132,7 @@
 0.0.0.0 csghyg.reginaclinic.jp
 0.0.0.0 csgkj.com
 0.0.0.0 csi.gstatic.com
+0.0.0.0 csjdeveloper.com
 0.0.0.0 csjdhxlelvqpa.site
 0.0.0.0 csjggncfpbhnq.space
 0.0.0.0 csjkb.com
@@ -44336,6 +44345,7 @@
 0.0.0.0 ecom5-normal-lq.ecombdapi.com
 0.0.0.0 ecombdapi.com
 0.0.0.0 ecombdimg.com
+0.0.0.0 ecombdpage.com
 0.0.0.0 ecomedtorg.ru
 0.0.0.0 ecomm.events
 0.0.0.0 ecommerce-events.adscale.com
@@ -60549,6 +60559,7 @@
 0.0.0.0 huodong.vip.youku.com
 0.0.0.0 huohuo.huamuwo.com
 0.0.0.0 huoju.asia
+0.0.0.0 huoshanzhibo.com
 0.0.0.0 hupot.site
 0.0.0.0 huppothelderly.rest
 0.0.0.0 huqkbq.misterrunning.com
@@ -62110,6 +62121,7 @@
 0.0.0.0 ilshiletterismype.org
 0.0.0.0 iltcaf.immobilienscout24.de
 0.0.0.0 iltyooondwxst.online
+0.0.0.0 iluckysf.net
 0.0.0.0 ilviaggionellatesta.hubhubhub.name
 0.0.0.0 ilvqos.lyst.es
 0.0.0.0 ilvumbonf.net
@@ -66888,6 +66900,7 @@
 0.0.0.0 jinlisaws.com
 0.0.0.0 jinniespottagy.com
 0.0.0.0 jinpaigz.com
+0.0.0.0 jinritemai.com
 0.0.0.0 jinsha11833.com
 0.0.0.0 jinshagt222.com
 0.0.0.0 jinupfolds.cfd
@@ -74353,8 +74366,6 @@
 0.0.0.0 local-shares.ri.la
 0.0.0.0 local-update.com
 0.0.0.0 local.info.g9hc4.cn
-0.0.0.0 localads.chengzijianzhan.cn
-0.0.0.0 localads.chengzijianzhan.cn.queniurc.com
 0.0.0.0 localaffectrecipe.com
 0.0.0.0 locale-respondent-realtor-excellent.trycloudflare.com
 0.0.0.0 localedgemedia.com
@@ -75787,6 +75798,7 @@
 0.0.0.0 luckyforbet.com
 0.0.0.0 luckyorange.com
 0.0.0.0 luckypushh.com
+0.0.0.0 luckysf.net
 0.0.0.0 lucnmtl.top
 0.0.0.0 lucnwtl.top
 0.0.0.0 lucnxzoylxmvu.love
@@ -82367,6 +82379,7 @@
 0.0.0.0 miniatureengineering.pro
 0.0.0.0 minidcsc.kugou.com
 0.0.0.0 minigame.gtimg.cn
+0.0.0.0 minigame.zijieapi.com
 0.0.0.0 minigame5-normal-hl.zijieapi.com
 0.0.0.0 minigame5-normal-lq.zijieapi.com
 0.0.0.0 minikenungiddy.qpon
@@ -85681,6 +85694,7 @@
 0.0.0.0 neighbourlyrepress.com
 0.0.0.0 neighrewarn.click
 0.0.0.0 neihang.me
+0.0.0.0 neihanshequ.com
 0.0.0.0 neihhou.com
 0.0.0.0 neilhoticapwz.space
 0.0.0.0 neioaxtgggz.com
@@ -103641,6 +103655,7 @@
 0.0.0.0 rtlog.isnssdk.com
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 rtlog.vidown.cn
+0.0.0.0 rtlog.zijieapi.com
 0.0.0.0 rtlog3-applog-lq.fqnovel.com
 0.0.0.0 rtlog5-applog-hl.fqnovel.com
 0.0.0.0 rtlog5-applog-lq.fqnovel.com
@@ -128885,6 +128900,7 @@
 0.0.0.0 ugdcxl.timeout.es
 0.0.0.0 ugdcxl.timeout.jp
 0.0.0.0 ugdcxl.timeout.pt
+0.0.0.0 ugditui.cn
 0.0.0.0 ugdtimg.com
 0.0.0.0 ugdtsmfcqm.xyz
 0.0.0.0 ugdturner.com
@@ -142771,6 +142787,7 @@
 0.0.0.0 youborafds01.com
 0.0.0.0 youboranqs01.com
 0.0.0.0 youbuce.lol
+0.0.0.0 youdianyisi.com
 0.0.0.0 youfine.lol
 0.0.0.0 youfumei.com
 0.0.0.0 yougetwhatyoupayfor.net
