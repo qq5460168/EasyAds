@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-07-29 01:21:04
-! 有效规则数量: 156120 条
+! 规则更新时间: 2026-07-29 05:01:21
+! 有效规则数量: 156188 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -16206,6 +16206,7 @@
 ||sdk-api.beizi.biz^
 ||signaltower.gdt.qq.com^
 ||ssp-sdk-config.uc.cn^
+||ads-jssdk.vivo.com.cn^
 ||stg-cmws.iad.apple.com^
 ||test.y.qq.com^
 ||tianshu.qq.com^
@@ -16245,8 +16246,6 @@
 ||abeacdataort-stsdk.vivo.com.cn^
 ||wkanx.com^
 ||monitor.v2.tcyad.com^
-||feeds.vivo.com.cn^
-||feedsplat.vivo.com.cn^
 ||ads.sinaimg.cn^
 ||fpvideo.shenshiads.com^
 ||ad.track.66mobi.com^
@@ -16258,7 +16257,6 @@
 ||novel.pangolin-sdk-toutiao.com^
 ||dsp-api-cn.metricslinks.com^
 ||mores.anythinktech.com^
-||sf6-fe-tos.pglstatp-toutiao.com^
 ||lf1-cdn-tos.bytegoofy.com^
 ||mgw.mpaas.cn-hangzhou.aliyuncs.com^
 ||cloudauth-device-dualstack.cn-shanghai.aliyuncs.com^
@@ -151700,6 +151698,8 @@
 ||ad-sh-sz-zb.wagbridge.tanx.alimama.com^
 ||ads-img-bak.xhscdn.com^
 ||bossaudioandcomic-1252317822.image.myqcloud.com^
+||feeds.vivo.com.cn^
+||feedsplat.vivo.com.cn^
 ||i-hl.snssdk.com^
 ||reading-hl.snssdk.com^
 ||xvadtrack.xingya.com.cn^
@@ -152001,9 +152001,52 @@
 ||ztstn.020kqy.com^
 ||dl.reg.163.com^
 ||s.click.taobao.com^
+||api.yunxish.com^
+||sdk-ab-config.yunxish.com^
+||cpc-service-square.yunxish.com^
+||rcv.yunxish.com^
+||usr-api.yunxish.com^
+||cdn.yunxish.com^
+||v2.yunxish.com^
+||sf6-fe-tos.pglstatp-toutiao.com^
+||lf-event-manager.oceanengine.com^
+||p4-lm.adukwai.com^
+||rdelivery.qq.com^
+||bid-adx2.vlion.cn^
+||td-nexus.advlion.com^
+||tm.sigmob.cn^
+||rtbcallback.sigmob.cn^
+||bid.adbiding.com^
+||sdkconf.adbiding.com^
+||sl.adbiding.com^
+||t.adbiding.com^
+||ad.baihemob.com^
+||api-nxs-v4.mentamob.com^
+||ads-bid.leadmoad.com^
+||adsbid.leadmoad.com^
+||sdk-report.1rtb.com^
+||sdk.zhangyuyidong.cn^
+||sdklog.zhangyuyidong.cn^
+||adm.zhangyuyidong.cn^
+||ad-api.adn-plus.com.cn^
+||adx-track.adn-plus.com.cn^
+||ssp-track.adn-plus.com.cn^
+||report.shunchangzhixing.com^
+||event.dashisx.com^
+||resource.ad-scope.com.cn^
+||adsdk.richmob.cn^
+||sdkapi.richmob.cn^
+||monitor-pro.digitalcloudshield.com^
+||api.ad.xiaomi.coms^
+||entry-su1.ubixioe.com^
+||adx-cfg-u1.ubixioe.com^
+||adx-data-u1.ubixioe.com^
+||s.adxvip.com^
 ||rtlog.zijieapi.com^
+||mon.toutiao.com^
+||mon.toutiaocloud.com^
+||mon.toutiaocloud.net^
 ||crash.snssdk.com^
-||csjdeveloper.com^
 ||ecombdpage.com^
 ||jinritemai.com^
 ||chengzijianzhana.com^
@@ -152021,6 +152064,31 @@
 ||iluckysf.net^
 ||ugditui.cn^
 ||minigame.zijieapi.com^
+||task.tanx.com^
+||videoproxy.tanx.com^
+||pre-sdk-config.alibaba-inc.com^
+||static.yximgs.com^
+||apps.bytesfield.com^
+||www.pangle.cn^
+||s01.peplle.cn^
+||adx-bj.statisticslinks.com^
+||t-cfg.52qumao.com^
+||api-eas.52qumao.com^
+||ad.wtzw.com^
+||tj-adc.wtzw.com^
+||tjjs.wtzw.com^
+||dig-cfg.wtzw.com^
+||t-exc.jiuyue919.com^
+||sdk.gdt.qq.com^
+||qzs.gdt.qq.com^
+||adx.oppomobile.com^
+||api.adx.oppomobile.com^
+||adservice.huawei.com^
+||adx.domobcdn.com^
+||r.domobcdn.com^
+||ad.voiceads.cn^
+||api.voiceads.cn^
+||adx.jd.com^
 ||hot.browser.miui.com^
 ||googleads.g.doubleclick.nes^
 ||ads.lingyuexiu.cn^
@@ -152147,43 +152215,43 @@
 140.82.112.26                 alive.github.com
 20.205.243.168                api.github.com
 140.82.112.21                 api.individual.githubcopilot.com
-185.199.111.133               avatars.githubusercontent.com
-185.199.111.133               avatars0.githubusercontent.com
-185.199.111.133               avatars1.githubusercontent.com
-185.199.111.133               avatars2.githubusercontent.com
-185.199.111.133               avatars3.githubusercontent.com
-185.199.111.133               avatars4.githubusercontent.com
-185.199.111.133               avatars5.githubusercontent.com
-185.199.111.133               camo.githubusercontent.com
-140.82.114.21                 central.github.com
-185.199.111.133               cloud.githubusercontent.com
+185.199.110.133               avatars.githubusercontent.com
+185.199.110.133               avatars0.githubusercontent.com
+185.199.110.133               avatars1.githubusercontent.com
+185.199.110.133               avatars2.githubusercontent.com
+185.199.110.133               avatars3.githubusercontent.com
+185.199.110.133               avatars4.githubusercontent.com
+185.199.110.133               avatars5.githubusercontent.com
+185.199.110.133               camo.githubusercontent.com
+140.82.112.21                 central.github.com
+185.199.110.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.114.21                 collector.github.com
-185.199.111.133               desktop.githubusercontent.com
-185.199.111.133               favicons.githubusercontent.com
-159.106.121.75                gist.github.com  # Timeout
-16.15.254.22                  github-cloud.s3.amazonaws.com
-52.216.53.185                 github-com.s3.amazonaws.com
-16.15.236.138                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.236.60                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.196.233                github-production-user-asset-6210df.s3.amazonaws.com
+140.82.114.22                 collector.github.com
+185.199.110.133               desktop.githubusercontent.com
+185.199.110.133               favicons.githubusercontent.com
+37.61.54.158                  gist.github.com  # Timeout
+52.216.37.137                 github-cloud.s3.amazonaws.com
+52.216.37.137                 github-com.s3.amazonaws.com
+16.182.98.153                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.183.117                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.93.44                  github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.112.18                 github.community
-185.199.108.215               github.githubassets.com
-45.77.186.255                 github.global.ssl.fastly.net
-185.199.111.153               github.io
-185.199.111.133               github.map.fastly.net
-185.199.111.153               githubstatus.com
-140.82.113.25                 live.github.com
-185.199.111.133               media.githubusercontent.com
-185.199.111.133               objects.githubusercontent.com
+140.82.113.18                 github.community
+185.199.110.215               github.githubassets.com
+199.59.148.102                github.global.ssl.fastly.net  # Timeout
+185.199.110.153               github.io
+185.199.110.133               github.map.fastly.net
+185.199.110.153               githubstatus.com
+140.82.114.25                 live.github.com
+185.199.110.133               media.githubusercontent.com
+185.199.110.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.111.133               raw.githubusercontent.com
-185.199.111.133               user-images.githubusercontent.com
-150.171.110.103               vscode.dev
+185.199.110.133               raw.githubusercontent.com
+185.199.110.133               user-images.githubusercontent.com
+150.171.110.101               vscode.dev
 140.82.114.22                 education.github.com
-185.199.111.133               private-user-images.githubusercontent.com
+185.199.110.133               private-user-images.githubusercontent.com
 @@||iqiyi.com/static/js/adfe.5aa3302c.js
 @@||qhres2.com^$domain=www.n.cn
 @@||x2.ifengimg.com^
@@ -155195,8 +155263,6 @@
 @@||bgp.video-upload-v*.lf.bytelb.net^
 @@||dinamicx.alibabausercontent.com^
 @@||lf3-search.searchpstatp.com^
-@@||monsetting.toutiao.com^
-@@||gecko.zijieapi.com^
 @@||polaris.zijieapi.com^
 @@||tnc3-bjlgy.zijieapi.com^
 @@||lf3-cdn-tos.bytecdntp.com^
@@ -155244,6 +155310,8 @@
 @@||ime-store-cdn.gtimg.com^$important
 @@||console.bce.baidu.com^$domain=console.bce.baidu.com
 @@||login.bce.baidu.com^$domain=login.bce.baidu.com
+@@||monsetting.toutiao.com^
+@@||gecko.zijieapi.com^
 @@||fs-im-kefu.7moor-fs1.com^$important
 @@||dpurl.cn^$important
 @@||market.waimai.meituan.com^$important

@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-07-28 17:21:00（北京时间）
-# 共 145418 个域名
+# 生成时间: 2026-07-28 21:01:17（北京时间）
+# 共 145486 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -12072,6 +12072,7 @@ ad-admin.vnay.vn
 ad-analysis.pconline.com.cn
 ad-android.51wnl.com
 ad-api-log.colopl.jp
+ad-api.adn-plus.com.cn
 ad-api.cnblogs.com
 ad-api.ehawk.com
 ad-api.gl-inet.com
@@ -12230,6 +12231,7 @@ ad.aucfan.com
 ad.aucview.com
 ad.auditude.com
 ad.autorace.jp
+ad.baihemob.com
 ad.bayescom.com
 ad.bczcdn.com
 ad.beihai365.com
@@ -12576,6 +12578,7 @@ ad.vidverto.io
 ad.vietbao.vn
 ad.virtual-nights.com
 ad.vkool.net
+ad.voiceads.cn
 ad.vryeye.com
 ad.walkgame.com
 ad.wamxb.info
@@ -12591,6 +12594,7 @@ ad.woman.mynavi.jp
 ad.wretch.cc
 ad.wrtn.ai
 ad.wsod.com
+ad.wtzw.com
 ad.wurangxian.top
 ad.wx.com
 ad.wynk.in
@@ -13361,6 +13365,7 @@ adm.phunuvagiadinh.vn
 adm.shinobi.jp
 adm.xmfish.com
 adm.zbinfo.net
+adm.zhangyuyidong.cn
 adm.zookingsoft.com
 adm0.autoimg.cn
 adm1.autoimg.cn
@@ -13808,6 +13813,7 @@ ads-api.twitter.com
 ads-api.videojj.com
 ads-api.videy.co
 ads-api.x.com
+ads-bid.leadmoad.com
 ads-bidder-api.twitter.com
 ads-blocker.app
 ads-blocker.pro
@@ -13834,6 +13840,7 @@ ads-img-bak.xhscdn.com
 ads-img-qc.xhscdn.com
 ads-interfaces.sc-cdn.net
 ads-jp.tiktok.com
+ads-jssdk.vivo.com.cn
 ads-lb.serving-sys.cn
 ads-leaseweb.appsgeyser.com
 ads-marketing-vivofs.vivo.com.cn
@@ -14377,6 +14384,7 @@ adsbanner.game.zing.vn
 adsbar.online
 adsbdfs.heytapimage.com
 adsbetnet.com
+adsbid.leadmoad.com
 adsblockersentinel.info
 adsboosters.xyz
 adsbtrk.com
@@ -14411,6 +14419,7 @@ adsdk.com
 adsdk.dmzj.com
 adsdk.idmzj.com
 adsdk.microsoft.com
+adsdk.richmob.cn
 adsdk.state.duoku.com
 adsdk.vivo.com.cn
 adsdk.whjzjx.cn
@@ -14503,6 +14512,7 @@ adservetx.media.net
 adservice.aiyouaiyou.cn
 adservice.google.cn
 adservice.google.com
+adservice.huawei.com
 adservice.kugou.com
 adservice.sigmob.cn
 adservice.tohsoft.com
@@ -15074,9 +15084,12 @@ adx-api.hupu.com
 adx-api.jinmo.tech
 adx-bj-req.anythinktech.com
 adx-bj.anythinktech.com
+adx-bj.statisticslinks.com
+adx-cfg-u1.ubixioe.com
 adx-cn.ads.vungle.com
 adx-cn.anythinktech.com
 adx-core.youku.com
+adx-data-u1.ubixioe.com
 adx-data.yfanads.com
 adx-drcn.op.dbankcloud.cn
 adx-dre.op.hicloud.com
@@ -15087,6 +15100,7 @@ adx-os.anythinktech.com
 adx-saas.advlion.com
 adx-static.ksosoft.com
 adx-strategy-api-cn.statisticslinks.com
+adx-track.adn-plus.com.cn
 adx-track.domob.cn
 adx.36kr.com
 adx.ads.heytapmobi.com
@@ -15099,16 +15113,19 @@ adx.chinmedia.vn
 adx.chip.de
 adx.dictapis.cn
 adx.dlads.cn
+adx.domobcdn.com
 adx.fulcrum.com.fj
 adx.halomobi.com
 adx.hoanggia.net.vn
 adx.hupu.com
+adx.jd.com
 adx.kat.ph
 adx.mala.cn
 adx.maplehaze.cn
 adx.op.cp18.ott.cibntv.net
 adx.open-adx.com
 adx.opera.com
+adx.oppomobile.com
 adx.pro.cn
 adx.sogaha.cn
 adx.tuia.cn
@@ -18852,6 +18869,7 @@ api-cloudfalcon.hismarttv.com
 api-cn.open.heytapmobi.com
 api-dynhost.hismarttv.com
 api-e189.21cn.com
+api-eas.52qumao.com
 api-exc.hiaiabc.com
 api-exponea.o2.cz
 api-exponea.o2.sk
@@ -18879,6 +18897,7 @@ api-my-api-5hw5ou-b810d8-80-75-218-107.traefik.me
 api-notify.markarch.com
 api-nps.wtzw.com
 api-nxs-v3.mentamob.com
+api-nxs-v4.mentamob.com
 api-p1.yksdks.com
 api-p4.mobsurl.com
 api-p4.yksdks.com
@@ -18909,6 +18928,7 @@ api.ad.logic-prod.viasat.io
 api.ad.logic-test.viasat.io
 api.ad.logic.viasat.io
 api.ad.xiaomi.com
+api.ad.xiaomi.coms
 api.ada-cloud.com
 api.adaether.com
 api.adbility-media.com
@@ -18919,6 +18939,7 @@ api.ads66.com
 api.adserver.jvmai.com
 api.adultsclips.com
 api.adv.ott.cibntv.net
+api.adx.oppomobile.com
 api.adxnow.com
 api.afdback.ppsimg.com
 api.ahjinshu.com
@@ -19132,6 +19153,7 @@ api.valuemedia-ltd.com
 api.verify.mob.com
 api.viglink.com
 api.vip.ptqy.gitv.tv
+api.voiceads.cn
 api.vrumeads.com
 api.waptest.taobao.com
 api.whizeo.com
@@ -19154,6 +19176,7 @@ api.yfanads.com
 api.youngle.tech
 api.youtu.qq.com
 api.youxiaoad.com
+api.yunxish.com
 api.znet.homes
 api.zol.com
 api01pbmp.zhuishushenqi.com
@@ -20380,6 +20403,7 @@ apps.airmeet.com
 apps.ayopop.id
 apps.bannerman.com
 apps.bytesfield-b.com
+apps.bytesfield.com
 apps.circle.com
 apps.crib.in
 apps.daxko-qa.com
@@ -24924,7 +24948,9 @@ bicolorvaccine.shop
 biconcave43.com
 bicp-analytics.postscript.io
 bid-adx.vlion.cn
+bid-adx2.vlion.cn
 bid-algorix.com
+bid.adbiding.com
 bid.glass
 bid.mbidtg.com
 bid.onclcktg.com
@@ -29863,6 +29889,7 @@ cdn.yld.is
 cdn.ynuf.aliapp.org
 cdn.ytihp.com
 cdn.yunliunet.com
+cdn.yunxish.com
 cdn.zampda.net
 cdn.zampdsp.com
 cdn.zamunda.ru
@@ -34315,6 +34342,7 @@ cpays.com
 cpbhizaihjzaa.space
 cpbsdmiolplwp.website
 cpc-service-square.aiclk.com
+cpc-service-square.yunxish.com
 cpc.sogou.com
 cpc.sohu.com
 cpc0392.com
@@ -35107,7 +35135,6 @@ csg-app.com
 csghyg.reginaclinic.jp
 csgkj.com
 csi.gstatic.com
-csjdeveloper.com
 csjdhxlelvqpa.site
 csjggncfpbhnq.space
 csjkb.com
@@ -40324,6 +40351,7 @@ difmxboqpd.com
 difnxm.cn
 difucyvkjayoc.space
 difyferukentaspe.com
+dig-cfg.wtzw.com
 dig.bdurl.net
 dig.lianjia.com
 dig.qbao.com
@@ -46385,6 +46413,7 @@ entreguei.com
 entrepreneurnegativesupportive.com
 entrepreneurs46.com
 entrustfacileproficient.com
+entry-su1.ubixioe.com
 entry.baidu.com
 entry.org
 entryhit.wp.pl
@@ -47326,6 +47355,7 @@ event.clubcorp.com
 event.collector.scopely.io
 event.condenastdigital.com
 event.csdn.net
+event.dashisx.com
 event.dc.oppomobile.com
 event.dengage.com
 event.dfinery.io
@@ -72203,6 +72233,7 @@ lezbrja.cn
 lezntf.heydudeshoesusa.com
 leztc.com
 lf-cdn-tos.bytescm.com
+lf-event-manager.oceanengine.com
 lf-fe.fqnovelstatic.com
 lf-leads-fe-scm.bytecdn.com
 lf-reward-video.bytedcdn.com
@@ -83309,6 +83340,9 @@ mon.domdog.io
 mon.ingservices.nl
 mon.isnssdk.com
 mon.snssdk.com
+mon.toutiao.com
+mon.toutiaocloud.com
+mon.toutiaocloud.net
 mon.us.tiktokv.com
 mon.xtgreat.com
 mon.zijieapi.com
@@ -83358,6 +83392,7 @@ moniter.wb.qq.com
 monitor-ads-test.huan.tv
 monitor-api.blackcrow.ai
 monitor-frontend-collector.a.bybit-aws.com
+monitor-pro.digitalcloudshield.com
 monitor-uu.play.aiseet.atianqi.com
 monitor.ads.8le8le.com
 monitor.adxsenmeng.com
@@ -91634,6 +91669,7 @@ p4-ad.adbkwai.com
 p4-ad.adkwai.com
 p4-ad.adukwai.com
 p4-be-pack-sign.pglstatp-toutiao.com
+p4-lm.adukwai.com
 p4ck-rnate.pack8mint.coupons
 p4dc8ve6i.com
 p4gdt4um6.com
@@ -95649,6 +95685,7 @@ pre-app.soulapp-inc.cn
 pre-cache.video.iqiyi.com
 pre-employmentservices.adp.com
 pre-m.dewu.com
+pre-sdk-config.alibaba-inc.com
 pre.03porno.com
 pre.102porno.club
 pre.102porno.net
@@ -99524,6 +99561,7 @@ qzqdoqqqqicne.website
 qzqfud.casamineira.com.br
 qzruomjczpdzt.store
 qzrwwchruinnx.space
+qzs.gdt.qq.com
 qzs.gdtimg.com
 qzs.qq.com
 qzs43ai3p.com
@@ -99571,6 +99609,7 @@ r.cnews.qq.com
 r.cricbet.co
 r.cvglobal.co
 r.dmp.sina.com.cn
+r.domobcdn.com
 r.flatlong.shop
 r.getcopper-dev.com
 r.getcopper.com
@@ -100258,6 +100297,7 @@ rcv.jesgoo.com
 rcv.mobad.ijinshan.com
 rcv.moogos.com
 rcv.union-wifi.com
+rcv.yunxish.com
 rcvarwsudnwxa.website
 rcvlink.com
 rcvlinks.com
@@ -100290,6 +100330,7 @@ rddiqs.partyhallen.se
 rddopqxcqsrwb.online
 rddsjx.xyz
 rddywd.com
+rdelivery.qq.com
 rderstartirrelea.com
 rdexylsftabnr.store
 rdezqwydewmuu.store
@@ -101254,6 +101295,7 @@ report.nfa.qq.com
 report.pixverse.ai
 report.qq.com
 report.seznamzpravy.cz
+report.shunchangzhixing.com
 report.starshort.online
 report.tencentmusic.com
 report.tv.kohesport.qq.com
@@ -101415,6 +101457,7 @@ reson.jazzm1s8uid.ru
 reson8.com
 resonance.pk
 resort1266.fun
+resource.ad-scope.com.cn
 resource.baomihua.com
 resource.fjhongbo.com
 resources-it.opentext.com
@@ -103544,6 +103587,7 @@ rtbbonline.com
 rtbbpowaq.com
 rtbbtech.com
 rtbbtr.com
+rtbcallback.sigmob.cn
 rtbdem.com
 rtbdemand.com
 rtbfactory.com
@@ -104202,6 +104246,7 @@ s.adroll.com
 s.adsession.com
 s.advantageclicks.net
 s.advertrek.com
+s.adxvip.com
 s.afxwa.com
 s.agava.ru
 s.airgoat.com
@@ -104657,6 +104702,7 @@ s.zlongad.com
 s.zxwdw.com
 s.zzcdn.me
 s0-greate.net
+s01.peplle.cn
 s010.net.jumia.sn
 s02.bestsecret.com
 s03.optimix.asia
@@ -106438,6 +106484,7 @@ sdjxnisnlfuah.website
 sdk-ab-config-cdn.yunxish.com
 sdk-ab-config.aiclk.com
 sdk-ab-config.qquanquan.com
+sdk-ab-config.yunxish.com
 sdk-analytics-web.cloud.itau.com.br
 sdk-api.beizi.biz
 sdk-api.kidoz.net
@@ -106455,6 +106502,7 @@ sdk-log.partner.sm.cn
 sdk-monitoring.ogury.co
 sdk-open-phone.getui.com
 sdk-orion.appboy.com
+sdk-report.1rtb.com
 sdk-services.appsflyer.com
 sdk-track.66mobi.com
 sdk.1rtb.net
@@ -106474,6 +106522,7 @@ sdk.cferw.com
 sdk.cmgame.com
 sdk.conf.igexin.com
 sdk.e.qq.com
+sdk.gdt.qq.com
 sdk.hzsanjiaomao.com
 sdk.inmobi.com
 sdk.kkpromotion.tapque.com
@@ -106494,10 +106543,12 @@ sdk.renrenjihua.com
 sdk.sipujia.cn
 sdk.starbolt.io
 sdk.verification.jiguang.cn
+sdk.zhangyuyidong.cn
 sdk2xr232.top
 sdk4push.com
 sdkapi-prod.dfinery.ai
 sdkapi.cloooud.com
+sdkapi.richmob.cn
 sdkapp.mobile.sina.cn
 sdkapp.uve.weibo.com
 sdkauth.hpplay.cn
@@ -106505,6 +106556,7 @@ sdkc.vervegroupinc.net
 sdkcfg.adintl.cn
 sdkclick.com
 sdkclick.mobile.sina.cn
+sdkconf.adbiding.com
 sdkconf.avlyun.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
@@ -106519,6 +106571,7 @@ sdklnlsknvcks.com
 sdklog.adintl.cn
 sdklog.cmgame.com
 sdklog.uu.cc
+sdklog.zhangyuyidong.cn
 sdknext.com
 sdkoptedge.chinanetcenter.com
 sdkpay.uu.cc
@@ -109503,6 +109556,7 @@ skywardjourneys.co
 skzdntgxoseva.online
 skzehzdvtfsqi.site
 sl-h-statistics-ch-1.storeland.ru
+sl.adbiding.com
 sl.hpplay.cn
 sl.trycircle.com
 sl.xawjwl.com
@@ -115223,6 +115277,7 @@ ssp-landing.taptap.cn
 ssp-monitor.adstarcharm.com
 ssp-rtb.sape.ru
 ssp-sdk-config.uc.cn
+ssp-track.adn-plus.com.cn
 ssp.08160.cn
 ssp.1rtb.com
 ssp.21ic.com
@@ -116364,6 +116419,7 @@ static.yieldradius.io
 static.ymidydlesswales.com
 static.youdm.cn
 static.yxh1.cn
+static.yximgs.com
 static.zhihu.com
 static.zongheng.com
 static1.andbeyond.media
@@ -119448,9 +119504,11 @@ t-9.dev-trace-analyzer.coupons
 t-ads.xiaohongshu.com
 t-adx.52qumao.com
 t-ak.hulu.com
+t-cfg.52qumao.com
 t-cfg.wtzw.com
 t-dsp.pinduoduo.com
 t-e.flyme.cn
+t-exc.jiuyue919.com
 t-flow.flyme.cn
 t-l.play.aiseet.atianqi.com
 t-odx.op-mobile.opera.com
@@ -119504,6 +119562,7 @@ t.91syun.com
 t.9gag.com
 t.a3cloud.net
 t.actemra.com
+t.adbiding.com
 t.adbr.io
 t.adbxb.cn
 t.adclr.jp
@@ -120844,6 +120903,7 @@ tarvel.starl1ght.ru
 tarweednasionwacs.cyou
 tasgxk4ia6.com
 tashliknobble.qpon
+task.tanx.com
 taskagepaves.cfd
 taskagetaka.help
 taskskareau.help
@@ -121072,6 +121132,7 @@ tcxshop.com
 tczulp.econea.cz
 tczyt8.cn
 td-log-collect.galsanggame.com
+td-nexus.advlion.com
 td.airdroid.com
 td.doubleclick.net
 td.emails.domain.com.au
@@ -122565,6 +122626,7 @@ tizmanon.com
 tizofvtuqo.com
 tizruk.circu1arc0pna.ru
 tizwinstigmal.com
+tj-adc.wtzw.com
 tj-cyhg.com
 tj-yijiajing.com
 tj.21ic.com
@@ -122596,6 +122658,7 @@ tjitde.dodo.it
 tjj.com
 tjj162tm55jl2vv5p6mm.cfd
 tjjd83.xyz
+tjjs.wtzw.com
 tjk-njk.com
 tjketwpebirwl.net
 tjkfcnn.cn
@@ -122945,6 +123008,7 @@ tm-gta5-prod.ros.rockstargames.com
 tm-marketing.wolterskluwer.com
 tm-offers.gamingadult.com
 tm.msgs.jp
+tm.sigmob.cn
 tm.swp.de
 tm.tradetracker.net
 tm.urssaf.fr
@@ -130598,6 +130662,7 @@ usphfiona.com
 uspxbdubboprccr.com
 usr-api.1sapp.com
 usr-api.aiclk.com
+usr-api.yunxish.com
 usr.interactiveone.com
 usr.mgid.com
 usrkrz.zdravcity.ru
@@ -131512,6 +131577,7 @@ v2.log.hunantv.com
 v2.oskwai.com
 v2.reachmax.cn
 v2.uyan.cc
+v2.yunxish.com
 v20.cnnd.vn
 v20.events.data.microsoft.com
 v21nv.hushzigzag.ru
@@ -132680,6 +132746,7 @@ videomeetgoogle.com
 videondun.com
 videoplayerhub.com
 videoplaza.tv
+videoproxy.tanx.com
 videopush.baidu.com
 videos.adp.ca
 videos.personneltoday.com
@@ -138382,6 +138449,7 @@ www.ours3care.com
 www.page1monk.com
 www.page9awry.com
 www.pair1tune.com
+www.pangle.cn
 www.pangolin-dsp-toutiao.com
 www.partnermcafee.com
 www.pass-1234.com

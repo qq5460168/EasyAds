@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-07-28 17:21:03
-# 规则总数: 145482
+# 更新时间: 2026-07-28 21:01:20
+# 规则总数: 145550
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -12091,6 +12091,7 @@ domain: ad-admin.vnay.vn, policy: reject
 domain: ad-analysis.pconline.com.cn, policy: reject
 domain: ad-android.51wnl.com, policy: reject
 domain: ad-api-log.colopl.jp, policy: reject
+domain: ad-api.adn-plus.com.cn, policy: reject
 domain: ad-api.cnblogs.com, policy: reject
 domain: ad-api.ehawk.com, policy: reject
 domain: ad-api.gl-inet.com, policy: reject
@@ -12249,6 +12250,7 @@ domain: ad.aucfan.com, policy: reject
 domain: ad.aucview.com, policy: reject
 domain: ad.auditude.com, policy: reject
 domain: ad.autorace.jp, policy: reject
+domain: ad.baihemob.com, policy: reject
 domain: ad.bayescom.com, policy: reject
 domain: ad.bczcdn.com, policy: reject
 domain: ad.beihai365.com, policy: reject
@@ -12595,6 +12597,7 @@ domain: ad.vidverto.io, policy: reject
 domain: ad.vietbao.vn, policy: reject
 domain: ad.virtual-nights.com, policy: reject
 domain: ad.vkool.net, policy: reject
+domain: ad.voiceads.cn, policy: reject
 domain: ad.vryeye.com, policy: reject
 domain: ad.walkgame.com, policy: reject
 domain: ad.wamxb.info, policy: reject
@@ -12610,6 +12613,7 @@ domain: ad.woman.mynavi.jp, policy: reject
 domain: ad.wretch.cc, policy: reject
 domain: ad.wrtn.ai, policy: reject
 domain: ad.wsod.com, policy: reject
+domain: ad.wtzw.com, policy: reject
 domain: ad.wurangxian.top, policy: reject
 domain: ad.wx.com, policy: reject
 domain: ad.wynk.in, policy: reject
@@ -13380,6 +13384,7 @@ domain: adm.phunuvagiadinh.vn, policy: reject
 domain: adm.shinobi.jp, policy: reject
 domain: adm.xmfish.com, policy: reject
 domain: adm.zbinfo.net, policy: reject
+domain: adm.zhangyuyidong.cn, policy: reject
 domain: adm.zookingsoft.com, policy: reject
 domain: adm0.autoimg.cn, policy: reject
 domain: adm1.autoimg.cn, policy: reject
@@ -13827,6 +13832,7 @@ domain: ads-api.twitter.com, policy: reject
 domain: ads-api.videojj.com, policy: reject
 domain: ads-api.videy.co, policy: reject
 domain: ads-api.x.com, policy: reject
+domain: ads-bid.leadmoad.com, policy: reject
 domain: ads-bidder-api.twitter.com, policy: reject
 domain: ads-blocker.app, policy: reject
 domain: ads-blocker.pro, policy: reject
@@ -13853,6 +13859,7 @@ domain: ads-img-bak.xhscdn.com, policy: reject
 domain: ads-img-qc.xhscdn.com, policy: reject
 domain: ads-interfaces.sc-cdn.net, policy: reject
 domain: ads-jp.tiktok.com, policy: reject
+domain: ads-jssdk.vivo.com.cn, policy: reject
 domain: ads-lb.serving-sys.cn, policy: reject
 domain: ads-leaseweb.appsgeyser.com, policy: reject
 domain: ads-marketing-vivofs.vivo.com.cn, policy: reject
@@ -14396,6 +14403,7 @@ domain: adsbanner.game.zing.vn, policy: reject
 domain: adsbar.online, policy: reject
 domain: adsbdfs.heytapimage.com, policy: reject
 domain: adsbetnet.com, policy: reject
+domain: adsbid.leadmoad.com, policy: reject
 domain: adsblockersentinel.info, policy: reject
 domain: adsboosters.xyz, policy: reject
 domain: adsbtrk.com, policy: reject
@@ -14430,6 +14438,7 @@ domain: adsdk.com, policy: reject
 domain: adsdk.dmzj.com, policy: reject
 domain: adsdk.idmzj.com, policy: reject
 domain: adsdk.microsoft.com, policy: reject
+domain: adsdk.richmob.cn, policy: reject
 domain: adsdk.state.duoku.com, policy: reject
 domain: adsdk.vivo.com.cn, policy: reject
 domain: adsdk.whjzjx.cn, policy: reject
@@ -14522,6 +14531,7 @@ domain: adservetx.media.net, policy: reject
 domain: adservice.aiyouaiyou.cn, policy: reject
 domain: adservice.google.cn, policy: reject
 domain: adservice.google.com, policy: reject
+domain: adservice.huawei.com, policy: reject
 domain: adservice.kugou.com, policy: reject
 domain: adservice.sigmob.cn, policy: reject
 domain: adservice.tohsoft.com, policy: reject
@@ -15094,9 +15104,12 @@ domain: adx-api.hupu.com, policy: reject
 domain: adx-api.jinmo.tech, policy: reject
 domain: adx-bj-req.anythinktech.com, policy: reject
 domain: adx-bj.anythinktech.com, policy: reject
+domain: adx-bj.statisticslinks.com, policy: reject
+domain: adx-cfg-u1.ubixioe.com, policy: reject
 domain: adx-cn.ads.vungle.com, policy: reject
 domain: adx-cn.anythinktech.com, policy: reject
 domain: adx-core.youku.com, policy: reject
+domain: adx-data-u1.ubixioe.com, policy: reject
 domain: adx-data.yfanads.com, policy: reject
 domain: adx-drcn.op.dbankcloud.cn, policy: reject
 domain: adx-dre.op.hicloud.com, policy: reject
@@ -15107,6 +15120,7 @@ domain: adx-os.anythinktech.com, policy: reject
 domain: adx-saas.advlion.com, policy: reject
 domain: adx-static.ksosoft.com, policy: reject
 domain: adx-strategy-api-cn.statisticslinks.com, policy: reject
+domain: adx-track.adn-plus.com.cn, policy: reject
 domain: adx-track.domob.cn, policy: reject
 domain: adx.36kr.com, policy: reject
 domain: adx.ads.heytapmobi.com, policy: reject
@@ -15119,16 +15133,19 @@ domain: adx.chinmedia.vn, policy: reject
 domain: adx.chip.de, policy: reject
 domain: adx.dictapis.cn, policy: reject
 domain: adx.dlads.cn, policy: reject
+domain: adx.domobcdn.com, policy: reject
 domain: adx.fulcrum.com.fj, policy: reject
 domain: adx.halomobi.com, policy: reject
 domain: adx.hoanggia.net.vn, policy: reject
 domain: adx.hupu.com, policy: reject
+domain: adx.jd.com, policy: reject
 domain: adx.kat.ph, policy: reject
 domain: adx.mala.cn, policy: reject
 domain: adx.maplehaze.cn, policy: reject
 domain: adx.op.cp18.ott.cibntv.net, policy: reject
 domain: adx.open-adx.com, policy: reject
 domain: adx.opera.com, policy: reject
+domain: adx.oppomobile.com, policy: reject
 domain: adx.pro.cn, policy: reject
 domain: adx.sogaha.cn, policy: reject
 domain: adx.tuia.cn, policy: reject
@@ -18872,6 +18889,7 @@ domain: api-cloudfalcon.hismarttv.com, policy: reject
 domain: api-cn.open.heytapmobi.com, policy: reject
 domain: api-dynhost.hismarttv.com, policy: reject
 domain: api-e189.21cn.com, policy: reject
+domain: api-eas.52qumao.com, policy: reject
 domain: api-exc.hiaiabc.com, policy: reject
 domain: api-exponea.o2.cz, policy: reject
 domain: api-exponea.o2.sk, policy: reject
@@ -18899,6 +18917,7 @@ domain: api-my-api-5hw5ou-b810d8-80-75-218-107.traefik.me, policy: reject
 domain: api-notify.markarch.com, policy: reject
 domain: api-nps.wtzw.com, policy: reject
 domain: api-nxs-v3.mentamob.com, policy: reject
+domain: api-nxs-v4.mentamob.com, policy: reject
 domain: api-p1.yksdks.com, policy: reject
 domain: api-p4.mobsurl.com, policy: reject
 domain: api-p4.yksdks.com, policy: reject
@@ -18929,6 +18948,7 @@ domain: api.ad.logic-prod.viasat.io, policy: reject
 domain: api.ad.logic-test.viasat.io, policy: reject
 domain: api.ad.logic.viasat.io, policy: reject
 domain: api.ad.xiaomi.com, policy: reject
+domain: api.ad.xiaomi.coms, policy: reject
 domain: api.ada-cloud.com, policy: reject
 domain: api.adaether.com, policy: reject
 domain: api.adbility-media.com, policy: reject
@@ -18939,6 +18959,7 @@ domain: api.ads66.com, policy: reject
 domain: api.adserver.jvmai.com, policy: reject
 domain: api.adultsclips.com, policy: reject
 domain: api.adv.ott.cibntv.net, policy: reject
+domain: api.adx.oppomobile.com, policy: reject
 domain: api.adxnow.com, policy: reject
 domain: api.afdback.ppsimg.com, policy: reject
 domain: api.ahjinshu.com, policy: reject
@@ -19152,6 +19173,7 @@ domain: api.valuemedia-ltd.com, policy: reject
 domain: api.verify.mob.com, policy: reject
 domain: api.viglink.com, policy: reject
 domain: api.vip.ptqy.gitv.tv, policy: reject
+domain: api.voiceads.cn, policy: reject
 domain: api.vrumeads.com, policy: reject
 domain: api.waptest.taobao.com, policy: reject
 domain: api.whizeo.com, policy: reject
@@ -19174,6 +19196,7 @@ domain: api.yfanads.com, policy: reject
 domain: api.youngle.tech, policy: reject
 domain: api.youtu.qq.com, policy: reject
 domain: api.youxiaoad.com, policy: reject
+domain: api.yunxish.com, policy: reject
 domain: api.znet.homes, policy: reject
 domain: api.zol.com, policy: reject
 domain: api01pbmp.zhuishushenqi.com, policy: reject
@@ -20400,6 +20423,7 @@ domain: apps.airmeet.com, policy: reject
 domain: apps.ayopop.id, policy: reject
 domain: apps.bannerman.com, policy: reject
 domain: apps.bytesfield-b.com, policy: reject
+domain: apps.bytesfield.com, policy: reject
 domain: apps.circle.com, policy: reject
 domain: apps.crib.in, policy: reject
 domain: apps.daxko-qa.com, policy: reject
@@ -24945,7 +24969,9 @@ domain: bicolorvaccine.shop, policy: reject
 domain: biconcave43.com, policy: reject
 domain: bicp-analytics.postscript.io, policy: reject
 domain: bid-adx.vlion.cn, policy: reject
+domain: bid-adx2.vlion.cn, policy: reject
 domain: bid-algorix.com, policy: reject
+domain: bid.adbiding.com, policy: reject
 domain: bid.glass, policy: reject
 domain: bid.mbidtg.com, policy: reject
 domain: bid.onclcktg.com, policy: reject
@@ -29887,6 +29913,7 @@ domain: cdn.yld.is, policy: reject
 domain: cdn.ynuf.aliapp.org, policy: reject
 domain: cdn.ytihp.com, policy: reject
 domain: cdn.yunliunet.com, policy: reject
+domain: cdn.yunxish.com, policy: reject
 domain: cdn.zampda.net, policy: reject
 domain: cdn.zampdsp.com, policy: reject
 domain: cdn.zamunda.ru, policy: reject
@@ -34340,6 +34367,7 @@ domain: cpays.com, policy: reject
 domain: cpbhizaihjzaa.space, policy: reject
 domain: cpbsdmiolplwp.website, policy: reject
 domain: cpc-service-square.aiclk.com, policy: reject
+domain: cpc-service-square.yunxish.com, policy: reject
 domain: cpc.sogou.com, policy: reject
 domain: cpc.sohu.com, policy: reject
 domain: cpc0392.com, policy: reject
@@ -35132,7 +35160,6 @@ domain: csg-app.com, policy: reject
 domain: csghyg.reginaclinic.jp, policy: reject
 domain: csgkj.com, policy: reject
 domain: csi.gstatic.com, policy: reject
-domain: csjdeveloper.com, policy: reject
 domain: csjdhxlelvqpa.site, policy: reject
 domain: csjggncfpbhnq.space, policy: reject
 domain: csjkb.com, policy: reject
@@ -40350,6 +40377,7 @@ domain: difmxboqpd.com, policy: reject
 domain: difnxm.cn, policy: reject
 domain: difucyvkjayoc.space, policy: reject
 domain: difyferukentaspe.com, policy: reject
+domain: dig-cfg.wtzw.com, policy: reject
 domain: dig.bdurl.net, policy: reject
 domain: dig.lianjia.com, policy: reject
 domain: dig.qbao.com, policy: reject
@@ -46414,6 +46442,7 @@ domain: entreguei.com, policy: reject
 domain: entrepreneurnegativesupportive.com, policy: reject
 domain: entrepreneurs46.com, policy: reject
 domain: entrustfacileproficient.com, policy: reject
+domain: entry-su1.ubixioe.com, policy: reject
 domain: entry.baidu.com, policy: reject
 domain: entry.org, policy: reject
 domain: entryhit.wp.pl, policy: reject
@@ -47356,6 +47385,7 @@ domain: event.clubcorp.com, policy: reject
 domain: event.collector.scopely.io, policy: reject
 domain: event.condenastdigital.com, policy: reject
 domain: event.csdn.net, policy: reject
+domain: event.dashisx.com, policy: reject
 domain: event.dc.oppomobile.com, policy: reject
 domain: event.dengage.com, policy: reject
 domain: event.dfinery.io, policy: reject
@@ -72246,6 +72276,7 @@ domain: lezbrja.cn, policy: reject
 domain: lezntf.heydudeshoesusa.com, policy: reject
 domain: leztc.com, policy: reject
 domain: lf-cdn-tos.bytescm.com, policy: reject
+domain: lf-event-manager.oceanengine.com, policy: reject
 domain: lf-fe.fqnovelstatic.com, policy: reject
 domain: lf-leads-fe-scm.bytecdn.com, policy: reject
 domain: lf-reward-video.bytedcdn.com, policy: reject
@@ -83357,6 +83388,9 @@ domain: mon.domdog.io, policy: reject
 domain: mon.ingservices.nl, policy: reject
 domain: mon.isnssdk.com, policy: reject
 domain: mon.snssdk.com, policy: reject
+domain: mon.toutiao.com, policy: reject
+domain: mon.toutiaocloud.com, policy: reject
+domain: mon.toutiaocloud.net, policy: reject
 domain: mon.us.tiktokv.com, policy: reject
 domain: mon.xtgreat.com, policy: reject
 domain: mon.zijieapi.com, policy: reject
@@ -83406,6 +83440,7 @@ domain: moniter.wb.qq.com, policy: reject
 domain: monitor-ads-test.huan.tv, policy: reject
 domain: monitor-api.blackcrow.ai, policy: reject
 domain: monitor-frontend-collector.a.bybit-aws.com, policy: reject
+domain: monitor-pro.digitalcloudshield.com, policy: reject
 domain: monitor-uu.play.aiseet.atianqi.com, policy: reject
 domain: monitor.ads.8le8le.com, policy: reject
 domain: monitor.adxsenmeng.com, policy: reject
@@ -91685,6 +91720,7 @@ domain: p4-ad.adbkwai.com, policy: reject
 domain: p4-ad.adkwai.com, policy: reject
 domain: p4-ad.adukwai.com, policy: reject
 domain: p4-be-pack-sign.pglstatp-toutiao.com, policy: reject
+domain: p4-lm.adukwai.com, policy: reject
 domain: p4ck-rnate.pack8mint.coupons, policy: reject
 domain: p4dc8ve6i.com, policy: reject
 domain: p4gdt4um6.com, policy: reject
@@ -95702,6 +95738,7 @@ domain: pre-app.soulapp-inc.cn, policy: reject
 domain: pre-cache.video.iqiyi.com, policy: reject
 domain: pre-employmentservices.adp.com, policy: reject
 domain: pre-m.dewu.com, policy: reject
+domain: pre-sdk-config.alibaba-inc.com, policy: reject
 domain: pre.03porno.com, policy: reject
 domain: pre.102porno.club, policy: reject
 domain: pre.102porno.net, policy: reject
@@ -99578,6 +99615,7 @@ domain: qzqdoqqqqicne.website, policy: reject
 domain: qzqfud.casamineira.com.br, policy: reject
 domain: qzruomjczpdzt.store, policy: reject
 domain: qzrwwchruinnx.space, policy: reject
+domain: qzs.gdt.qq.com, policy: reject
 domain: qzs.gdtimg.com, policy: reject
 domain: qzs.qq.com, policy: reject
 domain: qzs43ai3p.com, policy: reject
@@ -99625,6 +99663,7 @@ domain: r.cnews.qq.com, policy: reject
 domain: r.cricbet.co, policy: reject
 domain: r.cvglobal.co, policy: reject
 domain: r.dmp.sina.com.cn, policy: reject
+domain: r.domobcdn.com, policy: reject
 domain: r.flatlong.shop, policy: reject
 domain: r.getcopper-dev.com, policy: reject
 domain: r.getcopper.com, policy: reject
@@ -100312,6 +100351,7 @@ domain: rcv.jesgoo.com, policy: reject
 domain: rcv.mobad.ijinshan.com, policy: reject
 domain: rcv.moogos.com, policy: reject
 domain: rcv.union-wifi.com, policy: reject
+domain: rcv.yunxish.com, policy: reject
 domain: rcvarwsudnwxa.website, policy: reject
 domain: rcvlink.com, policy: reject
 domain: rcvlinks.com, policy: reject
@@ -100344,6 +100384,7 @@ domain: rddiqs.partyhallen.se, policy: reject
 domain: rddopqxcqsrwb.online, policy: reject
 domain: rddsjx.xyz, policy: reject
 domain: rddywd.com, policy: reject
+domain: rdelivery.qq.com, policy: reject
 domain: rderstartirrelea.com, policy: reject
 domain: rdexylsftabnr.store, policy: reject
 domain: rdezqwydewmuu.store, policy: reject
@@ -101308,6 +101349,7 @@ domain: report.nfa.qq.com, policy: reject
 domain: report.pixverse.ai, policy: reject
 domain: report.qq.com, policy: reject
 domain: report.seznamzpravy.cz, policy: reject
+domain: report.shunchangzhixing.com, policy: reject
 domain: report.starshort.online, policy: reject
 domain: report.tencentmusic.com, policy: reject
 domain: report.tv.kohesport.qq.com, policy: reject
@@ -101469,6 +101511,7 @@ domain: reson.jazzm1s8uid.ru, policy: reject
 domain: reson8.com, policy: reject
 domain: resonance.pk, policy: reject
 domain: resort1266.fun, policy: reject
+domain: resource.ad-scope.com.cn, policy: reject
 domain: resource.baomihua.com, policy: reject
 domain: resource.fjhongbo.com, policy: reject
 domain: resources-it.opentext.com, policy: reject
@@ -103598,6 +103641,7 @@ domain: rtbbonline.com, policy: reject
 domain: rtbbpowaq.com, policy: reject
 domain: rtbbtech.com, policy: reject
 domain: rtbbtr.com, policy: reject
+domain: rtbcallback.sigmob.cn, policy: reject
 domain: rtbdem.com, policy: reject
 domain: rtbdemand.com, policy: reject
 domain: rtbfactory.com, policy: reject
@@ -104256,6 +104300,7 @@ domain: s.adroll.com, policy: reject
 domain: s.adsession.com, policy: reject
 domain: s.advantageclicks.net, policy: reject
 domain: s.advertrek.com, policy: reject
+domain: s.adxvip.com, policy: reject
 domain: s.afxwa.com, policy: reject
 domain: s.agava.ru, policy: reject
 domain: s.airgoat.com, policy: reject
@@ -104711,6 +104756,7 @@ domain: s.zlongad.com, policy: reject
 domain: s.zxwdw.com, policy: reject
 domain: s.zzcdn.me, policy: reject
 domain: s0-greate.net, policy: reject
+domain: s01.peplle.cn, policy: reject
 domain: s010.net.jumia.sn, policy: reject
 domain: s02.bestsecret.com, policy: reject
 domain: s03.optimix.asia, policy: reject
@@ -106494,6 +106540,7 @@ domain: sdjxnisnlfuah.website, policy: reject
 domain: sdk-ab-config-cdn.yunxish.com, policy: reject
 domain: sdk-ab-config.aiclk.com, policy: reject
 domain: sdk-ab-config.qquanquan.com, policy: reject
+domain: sdk-ab-config.yunxish.com, policy: reject
 domain: sdk-analytics-web.cloud.itau.com.br, policy: reject
 domain: sdk-api.beizi.biz, policy: reject
 domain: sdk-api.kidoz.net, policy: reject
@@ -106511,6 +106558,7 @@ domain: sdk-log.partner.sm.cn, policy: reject
 domain: sdk-monitoring.ogury.co, policy: reject
 domain: sdk-open-phone.getui.com, policy: reject
 domain: sdk-orion.appboy.com, policy: reject
+domain: sdk-report.1rtb.com, policy: reject
 domain: sdk-services.appsflyer.com, policy: reject
 domain: sdk-track.66mobi.com, policy: reject
 domain: sdk.1rtb.net, policy: reject
@@ -106530,6 +106578,7 @@ domain: sdk.cferw.com, policy: reject
 domain: sdk.cmgame.com, policy: reject
 domain: sdk.conf.igexin.com, policy: reject
 domain: sdk.e.qq.com, policy: reject
+domain: sdk.gdt.qq.com, policy: reject
 domain: sdk.hzsanjiaomao.com, policy: reject
 domain: sdk.inmobi.com, policy: reject
 domain: sdk.kkpromotion.tapque.com, policy: reject
@@ -106550,10 +106599,12 @@ domain: sdk.renrenjihua.com, policy: reject
 domain: sdk.sipujia.cn, policy: reject
 domain: sdk.starbolt.io, policy: reject
 domain: sdk.verification.jiguang.cn, policy: reject
+domain: sdk.zhangyuyidong.cn, policy: reject
 domain: sdk2xr232.top, policy: reject
 domain: sdk4push.com, policy: reject
 domain: sdkapi-prod.dfinery.ai, policy: reject
 domain: sdkapi.cloooud.com, policy: reject
+domain: sdkapi.richmob.cn, policy: reject
 domain: sdkapp.mobile.sina.cn, policy: reject
 domain: sdkapp.uve.weibo.com, policy: reject
 domain: sdkauth.hpplay.cn, policy: reject
@@ -106561,6 +106612,7 @@ domain: sdkc.vervegroupinc.net, policy: reject
 domain: sdkcfg.adintl.cn, policy: reject
 domain: sdkclick.com, policy: reject
 domain: sdkclick.mobile.sina.cn, policy: reject
+domain: sdkconf.adbiding.com, policy: reject
 domain: sdkconf.avlyun.com, policy: reject
 domain: sdkconfig.ad.intl.xiaomi.com, policy: reject
 domain: sdkconfig.ad.xiaomi.com, policy: reject
@@ -106575,6 +106627,7 @@ domain: sdklnlsknvcks.com, policy: reject
 domain: sdklog.adintl.cn, policy: reject
 domain: sdklog.cmgame.com, policy: reject
 domain: sdklog.uu.cc, policy: reject
+domain: sdklog.zhangyuyidong.cn, policy: reject
 domain: sdknext.com, policy: reject
 domain: sdkoptedge.chinanetcenter.com, policy: reject
 domain: sdkpay.uu.cc, policy: reject
@@ -109559,6 +109612,7 @@ domain: skywardjourneys.co, policy: reject
 domain: skzdntgxoseva.online, policy: reject
 domain: skzehzdvtfsqi.site, policy: reject
 domain: sl-h-statistics-ch-1.storeland.ru, policy: reject
+domain: sl.adbiding.com, policy: reject
 domain: sl.hpplay.cn, policy: reject
 domain: sl.trycircle.com, policy: reject
 domain: sl.xawjwl.com, policy: reject
@@ -115279,6 +115333,7 @@ domain: ssp-landing.taptap.cn, policy: reject
 domain: ssp-monitor.adstarcharm.com, policy: reject
 domain: ssp-rtb.sape.ru, policy: reject
 domain: ssp-sdk-config.uc.cn, policy: reject
+domain: ssp-track.adn-plus.com.cn, policy: reject
 domain: ssp.08160.cn, policy: reject
 domain: ssp.1rtb.com, policy: reject
 domain: ssp.21ic.com, policy: reject
@@ -116420,6 +116475,7 @@ domain: static.yieldradius.io, policy: reject
 domain: static.ymidydlesswales.com, policy: reject
 domain: static.youdm.cn, policy: reject
 domain: static.yxh1.cn, policy: reject
+domain: static.yximgs.com, policy: reject
 domain: static.zhihu.com, policy: reject
 domain: static.zongheng.com, policy: reject
 domain: static1.andbeyond.media, policy: reject
@@ -119504,9 +119560,11 @@ domain: t-9.dev-trace-analyzer.coupons, policy: reject
 domain: t-ads.xiaohongshu.com, policy: reject
 domain: t-adx.52qumao.com, policy: reject
 domain: t-ak.hulu.com, policy: reject
+domain: t-cfg.52qumao.com, policy: reject
 domain: t-cfg.wtzw.com, policy: reject
 domain: t-dsp.pinduoduo.com, policy: reject
 domain: t-e.flyme.cn, policy: reject
+domain: t-exc.jiuyue919.com, policy: reject
 domain: t-flow.flyme.cn, policy: reject
 domain: t-l.play.aiseet.atianqi.com, policy: reject
 domain: t-odx.op-mobile.opera.com, policy: reject
@@ -119560,6 +119618,7 @@ domain: t.91syun.com, policy: reject
 domain: t.9gag.com, policy: reject
 domain: t.a3cloud.net, policy: reject
 domain: t.actemra.com, policy: reject
+domain: t.adbiding.com, policy: reject
 domain: t.adbr.io, policy: reject
 domain: t.adbxb.cn, policy: reject
 domain: t.adclr.jp, policy: reject
@@ -120900,6 +120959,7 @@ domain: tarvel.starl1ght.ru, policy: reject
 domain: tarweednasionwacs.cyou, policy: reject
 domain: tasgxk4ia6.com, policy: reject
 domain: tashliknobble.qpon, policy: reject
+domain: task.tanx.com, policy: reject
 domain: taskagepaves.cfd, policy: reject
 domain: taskagetaka.help, policy: reject
 domain: taskskareau.help, policy: reject
@@ -121128,6 +121188,7 @@ domain: tcxshop.com, policy: reject
 domain: tczulp.econea.cz, policy: reject
 domain: tczyt8.cn, policy: reject
 domain: td-log-collect.galsanggame.com, policy: reject
+domain: td-nexus.advlion.com, policy: reject
 domain: td.airdroid.com, policy: reject
 domain: td.doubleclick.net, policy: reject
 domain: td.emails.domain.com.au, policy: reject
@@ -122622,6 +122683,7 @@ domain: tizmanon.com, policy: reject
 domain: tizofvtuqo.com, policy: reject
 domain: tizruk.circu1arc0pna.ru, policy: reject
 domain: tizwinstigmal.com, policy: reject
+domain: tj-adc.wtzw.com, policy: reject
 domain: tj-cyhg.com, policy: reject
 domain: tj-yijiajing.com, policy: reject
 domain: tj.21ic.com, policy: reject
@@ -122653,6 +122715,7 @@ domain: tjitde.dodo.it, policy: reject
 domain: tjj.com, policy: reject
 domain: tjj162tm55jl2vv5p6mm.cfd, policy: reject
 domain: tjjd83.xyz, policy: reject
+domain: tjjs.wtzw.com, policy: reject
 domain: tjk-njk.com, policy: reject
 domain: tjketwpebirwl.net, policy: reject
 domain: tjkfcnn.cn, policy: reject
@@ -123002,6 +123065,7 @@ domain: tm-gta5-prod.ros.rockstargames.com, policy: reject
 domain: tm-marketing.wolterskluwer.com, policy: reject
 domain: tm-offers.gamingadult.com, policy: reject
 domain: tm.msgs.jp, policy: reject
+domain: tm.sigmob.cn, policy: reject
 domain: tm.swp.de, policy: reject
 domain: tm.tradetracker.net, policy: reject
 domain: tm.urssaf.fr, policy: reject
@@ -130655,6 +130719,7 @@ domain: usphfiona.com, policy: reject
 domain: uspxbdubboprccr.com, policy: reject
 domain: usr-api.1sapp.com, policy: reject
 domain: usr-api.aiclk.com, policy: reject
+domain: usr-api.yunxish.com, policy: reject
 domain: usr.interactiveone.com, policy: reject
 domain: usr.mgid.com, policy: reject
 domain: usrkrz.zdravcity.ru, policy: reject
@@ -131570,6 +131635,7 @@ domain: v2.log.hunantv.com, policy: reject
 domain: v2.oskwai.com, policy: reject
 domain: v2.reachmax.cn, policy: reject
 domain: v2.uyan.cc, policy: reject
+domain: v2.yunxish.com, policy: reject
 domain: v20.cnnd.vn, policy: reject
 domain: v20.events.data.microsoft.com, policy: reject
 domain: v21nv.hushzigzag.ru, policy: reject
@@ -132738,6 +132804,7 @@ domain: videomeetgoogle.com, policy: reject
 domain: videondun.com, policy: reject
 domain: videoplayerhub.com, policy: reject
 domain: videoplaza.tv, policy: reject
+domain: videoproxy.tanx.com, policy: reject
 domain: videopush.baidu.com, policy: reject
 domain: videos.adp.ca, policy: reject
 domain: videos.personneltoday.com, policy: reject
@@ -138441,6 +138508,7 @@ domain: www.ours3care.com, policy: reject
 domain: www.page1monk.com, policy: reject
 domain: www.page9awry.com, policy: reject
 domain: www.pair1tune.com, policy: reject
+domain: www.pangle.cn, policy: reject
 domain: www.pangolin-dsp-toutiao.com, policy: reject
 domain: www.partnermcafee.com, policy: reject
 domain: www.pass-1234.com, policy: reject
