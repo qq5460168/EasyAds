@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-07-30 06:21:37
-# 规则总数: 145550
+# 更新时间: 2026-07-30 10:15:26
+# 规则总数: 145555
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -16733,6 +16733,7 @@ allfb8dremsiw09oiabhboolsebt29jhe3setn.com block
 allfeatures.fumblingvacation.pro block
 allfreecounter.com block
 allgoodwasters.shop block
+alliance.jinritemai.com block
 alliancefurs.com block
 alliantdata.actonservice.com block
 allicesoggier.com block
@@ -26720,6 +26721,7 @@ branchtrk.lendingtree.com block
 brand-display.com block
 brand.adp.ca block
 brand.net block
+brand.oceanengine.com block
 brand.sogou.com block
 brand.zing.vn block
 brandads.net block
@@ -82635,6 +82637,7 @@ miuo.cloud block
 mivqer.b2nchikwa5te.ru block
 miwbiqzoluioi.website block
 mix-omniture.rbs.com block
+mix.jinritemai.com block
 mix.kettle-wisp.ru block
 mix.mintdr1ft.ru block
 mixadvert.com block
@@ -103195,6 +103198,7 @@ rta2.newzit.com block
 rta4z4ncsl.com block
 rtactivate.com block
 rtapi.abbi.io block
+rtapplog.snssdk.com block
 rtarbunmsttpihj.xyz block
 rtas.videocc.net block
 rtau9pif4.com block
@@ -103697,6 +103701,7 @@ rtkndlpcwprqp.online block
 rtlfqocrotlhz.website block
 rtlog.byteoversea.com block
 rtlog.isnssdk.com block
+rtlog.snssdk.com block
 rtlog.tiktokv.com block
 rtlog.vidown.cn block
 rtlog.zijieapi.com block

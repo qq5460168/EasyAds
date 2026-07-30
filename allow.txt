@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-07-30 14:21:37
-! 有效规则数量: 3982 条
+! 规则更新时间: 2026-07-30 18:15:27
+! 有效规则数量: 3984 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
+@@||themoviedb.org/assets/
 @@||iqiyi.com/static/js/adfe.5aa3302c.js
 @@||qhres2.com^$domain=www.n.cn
 @@||x2.ifengimg.com^
@@ -3002,8 +3003,6 @@
 @@||api.coolapk.com^
 @@||umengjmacs.m.taobao.com^
 @@||www.bqgyy.com^
-@@||log-api.pangolin-sdk-toutiao-b.com^
-@@||log-api.pangolin-sdk-toutiao.com^
 @@||mssdk3-normal-lf.zijieapi.com^
 @@||app.toutiao.com^
 @@||lf3-short.ibytedapm.com^
@@ -3035,7 +3034,7 @@
 @@||p*-ecom-fe.byteimg.com^
 @@||p*-ecop-imagex.byteimg.com^
 @@||p*-im.byteimg.com^
-@@||p9-dy.byteimg.com
+@@||p9-dy.byteimg.com^
 @@||p6-dy-ipv6.byteimg.com^
 @@||p3-notice.byteimg.com^
 @@||f-cpay.snssdk.com^
@@ -3063,6 +3062,9 @@
 @@||ad-log-upload.mihoyo.com^
 @@||v*.kwaicdn.com^
 @@||develope-oss.lanzoug.com^
+@@||log-api.pangolin-sdk-toutiao-b.com^
+@@||log-api.pangolin-sdk-toutiao.com^
+@@||p9-dy.byteimg.com
 @@||img.zbt.com*/market-$script
 @@||apm.zhihu.com^
 @@||app.zhuanzhuan.com^$important

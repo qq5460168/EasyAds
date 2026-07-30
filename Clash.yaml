@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-07-30 06:21:36
-# 规则总数: 145550
+# 更新时间: 2026-07-30 10:15:25
+# 规则总数: 145555
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -16734,6 +16734,7 @@ payload:
   - 'allfeatures.fumblingvacation.pro'
   - 'allfreecounter.com'
   - 'allgoodwasters.shop'
+  - 'alliance.jinritemai.com'
   - 'alliancefurs.com'
   - 'alliantdata.actonservice.com'
   - 'allicesoggier.com'
@@ -26721,6 +26722,7 @@ payload:
   - 'brand-display.com'
   - 'brand.adp.ca'
   - 'brand.net'
+  - 'brand.oceanengine.com'
   - 'brand.sogou.com'
   - 'brand.zing.vn'
   - 'brandads.net'
@@ -82636,6 +82638,7 @@ payload:
   - 'mivqer.b2nchikwa5te.ru'
   - 'miwbiqzoluioi.website'
   - 'mix-omniture.rbs.com'
+  - 'mix.jinritemai.com'
   - 'mix.kettle-wisp.ru'
   - 'mix.mintdr1ft.ru'
   - 'mixadvert.com'
@@ -103196,6 +103199,7 @@ payload:
   - 'rta4z4ncsl.com'
   - 'rtactivate.com'
   - 'rtapi.abbi.io'
+  - 'rtapplog.snssdk.com'
   - 'rtarbunmsttpihj.xyz'
   - 'rtas.videocc.net'
   - 'rtau9pif4.com'
@@ -103698,6 +103702,7 @@ payload:
   - 'rtlfqocrotlhz.website'
   - 'rtlog.byteoversea.com'
   - 'rtlog.isnssdk.com'
+  - 'rtlog.snssdk.com'
   - 'rtlog.tiktokv.com'
   - 'rtlog.vidown.cn'
   - 'rtlog.zijieapi.com'

@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-07-30 06:21:37
-# 规则总数: 145550
+# 更新时间: 2026-07-30 10:15:26
+# 规则总数: 145555
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -16733,6 +16733,7 @@ domain: allfb8dremsiw09oiabhboolsebt29jhe3setn.com, policy: reject
 domain: allfeatures.fumblingvacation.pro, policy: reject
 domain: allfreecounter.com, policy: reject
 domain: allgoodwasters.shop, policy: reject
+domain: alliance.jinritemai.com, policy: reject
 domain: alliancefurs.com, policy: reject
 domain: alliantdata.actonservice.com, policy: reject
 domain: allicesoggier.com, policy: reject
@@ -26720,6 +26721,7 @@ domain: branchtrk.lendingtree.com, policy: reject
 domain: brand-display.com, policy: reject
 domain: brand.adp.ca, policy: reject
 domain: brand.net, policy: reject
+domain: brand.oceanengine.com, policy: reject
 domain: brand.sogou.com, policy: reject
 domain: brand.zing.vn, policy: reject
 domain: brandads.net, policy: reject
@@ -82635,6 +82637,7 @@ domain: miuo.cloud, policy: reject
 domain: mivqer.b2nchikwa5te.ru, policy: reject
 domain: miwbiqzoluioi.website, policy: reject
 domain: mix-omniture.rbs.com, policy: reject
+domain: mix.jinritemai.com, policy: reject
 domain: mix.kettle-wisp.ru, policy: reject
 domain: mix.mintdr1ft.ru, policy: reject
 domain: mixadvert.com, policy: reject
@@ -103195,6 +103198,7 @@ domain: rta2.newzit.com, policy: reject
 domain: rta4z4ncsl.com, policy: reject
 domain: rtactivate.com, policy: reject
 domain: rtapi.abbi.io, policy: reject
+domain: rtapplog.snssdk.com, policy: reject
 domain: rtarbunmsttpihj.xyz, policy: reject
 domain: rtas.videocc.net, policy: reject
 domain: rtau9pif4.com, policy: reject
@@ -103697,6 +103701,7 @@ domain: rtkndlpcwprqp.online, policy: reject
 domain: rtlfqocrotlhz.website, policy: reject
 domain: rtlog.byteoversea.com, policy: reject
 domain: rtlog.isnssdk.com, policy: reject
+domain: rtlog.snssdk.com, policy: reject
 domain: rtlog.tiktokv.com, policy: reject
 domain: rtlog.vidown.cn, policy: reject
 domain: rtlog.zijieapi.com, policy: reject

@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-07-30 06:21:37
-# 规则总数: 145550
+# 更新时间: 2026-07-30 10:15:26
+# 规则总数: 145555
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -16733,6 +16733,7 @@
 0.0.0.0 allfeatures.fumblingvacation.pro
 0.0.0.0 allfreecounter.com
 0.0.0.0 allgoodwasters.shop
+0.0.0.0 alliance.jinritemai.com
 0.0.0.0 alliancefurs.com
 0.0.0.0 alliantdata.actonservice.com
 0.0.0.0 allicesoggier.com
@@ -26720,6 +26721,7 @@
 0.0.0.0 brand-display.com
 0.0.0.0 brand.adp.ca
 0.0.0.0 brand.net
+0.0.0.0 brand.oceanengine.com
 0.0.0.0 brand.sogou.com
 0.0.0.0 brand.zing.vn
 0.0.0.0 brandads.net
@@ -82635,6 +82637,7 @@
 0.0.0.0 mivqer.b2nchikwa5te.ru
 0.0.0.0 miwbiqzoluioi.website
 0.0.0.0 mix-omniture.rbs.com
+0.0.0.0 mix.jinritemai.com
 0.0.0.0 mix.kettle-wisp.ru
 0.0.0.0 mix.mintdr1ft.ru
 0.0.0.0 mixadvert.com
@@ -103195,6 +103198,7 @@
 0.0.0.0 rta4z4ncsl.com
 0.0.0.0 rtactivate.com
 0.0.0.0 rtapi.abbi.io
+0.0.0.0 rtapplog.snssdk.com
 0.0.0.0 rtarbunmsttpihj.xyz
 0.0.0.0 rtas.videocc.net
 0.0.0.0 rtau9pif4.com
@@ -103697,6 +103701,7 @@
 0.0.0.0 rtlfqocrotlhz.website
 0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 rtlog.isnssdk.com
+0.0.0.0 rtlog.snssdk.com
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 rtlog.vidown.cn
 0.0.0.0 rtlog.zijieapi.com

@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-07-30 14:21:35
-# 规则统计: 总计145488条 (IP:146 DOMAIN:0 SUFFIX:145342 KEYWORD:0)
+# 更新时间(北京时间): 2026-07-30 18:15:24
+# 规则统计: 总计145493条 (IP:146 DOMAIN:0 SUFFIX:145347 KEYWORD:0)
 
 # IP规则
 IP-CIDR,10.130.208.223,REJECT,no-resolve
@@ -16724,6 +16724,7 @@ DOMAIN-SUFFIX,allfb8dremsiw09oiabhboolsebt29jhe3setn.com,REJECT
 DOMAIN-SUFFIX,allfeatures.fumblingvacation.pro,REJECT
 DOMAIN-SUFFIX,allfreecounter.com,REJECT
 DOMAIN-SUFFIX,allgoodwasters.shop,REJECT
+DOMAIN-SUFFIX,alliance.jinritemai.com,REJECT
 DOMAIN-SUFFIX,alliancefurs.com,REJECT
 DOMAIN-SUFFIX,alliantdata.actonservice.com,REJECT
 DOMAIN-SUFFIX,allicesoggier.com,REJECT
@@ -26708,6 +26709,7 @@ DOMAIN-SUFFIX,branchtrk.lendingtree.com,REJECT
 DOMAIN-SUFFIX,brand-display.com,REJECT
 DOMAIN-SUFFIX,brand.adp.ca,REJECT
 DOMAIN-SUFFIX,brand.net,REJECT
+DOMAIN-SUFFIX,brand.oceanengine.com,REJECT
 DOMAIN-SUFFIX,brand.sogou.com,REJECT
 DOMAIN-SUFFIX,brand.zing.vn,REJECT
 DOMAIN-SUFFIX,brandads.net,REJECT
@@ -82592,6 +82594,7 @@ DOMAIN-SUFFIX,miuo.cloud,REJECT
 DOMAIN-SUFFIX,mivqer.b2nchikwa5te.ru,REJECT
 DOMAIN-SUFFIX,miwbiqzoluioi.website,REJECT
 DOMAIN-SUFFIX,mix-omniture.rbs.com,REJECT
+DOMAIN-SUFFIX,mix.jinritemai.com,REJECT
 DOMAIN-SUFFIX,mix.kettle-wisp.ru,REJECT
 DOMAIN-SUFFIX,mix.mintdr1ft.ru,REJECT
 DOMAIN-SUFFIX,mixadvert.com,REJECT
@@ -103145,6 +103148,7 @@ DOMAIN-SUFFIX,rta2.newzit.com,REJECT
 DOMAIN-SUFFIX,rta4z4ncsl.com,REJECT
 DOMAIN-SUFFIX,rtactivate.com,REJECT
 DOMAIN-SUFFIX,rtapi.abbi.io,REJECT
+DOMAIN-SUFFIX,rtapplog.snssdk.com,REJECT
 DOMAIN-SUFFIX,rtarbunmsttpihj.xyz,REJECT
 DOMAIN-SUFFIX,rtas.videocc.net,REJECT
 DOMAIN-SUFFIX,rtau9pif4.com,REJECT
@@ -103647,6 +103651,7 @@ DOMAIN-SUFFIX,rtkndlpcwprqp.online,REJECT
 DOMAIN-SUFFIX,rtlfqocrotlhz.website,REJECT
 DOMAIN-SUFFIX,rtlog.byteoversea.com,REJECT
 DOMAIN-SUFFIX,rtlog.isnssdk.com,REJECT
+DOMAIN-SUFFIX,rtlog.snssdk.com,REJECT
 DOMAIN-SUFFIX,rtlog.tiktokv.com,REJECT
 DOMAIN-SUFFIX,rtlog.vidown.cn,REJECT
 DOMAIN-SUFFIX,rtlog.zijieapi.com,REJECT

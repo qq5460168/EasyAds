@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-07-30 14:21:37
-! 有效规则数量: 156230 条
+! 规则更新时间: 2026-07-30 18:15:27
+! 有效规则数量: 156237 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -152010,6 +152010,26 @@
 ||v2.yunxish.com^
 ||sf6-fe-tos.pglstatp-toutiao.com^
 ||lf-event-manager.oceanengine.com^
+||apps.bytesfield.com^
+||www.pangle.cn^
+||rtlog.zijieapi.com^
+||mon.toutiao.com^
+||mon.toutiaocloud.com^
+||mon.toutiaocloud.net^
+||rtapplog.snssdk.com^
+||rtlog.snssdk.com^
+||crash.snssdk.com^
+||brand.oceanengine.com^
+||ecombdpage.com^
+||alliance.jinritemai.com^
+||mix.jinritemai.com^
+||jinritemai.com^
+||chengzijianzhana.com^
+||chengzijianzhanb.com^
+||chengzijianzhan.cn^
+||chengzijianzhan.net^
+||ugditui.cn^
+||minigame.zijieapi.com^
 ||p4-lm.adukwai.com^
 ||rdelivery.qq.com^
 ||bid-adx2.vlion.cn^
@@ -152042,17 +152062,6 @@
 ||adx-cfg-u1.ubixioe.com^
 ||adx-data-u1.ubixioe.com^
 ||s.adxvip.com^
-||rtlog.zijieapi.com^
-||mon.toutiao.com^
-||mon.toutiaocloud.com^
-||mon.toutiaocloud.net^
-||crash.snssdk.com^
-||ecombdpage.com^
-||jinritemai.com^
-||chengzijianzhana.com^
-||chengzijianzhanb.com^
-||chengzijianzhan.cn^
-||chengzijianzhan.net^
 ||neihanshequ.com^
 ||youdianyisi.com^
 ||amemv.com^
@@ -152062,14 +152071,10 @@
 ||awemeugsoul.com^
 ||luckysf.net^
 ||iluckysf.net^
-||ugditui.cn^
-||minigame.zijieapi.com^
 ||task.tanx.com^
 ||videoproxy.tanx.com^
 ||pre-sdk-config.alibaba-inc.com^
 ||static.yximgs.com^
-||apps.bytesfield.com^
-||www.pangle.cn^
 ||s01.peplle.cn^
 ||adx-bj.statisticslinks.com^
 ||t-cfg.52qumao.com^
@@ -152090,7 +152095,6 @@
 ||api.voiceads.cn^
 ||adx.jd.com^
 ||hot.browser.miui.com^
-||googleads.g.doubleclick.nes^
 ||ads.lingyuexiu.cn^
 ||adscfg.togothermany.cn^
 ||sdk-infra.inmobi.cn^
@@ -152121,7 +152125,6 @@
 ||adserver.html.it^
 ||adserv.ontek.com.tr^
 ||opencdnpddvod2.jomodns.com^
-||o2o-ad-dev.oss-cn-shanghai.aliyuncs.com^、
 ||share.jileme.net^
 ||ads-video-1251524319.cos.ap-shanghai.myqcloud.com^
 ||adsmind.gdtimg.com.svideolego-dk.sched.dcloudstc.com^
@@ -152164,6 +152167,8 @@
 ||o.iads.unity3d.com^
 ||ads.ubestkid.com^
 ||ads.lejuliang.cn^
+||googleads.g.doubleclick.nes^
+||o2o-ad-dev.oss-cn-shanghai.aliyuncs.com^、
 ||vs1.szcu.u3.ucweb.com^
 ||vs2.bjct.u3.ucweb.com^
 ||vs2.bjct.u3.ucweb.com^$important
@@ -152212,46 +152217,47 @@
 ||auai2951.xn--oor702fa592u.com^$important
 ||2708tc.cw060d.com^$important
 ||002d91b34425d7227wt.1yvcx5.com^$important
-140.82.113.25                 alive.github.com
+140.82.112.26                 alive.github.com
 20.205.243.168                api.github.com
-140.82.112.22                 api.individual.githubcopilot.com
-185.199.108.133               avatars.githubusercontent.com
-185.199.108.133               avatars0.githubusercontent.com
-185.199.108.133               avatars1.githubusercontent.com
-185.199.108.133               avatars2.githubusercontent.com
-185.199.108.133               avatars3.githubusercontent.com
-185.199.108.133               avatars4.githubusercontent.com
-185.199.108.133               avatars5.githubusercontent.com
-185.199.108.133               camo.githubusercontent.com
+140.82.114.21                 api.individual.githubcopilot.com
+185.199.111.133               avatars.githubusercontent.com
+185.199.111.133               avatars0.githubusercontent.com
+185.199.111.133               avatars1.githubusercontent.com
+185.199.111.133               avatars2.githubusercontent.com
+185.199.111.133               avatars3.githubusercontent.com
+185.199.111.133               avatars4.githubusercontent.com
+185.199.111.133               avatars5.githubusercontent.com
+185.199.111.133               camo.githubusercontent.com
 140.82.114.21                 central.github.com
-185.199.108.133               cloud.githubusercontent.com
+185.199.111.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.112.22                 collector.github.com
-185.199.108.133               desktop.githubusercontent.com
-185.199.108.133               favicons.githubusercontent.com
-59.24.3.173                   gist.github.com  # Timeout
-16.15.191.100                 github-cloud.s3.amazonaws.com
-16.15.213.190                 github-com.s3.amazonaws.com
-54.231.136.49                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.129.49                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.236.51                  github-production-user-asset-6210df.s3.amazonaws.com
+140.82.114.21                 collector.github.com
+185.199.111.133               desktop.githubusercontent.com
+185.199.111.133               favicons.githubusercontent.com
+46.82.174.68                  gist.github.com  # Timeout
+54.231.228.217                github-cloud.s3.amazonaws.com
+16.15.212.232                 github-com.s3.amazonaws.com
+16.182.68.81                  github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.199.153                github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.212.223                 github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.114.17                 github.community
+140.82.112.18                 github.community
 185.199.109.215               github.githubassets.com
-128.242.250.155               github.global.ssl.fastly.net  # Timeout
+128.242.245.157               github.global.ssl.fastly.net  # Timeout
 185.199.111.153               github.io
-185.199.108.133               github.map.fastly.net
+185.199.111.133               github.map.fastly.net
 185.199.111.153               githubstatus.com
-140.82.112.26                 live.github.com
-185.199.108.133               media.githubusercontent.com
-185.199.108.133               objects.githubusercontent.com
+140.82.112.25                 live.github.com
+185.199.111.133               media.githubusercontent.com
+185.199.111.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.108.133               raw.githubusercontent.com
-185.199.108.133               user-images.githubusercontent.com
-150.171.110.103               vscode.dev
-140.82.114.21                 education.github.com
-185.199.108.133               private-user-images.githubusercontent.com
+185.199.111.133               raw.githubusercontent.com
+185.199.111.133               user-images.githubusercontent.com
+150.171.110.104               vscode.dev
+140.82.114.22                 education.github.com
+185.199.111.133               private-user-images.githubusercontent.com
+@@||themoviedb.org/assets/
 @@||iqiyi.com/static/js/adfe.5aa3302c.js
 @@||qhres2.com^$domain=www.n.cn
 @@||x2.ifengimg.com^
@@ -155250,8 +155256,6 @@
 @@||api.coolapk.com^
 @@||umengjmacs.m.taobao.com^
 @@||www.bqgyy.com^
-@@||log-api.pangolin-sdk-toutiao-b.com^
-@@||log-api.pangolin-sdk-toutiao.com^
 @@||mssdk3-normal-lf.zijieapi.com^
 @@||app.toutiao.com^
 @@||lf3-short.ibytedapm.com^
@@ -155283,7 +155287,7 @@
 @@||p*-ecom-fe.byteimg.com^
 @@||p*-ecop-imagex.byteimg.com^
 @@||p*-im.byteimg.com^
-@@||p9-dy.byteimg.com
+@@||p9-dy.byteimg.com^
 @@||p6-dy-ipv6.byteimg.com^
 @@||p3-notice.byteimg.com^
 @@||f-cpay.snssdk.com^
@@ -155311,6 +155315,9 @@
 @@||ad-log-upload.mihoyo.com^
 @@||v*.kwaicdn.com^
 @@||develope-oss.lanzoug.com^
+@@||log-api.pangolin-sdk-toutiao-b.com^
+@@||log-api.pangolin-sdk-toutiao.com^
+@@||p9-dy.byteimg.com
 @@||img.zbt.com*/market-$script
 @@||apm.zhihu.com^
 @@||app.zhuanzhuan.com^$important
