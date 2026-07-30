@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-07-30 13:41:16（北京时间）
-# 共 145491 个域名
+# 生成时间: 2026-07-30 17:18:24（北京时间）
+# 共 145486 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -2736,7 +2736,6 @@
 365bibi.com
 365dmp.com
 365safego.com
-365yg.com
 3661193.notify6.com
 3662557.notifysrv.com
 3662593.notifysrv.com
@@ -17047,7 +17046,6 @@ ameedrice.help
 amelandpunter.cfd
 amelatrina.com
 amellusslangs.cfd
-amemv.com
 amendmentbutterfly.com
 amendmentinsistdevotion.com
 amendmentlakeinterim.com
@@ -60560,7 +60558,6 @@ huodong.pl.youku.com
 huodong.vip.youku.com
 huohuo.huamuwo.com
 huoju.asia
-huoshanzhibo.com
 hupot.site
 huppothelderly.rest
 huqkbq.misterrunning.com
@@ -85684,7 +85681,6 @@ neighboringyellow.com
 neighbourlyrepress.com
 neighrewarn.click
 neihang.me
-neihanshequ.com
 neihhou.com
 neilhoticapwz.space
 neioaxtgggz.com
@@ -142797,7 +142793,6 @@ youate.co
 youborafds01.com
 youboranqs01.com
 youbuce.lol
-youdianyisi.com
 youfine.lol
 youfumei.com
 yougetwhatyoupayfor.net

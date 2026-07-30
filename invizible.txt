@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-07-30 13:41:19
-# 规则总数: 145555
+# 更新时间: 2026-07-30 17:18:27
+# 规则总数: 145550
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -2742,7 +2742,6 @@
 365bibi.com block
 365dmp.com block
 365safego.com block
-365yg.com block
 3661193.notify6.com block
 3662557.notifysrv.com block
 3662593.notifysrv.com block
@@ -17067,7 +17066,6 @@ ameedrice.help block
 amelandpunter.cfd block
 amelatrina.com block
 amellusslangs.cfd block
-amemv.com block
 amendmentbutterfly.com block
 amendmentinsistdevotion.com block
 amendmentlakeinterim.com block
@@ -60591,7 +60589,6 @@ huodong.pl.youku.com block
 huodong.vip.youku.com block
 huohuo.huamuwo.com block
 huoju.asia block
-huoshanzhibo.com block
 hupot.site block
 huppothelderly.rest block
 huqkbq.misterrunning.com block
@@ -85732,7 +85729,6 @@ neighboringyellow.com block
 neighbourlyrepress.com block
 neighrewarn.click block
 neihang.me block
-neihanshequ.com block
 neihhou.com block
 neilhoticapwz.space block
 neioaxtgggz.com block
@@ -142860,7 +142856,6 @@ youate.co block
 youborafds01.com block
 youboranqs01.com block
 youbuce.lol block
-youdianyisi.com block
 youfine.lol block
 youfumei.com block
 yougetwhatyoupayfor.net block

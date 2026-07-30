@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-07-30 13:41:19
-# 规则总数: 145555
+# 更新时间: 2026-07-30 17:18:27
+# 规则总数: 145550
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -2742,7 +2742,6 @@ domain: 3658888.com, policy: reject
 domain: 365bibi.com, policy: reject
 domain: 365dmp.com, policy: reject
 domain: 365safego.com, policy: reject
-domain: 365yg.com, policy: reject
 domain: 3661193.notify6.com, policy: reject
 domain: 3662557.notifysrv.com, policy: reject
 domain: 3662593.notifysrv.com, policy: reject
@@ -17067,7 +17066,6 @@ domain: ameedrice.help, policy: reject
 domain: amelandpunter.cfd, policy: reject
 domain: amelatrina.com, policy: reject
 domain: amellusslangs.cfd, policy: reject
-domain: amemv.com, policy: reject
 domain: amendmentbutterfly.com, policy: reject
 domain: amendmentinsistdevotion.com, policy: reject
 domain: amendmentlakeinterim.com, policy: reject
@@ -60591,7 +60589,6 @@ domain: huodong.pl.youku.com, policy: reject
 domain: huodong.vip.youku.com, policy: reject
 domain: huohuo.huamuwo.com, policy: reject
 domain: huoju.asia, policy: reject
-domain: huoshanzhibo.com, policy: reject
 domain: hupot.site, policy: reject
 domain: huppothelderly.rest, policy: reject
 domain: huqkbq.misterrunning.com, policy: reject
@@ -85732,7 +85729,6 @@ domain: neighboringyellow.com, policy: reject
 domain: neighbourlyrepress.com, policy: reject
 domain: neighrewarn.click, policy: reject
 domain: neihang.me, policy: reject
-domain: neihanshequ.com, policy: reject
 domain: neihhou.com, policy: reject
 domain: neilhoticapwz.space, policy: reject
 domain: neioaxtgggz.com, policy: reject
@@ -142860,7 +142856,6 @@ domain: youate.co, policy: reject
 domain: youborafds01.com, policy: reject
 domain: youboranqs01.com, policy: reject
 domain: youbuce.lol, policy: reject
-domain: youdianyisi.com, policy: reject
 domain: youfine.lol, policy: reject
 domain: youfumei.com, policy: reject
 domain: yougetwhatyoupayfor.net, policy: reject

@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-07-30 13:41:16.363997
+# Generated on 2026-07-30 17:18:24.182783
 
 ||aizhantj.com^
 ||lxrjekw.com^
@@ -145409,11 +145409,6 @@
 ||adx-cfg-u1.ubixioe.com^
 ||adx-data-u1.ubixioe.com^
 ||s.adxvip.com^
-||neihanshequ.com^
-||youdianyisi.com^
-||amemv.com^
-||365yg.com^
-||huoshanzhibo.com^
 ||awemeughun.com^
 ||awemeugsoul.com^
 ||luckysf.net^

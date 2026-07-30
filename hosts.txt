@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-07-30 13:41:19
-# 规则总数: 145555
+# 更新时间: 2026-07-30 17:18:27
+# 规则总数: 145550
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -2742,7 +2742,6 @@
 0.0.0.0 365bibi.com
 0.0.0.0 365dmp.com
 0.0.0.0 365safego.com
-0.0.0.0 365yg.com
 0.0.0.0 3661193.notify6.com
 0.0.0.0 3662557.notifysrv.com
 0.0.0.0 3662593.notifysrv.com
@@ -17067,7 +17066,6 @@
 0.0.0.0 amelandpunter.cfd
 0.0.0.0 amelatrina.com
 0.0.0.0 amellusslangs.cfd
-0.0.0.0 amemv.com
 0.0.0.0 amendmentbutterfly.com
 0.0.0.0 amendmentinsistdevotion.com
 0.0.0.0 amendmentlakeinterim.com
@@ -60591,7 +60589,6 @@
 0.0.0.0 huodong.vip.youku.com
 0.0.0.0 huohuo.huamuwo.com
 0.0.0.0 huoju.asia
-0.0.0.0 huoshanzhibo.com
 0.0.0.0 hupot.site
 0.0.0.0 huppothelderly.rest
 0.0.0.0 huqkbq.misterrunning.com
@@ -85732,7 +85729,6 @@
 0.0.0.0 neighbourlyrepress.com
 0.0.0.0 neighrewarn.click
 0.0.0.0 neihang.me
-0.0.0.0 neihanshequ.com
 0.0.0.0 neihhou.com
 0.0.0.0 neilhoticapwz.space
 0.0.0.0 neioaxtgggz.com
@@ -142860,7 +142856,6 @@
 0.0.0.0 youborafds01.com
 0.0.0.0 youboranqs01.com
 0.0.0.0 youbuce.lol
-0.0.0.0 youdianyisi.com
 0.0.0.0 youfine.lol
 0.0.0.0 youfumei.com
 0.0.0.0 yougetwhatyoupayfor.net

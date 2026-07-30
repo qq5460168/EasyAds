@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-07-30 13:41:18
-# 规则总数: 145555
+# 更新时间: 2026-07-30 17:18:27
+# 规则总数: 145550
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -2743,7 +2743,6 @@ payload:
   - '365bibi.com'
   - '365dmp.com'
   - '365safego.com'
-  - '365yg.com'
   - '3661193.notify6.com'
   - '3662557.notifysrv.com'
   - '3662593.notifysrv.com'
@@ -17068,7 +17067,6 @@ payload:
   - 'amelandpunter.cfd'
   - 'amelatrina.com'
   - 'amellusslangs.cfd'
-  - 'amemv.com'
   - 'amendmentbutterfly.com'
   - 'amendmentinsistdevotion.com'
   - 'amendmentlakeinterim.com'
@@ -60592,7 +60590,6 @@ payload:
   - 'huodong.vip.youku.com'
   - 'huohuo.huamuwo.com'
   - 'huoju.asia'
-  - 'huoshanzhibo.com'
   - 'hupot.site'
   - 'huppothelderly.rest'
   - 'huqkbq.misterrunning.com'
@@ -85733,7 +85730,6 @@ payload:
   - 'neighbourlyrepress.com'
   - 'neighrewarn.click'
   - 'neihang.me'
-  - 'neihanshequ.com'
   - 'neihhou.com'
   - 'neilhoticapwz.space'
   - 'neioaxtgggz.com'
@@ -142861,7 +142857,6 @@ payload:
   - 'youborafds01.com'
   - 'youboranqs01.com'
   - 'youbuce.lol'
-  - 'youdianyisi.com'
   - 'youfine.lol'
   - 'youfumei.com'
   - 'yougetwhatyoupayfor.net'
