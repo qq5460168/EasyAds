@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-08-02 09:51:01.139312
+# Generated on 2026-08-02 13:03:40.482544
 
 ||aizhantj.com^
 ||lxrjekw.com^
@@ -16114,7 +16114,6 @@
 ||i.snssdk.com^
 ||is.snssdk.com^
 ||sf3-ttcdn-tos.pstatp.com^
-||snssdk.com^
 ||novel.pangolin-sdk-toutiao.com^
 ||dsp-api-cn.metricslinks.com^
 ||mores.anythinktech.com^

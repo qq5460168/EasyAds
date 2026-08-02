@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-08-02 09:51:05
-# 规则总数: 145550
+# 更新时间: 2026-08-02 13:03:43
+# 规则总数: 145549
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -113276,7 +113276,6 @@ snr4.canalplus.com block
 sns-paopao.iqiyi.com block
 sns2.secureforms.mcafee.com block
 snsfdmmzpixhn.site block
-snssdk.com block
 snssdk.gatedata.org block
 snsv.ru block
 sntcbhv.com block

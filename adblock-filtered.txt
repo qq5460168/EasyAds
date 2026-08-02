@@ -16111,7 +16111,6 @@
 ||i.snssdk.com^
 ||is.snssdk.com^
 ||sf3-ttcdn-tos.pstatp.com^
-||snssdk.com^
 ||novel.pangolin-sdk-toutiao.com^
 ||dsp-api-cn.metricslinks.com^
 ||mores.anythinktech.com^
