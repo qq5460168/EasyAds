@@ -145282,7 +145282,7 @@ DOMAIN,cdn.yunxish.com,reject
 DOMAIN,v2.yunxish.com,reject
 DOMAIN,sf6-fe-tos.pglstatp-toutiao.com,reject
 DOMAIN,lf-event-manager.oceanengine.com,reject
-DOMAIN,apps.bytesfield.com,reject
+DOMAIN,scc.bytedance.com,rejectDOMAIN,apps.bytesfield.com,reject
 DOMAIN,www.pangle.cn,reject
 DOMAIN,rtlog.zijieapi.com,reject
 DOMAIN,mon.toutiao.com,reject
@@ -145292,10 +145292,8 @@ DOMAIN,rtapplog.snssdk.com,reject
 DOMAIN,rtlog.snssdk.com,reject
 DOMAIN,crash.snssdk.com,reject
 DOMAIN,brand.oceanengine.com,reject
-DOMAIN,ecombdpage.com,reject
 DOMAIN,alliance.jinritemai.com,reject
 DOMAIN,mix.jinritemai.com,reject
-DOMAIN,jinritemai.com,reject
 DOMAIN,chengzijianzhana.com,reject
 DOMAIN,chengzijianzhanb.com,reject
 DOMAIN,chengzijianzhan.cn,reject
@@ -145333,6 +145331,8 @@ DOMAIN,entry-su1.ubixioe.com,reject
 DOMAIN,adx-cfg-u1.ubixioe.com,reject
 DOMAIN,adx-data-u1.ubixioe.com,reject
 DOMAIN,s.adxvip.com,reject
+DOMAIN,ecombdpage.com,reject
+DOMAIN,jinritemai.com,reject
 DOMAIN,awemeughun.com,reject
 DOMAIN,awemeugsoul.com,reject
 DOMAIN,luckysf.net,reject
@@ -145341,6 +145341,7 @@ DOMAIN,task.tanx.com,reject
 DOMAIN,videoproxy.tanx.com,reject
 DOMAIN,pre-sdk-config.alibaba-inc.com,reject
 DOMAIN,static.yximgs.com,reject
+DOMAIN,apps.bytesfield.com,reject
 DOMAIN,s01.peplle.cn,reject
 DOMAIN,adx-bj.statisticslinks.com,reject
 DOMAIN,t-cfg.52qumao.com,reject

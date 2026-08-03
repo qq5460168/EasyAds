@@ -145353,7 +145353,7 @@
 ||v2.yunxish.com^
 ||sf6-fe-tos.pglstatp-toutiao.com^
 ||lf-event-manager.oceanengine.com^
-||apps.bytesfield.com^
+||scc.bytedance.com^||apps.bytesfield.com^
 ||www.pangle.cn^
 ||rtlog.zijieapi.com^
 ||mon.toutiao.com^
@@ -145363,10 +145363,8 @@
 ||rtlog.snssdk.com^
 ||crash.snssdk.com^
 ||brand.oceanengine.com^
-||ecombdpage.com^
 ||alliance.jinritemai.com^
 ||mix.jinritemai.com^
-||jinritemai.com^
 ||chengzijianzhana.com^
 ||chengzijianzhanb.com^
 ||chengzijianzhan.cn^
@@ -145405,6 +145403,8 @@
 ||adx-cfg-u1.ubixioe.com^
 ||adx-data-u1.ubixioe.com^
 ||s.adxvip.com^
+||ecombdpage.com^
+||jinritemai.com^
 ||awemeughun.com^
 ||awemeugsoul.com^
 ||luckysf.net^
@@ -145413,6 +145413,7 @@
 ||videoproxy.tanx.com^
 ||pre-sdk-config.alibaba-inc.com^
 ||static.yximgs.com^
+||apps.bytesfield.com^
 ||s01.peplle.cn^
 ||adx-bj.statisticslinks.com^
 ||t-cfg.52qumao.com^
