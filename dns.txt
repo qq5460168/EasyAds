@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-08-05 06:21:33.909653
+# Generated on 2026-08-05 10:28:14.101077
 
 ||aizhantj.com^
 ||lxrjekw.com^
