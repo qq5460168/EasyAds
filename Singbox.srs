@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-08-06 06:24:13
-# 规则总数: 145549
+# 更新时间: 2026-08-06 10:31:30
+# 规则总数: 145550
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -35195,6 +35195,7 @@ domain: csr.onet.pl, policy: reject
 domain: csr11.net.asambeauty.com, policy: reject
 domain: css.juqingba.cn, policy: reject
 domain: css.zmjm.com, policy: reject
+domain: cssstyle.motorcycles, policy: reject
 domain: cst.cstwpush.com, policy: reject
 domain: cstats.sankakucomplex.com, policy: reject
 domain: cstj.sejie008.xyz, policy: reject

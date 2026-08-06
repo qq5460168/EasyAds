@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-08-06 06:24:13
-# 规则总数: 145549
+# 更新时间: 2026-08-06 10:31:30
+# 规则总数: 145550
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -35196,6 +35196,7 @@ payload:
   - 'csr11.net.asambeauty.com'
   - 'css.juqingba.cn'
   - 'css.zmjm.com'
+  - 'cssstyle.motorcycles'
   - 'cst.cstwpush.com'
   - 'cstats.sankakucomplex.com'
   - 'cstj.sejie008.xyz'

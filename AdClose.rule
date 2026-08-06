@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-08-06 06:24:14
-# 规则总数: 145549
+# 更新时间: 2026-08-06 10:31:31
+# 规则总数: 145550
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -35195,6 +35195,7 @@ domain, csr.onet.pl
 domain, csr11.net.asambeauty.com
 domain, css.juqingba.cn
 domain, css.zmjm.com
+domain, cssstyle.motorcycles
 domain, cst.cstwpush.com
 domain, cstats.sankakucomplex.com
 domain, cstj.sejie008.xyz

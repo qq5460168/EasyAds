@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-08-06 06:24:14
-# 规则总数: 145549
+# 更新时间: 2026-08-06 10:31:31
+# 规则总数: 145550
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -35195,6 +35195,7 @@
 0.0.0.0 csr11.net.asambeauty.com
 0.0.0.0 css.juqingba.cn
 0.0.0.0 css.zmjm.com
+0.0.0.0 cssstyle.motorcycles
 0.0.0.0 cst.cstwpush.com
 0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 cstj.sejie008.xyz

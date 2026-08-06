@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-08-06 06:24:14
-# 规则总数: 145549
+# 更新时间: 2026-08-06 10:31:31
+# 规则总数: 145550
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -35195,6 +35195,7 @@ csr.onet.pl block
 csr11.net.asambeauty.com block
 css.juqingba.cn block
 css.zmjm.com block
+cssstyle.motorcycles block
 cst.cstwpush.com block
 cstats.sankakucomplex.com block
 cstj.sejie008.xyz block
