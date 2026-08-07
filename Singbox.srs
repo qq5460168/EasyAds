@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-08-07 00:51:24
-# 规则总数: 145550
+# 更新时间: 2026-08-07 05:29:08
+# 规则总数: 145560
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -4644,6 +4644,7 @@ domain: 678ty5.com, policy: reject
 domain: 679.skyf0rge.ru, policy: reject
 domain: 67913.mobi, policy: reject
 domain: 67a120c980.8f17d89ec7.com, policy: reject
+domain: 67evjpvdi.com, policy: reject
 domain: 67fad39954.com, policy: reject
 domain: 67h120.com, policy: reject
 domain: 67it.com, policy: reject
@@ -4891,6 +4892,7 @@ domain: 6tsbe1zs.me, policy: reject
 domain: 6u2h.cn, policy: reject
 domain: 6u88z6vx283i9un213m59x.cfd, policy: reject
 domain: 6ujk8x9soxhm.com, policy: reject
+domain: 6un45sxmx.com, policy: reject
 domain: 6us.cl0udtrace.ru, policy: reject
 domain: 6ut6sdn1.clearvertex.digital, policy: reject
 domain: 6uzxtlv.cn, policy: reject
@@ -41663,6 +41665,7 @@ domain: dnurxagcqddad.website, policy: reject
 domain: dnus40re.xyz, policy: reject
 domain: dnvogsqirpcfq.space, policy: reject
 domain: dnvus.com, policy: reject
+domain: dnweq5z5g.com, policy: reject
 domain: dnwmeaivtrhfp.site, policy: reject
 domain: dnxcok.pentik.com, policy: reject
 domain: dnxlgencstz4.cloudfront.net, policy: reject
@@ -65917,6 +65920,7 @@ domain: izoga.xyz, policy: reject
 domain: izooksujeng.net, policy: reject
 domain: izopsg.icu, policy: reject
 domain: izopyfudakivh.online, policy: reject
+domain: izq.lwaed633.vip, policy: reject
 domain: izqhkvwbmsfns.website, policy: reject
 domain: izremx.dentalplans.com, policy: reject
 domain: izrnvo.com, policy: reject
@@ -98763,6 +98767,7 @@ domain: qotuprmsjnjbn.site, policy: reject
 domain: qou8q.boldf0nt.ru, policy: reject
 domain: qouwtyxfglrunq.net, policy: reject
 domain: qouxkn.natuurhuisje.nl, policy: reject
+domain: qouy029.top, policy: reject
 domain: qovdtdoiazazm.site, policy: reject
 domain: qovorcfuiogbc.online, policy: reject
 domain: qovua60gue.tubewolf.com, policy: reject
@@ -99046,6 +99051,7 @@ domain: qtfnvf.ethika.com, policy: reject
 domain: qtgfeyhcqcrhx.space, policy: reject
 domain: qtgoiasqfgbgb.space, policy: reject
 domain: qtgyjrwkw.net, policy: reject
+domain: qthw061.top, policy: reject
 domain: qtienly.top, policy: reject
 domain: qtj0.destinia.pl, policy: reject
 domain: qtjlciojkhkfl.website, policy: reject
@@ -119121,6 +119127,7 @@ domain: swlcgrncjyjtt.site, policy: reject
 domain: swlogic.wpu.sh, policy: reject
 domain: swmhdata.stuttgarter-nachrichten.de, policy: reject
 domain: swmhdata.stuttgarter-zeitung.de, policy: reject
+domain: swmshpphnu2.com, policy: reject
 domain: swmswjvdpc.com, policy: reject
 domain: swog3mgt.openmatrix.digital, policy: reject
 domain: swohtiohvqa.com, policy: reject
@@ -137266,6 +137273,7 @@ domain: wpwdf.com, policy: reject
 domain: wpwdwbunjutwd.online, policy: reject
 domain: wpwnejtixioio.website, policy: reject
 domain: wpwpquse.cn, policy: reject
+domain: wpy.jsak634.vip, policy: reject
 domain: wpy6xuq4.xyz, policy: reject
 domain: wpyqtdqwvchml.site, policy: reject
 domain: wpyvue.idealwine.com, policy: reject
@@ -137915,6 +137923,7 @@ domain: www.4194382.notify6.com, policy: reject
 domain: www.4195388.notify6.com, policy: reject
 domain: www.425kmk7n9wn21pwvl18.xyz, policy: reject
 domain: www.4270606.notify6.com, policy: reject
+domain: www.437944.xyz, policy: reject
 domain: www.4389756.notify6.com, policy: reject
 domain: www.44-trk-srv.com, policy: reject
 domain: www.4465254.notify6.com, policy: reject
@@ -138497,6 +138506,7 @@ domain: www.ofnsv69.com, policy: reject
 domain: www.oita4bali.com, policy: reject
 domain: www.okc-5190.com, policy: reject
 domain: www.okc-5191.com, policy: reject
+domain: www.ompkcy255.vip, policy: reject
 domain: www.on24-webinars.co.uk, policy: reject
 domain: www.operationintelligence7.com, policy: reject
 domain: www.opgame.me, policy: reject

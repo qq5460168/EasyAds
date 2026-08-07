@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-08-07 00:51:24
-# 规则总数: 145550
+# 更新时间: 2026-08-07 05:29:08
+# 规则总数: 145560
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -4644,6 +4644,7 @@
 0.0.0.0 679.skyf0rge.ru
 0.0.0.0 67913.mobi
 0.0.0.0 67a120c980.8f17d89ec7.com
+0.0.0.0 67evjpvdi.com
 0.0.0.0 67fad39954.com
 0.0.0.0 67h120.com
 0.0.0.0 67it.com
@@ -4891,6 +4892,7 @@
 0.0.0.0 6u2h.cn
 0.0.0.0 6u88z6vx283i9un213m59x.cfd
 0.0.0.0 6ujk8x9soxhm.com
+0.0.0.0 6un45sxmx.com
 0.0.0.0 6us.cl0udtrace.ru
 0.0.0.0 6ut6sdn1.clearvertex.digital
 0.0.0.0 6uzxtlv.cn
@@ -41663,6 +41665,7 @@
 0.0.0.0 dnus40re.xyz
 0.0.0.0 dnvogsqirpcfq.space
 0.0.0.0 dnvus.com
+0.0.0.0 dnweq5z5g.com
 0.0.0.0 dnwmeaivtrhfp.site
 0.0.0.0 dnxcok.pentik.com
 0.0.0.0 dnxlgencstz4.cloudfront.net
@@ -65917,6 +65920,7 @@
 0.0.0.0 izooksujeng.net
 0.0.0.0 izopsg.icu
 0.0.0.0 izopyfudakivh.online
+0.0.0.0 izq.lwaed633.vip
 0.0.0.0 izqhkvwbmsfns.website
 0.0.0.0 izremx.dentalplans.com
 0.0.0.0 izrnvo.com
@@ -98763,6 +98767,7 @@
 0.0.0.0 qou8q.boldf0nt.ru
 0.0.0.0 qouwtyxfglrunq.net
 0.0.0.0 qouxkn.natuurhuisje.nl
+0.0.0.0 qouy029.top
 0.0.0.0 qovdtdoiazazm.site
 0.0.0.0 qovorcfuiogbc.online
 0.0.0.0 qovua60gue.tubewolf.com
@@ -99046,6 +99051,7 @@
 0.0.0.0 qtgfeyhcqcrhx.space
 0.0.0.0 qtgoiasqfgbgb.space
 0.0.0.0 qtgyjrwkw.net
+0.0.0.0 qthw061.top
 0.0.0.0 qtienly.top
 0.0.0.0 qtj0.destinia.pl
 0.0.0.0 qtjlciojkhkfl.website
@@ -119121,6 +119127,7 @@
 0.0.0.0 swlogic.wpu.sh
 0.0.0.0 swmhdata.stuttgarter-nachrichten.de
 0.0.0.0 swmhdata.stuttgarter-zeitung.de
+0.0.0.0 swmshpphnu2.com
 0.0.0.0 swmswjvdpc.com
 0.0.0.0 swog3mgt.openmatrix.digital
 0.0.0.0 swohtiohvqa.com
@@ -137266,6 +137273,7 @@
 0.0.0.0 wpwdwbunjutwd.online
 0.0.0.0 wpwnejtixioio.website
 0.0.0.0 wpwpquse.cn
+0.0.0.0 wpy.jsak634.vip
 0.0.0.0 wpy6xuq4.xyz
 0.0.0.0 wpyqtdqwvchml.site
 0.0.0.0 wpyvue.idealwine.com
@@ -137915,6 +137923,7 @@
 0.0.0.0 www.4195388.notify6.com
 0.0.0.0 www.425kmk7n9wn21pwvl18.xyz
 0.0.0.0 www.4270606.notify6.com
+0.0.0.0 www.437944.xyz
 0.0.0.0 www.4389756.notify6.com
 0.0.0.0 www.44-trk-srv.com
 0.0.0.0 www.4465254.notify6.com
@@ -138497,6 +138506,7 @@
 0.0.0.0 www.oita4bali.com
 0.0.0.0 www.okc-5190.com
 0.0.0.0 www.okc-5191.com
+0.0.0.0 www.ompkcy255.vip
 0.0.0.0 www.on24-webinars.co.uk
 0.0.0.0 www.operationintelligence7.com
 0.0.0.0 www.opgame.me
