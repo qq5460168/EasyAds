@@ -1,5 +1,5 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-08-13 16:47:58
+# 更新时间: 2026-08-13 20:33:42
 # 规则总数: 145560
 
 0.0.0.0 -normal-lq.zijieapi.com
@@ -6481,7 +6481,6 @@
 0.0.0.0 I9z.cn
 0.0.0.0 IMTY.US
 0.0.0.0 JK98.CC
-0.0.0.0 Media.net
 0.0.0.0 a-ads.com
 0.0.0.0 a-api.skz.dev
 0.0.0.0 a-counter.kiev.ua
@@ -79934,6 +79933,7 @@
 0.0.0.0 media.jointreport-switch.com
 0.0.0.0 media.leahy-ifp.com
 0.0.0.0 media.mobpartner.mobi
+0.0.0.0 media.net
 0.0.0.0 media.netpositive.hu
 0.0.0.0 media.netrefer.com
 0.0.0.0 media.olmiweb.com
