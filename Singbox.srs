@@ -1,5 +1,5 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-08-13 09:04:59
+# 更新时间: 2026-08-13 12:52:13
 # 规则总数: 145560
 
 domain: -normal-lq.zijieapi.com, policy: reject
@@ -6481,6 +6481,7 @@ domain: HG321.CC, policy: reject
 domain: I9z.cn, policy: reject
 domain: IMTY.US, policy: reject
 domain: JK98.CC, policy: reject
+domain: Media.net, policy: reject
 domain: a-ads.com, policy: reject
 domain: a-api.skz.dev, policy: reject
 domain: a-counter.kiev.ua, policy: reject
@@ -79933,7 +79934,6 @@ domain: media.ignitium.com, policy: reject
 domain: media.jointreport-switch.com, policy: reject
 domain: media.leahy-ifp.com, policy: reject
 domain: media.mobpartner.mobi, policy: reject
-domain: media.net, policy: reject
 domain: media.netpositive.hu, policy: reject
 domain: media.netrefer.com, policy: reject
 domain: media.olmiweb.com, policy: reject
