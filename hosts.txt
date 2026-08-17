@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-08-17 04:33:56
-# 规则总数: 145560
+# 更新时间: 2026-08-17 08:34:26
+# 规则总数: 145561
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -59285,6 +59285,7 @@
 0.0.0.0 hkkeafj.cn
 0.0.0.0 hkkfbxwzlbjgt.space
 0.0.0.0 hkkhsppnknkoy.space
+0.0.0.0 hkl.xiuseab222.vip
 0.0.0.0 hklpbxcaikj.com
 0.0.0.0 hknqnedmychml.online
 0.0.0.0 hknztzqlkjzhc.space
@@ -84207,7 +84208,6 @@
 0.0.0.0 msxmzbzmugbfm.store
 0.0.0.0 msxphurwqbsil.website
 0.0.0.0 msxxcxrktbrdn.site
-0.0.0.0 msync-im1-vip6-std.easemob.com
 0.0.0.0 msypr.com
 0.0.0.0 msz3.destinia.cn
 0.0.0.0 mszbwywsbdgmm.space
@@ -90573,6 +90573,7 @@
 0.0.0.0 orup.cn
 0.0.0.0 oruxmvyydrvkr.website
 0.0.0.0 orvex0.0rav2uterus.ru
+0.0.0.0 orvexlumin.698518.xyz
 0.0.0.0 orvgpjjyagvfn.site
 0.0.0.0 orvietnmqxcgm.online
 0.0.0.0 orx5.par2ch0ld.ru

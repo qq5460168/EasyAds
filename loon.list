@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-08-17 12:33:54
-# 规则统计: 总计145499条 (IP:146 DOMAIN:0 SUFFIX:145353 KEYWORD:0)
+# 更新时间(北京时间): 2026-08-17 16:34:23
+# 规则统计: 总计145500条 (IP:146 DOMAIN:0 SUFFIX:145354 KEYWORD:0)
 
 # IP规则
 IP-CIDR,10.130.208.223,REJECT,no-resolve
@@ -59263,6 +59263,7 @@ DOMAIN-SUFFIX,hkk456.cc,REJECT
 DOMAIN-SUFFIX,hkkeafj.cn,REJECT
 DOMAIN-SUFFIX,hkkfbxwzlbjgt.space,REJECT
 DOMAIN-SUFFIX,hkkhsppnknkoy.space,REJECT
+DOMAIN-SUFFIX,hkl.xiuseab222.vip,REJECT
 DOMAIN-SUFFIX,hklpbxcaikj.com,REJECT
 DOMAIN-SUFFIX,hknqnedmychml.online,REJECT
 DOMAIN-SUFFIX,hknztzqlkjzhc.space,REJECT
@@ -84163,7 +84164,6 @@ DOMAIN-SUFFIX,msxf.com,REJECT
 DOMAIN-SUFFIX,msxmzbzmugbfm.store,REJECT
 DOMAIN-SUFFIX,msxphurwqbsil.website,REJECT
 DOMAIN-SUFFIX,msxxcxrktbrdn.site,REJECT
-DOMAIN-SUFFIX,msync-im1-vip6-std.easemob.com,REJECT
 DOMAIN-SUFFIX,msypr.com,REJECT
 DOMAIN-SUFFIX,msz3.destinia.cn,REJECT
 DOMAIN-SUFFIX,mszbwywsbdgmm.space,REJECT
@@ -90526,6 +90526,7 @@ DOMAIN-SUFFIX,ortunitytostara.org,REJECT
 DOMAIN-SUFFIX,orup.cn,REJECT
 DOMAIN-SUFFIX,oruxmvyydrvkr.website,REJECT
 DOMAIN-SUFFIX,orvex0.0rav2uterus.ru,REJECT
+DOMAIN-SUFFIX,orvexlumin.698518.xyz,REJECT
 DOMAIN-SUFFIX,orvgpjjyagvfn.site,REJECT
 DOMAIN-SUFFIX,orvietnmqxcgm.online,REJECT
 DOMAIN-SUFFIX,orx5.par2ch0ld.ru,REJECT

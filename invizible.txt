@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-08-17 04:33:56
-# 规则总数: 145560
+# 更新时间: 2026-08-17 08:34:25
+# 规则总数: 145561
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -59285,6 +59285,7 @@ hkk456.cc block
 hkkeafj.cn block
 hkkfbxwzlbjgt.space block
 hkkhsppnknkoy.space block
+hkl.xiuseab222.vip block
 hklpbxcaikj.com block
 hknqnedmychml.online block
 hknztzqlkjzhc.space block
@@ -84207,7 +84208,6 @@ msxf.com block
 msxmzbzmugbfm.store block
 msxphurwqbsil.website block
 msxxcxrktbrdn.site block
-msync-im1-vip6-std.easemob.com block
 msypr.com block
 msz3.destinia.cn block
 mszbwywsbdgmm.space block
@@ -90573,6 +90573,7 @@ ortunitytostara.org block
 orup.cn block
 oruxmvyydrvkr.website block
 orvex0.0rav2uterus.ru block
+orvexlumin.698518.xyz block
 orvgpjjyagvfn.site block
 orvietnmqxcgm.online block
 orx5.par2ch0ld.ru block

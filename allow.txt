@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-08-17 12:33:57
-! 有效规则数量: 4007 条
+! 规则更新时间: 2026-08-17 16:34:26
+! 有效规则数量: 4014 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -65,6 +65,7 @@
 @@||api-docs.deepseek.com^
 @@||api-edge.cognitive.microsofttranslator.com^
 @@||api-n0vadp-static.hoyoverse.com^
+@@||api-play.amemv.com^
 @@||api.account.xiaomi.com^
 @@||api.agora.io^
 @@||api.cc.163.com^
@@ -171,6 +172,7 @@
 @@||cdn.akamai.steamstatic.com^
 @@||cdn.aligames.com^
 @@||cdn.ark.qq.com^
+@@||cdn.bootcdn.net^
 @@||cdn.cnbj1.fds.api.mi-img.com^
 @@||cdn.deepseek.com^
 @@||cdn.ferrari.com^
@@ -414,6 +416,7 @@
 @@||gdown.baidu.com^
 @@||gelbooru.com^
 @@||genshin.hoyoverse.com^
+@@||getbootstrap.com^
 @@||gips2.baidu.com^
 @@||gist.github.com^
 @@||git-scm.com^
@@ -632,6 +635,7 @@
 @@||lf1-cdn-tos.bytegoofy.com^
 @@||lf1-cdn-tos.bytescm.com^
 @@||lf3-card-system.searchpstatp.com^
+@@||lf3-cdn-tos.bdxiguastatic.com^
 @@||lf3-cdn-tos.bytegoofy.com^
 @@||lf3-cdn-tos.bytescm.com^
 @@||lf3-short.bytegoofy.com^
@@ -689,6 +693,7 @@
 @@||m.gushiwen.cn^
 @@||m.ip138.com^
 @@||m.iqiyi.com^
+@@||m.ixigua.com^
 @@||m.jd.com^
 @@||m.jiaoyimao.com^
 @@||m.ke.com^
@@ -904,6 +909,7 @@
 @@||p3-sign.toutiaoimg.com^
 @@||p3-webcast-sign.douyinpic.com^
 @@||p3-webcast.douyinpic.com^
+@@||p3.bdxiguaimg.com^
 @@||p3.dcarimg.com^
 @@||p3.douyinpic.com^
 @@||p5-auto-sign.dcarimg.com^
@@ -1427,6 +1433,7 @@
 @@||www.internetdownloadmanager.com^
 @@||www.ip138.com^
 @@||www.iqiyi.com^
+@@||www.ixigua.com^
 @@||www.javbangers.com^
 @@||www.jd.com^
 @@||www.jetbrains.com.cn^
@@ -1540,6 +1547,7 @@
 @@||yun.duiba.com.cn^
 @@||yys.163.com^
 @@||yzg.wavee.cn^
+@@||z.ixigua.com^
 @@||zenless.hoyoverse.com^
 @@||zhidao.baidu.com^
 @@||zhipin.com^
@@ -1887,7 +1895,6 @@
 @@||mm1.365dmp.com^
 @@||mm3.365dmp.com^
 @@||sofire.bdstatic.com^
-@@||cdn.bootcdn.net^
 @@||twitter.com^
 @@||www.twitter.com^
 @@||shouji.sougou.com^
