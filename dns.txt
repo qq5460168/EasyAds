@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-08-31 18:32:02.617758
+# Generated on 2026-08-31 23:31:47.261527
 
 ||ad-sign.byteimg.com^
 ||tos.pstatp.com^
