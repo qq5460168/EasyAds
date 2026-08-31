@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-08-31 10:19:25
-# 规则总数: 145561
+# 更新时间: 2026-08-31 18:32:06
+# 规则总数: 145562
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -140864,6 +140864,7 @@ domain, xn--9krv3x413bbyb.com
 domain, xn--b1afiqif6c.xn--p1ai
 domain, xn--blqw4qdtj1zl4x4c.net
 domain, xn--bqro42frpg5up.cn
+domain, xn--czru2dx3eszw3lat53b.com
 domain, xn--gov-x68dy61b.shop
 domain, xn--h6qpop2cq9nl9c.pages.dev
 domain, xn--jor0b302fdhgwnccw8g.com

@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-08-31 10:19:24
-# 规则总数: 145561
+# 更新时间: 2026-08-31 18:32:05
+# 规则总数: 145562
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -140865,6 +140865,7 @@ payload:
   - 'xn--b1afiqif6c.xn--p1ai'
   - 'xn--blqw4qdtj1zl4x4c.net'
   - 'xn--bqro42frpg5up.cn'
+  - 'xn--czru2dx3eszw3lat53b.com'
   - 'xn--gov-x68dy61b.shop'
   - 'xn--h6qpop2cq9nl9c.pages.dev'
   - 'xn--jor0b302fdhgwnccw8g.com'

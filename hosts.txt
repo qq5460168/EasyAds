@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-08-31 10:19:24
-# 规则总数: 145561
+# 更新时间: 2026-08-31 18:32:06
+# 规则总数: 145562
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -140864,6 +140864,7 @@
 0.0.0.0 xn--b1afiqif6c.xn--p1ai
 0.0.0.0 xn--blqw4qdtj1zl4x4c.net
 0.0.0.0 xn--bqro42frpg5up.cn
+0.0.0.0 xn--czru2dx3eszw3lat53b.com
 0.0.0.0 xn--gov-x68dy61b.shop
 0.0.0.0 xn--h6qpop2cq9nl9c.pages.dev
 0.0.0.0 xn--jor0b302fdhgwnccw8g.com
