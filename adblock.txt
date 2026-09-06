@@ -1,49 +1,49 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-09-06 16:15:33
-! 有效规则数量: 156275 条
+! 规则更新时间: 2026-09-06 22:42:57
+! 有效规则数量: 156274 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
-140.82.114.26                 alive.github.com
+140.82.112.25                 alive.github.com
 20.205.243.168                api.github.com
-140.82.114.21                 api.individual.githubcopilot.com
-185.199.109.133               avatars.githubusercontent.com
-185.199.109.133               avatars0.githubusercontent.com
-185.199.109.133               avatars1.githubusercontent.com
-185.199.109.133               avatars2.githubusercontent.com
-185.199.109.133               avatars3.githubusercontent.com
-185.199.109.133               avatars4.githubusercontent.com
-185.199.109.133               avatars5.githubusercontent.com
-185.199.109.133               camo.githubusercontent.com
+140.82.114.22                 api.individual.githubcopilot.com
+185.199.110.133               avatars.githubusercontent.com
+185.199.110.133               avatars0.githubusercontent.com
+185.199.110.133               avatars1.githubusercontent.com
+185.199.110.133               avatars2.githubusercontent.com
+185.199.110.133               avatars3.githubusercontent.com
+185.199.110.133               avatars4.githubusercontent.com
+185.199.110.133               avatars5.githubusercontent.com
+185.199.110.133               camo.githubusercontent.com
 140.82.112.21                 central.github.com
-185.199.109.133               cloud.githubusercontent.com
+185.199.110.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.113.21                 collector.github.com
-185.199.109.133               desktop.githubusercontent.com
-185.199.109.133               favicons.githubusercontent.com
-78.16.49.15                   gist.github.com  # Timeout
-16.15.236.24                  github-cloud.s3.amazonaws.com
-54.231.227.233                github-com.s3.amazonaws.com
-52.217.120.209                github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.214.116                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.244.205                 github-production-user-asset-6210df.s3.amazonaws.com
+140.82.114.22                 collector.github.com
+185.199.110.133               desktop.githubusercontent.com
+185.199.110.133               favicons.githubusercontent.com
+159.106.121.75                gist.github.com  # Timeout
+16.15.228.35                  github-cloud.s3.amazonaws.com
+52.217.174.169                github-com.s3.amazonaws.com
+52.217.76.60                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.238.187                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.207.49                  github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.113.18                 github.community
-185.199.110.215               github.githubassets.com
-45.77.186.255                 github.global.ssl.fastly.net
-185.199.108.153               github.io
-185.199.109.133               github.map.fastly.net
-185.199.108.153               githubstatus.com
-140.82.113.26                 live.github.com
-185.199.109.133               media.githubusercontent.com
-185.199.109.133               objects.githubusercontent.com
+140.82.114.17                 github.community
+185.199.111.215               github.githubassets.com
+4.78.139.50                   github.global.ssl.fastly.net
+185.199.109.153               github.io
+185.199.110.133               github.map.fastly.net
+185.199.109.153               githubstatus.com
+140.82.112.25                 live.github.com
+185.199.110.133               media.githubusercontent.com
+185.199.110.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.109.133               raw.githubusercontent.com
-185.199.109.133               user-images.githubusercontent.com
+185.199.110.133               raw.githubusercontent.com
+185.199.110.133               user-images.githubusercontent.com
 150.171.110.102               vscode.dev
 140.82.112.22                 education.github.com
-185.199.109.133               private-user-images.githubusercontent.com
+185.199.110.133               private-user-images.githubusercontent.com
 ||02539717.com^
 ||08241fb.hpa163.nl^
 ||08de583.p0nkhy03m.top^
@@ -8908,8 +8908,6 @@
 0.0.0.0 bsync3-normal.zijieapi.com
 0.0.0.0 bsync5-normal-hl.zijieapi.com
 0.0.0.0 bsync5-normal.zijieapi.com
-0.0.0.0 cdn.yinxiang.com
-0.0.0.0 cdn.yyb.gtimg.com
 0.0.0.0 client-tracking.tantanapp.com
 0.0.0.0 client-tracking.tantanapp.com.ctc
 0.0.0.0 dns.qiyipic.iqiyi.com
@@ -151808,6 +151806,7 @@
 0.0.0.0 admaster-public.51downapp.cn
 0.0.0.0 g.fancyapi.com
 0.0.0.0 z.5th.zone  #住这儿开屏和横幅广告
+0.0.0.0 cdn.yinxiang.com
 0.0.0.0 wanciwangdata.oss-cn-beijing.aliyuncs.com  #万词王开屏和横幅广告
 0.0.0.0 version.yangcong345.com  #洋葱学园更新
 0.0.0.0 materialcenter.gsxcdn.com  #高途开屏广告，误杀少量营销活动类图片
