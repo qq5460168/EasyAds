@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-09-07 05:53:17
-# 规则统计: 总计145501条 (IP:146 DOMAIN:0 SUFFIX:145355 KEYWORD:0)
+# 更新时间(北京时间): 2026-09-07 10:07:25
+# 规则统计: 总计145502条 (IP:146 DOMAIN:0 SUFFIX:145356 KEYWORD:0)
 
 # IP规则
 IP-CIDR,10.130.208.223,REJECT,no-resolve
@@ -135776,6 +135776,7 @@ DOMAIN-SUFFIX,wewearegogogo.com,REJECT
 DOMAIN-SUFFIX,wewikdaksmlyw.online,REJECT
 DOMAIN-SUFFIX,wewlkq.com,REJECT
 DOMAIN-SUFFIX,wewruxixfmgv.com,REJECT
+DOMAIN-SUFFIX,wewubuwgz.com,REJECT
 DOMAIN-SUFFIX,wex3il.hiredp1ayfu1.ru,REJECT
 DOMAIN-SUFFIX,wexabqmwpozrl.online,REJECT
 DOMAIN-SUFFIX,wexevoom.net,REJECT

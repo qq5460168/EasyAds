@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-09-06 21:53:20
-# 规则总数: 145562
+# 更新时间: 2026-09-07 02:07:28
+# 规则总数: 145563
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -135829,6 +135829,7 @@
 0.0.0.0 wewikdaksmlyw.online
 0.0.0.0 wewlkq.com
 0.0.0.0 wewruxixfmgv.com
+0.0.0.0 wewubuwgz.com
 0.0.0.0 wex3il.hiredp1ayfu1.ru
 0.0.0.0 wexabqmwpozrl.online
 0.0.0.0 wexevoom.net

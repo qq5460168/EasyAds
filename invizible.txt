@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-09-06 21:53:20
-# 规则总数: 145562
+# 更新时间: 2026-09-07 02:07:28
+# 规则总数: 145563
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -135829,6 +135829,7 @@ wewearegogogo.com block
 wewikdaksmlyw.online block
 wewlkq.com block
 wewruxixfmgv.com block
+wewubuwgz.com block
 wex3il.hiredp1ayfu1.ru block
 wexabqmwpozrl.online block
 wexevoom.net block

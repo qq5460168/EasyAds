@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-09-06 21:53:20
-# 规则总数: 145562
+# 更新时间: 2026-09-07 02:07:27
+# 规则总数: 145563
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -135830,6 +135830,7 @@ payload:
   - 'wewikdaksmlyw.online'
   - 'wewlkq.com'
   - 'wewruxixfmgv.com'
+  - 'wewubuwgz.com'
   - 'wex3il.hiredp1ayfu1.ru'
   - 'wexabqmwpozrl.online'
   - 'wexevoom.net'

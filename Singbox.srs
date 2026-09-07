@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-09-06 21:53:20
-# 规则总数: 145562
+# 更新时间: 2026-09-07 02:07:28
+# 规则总数: 145563
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -135829,6 +135829,7 @@ domain: wewearegogogo.com, policy: reject
 domain: wewikdaksmlyw.online, policy: reject
 domain: wewlkq.com, policy: reject
 domain: wewruxixfmgv.com, policy: reject
+domain: wewubuwgz.com, policy: reject
 domain: wex3il.hiredp1ayfu1.ru, policy: reject
 domain: wexabqmwpozrl.online, policy: reject
 domain: wexevoom.net, policy: reject
