@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-09-08 08:28:31
-# 规则总数: 145563
+# 更新时间: 2026-09-08 15:45:18
+# 规则总数: 145584
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -12091,6 +12091,7 @@ ad-admin.vnay.vn block
 ad-analysis.pconline.com.cn block
 ad-android.51wnl.com block
 ad-api-log.colopl.jp block
+ad-api.4pyun.com block
 ad-api.adn-plus.com.cn block
 ad-api.cnblogs.com block
 ad-api.ehawk.com block
@@ -12126,6 +12127,7 @@ ad-drs.52qumao.com0-02.net block
 ad-ebis.bookpass.auone.jp block
 ad-ebis.mynavi-job20s.jp block
 ad-ebis.toysub.jp block
+ad-files.4pyun.com block
 ad-files.classting.com block
 ad-flow.com block
 ad-ga.nocode.com block
@@ -12449,6 +12451,7 @@ ad.mail.ru block
 ad.mail.sohu.com block
 ad.mailo.com block
 ad.mangareader.net block
+ad.maoyan.com block
 ad.mazc.org block
 ad.mcloud.139.com block
 ad.mdmd.info block
@@ -14019,6 +14022,7 @@ ads.farakav.com block
 ads.feelingtouch.com block
 ads.ferianc.com block
 ads.filmup.com block
+ads.finance.yahoo.com block
 ads.financialcontent.com block
 ads.flooble.com block
 ads.flurry.com block
@@ -15117,6 +15121,7 @@ adx-exchange.toast.com block
 adx-open-service.youku.com block
 adx-os-req.anythinktech.com block
 adx-os.anythinktech.com block
+adx-os.bridgeoos.com block
 adx-saas.advlion.com block
 adx-static.ksosoft.com block
 adx-strategy-api-cn.statisticslinks.com block
@@ -16785,6 +16790,7 @@ allsports4free.online block
 allsprang.com block
 allstarfg.actonservice.com block
 allstat-pp.ru block
+alltbcsp2p.baidu.com block
 alludedeagle.com block
 alludedrusty.com block
 allure-ng.net block
@@ -33034,6 +33040,7 @@ commercial.davey.com block
 commercial.daznservices.com block
 commercial.equifax.com block
 commercial.inform.equifax.com block
+commercial.shouji.360.cn block
 commercialregretful.com block
 commercialvalue.org block
 commiescimaise.cyou block
@@ -47622,6 +47629,7 @@ eventstream.dodopizza.com block
 eventsv2balanced.malpagames.com block
 eventtracking.hubapi.com block
 eventuryremov.com block
+eventv1.leidong.rayenergytech.com block
 eventweepinghoarse.com block
 evenyumbroadlywitharmoire.com block
 ever8trk.com block
@@ -60589,8 +60597,10 @@ huo07160hy.com block
 huo07161hy.com block
 huo07170hy.com block
 huobjyrgiqftf.site block
+huodong.ios.shouji.360.cn block
 huodong.pl.youku.com block
 huodong.vip.youku.com block
+huodong.weibo.cn block
 huohuo.huamuwo.com block
 huoju.asia block
 hupot.site block
@@ -61230,10 +61240,12 @@ iad.g.163.com block
 iad0ssl.pcauto.com.cn block
 iad0ssl.pconline.com.cn block
 iadc.qwapi.com block
+iadcontent.apple.com block
 iadctest.qwapi.com block
 iadfeed.iad.apple.com block
 iadmatapk.nosdn.127.net block
 iadmatvideo.nosdn.127.net block
+iadmoo.apple.com block
 iadmusicmat.music.126.net block
 iadmusicmatvideo.music.126.net block
 iadnet.com block
@@ -64358,6 +64370,7 @@ init.blackcrow.ai block
 init.phpwind.com block
 init.phpwind.net block
 init.startappexchange.com block
+init.supersonicads.com block
 initalshallon.cfd block
 initcorinna.cyou block
 initiallybrigadebookstore.com block
@@ -64406,6 +64419,7 @@ inmuzp.popsockets.com block
 inncreasukedrev.info block
 inner-active.com block
 inner-active.mobi block
+inner-hw.huazirc.com block
 inner.se1fve5ky.ru block
 innerskinresearch.com block
 innervetrollop.help block
@@ -70813,6 +70827,7 @@ kwnrmeykkqmqo.site block
 kwnvylweylven.online block
 kwo-0115.cc block
 kwpgeebopaqpn.site block
+kwpush.kuwo.cn block
 kwpxgsriggx.com block
 kwpybyoocw.com block
 kwqpix.ravenna.gr block
@@ -75005,6 +75020,7 @@ logrcv.yunxish.com block
 logreport-global-dual.coolbcloud.com block
 logreport-global-dual.coolhcloud.com block
 logs-api.shoprunner.com block
+logs-bigdata.yeehaw.com.cn block
 logs-ingress.svc.vinted.com block
 logs-partners.coupang.com block
 logs-sg.rebxgame.com block
@@ -75067,6 +75083,7 @@ logtake.weidian.com block
 logtj.kugou.com block
 logua.com block
 logupdate.avlyun.sec.miui.com block
+logv2.ireader.com block
 logv2.kienthuc.net.vn block
 logv2.mp3.zing.vn block
 logv3.metric.vn block
@@ -96298,6 +96315,7 @@ proll.shemrec.cc block
 prollerotolite.shop block
 prologue23.com block
 prolongmetrise.help block
+prom-sdkv2.jysper.net block
 prom.b.qq.com block
 prom.gome.com.cn block
 promblarina.help block
@@ -101347,6 +101365,7 @@ report.apkpure.net block
 report.appmetrica.yandex.net.iberostar.com block
 report.cms.qq.com block
 report.csslcloud.net block
+report.dxunion.cn block
 report.iciba.com block
 report.imtt.qq.com block
 report.mediahub.vn block
@@ -125502,6 +125521,7 @@ tracker-beam.aktuality.sk block
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com block
 tracker-dot-optimeeze.appspot.com block
 tracker-mw-zlivestream.zapps.vn block
+tracker-prd.aldi.com.cn block
 tracker-rec.smart-bdash.com block
 tracker-remp.active.radio block
 tracker-remp.magyarnarancs.hu block
@@ -129756,6 +129776,7 @@ unimhk.com block
 unimportantcell.pro block
 union-httpdns.gslb.yy.com block
 union-mlog.bigda.com block
+union-record.oss-cn-zhangjiakou.aliyuncs.com block
 union-wifi.com block
 union.360.cn block
 union.6.cn block

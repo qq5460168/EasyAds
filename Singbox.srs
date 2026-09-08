@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-09-08 08:28:31
-# 规则总数: 145563
+# 更新时间: 2026-09-08 15:45:18
+# 规则总数: 145584
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -12091,6 +12091,7 @@ domain: ad-admin.vnay.vn, policy: reject
 domain: ad-analysis.pconline.com.cn, policy: reject
 domain: ad-android.51wnl.com, policy: reject
 domain: ad-api-log.colopl.jp, policy: reject
+domain: ad-api.4pyun.com, policy: reject
 domain: ad-api.adn-plus.com.cn, policy: reject
 domain: ad-api.cnblogs.com, policy: reject
 domain: ad-api.ehawk.com, policy: reject
@@ -12126,6 +12127,7 @@ domain: ad-drs.52qumao.com0-02.net, policy: reject
 domain: ad-ebis.bookpass.auone.jp, policy: reject
 domain: ad-ebis.mynavi-job20s.jp, policy: reject
 domain: ad-ebis.toysub.jp, policy: reject
+domain: ad-files.4pyun.com, policy: reject
 domain: ad-files.classting.com, policy: reject
 domain: ad-flow.com, policy: reject
 domain: ad-ga.nocode.com, policy: reject
@@ -12449,6 +12451,7 @@ domain: ad.mail.ru, policy: reject
 domain: ad.mail.sohu.com, policy: reject
 domain: ad.mailo.com, policy: reject
 domain: ad.mangareader.net, policy: reject
+domain: ad.maoyan.com, policy: reject
 domain: ad.mazc.org, policy: reject
 domain: ad.mcloud.139.com, policy: reject
 domain: ad.mdmd.info, policy: reject
@@ -14019,6 +14022,7 @@ domain: ads.farakav.com, policy: reject
 domain: ads.feelingtouch.com, policy: reject
 domain: ads.ferianc.com, policy: reject
 domain: ads.filmup.com, policy: reject
+domain: ads.finance.yahoo.com, policy: reject
 domain: ads.financialcontent.com, policy: reject
 domain: ads.flooble.com, policy: reject
 domain: ads.flurry.com, policy: reject
@@ -15117,6 +15121,7 @@ domain: adx-exchange.toast.com, policy: reject
 domain: adx-open-service.youku.com, policy: reject
 domain: adx-os-req.anythinktech.com, policy: reject
 domain: adx-os.anythinktech.com, policy: reject
+domain: adx-os.bridgeoos.com, policy: reject
 domain: adx-saas.advlion.com, policy: reject
 domain: adx-static.ksosoft.com, policy: reject
 domain: adx-strategy-api-cn.statisticslinks.com, policy: reject
@@ -16785,6 +16790,7 @@ domain: allsports4free.online, policy: reject
 domain: allsprang.com, policy: reject
 domain: allstarfg.actonservice.com, policy: reject
 domain: allstat-pp.ru, policy: reject
+domain: alltbcsp2p.baidu.com, policy: reject
 domain: alludedeagle.com, policy: reject
 domain: alludedrusty.com, policy: reject
 domain: allure-ng.net, policy: reject
@@ -33034,6 +33040,7 @@ domain: commercial.davey.com, policy: reject
 domain: commercial.daznservices.com, policy: reject
 domain: commercial.equifax.com, policy: reject
 domain: commercial.inform.equifax.com, policy: reject
+domain: commercial.shouji.360.cn, policy: reject
 domain: commercialregretful.com, policy: reject
 domain: commercialvalue.org, policy: reject
 domain: commiescimaise.cyou, policy: reject
@@ -47622,6 +47629,7 @@ domain: eventstream.dodopizza.com, policy: reject
 domain: eventsv2balanced.malpagames.com, policy: reject
 domain: eventtracking.hubapi.com, policy: reject
 domain: eventuryremov.com, policy: reject
+domain: eventv1.leidong.rayenergytech.com, policy: reject
 domain: eventweepinghoarse.com, policy: reject
 domain: evenyumbroadlywitharmoire.com, policy: reject
 domain: ever8trk.com, policy: reject
@@ -60589,8 +60597,10 @@ domain: huo07160hy.com, policy: reject
 domain: huo07161hy.com, policy: reject
 domain: huo07170hy.com, policy: reject
 domain: huobjyrgiqftf.site, policy: reject
+domain: huodong.ios.shouji.360.cn, policy: reject
 domain: huodong.pl.youku.com, policy: reject
 domain: huodong.vip.youku.com, policy: reject
+domain: huodong.weibo.cn, policy: reject
 domain: huohuo.huamuwo.com, policy: reject
 domain: huoju.asia, policy: reject
 domain: hupot.site, policy: reject
@@ -61230,10 +61240,12 @@ domain: iad.g.163.com, policy: reject
 domain: iad0ssl.pcauto.com.cn, policy: reject
 domain: iad0ssl.pconline.com.cn, policy: reject
 domain: iadc.qwapi.com, policy: reject
+domain: iadcontent.apple.com, policy: reject
 domain: iadctest.qwapi.com, policy: reject
 domain: iadfeed.iad.apple.com, policy: reject
 domain: iadmatapk.nosdn.127.net, policy: reject
 domain: iadmatvideo.nosdn.127.net, policy: reject
+domain: iadmoo.apple.com, policy: reject
 domain: iadmusicmat.music.126.net, policy: reject
 domain: iadmusicmatvideo.music.126.net, policy: reject
 domain: iadnet.com, policy: reject
@@ -64358,6 +64370,7 @@ domain: init.blackcrow.ai, policy: reject
 domain: init.phpwind.com, policy: reject
 domain: init.phpwind.net, policy: reject
 domain: init.startappexchange.com, policy: reject
+domain: init.supersonicads.com, policy: reject
 domain: initalshallon.cfd, policy: reject
 domain: initcorinna.cyou, policy: reject
 domain: initiallybrigadebookstore.com, policy: reject
@@ -64406,6 +64419,7 @@ domain: inmuzp.popsockets.com, policy: reject
 domain: inncreasukedrev.info, policy: reject
 domain: inner-active.com, policy: reject
 domain: inner-active.mobi, policy: reject
+domain: inner-hw.huazirc.com, policy: reject
 domain: inner.se1fve5ky.ru, policy: reject
 domain: innerskinresearch.com, policy: reject
 domain: innervetrollop.help, policy: reject
@@ -70813,6 +70827,7 @@ domain: kwnrmeykkqmqo.site, policy: reject
 domain: kwnvylweylven.online, policy: reject
 domain: kwo-0115.cc, policy: reject
 domain: kwpgeebopaqpn.site, policy: reject
+domain: kwpush.kuwo.cn, policy: reject
 domain: kwpxgsriggx.com, policy: reject
 domain: kwpybyoocw.com, policy: reject
 domain: kwqpix.ravenna.gr, policy: reject
@@ -75005,6 +75020,7 @@ domain: logrcv.yunxish.com, policy: reject
 domain: logreport-global-dual.coolbcloud.com, policy: reject
 domain: logreport-global-dual.coolhcloud.com, policy: reject
 domain: logs-api.shoprunner.com, policy: reject
+domain: logs-bigdata.yeehaw.com.cn, policy: reject
 domain: logs-ingress.svc.vinted.com, policy: reject
 domain: logs-partners.coupang.com, policy: reject
 domain: logs-sg.rebxgame.com, policy: reject
@@ -75067,6 +75083,7 @@ domain: logtake.weidian.com, policy: reject
 domain: logtj.kugou.com, policy: reject
 domain: logua.com, policy: reject
 domain: logupdate.avlyun.sec.miui.com, policy: reject
+domain: logv2.ireader.com, policy: reject
 domain: logv2.kienthuc.net.vn, policy: reject
 domain: logv2.mp3.zing.vn, policy: reject
 domain: logv3.metric.vn, policy: reject
@@ -96298,6 +96315,7 @@ domain: proll.shemrec.cc, policy: reject
 domain: prollerotolite.shop, policy: reject
 domain: prologue23.com, policy: reject
 domain: prolongmetrise.help, policy: reject
+domain: prom-sdkv2.jysper.net, policy: reject
 domain: prom.b.qq.com, policy: reject
 domain: prom.gome.com.cn, policy: reject
 domain: promblarina.help, policy: reject
@@ -101347,6 +101365,7 @@ domain: report.apkpure.net, policy: reject
 domain: report.appmetrica.yandex.net.iberostar.com, policy: reject
 domain: report.cms.qq.com, policy: reject
 domain: report.csslcloud.net, policy: reject
+domain: report.dxunion.cn, policy: reject
 domain: report.iciba.com, policy: reject
 domain: report.imtt.qq.com, policy: reject
 domain: report.mediahub.vn, policy: reject
@@ -125502,6 +125521,7 @@ domain: tracker-beam.aktuality.sk, policy: reject
 domain: tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com, policy: reject
 domain: tracker-dot-optimeeze.appspot.com, policy: reject
 domain: tracker-mw-zlivestream.zapps.vn, policy: reject
+domain: tracker-prd.aldi.com.cn, policy: reject
 domain: tracker-rec.smart-bdash.com, policy: reject
 domain: tracker-remp.active.radio, policy: reject
 domain: tracker-remp.magyarnarancs.hu, policy: reject
@@ -129756,6 +129776,7 @@ domain: unimhk.com, policy: reject
 domain: unimportantcell.pro, policy: reject
 domain: union-httpdns.gslb.yy.com, policy: reject
 domain: union-mlog.bigda.com, policy: reject
+domain: union-record.oss-cn-zhangjiakou.aliyuncs.com, policy: reject
 domain: union-wifi.com, policy: reject
 domain: union.360.cn, policy: reject
 domain: union.6.cn, policy: reject

@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-09-08 08:28:28.613285
+# Generated on 2026-09-08 15:45:15.823384
 
 ||02539717.com^
 ||08241fb.hpa163.nl^
@@ -145524,5 +145524,26 @@
 ||ads.ubestkid.com^
 ||ads.lejuliang.cn^
 ||googleads.g.doubleclick.nes^
+||ad-api.4pyun.com^
+||ad-files.4pyun.com^
+||ad.maoyan.com^
 ||ads.adfunlink.com^
+||ads.finance.yahoo.com^
+||adx-os.bridgeoos.com^
+||alltbcsp2p.baidu.com^
+||commercial.shouji.360.cn^
+||eventv1.leidong.rayenergytech.com^
+||huodong.ios.shouji.360.cn^
+||huodong.weibo.cn^
+||iadcontent.apple.com^
+||iadmoo.apple.com^
+||init.supersonicads.com^
+||inner-hw.huazirc.com^
+||kwpush.kuwo.cn^
+||logs-bigdata.yeehaw.com.cn^
+||logv2.ireader.com^
 ||mobile.events.data.microsoft.com^
+||prom-sdkv2.jysper.net^
+||report.dxunion.cn^
+||tracker-prd.aldi.com.cn^
+||union-record.oss-cn-zhangjiakou.aliyuncs.com^

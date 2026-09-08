@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-09-08 08:28:32
-# 规则总数: 145563
+# 更新时间: 2026-09-08 15:45:19
+# 规则总数: 145584
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -12091,6 +12091,7 @@ domain, ad-admin.vnay.vn
 domain, ad-analysis.pconline.com.cn
 domain, ad-android.51wnl.com
 domain, ad-api-log.colopl.jp
+domain, ad-api.4pyun.com
 domain, ad-api.adn-plus.com.cn
 domain, ad-api.cnblogs.com
 domain, ad-api.ehawk.com
@@ -12126,6 +12127,7 @@ domain, ad-drs.52qumao.com0-02.net
 domain, ad-ebis.bookpass.auone.jp
 domain, ad-ebis.mynavi-job20s.jp
 domain, ad-ebis.toysub.jp
+domain, ad-files.4pyun.com
 domain, ad-files.classting.com
 domain, ad-flow.com
 domain, ad-ga.nocode.com
@@ -12449,6 +12451,7 @@ domain, ad.mail.ru
 domain, ad.mail.sohu.com
 domain, ad.mailo.com
 domain, ad.mangareader.net
+domain, ad.maoyan.com
 domain, ad.mazc.org
 domain, ad.mcloud.139.com
 domain, ad.mdmd.info
@@ -14019,6 +14022,7 @@ domain, ads.farakav.com
 domain, ads.feelingtouch.com
 domain, ads.ferianc.com
 domain, ads.filmup.com
+domain, ads.finance.yahoo.com
 domain, ads.financialcontent.com
 domain, ads.flooble.com
 domain, ads.flurry.com
@@ -15117,6 +15121,7 @@ domain, adx-exchange.toast.com
 domain, adx-open-service.youku.com
 domain, adx-os-req.anythinktech.com
 domain, adx-os.anythinktech.com
+domain, adx-os.bridgeoos.com
 domain, adx-saas.advlion.com
 domain, adx-static.ksosoft.com
 domain, adx-strategy-api-cn.statisticslinks.com
@@ -16785,6 +16790,7 @@ domain, allsports4free.online
 domain, allsprang.com
 domain, allstarfg.actonservice.com
 domain, allstat-pp.ru
+domain, alltbcsp2p.baidu.com
 domain, alludedeagle.com
 domain, alludedrusty.com
 domain, allure-ng.net
@@ -33034,6 +33040,7 @@ domain, commercial.davey.com
 domain, commercial.daznservices.com
 domain, commercial.equifax.com
 domain, commercial.inform.equifax.com
+domain, commercial.shouji.360.cn
 domain, commercialregretful.com
 domain, commercialvalue.org
 domain, commiescimaise.cyou
@@ -47622,6 +47629,7 @@ domain, eventstream.dodopizza.com
 domain, eventsv2balanced.malpagames.com
 domain, eventtracking.hubapi.com
 domain, eventuryremov.com
+domain, eventv1.leidong.rayenergytech.com
 domain, eventweepinghoarse.com
 domain, evenyumbroadlywitharmoire.com
 domain, ever8trk.com
@@ -60589,8 +60597,10 @@ domain, huo07160hy.com
 domain, huo07161hy.com
 domain, huo07170hy.com
 domain, huobjyrgiqftf.site
+domain, huodong.ios.shouji.360.cn
 domain, huodong.pl.youku.com
 domain, huodong.vip.youku.com
+domain, huodong.weibo.cn
 domain, huohuo.huamuwo.com
 domain, huoju.asia
 domain, hupot.site
@@ -61230,10 +61240,12 @@ domain, iad.g.163.com
 domain, iad0ssl.pcauto.com.cn
 domain, iad0ssl.pconline.com.cn
 domain, iadc.qwapi.com
+domain, iadcontent.apple.com
 domain, iadctest.qwapi.com
 domain, iadfeed.iad.apple.com
 domain, iadmatapk.nosdn.127.net
 domain, iadmatvideo.nosdn.127.net
+domain, iadmoo.apple.com
 domain, iadmusicmat.music.126.net
 domain, iadmusicmatvideo.music.126.net
 domain, iadnet.com
@@ -64358,6 +64370,7 @@ domain, init.blackcrow.ai
 domain, init.phpwind.com
 domain, init.phpwind.net
 domain, init.startappexchange.com
+domain, init.supersonicads.com
 domain, initalshallon.cfd
 domain, initcorinna.cyou
 domain, initiallybrigadebookstore.com
@@ -64406,6 +64419,7 @@ domain, inmuzp.popsockets.com
 domain, inncreasukedrev.info
 domain, inner-active.com
 domain, inner-active.mobi
+domain, inner-hw.huazirc.com
 domain, inner.se1fve5ky.ru
 domain, innerskinresearch.com
 domain, innervetrollop.help
@@ -70813,6 +70827,7 @@ domain, kwnrmeykkqmqo.site
 domain, kwnvylweylven.online
 domain, kwo-0115.cc
 domain, kwpgeebopaqpn.site
+domain, kwpush.kuwo.cn
 domain, kwpxgsriggx.com
 domain, kwpybyoocw.com
 domain, kwqpix.ravenna.gr
@@ -75005,6 +75020,7 @@ domain, logrcv.yunxish.com
 domain, logreport-global-dual.coolbcloud.com
 domain, logreport-global-dual.coolhcloud.com
 domain, logs-api.shoprunner.com
+domain, logs-bigdata.yeehaw.com.cn
 domain, logs-ingress.svc.vinted.com
 domain, logs-partners.coupang.com
 domain, logs-sg.rebxgame.com
@@ -75067,6 +75083,7 @@ domain, logtake.weidian.com
 domain, logtj.kugou.com
 domain, logua.com
 domain, logupdate.avlyun.sec.miui.com
+domain, logv2.ireader.com
 domain, logv2.kienthuc.net.vn
 domain, logv2.mp3.zing.vn
 domain, logv3.metric.vn
@@ -96298,6 +96315,7 @@ domain, proll.shemrec.cc
 domain, prollerotolite.shop
 domain, prologue23.com
 domain, prolongmetrise.help
+domain, prom-sdkv2.jysper.net
 domain, prom.b.qq.com
 domain, prom.gome.com.cn
 domain, promblarina.help
@@ -101347,6 +101365,7 @@ domain, report.apkpure.net
 domain, report.appmetrica.yandex.net.iberostar.com
 domain, report.cms.qq.com
 domain, report.csslcloud.net
+domain, report.dxunion.cn
 domain, report.iciba.com
 domain, report.imtt.qq.com
 domain, report.mediahub.vn
@@ -125502,6 +125521,7 @@ domain, tracker-beam.aktuality.sk
 domain, tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
 domain, tracker-dot-optimeeze.appspot.com
 domain, tracker-mw-zlivestream.zapps.vn
+domain, tracker-prd.aldi.com.cn
 domain, tracker-rec.smart-bdash.com
 domain, tracker-remp.active.radio
 domain, tracker-remp.magyarnarancs.hu
@@ -129756,6 +129776,7 @@ domain, unimhk.com
 domain, unimportantcell.pro
 domain, union-httpdns.gslb.yy.com
 domain, union-mlog.bigda.com
+domain, union-record.oss-cn-zhangjiakou.aliyuncs.com
 domain, union-wifi.com
 domain, union.360.cn
 domain, union.6.cn
