@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-09-08 19:10:31（北京时间）
-# 共 145520 个域名
+# 生成时间: 2026-09-08 22:13:41（北京时间）
+# 共 145447 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -12182,10 +12182,8 @@ ad-vice.biz
 ad-vortex.com
 ad-wheel.com
 ad.100.tbn.ru
-ad.10010.com
 ad.1111cpc.com
 ad.12306.cn
-ad.163.com
 ad.17173.com
 ad.1kxun.com
 ad.22betpartners.com
@@ -12203,7 +12201,6 @@ ad.52av.tv
 ad.71i.de
 ad.95306.cn
 ad.99jiasu.com
-ad.a.yximgs.com
 ad.a8.net
 ad.about.co.kr
 ad.aboutwebservices.com
@@ -12276,7 +12273,6 @@ ad.daum.net
 ad.ddo.jp
 ad.dedecms.com
 ad.deepthought.industries
-ad.dev.360.cn
 ad.digitallook.com
 ad.digitimes.com.tw
 ad.directmirror.com
@@ -12322,7 +12318,6 @@ ad.foxnetworks.com
 ad.funp.com
 ad.funshion.org.cn
 ad.fx168api.com
-ad.gamebox.360.cn
 ad.gameley.com
 ad.games.ch
 ad.gametower.com.tw
@@ -12530,7 +12525,6 @@ ad.sitemaji.com
 ad.slimspots.com
 ad.slutload.com
 ad.smaad.jp
-ad.smaato.net
 ad.smartclip.net
 ad.sohu.com
 ad.spielothek.so
@@ -12735,10 +12729,8 @@ adashx.ut.alibaba.com
 adashx.ut.amap.com
 adashx.ut.cainiao.com
 adashx.ut.dingtalk.com
-adashx.ut.hzshudian.com
 adashx.ut.shuqi.com
 adashx.ut.taobao.com
-adashx.ut.uc.cn
 adashx.ut.youku.com
 adashx4ae.ut.taobao.com
 adashx4id.ut.taobao.com
@@ -13226,7 +13218,6 @@ adimages.marriagetrac.com
 adimages.rtvdrenthe.nl
 adimages.sina.com.hk
 adimages.sniffies.com
-adimg.163.com
 adimg.bbcss.com
 adimg.com.com
 adimg.cqnews.net
@@ -13319,7 +13310,6 @@ adland.ru
 adlane.info
 adlantic.nl
 adlaunch.moji.com
-adlaunch.qingting.fm
 adlaunch.qtfm.cn
 adlc-exchange.toast.com
 adldjzbilxgpu.website
@@ -14122,7 +14112,6 @@ ads.msdigital.vn
 ads.msn.com
 ads.multimania.lycos.fr
 ads.museum.or.jp
-ads.music.126.net
 ads.networksolutions.com
 ads.newgrounds.com
 ads.newmedia.cz
@@ -14515,7 +14504,6 @@ adserverpub.com
 adserversolutions.com
 adservetx.media.net
 adservice.aiyouaiyou.cn
-adservice.google.cn
 adservice.google.com
 adservice.huawei.com
 adservice.kugou.com
@@ -14674,7 +14662,6 @@ adstat.4u.pl
 adstat.cp11.ott.cibntv.net
 adstat.izuiyou.com
 adstatic.kozoom.com
-adstatic.zhihu.com
 adstatis.99jiasu.com
 adstatistics.av380.net
 adstats.tencentmusic.com
@@ -14976,7 +14963,6 @@ advertiseconclusiveactual.com
 advertisefranzsorrowful.com
 advertiseireland.com
 advertisementhappy.com
-advertiseonbing.azureedge.net
 advertisercommunity.com
 advertisers.app-shake.com
 advertisers.revenuehits.com
@@ -15100,7 +15086,6 @@ adx-drcn.op.dbankcloud.cn
 adx-dre.op.hicloud.com
 adx-exchange.toast.com
 adx-open-service.youku.com
-adx-os-req.anythinktech.com
 adx-os.anythinktech.com
 adx-os.bridgeoos.com
 adx-saas.advlion.com
@@ -17546,7 +17531,6 @@ analytics.changiairport.com
 analytics.chase.com
 analytics.chattarize.de
 analytics.chegg.com
-analytics.cherry-ai.com
 analytics.chilevision.cl
 analytics.churchthemes.com
 analytics.churnzero.net
@@ -17730,7 +17714,6 @@ analytics.ifanrusercontent.com
 analytics.ifood.tv
 analytics.ihg.com
 analytics.ikyu.com
-analytics.immersivetranslate.com
 analytics.innologica.com
 analytics.inquirernetwork.net
 analytics.inquisitr.com
@@ -20208,7 +20191,6 @@ appcfg.v.qq.com
 appchannel.html5.qq.com
 appclick.net
 appcloud.appyreward.com
-appcloud2.in.zhihu.com
 appcloud2.zhihu.com
 appcpa.net
 appcpi.net
@@ -37944,7 +37926,6 @@ data-ssl.stepstone.de
 data-ssl.stepstone.fr
 data-ssl.stepstone.nl
 data-ssl.stepstone.pl
-data-track.yingxiong.com
 data-transfer-srv.starkwind.coupons
 data-video.71edge.com
 data.2ask.blue.com.hk
@@ -40879,7 +40860,6 @@ disobeyrecreate.com
 disorderchannel.com
 disorderpublishrecords.com
 disowncremone.cfd
-disp.titan.mgtv.com
 disparagewardenbetrayal.com
 disparityanalogy.com
 disparitydegenerateconstrict.com
@@ -42151,7 +42131,6 @@ downloads.mcgladrey.com
 downloadshi.b-cdn.net
 downloadxml.changhong.upgrade2.huan.tv
 downloadyt.com
-downmini.kugou.com
 downmobile.kugou.com
 downnora.me
 downpayment.fernsby.com
@@ -47412,7 +47391,6 @@ event.tradedealer.ru
 event.tradplusad.com
 event.webcollage.net
 event.wondershare.com
-event.zhihu.com
 event1.thermofisher.com
 event1.thermoscientific.com
 event3.thermofisher.com
@@ -47808,7 +47786,6 @@ excellingvista.com
 excellojapanel.org
 excepededonef.org
 exceptingpealstipulate.com
-exceptionlog.kugou.com
 excernquiffs.shop
 excessiveunwind.com
 exchange-it.com
@@ -47948,9 +47925,6 @@ expectpearl.com
 expededmagsgrabber.cfd
 expeditionbudgetlikely.com
 expelteemperson.com
-expendablekmr.kugou.com
-expendablekmrcdn.kugou.com
-expendablekmrcdnretry.kugou.com
 expenddelusiondebris.com
 expendmeg.com
 expendtaping.com
@@ -56117,7 +56091,6 @@ granulargame.com
 grap3-llow.grape1shipping.coupons
 grapefruitstarchbeep.com
 grapeshot.co.uk
-graph.facebook.com
 grappayeshiva.qpon
 graptaupsi.net
 graqtcdjzqmib.store
@@ -57330,12 +57303,9 @@ gzyxqdhtkomzx.space
 gzyznuiaeqzlv.website
 gzzfcmflxfspx.store
 h-adashx.ut.alibaba.com
-h-adashx.ut.amap.com
 h-adashx.ut.cainiao.com
 h-adashx.ut.dingtalk.com
-h-adashx.ut.hzshudian.com
 h-adashx.ut.taobao.com
-h-adashx.ut.uc.cn
 h-adashx.ut.youku.com
 h-adashx4bc.ut.taobao.com
 h-adashx4id.ut.taobao.com
@@ -67441,7 +67411,6 @@ joltstactual.qpon
 joluw.net
 jombfyktowaqp.space
 jomistress.com
-jomodns.cn
 jomoukrebsoxy.net
 jomoxc.com
 jomphoelubekg.site
@@ -67738,7 +67707,6 @@ jrzgvazyluetk.website
 jrzrqi0au.com
 jrzslkcsswbga.website
 js-1.pchome.net
-js-ad.a.yximgs.com
 js-agent.newrelic.com
 js-apac-ss.ysm.yahoo.com
 js-check.com
@@ -69912,8 +69880,6 @@ kmqhmn.helen-marlen.com
 kmqianneng66.com
 kmqqewmthmocc.online
 kmr.enrosr.cn
-kmr.service.kugou.com
-kmrcdn.service.kugou.com
 kmrfinwhizkpe.site
 kmrfxxxyogzka.space
 kmrvvsdgfainp.space
@@ -71705,7 +71671,6 @@ lbynwfntolegb.site
 lbzyjmbvmkovm.top
 lbzyjmbvmkqkj.top
 lc-event.pixiv.net
-lc-push.zhihu.com
 lc.jiathis.com
 lc.recopick.com
 lcajlfzzjbbos.website
@@ -74454,7 +74419,6 @@ log-player.arte.tv
 log-pq.shopfully.cloud
 log-pub-hk.aoshitang.com
 log-report.com
-log-sdk.clickwifi.net
 log-sdk.gifshow.com
 log-sdk.ksapisrv.com
 log-sg.bytegsdk.com
@@ -74726,10 +74690,8 @@ log.zingnews.vn
 log.znews.vn
 log.zongheng.com
 log0-applog-lq.fqnovel.com
-log0-misc-alinc2.amemv.com
 log0-misc-hl.amemv.com
 log0-misc-lf.amemv.com
-log0-misc-lq.amemv.com
 log000.goo.ne.jp
 log002.commutil.kr
 log1.17173.com
@@ -74753,15 +74715,10 @@ log2.sina.cn
 log2.spotify.com
 log2.wanmei.com
 log3-applog-lq.fqnovel.com
-log3-misc-lf.amemv.com
-log3-misc-lq.amemv.com
-log3-normal-hl.toutiaoapi.com
 log33.syslog-remote-buffer.coupons
 log4x.nixcdn.com
 log5-applog-hl.fqnovel.com
 log5-misc-hl.amemv.com
-log5-misc-lf.amemv.com
-log5-misc-lq.amemv.com
 log6.reader.qq.com
 logairdauraumoo.net
 logan.sankuai.com
@@ -75033,7 +74990,6 @@ logsk.glomancloud.gr
 logssug.ucweb.com
 logstash-3.radio-canada.ca
 logstat.caixin.com
-logstat.kugou.com
 logstat.t.sfht.com
 logtail.com
 logtake.weidian.com
@@ -79519,7 +79475,6 @@ mccylg.rutlandcycling.com
 mcdmetric.aaa.com
 mcdmetrics.aaa.com
 mcdmetrics2.aaa.com
-mcdn.bilivideo.cn
 mcdn.kandian.qq.com
 mcdwfed.cn
 mceikiriyhpmo.online
@@ -82318,7 +82273,6 @@ miltsurgency.help
 miluwo.com
 milvuslepaanous.cyou
 mimakiusa.actonservice.com
-mime.baidu.com
 mimeioagotwvo.online
 mimerestates.top
 mimg.126.net
@@ -82932,7 +82886,6 @@ mmfykwayhgftt.space
 mmg.aty.cp45.ott.cibntv.net
 mmg.aty.snmsohu.aisee.tv
 mmg.whatsapp.net.iberostar.com
-mmgame.qpic.cn
 mmgg62.com
 mmgzxnkwgjpnx.space
 mmhfukqmmzrx.com
@@ -83926,7 +83879,6 @@ mqroacgihsprk.space
 mqs.ioam.de
 mqsicr.smiggle.co.uk
 mqszaiyafukar.online
-mqtt.zhihu.com
 mquk8v2e2q963bb.cfd
 mquoemywissvp.tech
 mqutibglqfjmq.website
@@ -89773,7 +89725,6 @@ onestatfree.com
 onestra.click
 onetad.com
 onetag-sys.com
-onethingpcs.com
 onetouch4.com
 onetouch6.com
 onetouch8.info
@@ -90055,7 +90006,6 @@ opbz.pincerloom.ru
 opclck.com
 opdh.cn
 opdhcaoujxazk.space
-ope.tanx.com
 opealleven.com
 opeanresultanc.com
 opehs.tanx.com
@@ -90818,8 +90768,6 @@ otracks.workday.com
 otrnww.pipingrock.com
 otsoasxgsyabr.online
 otswhtxkfprcy.online
-ott-v0-al.data.mgtv.com
-ott.v1.data.mgtv.com
 ottawa-content.cresa.com
 ottbquetbznbx.space
 otter.emdegmbh.com
@@ -91586,8 +91534,6 @@ p1-feedback.byteimg.com
 p1-ff.adkwai.com
 p1-lm.adkwai.com
 p1-lm.adukwai.com
-p1-play.edge4k.com
-p1-play.kgslb.com
 p1.18zhongyao.com
 p1.360soucha.com
 p1.adkwai.com
@@ -91623,7 +91569,6 @@ p2-ad.adukwai.com
 p2-be-pack-sign.pglstatp-toutiao.com
 p2-lm.adkwai.com
 p2-lm.adukwai.com
-p2-play.edge4k.com
 p2.adkwai.com
 p2.b1eedu4yuk.ru
 p2.danskebank.co.uk
@@ -91651,7 +91596,6 @@ p2h08fn94d.com
 p2kfynrr.icu
 p2muoczf5.com
 p2ov4cfd.bi8otz1on.ru
-p2p.huya.com
 p2pchunk-table.douyucdn.cn
 p2plive-ali.douyucdn.cn
 p2pmid.baofeng.com
@@ -96659,7 +96603,6 @@ pstciayvpsmhj.site
 pstnbnpsjvgrz.com
 pstreetma.com
 pstt.mtb-news.de
-pstun.kugou.com
 pstvvb.xyz
 psucmazailsaps.net
 psudsoockaign.net
@@ -101040,7 +100983,6 @@ reklamko.pro
 reklammen.spellchecker.lu
 reklamstore.cubecdn.net
 reknockrenew.shop
-reksaidnslog.security.mihoyo.com
 rel-link.californiapsychics.com
 rel-s.com
 rel.msn.com
@@ -104241,7 +104183,6 @@ rzxxflvdnvtws.vip
 rzycnidbqwnjl.website
 rzzwgowiotgft.online
 s-ad.rmp.rakuten.co.jp
-s-adashx.ut.uc.cn
 s-adobe.wacoal.jp
 s-adobeanalytics.vice.com
 s-adx.op-mobile.opera.com
@@ -106700,7 +106641,6 @@ search3-search.ixigua.com
 search4sports.com
 search5-search-hl.ixigua.com
 search5-search.ixigua.com
-searchads.apple.com
 searchapp.space
 searchdatestoday.com
 searchignited.com
@@ -107652,7 +107592,6 @@ sentimentbuttertrapped.com
 sentimentssmuggleask.com
 sentinelol.com
 sentry-app.ireader.com
-sentry.d.xiaomi.net
 sentry.eks.hoyoverse.com
 sentry.fintopia.tech
 sentry.io
@@ -113413,7 +113352,6 @@ softonicads.com
 softpopads.com
 softresumesuperserver.com
 softshock.pro
-softstart.kugou.com
 softtemperature.com
 softtouch.velvetroad.coupons
 softwarez.site
@@ -114452,7 +114390,6 @@ splash.appsgeyser.com
 splash.dunkr1n5her.ru
 splash.notifysrv.com
 splashfailed.com
-splashimgbssdl.yun.kugou.com
 splashqqlive.gtimg.com
 splaysyrian.help
 spleennest.com
@@ -118152,12 +118089,9 @@ stummelbeelbow.com
 stump.defore5tm0unt.ru
 stumpsmug.com
 stumsagas.digital
-stun.douyucdn.cn
 stun.hitv.com
-stun.kugou.com
 stun.qqlive.qq.com
 stun.syncthing.net
-stun1.douyucdn.cn
 stunkfleasnought.cyou
 stunning-base.pro
 stunning-lift.com
@@ -121615,7 +121549,6 @@ terminalinmatesupreme.com
 terminatefaltergrunt.com
 terminipigful.cfd
 termite.queerburners.org
-terms-drcn.platform.dbankcloud.cn
 terms.alicdn.com
 termsvictim.com
 termvb.xyz
@@ -122663,7 +122596,6 @@ tj.b.qq.com
 tj.com.day
 tj.gre2tre7ue.ru
 tj.img4399.com
-tj.kugou.com
 tj.sosomp.com
 tj.video.qq.com
 tj4.czpnpjrg.xyz
@@ -129720,7 +129652,6 @@ union-httpdns.gslb.yy.com
 union-mlog.bigda.com
 union-record.oss-cn-zhangjiakou.aliyuncs.com
 union-wifi.com
-union.360.cn
 union.6.cn
 union.baidu.cn
 union.baidu.com
@@ -129766,7 +129697,6 @@ units.knotch.it
 unitusccu.actonservice.com
 unitv-apk.org
 unityads.unity3d.com
-unityads.unitychina.cn
 universal.okane-reco-plus.com
 universal.shakaguide.com
 universal.wgplayer.com
@@ -133799,9 +133729,7 @@ vs.cloudsh1ft.ru
 vs.funshion.com
 vs.target.com
 vs.verisure.fr
-vs1.szcu.u3.ucweb.com
 vs19.gzcu.u3.ucweb.com
-vs2.bjct.u3.ucweb.com
 vs2.gzcu.u3.ucweb.com
 vs3.com
 vs7.gzcu.u3.ucweb.com
@@ -143087,7 +143015,6 @@ yry62x1vwl.com
 yryxwlovbdyjm.site
 yrzjtrlzdrewa.site
 yrzkvwrrpampg.online
-ys-log-upload-os.hoyoverse.com
 ys.jazzm1s8uid.ru
 ys2000.cdn.bcebos.com
 ysaaks.mobiauto.com.br
