@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-09-09 06:13:44
-! 有效规则数量: 3985 条
+! 规则更新时间: 2026-09-09 10:22:33
+! 有效规则数量: 4014 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -3139,6 +3139,35 @@
 @@||monetag.com^$important
 @@||ahrefs.com^$important
 @@||haohuo.jinritemai.com^ 
+@@||gitee.io^
+@@||douyinstatic.com^
+@@||toutiaostatic.com^
+@@||epochtimes.com^
+@@||yqc-premium.me^
+@@||bytedanceapi.com^
+@@||mangacopy.com^
+@@||mangabz.com^
+@@||assistant.miui.com^
+@@||s.yimg.com^
+@@||api.ke.com^
+@@||updata.miui.com^
+@@||lsposed.org^
+@@||quoracdn.net^
+@@||push.yximgs.com^
+@@||static.inkuai.com^
+@@||push.apple.com^
+@@||xmpush.xiaomi.com^
+@@||tuisong.baidu.com^
+@@||tpns.sh.tencent.com^
+@@||tinyurl.com^
+@@||tool.lu^
+@@||samsungknox.com^
+@@||galaxyappstore.com^
+@@||knowsex.net^
+@@||ecosia.org^
+@@||www.e0734.com^
+@@||byteimg.com.queniusy.com^
+@@||micloud.xiaomi.net^
 @@||img.zbt.com*/market-$script
 @@||apm.zhihu.com^
 @@||app.zhuanzhuan.com^$important
