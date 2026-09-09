@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-09-09 08:31:10（北京时间）
-# 共 145521 个域名
+# 生成时间: 2026-09-09 15:40:06（北京时间）
+# 共 145523 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -105256,6 +105256,7 @@ safebk.shop
 safebrowsdv.com
 safebrowsing.apple
 safebrowsing.urlsec.gg.com
+safebrowsing.urlsec.qq.com
 safecoffee.pro
 safeglimmerlongitude.com
 safeguard.censure47contr.coupons
@@ -125613,6 +125614,7 @@ trackhorizon.nnmtools.com
 tracki.click
 trackid.globoid.globo.com
 trackimpression.com
+tracking-adnet.vivo.com.cn
 tracking-amp.vnexpress.net
 tracking-api-4lasu2nlcq-ew.a.run.app
 tracking-api.bookzone.ro

@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-09-09 08:31:13
-# 规则总数: 145585
+# 更新时间: 2026-09-09 15:40:09
+# 规则总数: 145587
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -105312,6 +105312,7 @@ domain, safebk.shop
 domain, safebrowsdv.com
 domain, safebrowsing.apple
 domain, safebrowsing.urlsec.gg.com
+domain, safebrowsing.urlsec.qq.com
 domain, safecoffee.pro
 domain, safeglimmerlongitude.com
 domain, safeguard.censure47contr.coupons
@@ -125670,6 +125671,7 @@ domain, trackhorizon.nnmtools.com
 domain, tracki.click
 domain, trackid.globoid.globo.com
 domain, trackimpression.com
+domain, tracking-adnet.vivo.com.cn
 domain, tracking-amp.vnexpress.net
 domain, tracking-api-4lasu2nlcq-ew.a.run.app
 domain, tracking-api.bookzone.ro

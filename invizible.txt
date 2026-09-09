@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-09-09 08:31:13
-# 规则总数: 145585
+# 更新时间: 2026-09-09 15:40:08
+# 规则总数: 145587
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -105312,6 +105312,7 @@ safebk.shop block
 safebrowsdv.com block
 safebrowsing.apple block
 safebrowsing.urlsec.gg.com block
+safebrowsing.urlsec.qq.com block
 safecoffee.pro block
 safeglimmerlongitude.com block
 safeguard.censure47contr.coupons block
@@ -125670,6 +125671,7 @@ trackhorizon.nnmtools.com block
 tracki.click block
 trackid.globoid.globo.com block
 trackimpression.com block
+tracking-adnet.vivo.com.cn block
 tracking-amp.vnexpress.net block
 tracking-api-4lasu2nlcq-ew.a.run.app block
 tracking-api.bookzone.ro block

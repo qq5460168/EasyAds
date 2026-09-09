@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-09-09 08:31:13
-# 规则总数: 145585
+# 更新时间: 2026-09-09 15:40:09
+# 规则总数: 145587
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -105312,6 +105312,7 @@
 0.0.0.0 safebrowsdv.com
 0.0.0.0 safebrowsing.apple
 0.0.0.0 safebrowsing.urlsec.gg.com
+0.0.0.0 safebrowsing.urlsec.qq.com
 0.0.0.0 safecoffee.pro
 0.0.0.0 safeglimmerlongitude.com
 0.0.0.0 safeguard.censure47contr.coupons
@@ -125670,6 +125671,7 @@
 0.0.0.0 tracki.click
 0.0.0.0 trackid.globoid.globo.com
 0.0.0.0 trackimpression.com
+0.0.0.0 tracking-adnet.vivo.com.cn
 0.0.0.0 tracking-amp.vnexpress.net
 0.0.0.0 tracking-api-4lasu2nlcq-ew.a.run.app
 0.0.0.0 tracking-api.bookzone.ro

@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-09-09 16:31:10
-# 规则统计: 总计145524条 (IP:146 DOMAIN:0 SUFFIX:145378 KEYWORD:0)
+# 更新时间(北京时间): 2026-09-09 23:40:06
+# 规则统计: 总计145526条 (IP:146 DOMAIN:0 SUFFIX:145380 KEYWORD:0)
 
 # IP规则
 IP-CIDR,10.130.208.223,REJECT,no-resolve
@@ -105260,6 +105260,7 @@ DOMAIN-SUFFIX,safebk.shop,REJECT
 DOMAIN-SUFFIX,safebrowsdv.com,REJECT
 DOMAIN-SUFFIX,safebrowsing.apple,REJECT
 DOMAIN-SUFFIX,safebrowsing.urlsec.gg.com,REJECT
+DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com,REJECT
 DOMAIN-SUFFIX,safecoffee.pro,REJECT
 DOMAIN-SUFFIX,safeglimmerlongitude.com,REJECT
 DOMAIN-SUFFIX,safeguard.censure47contr.coupons,REJECT
@@ -125618,6 +125619,7 @@ DOMAIN-SUFFIX,trackhorizon.nnmtools.com,REJECT
 DOMAIN-SUFFIX,tracki.click,REJECT
 DOMAIN-SUFFIX,trackid.globoid.globo.com,REJECT
 DOMAIN-SUFFIX,trackimpression.com,REJECT
+DOMAIN-SUFFIX,tracking-adnet.vivo.com.cn,REJECT
 DOMAIN-SUFFIX,tracking-amp.vnexpress.net,REJECT
 DOMAIN-SUFFIX,tracking-api-4lasu2nlcq-ew.a.run.app,REJECT
 DOMAIN-SUFFIX,tracking-api.bookzone.ro,REJECT

@@ -145543,5 +145543,7 @@
 ||mobile.events.data.microsoft.com^
 ||prom-sdkv2.jysper.net^
 ||report.dxunion.cn^
+||safebrowsing.urlsec.qq.com^
 ||tracker-prd.aldi.com.cn^
+||tracking-adnet.vivo.com.cn^
 ||union-record.oss-cn-zhangjiakou.aliyuncs.com^

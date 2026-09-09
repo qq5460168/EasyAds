@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-09-09 08:31:12
-# 规则总数: 145585
+# 更新时间: 2026-09-09 15:40:08
+# 规则总数: 145587
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -105312,6 +105312,7 @@ domain: safebk.shop, policy: reject
 domain: safebrowsdv.com, policy: reject
 domain: safebrowsing.apple, policy: reject
 domain: safebrowsing.urlsec.gg.com, policy: reject
+domain: safebrowsing.urlsec.qq.com, policy: reject
 domain: safecoffee.pro, policy: reject
 domain: safeglimmerlongitude.com, policy: reject
 domain: safeguard.censure47contr.coupons, policy: reject
@@ -125670,6 +125671,7 @@ domain: trackhorizon.nnmtools.com, policy: reject
 domain: tracki.click, policy: reject
 domain: trackid.globoid.globo.com, policy: reject
 domain: trackimpression.com, policy: reject
+domain: tracking-adnet.vivo.com.cn, policy: reject
 domain: tracking-amp.vnexpress.net, policy: reject
 domain: tracking-api-4lasu2nlcq-ew.a.run.app, policy: reject
 domain: tracking-api.bookzone.ro, policy: reject

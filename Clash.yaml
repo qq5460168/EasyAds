@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-09-09 08:31:12
-# 规则总数: 145585
+# 更新时间: 2026-09-09 15:40:08
+# 规则总数: 145587
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -105313,6 +105313,7 @@ payload:
   - 'safebrowsdv.com'
   - 'safebrowsing.apple'
   - 'safebrowsing.urlsec.gg.com'
+  - 'safebrowsing.urlsec.qq.com'
   - 'safecoffee.pro'
   - 'safeglimmerlongitude.com'
   - 'safeguard.censure47contr.coupons'
@@ -125671,6 +125672,7 @@ payload:
   - 'tracki.click'
   - 'trackid.globoid.globo.com'
   - 'trackimpression.com'
+  - 'tracking-adnet.vivo.com.cn'
   - 'tracking-amp.vnexpress.net'
   - 'tracking-api-4lasu2nlcq-ew.a.run.app'
   - 'tracking-api.bookzone.ro'

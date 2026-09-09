@@ -145469,5 +145469,7 @@ DOMAIN,logv2.ireader.com,reject
 DOMAIN,mobile.events.data.microsoft.com,reject
 DOMAIN,prom-sdkv2.jysper.net,reject
 DOMAIN,report.dxunion.cn,reject
+DOMAIN,safebrowsing.urlsec.qq.com,reject
 DOMAIN,tracker-prd.aldi.com.cn,reject
+DOMAIN,tracking-adnet.vivo.com.cn,reject
 DOMAIN,union-record.oss-cn-zhangjiakou.aliyuncs.com,reject
