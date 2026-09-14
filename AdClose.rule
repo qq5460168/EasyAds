@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-09-13 21:59:47
-# 规则总数: 145587
+# 更新时间: 2026-09-14 02:39:04
+# 规则总数: 145588
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -56267,6 +56267,7 @@ domain, greenplasticdua.com
 domain, greensainsed.net
 domain, greensignificance.com
 domain, greenstore.kiwi5pack.coupons
+domain, greentrafsa.com
 domain, greenwild.wildfern.in.net
 domain, greenxcx.com
 domain, greenxfs.down.123ch.cn

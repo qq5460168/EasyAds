@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-09-13 21:59:44（北京时间）
-# 共 145523 个域名
+# 生成时间: 2026-09-14 02:39:01（北京时间）
+# 共 145524 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -56237,6 +56237,7 @@ greenplasticdua.com
 greensainsed.net
 greensignificance.com
 greenstore.kiwi5pack.coupons
+greentrafsa.com
 greenwild.wildfern.in.net
 greenxcx.com
 greenxfs.down.123ch.cn

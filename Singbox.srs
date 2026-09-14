@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-09-13 21:59:46
-# 规则总数: 145587
+# 更新时间: 2026-09-14 02:39:04
+# 规则总数: 145588
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -56267,6 +56267,7 @@ domain: greenplasticdua.com, policy: reject
 domain: greensainsed.net, policy: reject
 domain: greensignificance.com, policy: reject
 domain: greenstore.kiwi5pack.coupons, policy: reject
+domain: greentrafsa.com, policy: reject
 domain: greenwild.wildfern.in.net, policy: reject
 domain: greenxcx.com, policy: reject
 domain: greenxfs.down.123ch.cn, policy: reject

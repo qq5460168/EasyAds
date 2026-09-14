@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-09-13 21:59:46
-# 规则总数: 145587
+# 更新时间: 2026-09-14 02:39:04
+# 规则总数: 145588
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -56267,6 +56267,7 @@ greenplasticdua.com block
 greensainsed.net block
 greensignificance.com block
 greenstore.kiwi5pack.coupons block
+greentrafsa.com block
 greenwild.wildfern.in.net block
 greenxcx.com block
 greenxfs.down.123ch.cn block

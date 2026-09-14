@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-09-13 21:59:46
-# 规则总数: 145587
+# 更新时间: 2026-09-14 02:39:04
+# 规则总数: 145588
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -56268,6 +56268,7 @@ payload:
   - 'greensainsed.net'
   - 'greensignificance.com'
   - 'greenstore.kiwi5pack.coupons'
+  - 'greentrafsa.com'
   - 'greenwild.wildfern.in.net'
   - 'greenxcx.com'
   - 'greenxfs.down.123ch.cn'

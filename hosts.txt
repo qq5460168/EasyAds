@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-09-13 21:59:47
-# 规则总数: 145587
+# 更新时间: 2026-09-14 02:39:04
+# 规则总数: 145588
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -56267,6 +56267,7 @@
 0.0.0.0 greensainsed.net
 0.0.0.0 greensignificance.com
 0.0.0.0 greenstore.kiwi5pack.coupons
+0.0.0.0 greentrafsa.com
 0.0.0.0 greenwild.wildfern.in.net
 0.0.0.0 greenxcx.com
 0.0.0.0 greenxfs.down.123ch.cn
