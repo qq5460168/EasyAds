@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-09-15 06:53:49
-! 有效规则数量: 4014 条
+! 规则更新时间: 2026-09-15 10:42:52
+! 有效规则数量: 4022 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -2489,6 +2489,7 @@
 @@||img2.tapimg.com^
 @@||img3.tapimg.com^
 @@||img4.qy0.ru^
+@@||imga*.5054399.com^
 @@||imgessl.kugou.com^
 @@||inporn.com^
 @@||intro.limestart.cn^
@@ -2739,6 +2740,7 @@
 @@||profile-avatar.csdnimg.cn^
 @@||profile.csdnimg.cn^
 @@||proxy-tf-all-ws.bilivideo.com^
+@@||ptlogin.4399.com^
 @@||pttn.m3pd.com^
 @@||ptx.cdntrex.com^
 @@||publish-pic-cpu.baidu.com^
@@ -2771,6 +2773,7 @@
 @@||s*.erome.com^
 @@||s.pximg.net^
 @@||s01.mifile.cn^
+@@||s1.img4399.com^
 @@||s1.voicecloud.cn^
 @@||s1.zhuanstatic.com^
 @@||s3-us-east-1.ossfiles.com^
@@ -2961,7 +2964,12 @@
 @@||wuxia.163.com^
 @@||www.10010.com^
 @@||www.360.cn^
+@@||www.4399.cn^
+@@||www.4399.com^
+@@||www.5054399.com^
 @@||www.54647.io^
+@@||www.7k7k.com^
+@@||www.7k7kjs.cn^
 @@||www.agiso.com^
 @@||www.apple.com.cn^
 @@||www.apple.com^
