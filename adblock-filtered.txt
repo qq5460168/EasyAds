@@ -3299,8 +3299,6 @@
 ||fpvideo.shenshiads.com^
 ||ad.track.66mobi.com^
 ||oneseeker.top^
-||i.snssdk.com^
-||is.snssdk.com^
 ||sf3-ttcdn-tos.pstatp.com^
 ||dig.bdurl.net^
 ||novel.pangolin-sdk-toutiao.com^
@@ -12035,6 +12033,8 @@
 ||wl.jd.com^
 ||www.jd-mail.co.uk^
 ||game.weixin.qq.com^
+||i.snssdk.com^
+||is.snssdk.com^
 ||in-addr.arpa^
 ||access.pangolin-sdk-toutiao-b.com^
 ||d.toutiao.com^

@@ -3282,7 +3282,6 @@ DOMAIN,ads.sinaimg.cn,reject
 DOMAIN,fpvideo.shenshiads.com,reject
 DOMAIN,ad.track.66mobi.com,reject
 DOMAIN,oneseeker.top,reject
-DOMAIN,i.snssdk.com,reject
 DOMAIN,sf3-ttcdn-tos.pstatp.com,reject
 DOMAIN,dig.bdurl.net,reject
 DOMAIN,novel.pangolin-sdk-toutiao.com,reject
@@ -12000,6 +11999,7 @@ DOMAIN,m.jd.watbe.top,reject
 DOMAIN,policy.jd.com,reject
 DOMAIN,www.jd-mail.co.uk,reject
 DOMAIN,game.weixin.qq.com,reject
+DOMAIN,i.snssdk.com,reject
 DOMAIN,in-addr.arpa,reject
 DOMAIN,access.pangolin-sdk-toutiao-b.com,reject
 DOMAIN,d.toutiao.com,reject

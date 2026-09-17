@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-09-17 02:41:14.706358
+# Generated on 2026-09-17 09:04:17.596141
 
 ||02539717.com^
 ||08241fb.hpa163.nl^
@@ -3302,8 +3302,6 @@
 ||fpvideo.shenshiads.com^
 ||ad.track.66mobi.com^
 ||oneseeker.top^
-||i.snssdk.com^
-||is.snssdk.com^
 ||sf3-ttcdn-tos.pstatp.com^
 ||dig.bdurl.net^
 ||novel.pangolin-sdk-toutiao.com^
@@ -12038,6 +12036,8 @@
 ||wl.jd.com^
 ||www.jd-mail.co.uk^
 ||game.weixin.qq.com^
+||i.snssdk.com^
+||is.snssdk.com^
 ||in-addr.arpa^
 ||access.pangolin-sdk-toutiao-b.com^
 ||d.toutiao.com^
