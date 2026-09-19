@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-09-19 18:20:02.384073
+# Generated on 2026-09-19 22:00:00.142456
 
 ||02539717.com^
 ||08241fb.hpa163.nl^
