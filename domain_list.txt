@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-09-20 08:57:30（北京时间）
-# 共 145524 个域名
+# 生成时间: 2026-09-20 15:10:48（北京时间）
+# 共 145526 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -106554,6 +106554,7 @@ sdk.conf.igexin.com
 sdk.e.qq.com
 sdk.gdt.qq.com
 sdk.hzsanjiaomao.com
+sdk.hzzfcm.com
 sdk.inmobi.com
 sdk.kkpromotion.tapque.com
 sdk.m.youku.com
@@ -139304,6 +139305,7 @@ xad.dnoticias.pt
 xadcentral.com
 xads.joboko.com
 xadsmart.com
+xadsmartget.adgain.cn
 xaea12play.xyz
 xaepktokzhspv.space
 xaesdb97.c2bba8etip.ru

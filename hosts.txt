@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-09-20 08:57:32
-# 规则总数: 145588
+# 更新时间: 2026-09-20 15:10:51
+# 规则总数: 145590
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -106610,6 +106610,7 @@
 0.0.0.0 sdk.e.qq.com
 0.0.0.0 sdk.gdt.qq.com
 0.0.0.0 sdk.hzsanjiaomao.com
+0.0.0.0 sdk.hzzfcm.com
 0.0.0.0 sdk.inmobi.com
 0.0.0.0 sdk.kkpromotion.tapque.com
 0.0.0.0 sdk.m.youku.com
@@ -139364,6 +139365,7 @@
 0.0.0.0 xadcentral.com
 0.0.0.0 xads.joboko.com
 0.0.0.0 xadsmart.com
+0.0.0.0 xadsmartget.adgain.cn
 0.0.0.0 xaea12play.xyz
 0.0.0.0 xaepktokzhspv.space
 0.0.0.0 xaesdb97.c2bba8etip.ru

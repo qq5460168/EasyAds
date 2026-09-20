@@ -145545,6 +145545,8 @@
 ||prom-sdkv2.jysper.net^
 ||report.dxunion.cn^
 ||safebrowsing.urlsec.qq.com^
+||sdk.hzzfcm.com^
 ||tracker-prd.aldi.com.cn^
 ||tracking-adnet.vivo.com.cn^
 ||union-record.oss-cn-zhangjiakou.aliyuncs.com^
+||xadsmartget.adgain.cn^

@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-09-20 08:57:32
-# 规则总数: 145588
+# 更新时间: 2026-09-20 15:10:51
+# 规则总数: 145590
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -106610,6 +106610,7 @@ sdk.conf.igexin.com block
 sdk.e.qq.com block
 sdk.gdt.qq.com block
 sdk.hzsanjiaomao.com block
+sdk.hzzfcm.com block
 sdk.inmobi.com block
 sdk.kkpromotion.tapque.com block
 sdk.m.youku.com block
@@ -139364,6 +139365,7 @@ xad.dnoticias.pt block
 xadcentral.com block
 xads.joboko.com block
 xadsmart.com block
+xadsmartget.adgain.cn block
 xaea12play.xyz block
 xaepktokzhspv.space block
 xaesdb97.c2bba8etip.ru block

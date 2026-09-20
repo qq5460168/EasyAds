@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-09-20 08:57:32
-# 规则总数: 145588
+# 更新时间: 2026-09-20 15:10:51
+# 规则总数: 145590
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -106611,6 +106611,7 @@ payload:
   - 'sdk.e.qq.com'
   - 'sdk.gdt.qq.com'
   - 'sdk.hzsanjiaomao.com'
+  - 'sdk.hzzfcm.com'
   - 'sdk.inmobi.com'
   - 'sdk.kkpromotion.tapque.com'
   - 'sdk.m.youku.com'
@@ -139365,6 +139366,7 @@ payload:
   - 'xadcentral.com'
   - 'xads.joboko.com'
   - 'xadsmart.com'
+  - 'xadsmartget.adgain.cn'
   - 'xaea12play.xyz'
   - 'xaepktokzhspv.space'
   - 'xaesdb97.c2bba8etip.ru'

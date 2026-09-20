@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-09-20 08:57:29.686059
+# Generated on 2026-09-20 15:10:48.591339
 
 ||02539717.com^
 ||08241fb.hpa163.nl^
@@ -145548,6 +145548,8 @@
 ||prom-sdkv2.jysper.net^
 ||report.dxunion.cn^
 ||safebrowsing.urlsec.qq.com^
+||sdk.hzzfcm.com^
 ||tracker-prd.aldi.com.cn^
 ||tracking-adnet.vivo.com.cn^
 ||union-record.oss-cn-zhangjiakou.aliyuncs.com^
+||xadsmartget.adgain.cn^

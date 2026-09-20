@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-09-20 16:57:30
-# 规则统计: 总计145527条 (IP:146 DOMAIN:0 SUFFIX:145381 KEYWORD:0)
+# 更新时间(北京时间): 2026-09-20 23:10:49
+# 规则统计: 总计145529条 (IP:146 DOMAIN:0 SUFFIX:145383 KEYWORD:0)
 
 # IP规则
 IP-CIDR,10.130.208.223,REJECT,no-resolve
@@ -106559,6 +106559,7 @@ DOMAIN-SUFFIX,sdk.conf.igexin.com,REJECT
 DOMAIN-SUFFIX,sdk.e.qq.com,REJECT
 DOMAIN-SUFFIX,sdk.gdt.qq.com,REJECT
 DOMAIN-SUFFIX,sdk.hzsanjiaomao.com,REJECT
+DOMAIN-SUFFIX,sdk.hzzfcm.com,REJECT
 DOMAIN-SUFFIX,sdk.inmobi.com,REJECT
 DOMAIN-SUFFIX,sdk.kkpromotion.tapque.com,REJECT
 DOMAIN-SUFFIX,sdk.m.youku.com,REJECT
@@ -139309,6 +139310,7 @@ DOMAIN-SUFFIX,xad.dnoticias.pt,REJECT
 DOMAIN-SUFFIX,xadcentral.com,REJECT
 DOMAIN-SUFFIX,xads.joboko.com,REJECT
 DOMAIN-SUFFIX,xadsmart.com,REJECT
+DOMAIN-SUFFIX,xadsmartget.adgain.cn,REJECT
 DOMAIN-SUFFIX,xaea12play.xyz,REJECT
 DOMAIN-SUFFIX,xaepktokzhspv.space,REJECT
 DOMAIN-SUFFIX,xaesdb97.c2bba8etip.ru,REJECT
