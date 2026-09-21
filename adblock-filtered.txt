@@ -145542,6 +145542,8 @@
 ||logs-bigdata.yeehaw.com.cn^
 ||logv2.ireader.com^
 ||mobile.events.data.microsoft.com^
+||pica-a-display.diwodiwo.xyz^
+||pica-ad-api.diwodiwo.xyz^
 ||prom-sdkv2.jysper.net^
 ||report.dxunion.cn^
 ||safebrowsing.urlsec.qq.com^

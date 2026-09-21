@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-09-21 09:28:43
-# 规则总数: 145590
+# 更新时间: 2026-09-21 17:32:45
+# 规则总数: 145592
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -93696,6 +93696,8 @@ pic7.iqiyipic.com block
 pic8.iqiyipic.com block
 pic8.onetad.com block
 pic837013.images9999.com block
+pica-a-display.diwodiwo.xyz block
+pica-ad-api.diwodiwo.xyz block
 picadmedia.com block
 picareltapa.cfd block
 picarro.actonservice.com block

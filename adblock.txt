@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-09-21 17:28:43
-! 有效规则数量: 156310 条
+! 规则更新时间: 2026-09-22 01:32:45
+! 有效规则数量: 156312 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
-140.82.114.25                 alive.github.com
+140.82.112.25                 alive.github.com
 20.205.243.168                api.github.com
 140.82.113.22                 api.individual.githubcopilot.com
 185.199.110.133               avatars.githubusercontent.com
@@ -15,27 +15,27 @@
 185.199.110.133               avatars4.githubusercontent.com
 185.199.110.133               avatars5.githubusercontent.com
 185.199.110.133               camo.githubusercontent.com
-140.82.113.21                 central.github.com
+140.82.112.21                 central.github.com
 185.199.110.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.112.21                 collector.github.com
+140.82.113.21                 collector.github.com
 185.199.110.133               desktop.githubusercontent.com
 185.199.110.133               favicons.githubusercontent.com
-20.205.243.166                gist.github.com
-52.217.125.145                github-cloud.s3.amazonaws.com
-16.15.236.229                 github-com.s3.amazonaws.com
-16.15.244.207                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.212.176                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.247.125                 github-production-user-asset-6210df.s3.amazonaws.com
+159.24.3.173                  gist.github.com  # Timeout
+16.15.213.171                 github-cloud.s3.amazonaws.com
+16.15.207.10                  github-com.s3.amazonaws.com
+16.15.238.104                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.225.217                github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.207.86                  github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
 140.82.114.17                 github.community
-185.199.110.215               github.githubassets.com
-103.97.176.73                 github.global.ssl.fastly.net  # Timeout
-185.199.111.153               github.io
+185.199.109.215               github.githubassets.com
+151.101.77.194                github.global.ssl.fastly.net
+185.199.108.153               github.io
 185.199.110.133               github.map.fastly.net
-185.199.111.153               githubstatus.com
-140.82.114.26                 live.github.com
+185.199.108.153               githubstatus.com
+140.82.112.25                 live.github.com
 185.199.110.133               media.githubusercontent.com
 185.199.110.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
@@ -151710,6 +151710,8 @@
 ||logs-bigdata.yeehaw.com.cn^
 ||logv2.ireader.com^
 ||mobile.events.data.microsoft.com^
+||pica-a-display.diwodiwo.xyz^
+||pica-ad-api.diwodiwo.xyz^
 ||prom-sdkv2.jysper.net^
 ||report.dxunion.cn^
 ||safebrowsing.urlsec.qq.com^

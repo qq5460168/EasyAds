@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-09-21 09:28:40（北京时间）
-# 共 145526 个域名
+# 生成时间: 2026-09-21 17:32:42（北京时间）
+# 共 145528 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -93644,6 +93644,8 @@ pic7.iqiyipic.com
 pic8.iqiyipic.com
 pic8.onetad.com
 pic837013.images9999.com
+pica-a-display.diwodiwo.xyz
+pica-ad-api.diwodiwo.xyz
 picadmedia.com
 picareltapa.cfd
 picarro.actonservice.com

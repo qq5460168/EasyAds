@@ -145468,6 +145468,8 @@ DOMAIN,kwpush.kuwo.cn,reject
 DOMAIN,logs-bigdata.yeehaw.com.cn,reject
 DOMAIN,logv2.ireader.com,reject
 DOMAIN,mobile.events.data.microsoft.com,reject
+DOMAIN,pica-a-display.diwodiwo.xyz,reject
+DOMAIN,pica-ad-api.diwodiwo.xyz,reject
 DOMAIN,prom-sdkv2.jysper.net,reject
 DOMAIN,report.dxunion.cn,reject
 DOMAIN,safebrowsing.urlsec.qq.com,reject

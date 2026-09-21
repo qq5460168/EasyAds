@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-09-21 09:28:43
-# 规则总数: 145590
+# 更新时间: 2026-09-21 17:32:45
+# 规则总数: 145592
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -93696,6 +93696,8 @@
 0.0.0.0 pic8.iqiyipic.com
 0.0.0.0 pic8.onetad.com
 0.0.0.0 pic837013.images9999.com
+0.0.0.0 pica-a-display.diwodiwo.xyz
+0.0.0.0 pica-ad-api.diwodiwo.xyz
 0.0.0.0 picadmedia.com
 0.0.0.0 picareltapa.cfd
 0.0.0.0 picarro.actonservice.com

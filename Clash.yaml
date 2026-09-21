@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-09-21 09:28:43
-# 规则总数: 145590
+# 更新时间: 2026-09-21 17:32:45
+# 规则总数: 145592
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -93697,6 +93697,8 @@ payload:
   - 'pic8.iqiyipic.com'
   - 'pic8.onetad.com'
   - 'pic837013.images9999.com'
+  - 'pica-a-display.diwodiwo.xyz'
+  - 'pica-ad-api.diwodiwo.xyz'
   - 'picadmedia.com'
   - 'picareltapa.cfd'
   - 'picarro.actonservice.com'

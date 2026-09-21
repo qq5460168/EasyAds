@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-09-21 09:28:43
-# 规则总数: 145590
+# 更新时间: 2026-09-21 17:32:45
+# 规则总数: 145592
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -93696,6 +93696,8 @@ domain: pic7.iqiyipic.com, policy: reject
 domain: pic8.iqiyipic.com, policy: reject
 domain: pic8.onetad.com, policy: reject
 domain: pic837013.images9999.com, policy: reject
+domain: pica-a-display.diwodiwo.xyz, policy: reject
+domain: pica-ad-api.diwodiwo.xyz, policy: reject
 domain: picadmedia.com, policy: reject
 domain: picareltapa.cfd, policy: reject
 domain: picarro.actonservice.com, policy: reject
