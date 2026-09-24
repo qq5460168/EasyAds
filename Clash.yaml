@@ -1,5 +1,5 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-09-24 02:27:48
+# 更新时间: 2026-09-24 08:54:38
 # 规则总数: 145592
 
 payload:
@@ -6482,6 +6482,7 @@ payload:
   - 'I9z.cn'
   - 'IMTY.US'
   - 'JK98.CC'
+  - 'Media.net'
   - 'a-ads.com'
   - 'a-api.skz.dev'
   - 'a-counter.kiev.ua'
@@ -79953,7 +79954,6 @@ payload:
   - 'media.jointreport-switch.com'
   - 'media.leahy-ifp.com'
   - 'media.mobpartner.mobi'
-  - 'media.net'
   - 'media.netpositive.hu'
   - 'media.netrefer.com'
   - 'media.olmiweb.com'
