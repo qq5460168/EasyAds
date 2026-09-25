@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-09-25 17:16:00
-! 有效规则数量: 156264 条
+! 规则更新时间: 2026-09-26 00:14:07
+! 有效规则数量: 156314 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -9099,6 +9099,69 @@
 ||wslog.chinanetcenter.com^
 ||vungle.com^
 ||httpdns.bcelive.com^
+||dragonparking.com^
+||sadbh-kye.com^
+||tat.pandora.xiaomi.com^
+||adc.hpplay.cn^
+||lcs-cops.adobe.io^
+||cc-api-data.adobe.io^
+||lcs-robs.adobe.io^
+||ic.adobe.io^
+||ph0f2h2csf.adobe.io^
+||cctypekit.adobe.io^
+||cclibraries-defaults-cdn.adobe.com^
+||cc-cdn.adobe.com^
+||alert.kuyun.com^
+||api.hpplay.com.cn^
+||s3m1.fenxi.com^
+||s3m2.fenxi.com^
+||s3m3.fenxi.com^
+||s3m4.fenxi.com^
+||s1m.mediav.com^
+||s2m.mediav.com^
+||s3m.mediav.com^
+||s4m.mediav.com^
+||cjhd.mediav.com^
+||static.mediav.com^
+||static-ssl.mediav.com^
+||domob.cn^
+||sumatang.com^
+||bigcloud.cyou^
+||picnewsss.com^
+||t1tgame.com^
+||ergodicitytech.com^
+||sigmob.cn^
+||roi.soulapp.cn^
+||c.tpgjb.top^
+||f.8fenxiang.com^
+||local.info.g9hc4.cn^
+||dxyeyf6ecy.adobe.io^
+||1hzopx6nz7.adobe.io^
+||p13n.adobe.io^
+||p13n-mr.adobe.io^
+||cai-identity.adobe.io^
+||dyzt55url8.adobe.io^
+||gw8gfjbsO5.adobe.io^
+||2ftem87osk.adobe.io^
+||phef2h2csf.adobe.io^
+||7sj9n87sls.adobe.io^
+||b5kbg2ggog.adobe.io^
+||p7uxzbht8h.adobe.io^
+||guzg78logz.adobe.io^
+||crs.cr.adobe.com^
+||photos.adobe.io^
+||cai-splunk-proxy.adobe.io^
+||registeridm.com^
+/get/*?zoneid=$script
+||lambda.raidrive.com^
+||m.lwlm-nideta.cc^
+||nfnykg.xn--6krw8b915a62m.com^
+||reszavxz.malunwudi.com^
+||aekjg-cdn.77t-tusu.com^
+||dftveb.xn--6krw8b915a62m.com^
+||rxing.rxyoo.net^
+||hn.bfvvs.com^
+||dui.suiji.red^
 ||000123456789.online^
 ||000123456789.site^
 ||00028hg.com^
@@ -18585,7 +18648,6 @@
 ||bigboy.monster^
 ||bigchoicegroup.com^
 ||bigclicks.com^
-||bigcloud.cyou^
 ||bigcood.xyz^
 ||bigdatacloud.net^
 ||bigelowcleaning.com^
@@ -26775,7 +26837,6 @@
 ||dominservers.xyz^
 ||domipush.com^
 ||domnlk.com^
-||domob.cn^
 ||domobcdn.com^
 ||dompeterapp.com^
 ||domself.de^
@@ -27067,7 +27128,6 @@
 ||dragmeaningful.com^
 ||dragnetguardo.cyou^
 ||dragonflyproblemsubway.com^
-||dragonparking.com^
 ||dragstergibletshaded.com^
 ||drailsbetrays.cyou^
 ||drailtugs.shop^
@@ -29405,7 +29465,6 @@
 ||erggaxbuuevsw.site^
 ||erghh3717.cc^
 ||ergiekszra.com^
-||ergodicitytech.com^
 ||ergonomicparadeupstroke.com^
 ||ergoteddribble.cyou^
 ||erhousoop.xyz^
@@ -55588,7 +55647,6 @@
 ||picklesbureaucracyconvene.com^
 ||picmega.com^
 ||picmourgoossaks.net^
-||picnewsss.com^
 ||picotahtoff.cfd^
 ||picratenonane.shop^
 ||picshack.net^
@@ -60346,7 +60404,6 @@
 ||regisg.com^
 ||regisidagentshop138.vip^
 ||register04.top^
-||registeridm.com^
 ||registerswoop.com^
 ||registration09.top^
 ||registration423.fun^
@@ -62425,7 +62482,6 @@
 ||saczvfpaeadxv.space^
 ||sad-engine.pro^
 ||sadbasindinner.com^
-||sadbh-kye.com^
 ||sadfasdfa962.com^
 ||sadfile.pro^
 ||sadott.cn^
@@ -64089,7 +64145,6 @@
 ||sighhigherapprove.com^
 ||sigloimarmots.cfd^
 ||siglumegotism.cyou^
-||sigmob.cn^
 ||sigmoidmneme.shop^
 ||signaladsdirect.top^
 ||signalszone.com^
@@ -66491,7 +66546,6 @@
 ||sultamscopet.cyou^
 ||sultoneframer.com^
 ||sultrymomentarily.com^
-||sumatang.com^
 ||sumatoad.com^
 ||sumbreta.com^
 ||sumeformorede.org^
@@ -67082,7 +67136,6 @@
 ||t1d26dvout.com^
 ||t1eflp28b5lowgm6tf2.cfd^
 ||t1g6zmv7lw9k1wfk.cfd^
-||t1tgame.com^
 ||t1thmtn5.xyz^
 ||t23o.cn^
 ||t28goe.cn^
@@ -88283,7 +88336,6 @@
 ||adbsmetrics.thewhoo.com^
 ||adbutler.costco.com^
 ||adc-js.nine.com.au^
-||adc.hpplay.cn^
 ||adc.indextops.com^
 ||adc.interia.pl^
 ||adc.nine.com.au^
@@ -122110,7 +122162,6 @@
 ||roedwy.imidapeptide.com^
 ||rogligh.ehrydnmdoe.com^
 ||roh.f1relayer.ru^
-||roi.soulapp.cn^
 ||roibest-report-sdk.qiliangjia.com^
 ||roinjg.mkluzkoviny.cz^
 ||roiscs.actonservice.com^
@@ -149428,46 +149479,46 @@
 ||ads.lejuliang.cn^
 ||googleads.g.doubleclick.nes^
 ||o2o-ad-dev.oss-cn-shanghai.aliyuncs.com^、
-140.82.112.25                 alive.github.com
+140.82.112.26                 alive.github.com
 20.205.243.168                api.github.com
-140.82.113.22                 api.individual.githubcopilot.com
-185.199.110.133               avatars.githubusercontent.com
-185.199.110.133               avatars0.githubusercontent.com
-185.199.110.133               avatars1.githubusercontent.com
-185.199.110.133               avatars2.githubusercontent.com
-185.199.110.133               avatars3.githubusercontent.com
-185.199.110.133               avatars4.githubusercontent.com
-185.199.110.133               avatars5.githubusercontent.com
-185.199.110.133               camo.githubusercontent.com
-140.82.114.22                 central.github.com
-185.199.110.133               cloud.githubusercontent.com
+140.82.114.21                 api.individual.githubcopilot.com
+185.199.111.133               avatars.githubusercontent.com
+185.199.111.133               avatars0.githubusercontent.com
+185.199.111.133               avatars1.githubusercontent.com
+185.199.111.133               avatars2.githubusercontent.com
+185.199.111.133               avatars3.githubusercontent.com
+185.199.111.133               avatars4.githubusercontent.com
+185.199.111.133               avatars5.githubusercontent.com
+185.199.111.133               camo.githubusercontent.com
+140.82.113.22                 central.github.com
+185.199.111.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
-140.82.114.22                 collector.github.com
-185.199.110.133               desktop.githubusercontent.com
-185.199.110.133               favicons.githubusercontent.com
-243.185.187.39                gist.github.com  # Timeout
-52.217.131.97                 github-cloud.s3.amazonaws.com
-16.15.245.172                 github-com.s3.amazonaws.com
-16.15.254.120                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.237.46                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.245.41                  github-production-user-asset-6210df.s3.amazonaws.com
+140.82.113.21                 collector.github.com
+185.199.111.133               desktop.githubusercontent.com
+185.199.111.133               favicons.githubusercontent.com
+203.98.7.65                   gist.github.com  # Timeout
+54.231.202.25                 github-cloud.s3.amazonaws.com
+16.15.252.175                 github-com.s3.amazonaws.com
+16.15.246.169                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.244.96                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.229.198                 github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.112.17                 github.community
-185.199.111.215               github.githubassets.com
-199.59.148.201                github.global.ssl.fastly.net  # Timeout
+140.82.114.17                 github.community
+185.199.110.215               github.githubassets.com
+151.101.77.194                github.global.ssl.fastly.net
 185.199.109.153               github.io
-185.199.110.133               github.map.fastly.net
+185.199.111.133               github.map.fastly.net
 185.199.109.153               githubstatus.com
-140.82.112.25                 live.github.com
-185.199.110.133               media.githubusercontent.com
-185.199.110.133               objects.githubusercontent.com
+140.82.112.26                 live.github.com
+185.199.111.133               media.githubusercontent.com
+185.199.111.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.110.133               raw.githubusercontent.com
-185.199.110.133               user-images.githubusercontent.com
-150.171.110.104               vscode.dev
+185.199.111.133               raw.githubusercontent.com
+185.199.111.133               user-images.githubusercontent.com
+150.171.110.70                vscode.dev
 140.82.114.22                 education.github.com
-185.199.110.133               private-user-images.githubusercontent.com
+185.199.111.133               private-user-images.githubusercontent.com
 ||ad-api.4pyun.com^
 ||ad-files.4pyun.com^
 ||ad.maoyan.com^
@@ -150451,7 +150502,6 @@
 ||ping.pinyin.sogou.com^
 ||open.youzanyun.com^
 ||trackbeat.xiachufang.com^
-||cc-api-data.adobe.io^
 ||abe.ymmiyun.com^
 ||ecom5-normal-lq.ecombdapi.com^
 ||mmocgame.qpic.cn^
