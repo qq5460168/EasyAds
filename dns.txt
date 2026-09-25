@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-09-25 02:45:05.286468
+# Generated on 2026-09-25 09:15:56.602140
 
 ||ad-sign.byteimg.com^
 ||tos.pstatp.com^
@@ -9096,68 +9096,6 @@
 ||wslog.chinanetcenter.com^
 ||vungle.com^
 ||httpdns.bcelive.com^
-||dragonparking.com^
-||sadbh-kye.com^
-||tat.pandora.xiaomi.com^
-||adc.hpplay.cn^
-||lcs-cops.adobe.io^
-||cc-api-data.adobe.io^
-||lcs-robs.adobe.io^
-||ic.adobe.io^
-||ph0f2h2csf.adobe.io^
-||cctypekit.adobe.io^
-||cclibraries-defaults-cdn.adobe.com^
-||cc-cdn.adobe.com^
-||alert.kuyun.com^
-||api.hpplay.com.cn^
-||s3m1.fenxi.com^
-||s3m2.fenxi.com^
-||s3m3.fenxi.com^
-||s3m4.fenxi.com^
-||s1m.mediav.com^
-||s2m.mediav.com^
-||s3m.mediav.com^
-||s4m.mediav.com^
-||cjhd.mediav.com^
-||static.mediav.com^
-||static-ssl.mediav.com^
-||domob.cn^
-||sumatang.com^
-||bigcloud.cyou^
-||picnewsss.com^
-||t1tgame.com^
-||ergodicitytech.com^
-||sigmob.cn^
-||roi.soulapp.cn^
-||c.tpgjb.top^
-||f.8fenxiang.com^
-||local.info.g9hc4.cn^
-||dxyeyf6ecy.adobe.io^
-||1hzopx6nz7.adobe.io^
-||p13n.adobe.io^
-||p13n-mr.adobe.io^
-||cai-identity.adobe.io^
-||dyzt55url8.adobe.io^
-||gw8gfjbsO5.adobe.io^
-||2ftem87osk.adobe.io^
-||phef2h2csf.adobe.io^
-||7sj9n87sls.adobe.io^
-||b5kbg2ggog.adobe.io^
-||p7uxzbht8h.adobe.io^
-||guzg78logz.adobe.io^
-||crs.cr.adobe.com^
-||photos.adobe.io^
-||cai-splunk-proxy.adobe.io^
-||registeridm.com^
-||lambda.raidrive.com^
-||m.lwlm-nideta.cc^
-||nfnykg.xn--6krw8b915a62m.com^
-||reszavxz.malunwudi.com^
-||aekjg-cdn.77t-tusu.com^
-||dftveb.xn--6krw8b915a62m.com^
-||rxing.rxyoo.net^
-||hn.bfvvs.com^
-||dui.suiji.red^
 ||000123456789.online^
 ||000123456789.site^
 ||00028hg.com^
@@ -18644,6 +18582,7 @@
 ||bigboy.monster^
 ||bigchoicegroup.com^
 ||bigclicks.com^
+||bigcloud.cyou^
 ||bigcood.xyz^
 ||bigdatacloud.net^
 ||bigelowcleaning.com^
@@ -26833,6 +26772,7 @@
 ||dominservers.xyz^
 ||domipush.com^
 ||domnlk.com^
+||domob.cn^
 ||domobcdn.com^
 ||dompeterapp.com^
 ||domself.de^
@@ -27124,6 +27064,7 @@
 ||dragmeaningful.com^
 ||dragnetguardo.cyou^
 ||dragonflyproblemsubway.com^
+||dragonparking.com^
 ||dragstergibletshaded.com^
 ||drailsbetrays.cyou^
 ||drailtugs.shop^
@@ -29461,6 +29402,7 @@
 ||erggaxbuuevsw.site^
 ||erghh3717.cc^
 ||ergiekszra.com^
+||ergodicitytech.com^
 ||ergonomicparadeupstroke.com^
 ||ergoteddribble.cyou^
 ||erhousoop.xyz^
@@ -55643,6 +55585,7 @@
 ||picklesbureaucracyconvene.com^
 ||picmega.com^
 ||picmourgoossaks.net^
+||picnewsss.com^
 ||picotahtoff.cfd^
 ||picratenonane.shop^
 ||picshack.net^
@@ -60400,6 +60343,7 @@
 ||regisg.com^
 ||regisidagentshop138.vip^
 ||register04.top^
+||registeridm.com^
 ||registerswoop.com^
 ||registration09.top^
 ||registration423.fun^
@@ -62478,6 +62422,7 @@
 ||saczvfpaeadxv.space^
 ||sad-engine.pro^
 ||sadbasindinner.com^
+||sadbh-kye.com^
 ||sadfasdfa962.com^
 ||sadfile.pro^
 ||sadott.cn^
@@ -64141,6 +64086,7 @@
 ||sighhigherapprove.com^
 ||sigloimarmots.cfd^
 ||siglumegotism.cyou^
+||sigmob.cn^
 ||sigmoidmneme.shop^
 ||signaladsdirect.top^
 ||signalszone.com^
@@ -66542,6 +66488,7 @@
 ||sultamscopet.cyou^
 ||sultoneframer.com^
 ||sultrymomentarily.com^
+||sumatang.com^
 ||sumatoad.com^
 ||sumbreta.com^
 ||sumeformorede.org^
@@ -67132,6 +67079,7 @@
 ||t1d26dvout.com^
 ||t1eflp28b5lowgm6tf2.cfd^
 ||t1g6zmv7lw9k1wfk.cfd^
+||t1tgame.com^
 ||t1thmtn5.xyz^
 ||t23o.cn^
 ||t28goe.cn^
@@ -88332,6 +88280,7 @@
 ||adbsmetrics.thewhoo.com^
 ||adbutler.costco.com^
 ||adc-js.nine.com.au^
+||adc.hpplay.cn^
 ||adc.indextops.com^
 ||adc.interia.pl^
 ||adc.nine.com.au^
@@ -122158,6 +122107,7 @@
 ||roedwy.imidapeptide.com^
 ||rogligh.ehrydnmdoe.com^
 ||roh.f1relayer.ru^
+||roi.soulapp.cn^
 ||roibest-report-sdk.qiliangjia.com^
 ||roinjg.mkluzkoviny.cz^
 ||roiscs.actonservice.com^
@@ -145289,6 +145239,7 @@
 ||ping.pinyin.sogou.com^
 ||open.youzanyun.com^
 ||trackbeat.xiachufang.com^
+||cc-api-data.adobe.io^
 ||abe.ymmiyun.com^
 ||ecom5-normal-lq.ecombdapi.com^
 ||mmocgame.qpic.cn^

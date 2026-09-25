@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-09-25 02:45:10
-# 规则总数: 145592
+# 更新时间: 2026-09-25 09:15:59
+# 规则总数: 145543
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -1202,7 +1202,6 @@ domain: 1hkv85.gdxlks.cn, policy: reject
 domain: 1hm2.stormm1nd.ru, policy: reject
 domain: 1hmklj60i.com, policy: reject
 domain: 1hwy.com, policy: reject
-domain: 1hzopx6nz7.adobe.io, policy: reject
 domain: 1i.lightst0rm.ru, policy: reject
 domain: 1i580.com, policy: reject
 domain: 1i8c0f11.de, policy: reject
@@ -1920,7 +1919,6 @@ domain: 2fjxw3dyip.com, policy: reject
 domain: 2fl4vwmp.5t0rmfail.ru, policy: reject
 domain: 2fnptjci.de, policy: reject
 domain: 2fourty4.co.za, policy: reject
-domain: 2ftem87osk.adobe.io, policy: reject
 domain: 2fujqcklv1rpwwhfo.rest, policy: reject
 domain: 2fyzxp40.xyz, policy: reject
 domain: 2fzn4.xyz, policy: reject
@@ -5367,7 +5365,6 @@ domain: 7r8r.br1ckw0rd.ru, policy: reject
 domain: 7rag9q1on.com, policy: reject
 domain: 7rh3wjf4o5czkicukz.cyou, policy: reject
 domain: 7ryx7ph5y.com, policy: reject
-domain: 7sj9n87sls.adobe.io, policy: reject
 domain: 7strqfn56s.com, policy: reject
 domain: 7thvyebqhu7956.cfd, policy: reject
 domain: 7u4b8l1zt.com, policy: reject
@@ -15265,7 +15262,6 @@ domain: aeiptbtyknklq.online, policy: reject
 domain: aeisqs.icu, policy: reject
 domain: aeiwzejwyzqjy.rocks, policy: reject
 domain: aejravyfcejxe.site, policy: reject
-domain: aekjg-cdn.77t-tusu.com, policy: reject
 domain: aekmrkebaawzm.online, policy: reject
 domain: aekpzxaghjyxa.global, policy: reject
 domain: aeletheacd.com, policy: reject
@@ -16540,7 +16536,6 @@ domain: alepolesaguran.qpon, policy: reject
 domain: alereinc.actonservice.com, policy: reject
 domain: aleroninc.actonservice.com, policy: reject
 domain: alersehymnist.cfd, policy: reject
-domain: alert.kuyun.com, policy: reject
 domain: alertlygayish.cyou, policy: reject
 domain: alerts.ironmountain.com, policy: reject
 domain: alerts.steadyapp.com, policy: reject
@@ -19061,7 +19056,6 @@ domain: api.growingio.com, policy: reject
 domain: api.hellknight.xyz, policy: reject
 domain: api.higame.hismarttv.com, policy: reject
 domain: api.hismarttv.com, policy: reject
-domain: api.hpplay.com.cn, policy: reject
 domain: api.hrshuke.cn, policy: reject
 domain: api.htp.hubcloud.com.cn, policy: reject
 domain: api.hugemedia.cz, policy: reject
@@ -22912,7 +22906,6 @@ domain: b5g.cn, policy: reject
 domain: b5gvpk5.com, policy: reject
 domain: b5i.cn, policy: reject
 domain: b5j6itccyluq.nofluffjobs.com, policy: reject
-domain: b5kbg2ggog.adobe.io, policy: reject
 domain: b5ow7kq9tgzuqig.rest, policy: reject
 domain: b5rr7a.prong8tatsky.coupons, policy: reject
 domain: b5v0m3q8.com, policy: reject
@@ -28181,7 +28174,6 @@ domain: c.tctyb.cn, policy: reject
 domain: c.thredup.com, policy: reject
 domain: c.tobidad.cn, policy: reject
 domain: c.topya.com, policy: reject
-domain: c.tpgjb.top, policy: reject
 domain: c.tvsou.com, policy: reject
 domain: c.uaa.iqiyi.com, policy: reject
 domain: c.v4dwkcv.com, policy: reject
@@ -28559,8 +28551,6 @@ domain: cahkeezufolil.online, policy: reject
 domain: cahnitefulvene.cfd, policy: reject
 domain: cahootdisodic.com, policy: reject
 domain: cahzlmvowjlcu.space, policy: reject
-domain: cai-identity.adobe.io, policy: reject
-domain: cai-splunk-proxy.adobe.io, policy: reject
 domain: cai75tp.com, policy: reject
 domain: caichaidob.net, policy: reject
 domain: caider.fun, policy: reject
@@ -29353,7 +29343,6 @@ domain: cbxxfascjrdjm.space, policy: reject
 domain: cc-316.cc, policy: reject
 domain: cc-algo-cn.heytapimage.com, policy: reject
 domain: cc-api-data.adobe.io, policy: reject
-domain: cc-cdn.adobe.com, policy: reject
 domain: cc-dt.com, policy: reject
 domain: cc-img-cn.heytapimage.com, policy: reject
 domain: cc.0133hao.net, policy: reject
@@ -29439,7 +29428,6 @@ domain: ccjlyeghbdppq.website, policy: reject
 domain: ccjzuavqrh.com, policy: reject
 domain: cckltgdhvmrux.site, policy: reject
 domain: ccktnecnlflta.space, policy: reject
-domain: cclibraries-defaults-cdn.adobe.com, policy: reject
 domain: cclink.carfax.com, policy: reject
 domain: ccluukrajdnyj.space, policy: reject
 domain: ccmd.coveredca.com, policy: reject
@@ -29466,7 +29454,6 @@ domain: cctrkom.creditcards.com, policy: reject
 domain: ccttoocxmymh.net, policy: reject
 domain: cctv.adsunion.com, policy: reject
 domain: cctyly.com, policy: reject
-domain: cctypekit.adobe.io, policy: reject
 domain: ccuoqedyqvttq.tech, policy: reject
 domain: ccuuxgxhmpntd.online, policy: reject
 domain: ccvhugvmaxc.net, policy: reject
@@ -31288,7 +31275,6 @@ domain: cjfqtu.vitafy.ch, policy: reject
 domain: cjgdch.com, policy: reject
 domain: cjgeqnxnxejet.space, policy: reject
 domain: cjgimadfnuztn.online, policy: reject
-domain: cjhd.mediav.com, policy: reject
 domain: cjhdaujk.xyz, policy: reject
 domain: cjhmaygz.com, policy: reject
 domain: cjhq.baidu.com, policy: reject
@@ -35031,7 +35017,6 @@ domain: crs-event.line.me, policy: reject
 domain: crs-hometab-event.line.me, policy: reject
 domain: crs.actonservice.com, policy: reject
 domain: crs.baidu.com, policy: reject
-domain: crs.cr.adobe.com, policy: reject
 domain: crs.pa.br.de, policy: reject
 domain: crsope.com, policy: reject
 domain: crsphucnxuojo.website, policy: reject
@@ -40046,7 +40031,6 @@ domain: dfthroyqefqtv.website, policy: reject
 domain: dftmuptixnvgl.com, policy: reject
 domain: dftoutiao.com, policy: reject
 domain: dftraanudh.com, policy: reject
-domain: dftveb.xn--6krw8b915a62m.com, policy: reject
 domain: dfuijqrojtvcb.site, policy: reject
 domain: dfuvslppaxhzv.site, policy: reject
 domain: dfuxpeudrhrpj.online, policy: reject
@@ -42918,7 +42902,6 @@ domain: duhboga.ru, policy: reject
 domain: duhkxehelalch.store, policy: reject
 domain: duhsv690.cinderpouch.ru, policy: reject
 domain: duhxgrfaziemg.site, policy: reject
-domain: dui.suiji.red, policy: reject
 domain: duidoaghteqgs.website, policy: reject
 domain: duier.top, policy: reject
 domain: duihl.cn, policy: reject
@@ -43283,7 +43266,6 @@ domain: dxvfdv.icu, policy: reject
 domain: dxvnfdhowouwr.website, policy: reject
 domain: dxwsty.cn, policy: reject
 domain: dxxbwmpkpxnwv.online, policy: reject
-domain: dxyeyf6ecy.adobe.io, policy: reject
 domain: dxz454z33ibrc.cloudfront.net, policy: reject
 domain: dxzgwti.com, policy: reject
 domain: dxzhlgaawhyen.website, policy: reject
@@ -43381,7 +43363,6 @@ domain: dyyptiqcfnedr.site, policy: reject
 domain: dyzc.cn, policy: reject
 domain: dyzmo.com, policy: reject
 domain: dyzmpx.speedway.fr, policy: reject
-domain: dyzt55url8.adobe.io, policy: reject
 domain: dz2017.zdzxyplyt.com, policy: reject
 domain: dz3tfc2m9.com, policy: reject
 domain: dz4ad.com, policy: reject
@@ -48290,7 +48271,6 @@ domain: f-log-at.grammarly.io, policy: reject
 domain: f-log-test.grammarly.io, policy: reject
 domain: f-tigers-wheel-apk-br.pages.dev, policy: reject
 domain: f.520tingshu.com, policy: reject
-domain: f.8fenxiang.com, policy: reject
 domain: f.a23.in, policy: reject
 domain: f.airstar.com, policy: reject
 domain: f.bloblohub.com, policy: reject
@@ -57020,7 +57000,6 @@ domain: guyjrraidsrlk.store, policy: reject
 domain: guykantry.cfd, policy: reject
 domain: guyoetiepwijy.online, policy: reject
 domain: guyssleeted.qpon, policy: reject
-domain: guzg78logz.adobe.io, policy: reject
 domain: guzlav.bunkerle0p2rd.ru, policy: reject
 domain: guzsjdl.cn, policy: reject
 domain: guzubezrufxuh.online, policy: reject
@@ -57099,7 +57078,6 @@ domain: gw51.cn, policy: reject
 domain: gw6.push.mcp.weibo.cn, policy: reject
 domain: gw630.com, policy: reject
 domain: gw7jpuouik.com, policy: reject
-domain: gw8gfjbsO5.adobe.io, policy: reject
 domain: gwabduqywxher.website, policy: reject
 domain: gwallet.com, policy: reject
 domain: gwbb1p2t9s.com, policy: reject
@@ -59475,7 +59453,6 @@ domain: hmyangshengji.com, policy: reject
 domain: hmyjoj.5-fifth.com, policy: reject
 domain: hmziwy.yearbookordercenter.com, policy: reject
 domain: hmzxoegngasft.site, policy: reject
-domain: hn.bfvvs.com, policy: reject
 domain: hnasd.com, policy: reject
 domain: hnaxddjuzflyy.space, policy: reject
 domain: hnbhrt.xyz, policy: reject
@@ -61392,7 +61369,6 @@ domain: ibxxxm11tyli9uy.rest, policy: reject
 domain: ibyhdkkcdkkii.site, policy: reject
 domain: ibyossxwwjeij.website, policy: reject
 domain: ibyqykdkuhbfa.space, policy: reject
-domain: ic.adobe.io, policy: reject
 domain: ic.hopto.org, policy: reject
 domain: ic.snssdk.com, policy: reject
 domain: ic.softp1ne.ru, policy: reject
@@ -71372,7 +71348,6 @@ domain: lalopeloton.qpon, policy: reject
 domain: lamaismftnerr.cfd, policy: reject
 domain: lamamari.cyou, policy: reject
 domain: lamanyatrip.cfd, policy: reject
-domain: lambda.raidrive.com, policy: reject
 domain: lambmotorabash.com, policy: reject
 domain: lambspithole.cfd, policy: reject
 domain: lame-home.pro, policy: reject
@@ -71806,8 +71781,6 @@ domain: lcportal.kbinsure.co.kr, policy: reject
 domain: lcqdlqsdiwecm.website, policy: reject
 domain: lcqrlecxeqqnk.website, policy: reject
 domain: lcrakyzahrjqs.site, policy: reject
-domain: lcs-cops.adobe.io, policy: reject
-domain: lcs-robs.adobe.io, policy: reject
 domain: lcs.baidu.com, policy: reject
 domain: lcs.dev.surepush.cn, policy: reject
 domain: lcs.loginfra.com, policy: reject
@@ -74417,7 +74390,6 @@ domain: loc.sexymilfspics.com, policy: reject
 domain: loc.xtr2020.com, policy: reject
 domain: local-shares.ri.la, policy: reject
 domain: local-update.com, policy: reject
-domain: local.info.g9hc4.cn, policy: reject
 domain: localaffectrecipe.com, policy: reject
 domain: locale-respondent-realtor-excellent.trycloudflare.com, policy: reject
 domain: localedgemedia.com, policy: reject
@@ -76664,7 +76636,6 @@ domain: m.lifetimemovieclub.com, policy: reject
 domain: m.lovezhishou.com, policy: reject
 domain: m.luckym.ca, policy: reject
 domain: m.lusrg.cn, policy: reject
-domain: m.lwlm-nideta.cc, policy: reject
 domain: m.lyjz001.com, policy: reject
 domain: m.lzida.com, policy: reject
 domain: m.lzytt.com, policy: reject
@@ -86221,7 +86192,6 @@ domain: nfmnrvmgujczf.website, policy: reject
 domain: nfmvsq.giuseppezanotti.com, policy: reject
 domain: nfnsqnmfkgiuq.space, policy: reject
 domain: nfnvqfghrmnfk.space, policy: reject
-domain: nfnykg.xn--6krw8b915a62m.com, policy: reject
 domain: nfowjkbbjyorh.site, policy: reject
 domain: nfpqhhcuvjdhj.website, policy: reject
 domain: nfptar.giordanoshop.com, policy: reject
@@ -91655,8 +91625,6 @@ domain: p11-sign.douyinpic.com, policy: reject
 domain: p11q.cn, policy: reject
 domain: p123.my, policy: reject
 domain: p12acx.com, policy: reject
-domain: p13n-mr.adobe.io, policy: reject
-domain: p13n.adobe.io, policy: reject
 domain: p15vjj3og.com, policy: reject
 domain: p16-ad-site-sign-sg.tiktokcdn.com, policy: reject
 domain: p16-ad.byteoversea.com, policy: reject
@@ -91785,7 +91753,6 @@ domain: p7h1silo3f.app.cainthus.com, policy: reject
 domain: p7jroq6xco.com, policy: reject
 domain: p7l0.wildm1st.ru, policy: reject
 domain: p7qk.v0rtatouch.ru, policy: reject
-domain: p7uxzbht8h.adobe.io, policy: reject
 domain: p8.b1o0dmanneq.ru, policy: reject
 domain: p834uxchy4uwfvfgj.cfd, policy: reject
 domain: p8fu4wvt1ztzpkek.cfd, policy: reject
@@ -93365,7 +93332,6 @@ domain: pgzjhqnndpyyt.site, policy: reject
 domain: pgznt.cn, policy: reject
 domain: pgzxnpyuitkmz.site, policy: reject
 domain: ph-query-1.looksmart.com, policy: reject
-domain: ph0f2h2csf.adobe.io, policy: reject
 domain: ph48t5l2fy4cgkflp8v.cfd, policy: reject
 domain: ph5kobkijeyg4rboce64h.cfd, policy: reject
 domain: phabaustoost.net, policy: reject
@@ -93422,7 +93388,6 @@ domain: pheedo.com, policy: reject
 domain: pheelsouptathoo.net, policy: reject
 domain: pheergokraiz.net, policy: reject
 domain: pheetsithaurost.net, policy: reject
-domain: phef2h2csf.adobe.io, policy: reject
 domain: pheftugaiboacm.net, policy: reject
 domain: phegnauxoudsez.xyz, policy: reject
 domain: pheicfvsrqvdm.online, policy: reject
@@ -93550,7 +93515,6 @@ domain: photo.zhanhevr.cn, policy: reject
 domain: photogbaluch.help, policy: reject
 domain: photographpan.com, policy: reject
 domain: photography.hursey.com, policy: reject
-domain: photos.adobe.io, policy: reject
 domain: photos.kiyonosaki.info, policy: reject
 domain: photospace.life, policy: reject
 domain: photovault.store, policy: reject
@@ -101701,7 +101665,6 @@ domain: resume.management, policy: reject
 domain: resumetwigincarnate.com, policy: reject
 domain: resurrectionincomplete.com, policy: reject
 domain: reswagebashlik.help, policy: reject
-domain: reszavxz.malunwudi.com, policy: reject
 domain: ret.xinlongrubber.com, policy: reject
 domain: retagro.com, policy: reject
 domain: retail-client-events-service.internal.salsify.com, policy: reject
@@ -104166,7 +104129,6 @@ domain: rxhsry.sortiraparis.com, policy: reject
 domain: rxi8jcy0aq.com, policy: reject
 domain: rxidhevafwczq.online, policy: reject
 domain: rxiewfjyestco.website, policy: reject
-domain: rxing.rxyoo.net, policy: reject
 domain: rxiptliymhnrv.online, policy: reject
 domain: rxjdbeabdctcn.website, policy: reject
 domain: rxjvmsvfvstue.website, policy: reject
@@ -104839,7 +104801,6 @@ domain: s19a.biz, policy: reject
 domain: s1cta.com, policy: reject
 domain: s1dxptru.boey2012.com, policy: reject
 domain: s1dxptru.boey2012.com.eo.dnse3.com, policy: reject
-domain: s1m.mediav.com, policy: reject
 domain: s1m4nohq.de, policy: reject
 domain: s1r.zerkalo.io, policy: reject
 domain: s1sentablya.teenfuckhd.com, policy: reject
@@ -104868,7 +104829,6 @@ domain: s2564.sc.origins.en25.com, policy: reject
 domain: s28z.cloudm1x.ru, policy: reject
 domain: s2d6.com, policy: reject
 domain: s2dcm.com, policy: reject
-domain: s2m.mediav.com, policy: reject
 domain: s2rkge.vmgikpw.com, policy: reject
 domain: s2s.adjust.cn, policy: reject
 domain: s2s.adjust.com, policy: reject
@@ -104896,11 +104856,6 @@ domain: s362693299.aon.com, policy: reject
 domain: s364-ad-canl5.nbjz.db9w.com, policy: reject
 domain: s3d4.cn, policy: reject
 domain: s3g6.com, policy: reject
-domain: s3m.mediav.com, policy: reject
-domain: s3m1.fenxi.com, policy: reject
-domain: s3m2.fenxi.com, policy: reject
-domain: s3m3.fenxi.com, policy: reject
-domain: s3m4.fenxi.com, policy: reject
 domain: s3ov5.bounceme.net, policy: reject
 domain: s3r.zerkalo.io, policy: reject
 domain: s3t3d2y8.afcdn.net, policy: reject
@@ -104919,7 +104874,6 @@ domain: s41p4.lightb0x.ru, policy: reject
 domain: s45hkb25i.com, policy: reject
 domain: s46849916.sc.origins.en25.com, policy: reject
 domain: s4e8.cascades.com, policy: reject
-domain: s4m.mediav.com, policy: reject
 domain: s4ndup.quick5and.ru, policy: reject
 domain: s4te24u.com, policy: reject
 domain: s4y6lhotaw.com, policy: reject
@@ -116257,7 +116211,6 @@ domain: static-rtb2.programmatics.net, policy: reject
 domain: static-s.iqiyi.com, policy: reject
 domain: static-seraph.zhongan.io, policy: reject
 domain: static-srv.com, policy: reject
-domain: static-ssl.mediav.com, policy: reject
 domain: static-ssp.yidianzixun.com, policy: reject
 domain: static-trackers.adtarget.me, policy: reject
 domain: static-tracking.klaviyo.com, policy: reject
@@ -116394,7 +116347,6 @@ domain: static.masoffer.net, policy: reject
 domain: static.masterfr-bid.com, policy: reject
 domain: static.maticalm-bid.com, policy: reject
 domain: static.media.net, policy: reject
-domain: static.mediav.com, policy: reject
 domain: static.meijiacun.com, policy: reject
 domain: static.miningweekly.com, policy: reject
 domain: static.mntzm.com, policy: reject
@@ -121008,7 +120960,6 @@ domain: tastercloskey.com, policy: reject
 domain: tastierlawny.cfd, policy: reject
 domain: tastiesfoods.com, policy: reject
 domain: tastingraport.world, policy: reject
-domain: tat.pandora.xiaomi.com, policy: reject
 domain: tatagou.com.cn, policy: reject
 domain: tataricroque.cyou, policy: reject
 domain: tatehj.nylaarp.com, policy: reject
