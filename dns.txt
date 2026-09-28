@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-09-27 22:44:26.578769
+# Generated on 2026-09-28 02:49:19.275002
 
 ||ad-sign.byteimg.com^
 ||tos.pstatp.com^
@@ -144520,6 +144520,8 @@
 ||tracking-adnet.vivo.com.cn^
 ||union-record.oss-cn-zhangjiakou.aliyuncs.com^
 ||xadsmartget.adgain.cn^
+||amusingarmorycomment.com^
+||arbattadr.in^
 ||greentrafsa.com^
 ||wgwt5p8.com^
 ||wewubuwgz.com^

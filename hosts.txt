@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-09-27 22:44:30
-# 规则总数: 145592
+# 更新时间: 2026-09-28 02:49:21
+# 规则总数: 145594
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -17242,6 +17242,7 @@
 0.0.0.0 amusing-branch.pro
 0.0.0.0 amusing-injury.com
 0.0.0.0 amusing-spell.pro
+0.0.0.0 amusingarmorycomment.com
 0.0.0.0 amusingbase.com
 0.0.0.0 amusinghump.com
 0.0.0.0 amuzehellman.cfd
@@ -20708,6 +20709,7 @@
 0.0.0.0 aravynlbydwiq.site
 0.0.0.0 arbacindawpate.cyou
 0.0.0.0 arbalosspitz.qpon
+0.0.0.0 arbattadr.in
 0.0.0.0 arbithitemise.top
 0.0.0.0 arbitresausage.qpon
 0.0.0.0 arblastbhunder.cfd

@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-09-27 22:44:30
-# 规则总数: 145592
+# 更新时间: 2026-09-28 02:49:21
+# 规则总数: 145594
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -17242,6 +17242,7 @@ amusgjaczncmg.site block
 amusing-branch.pro block
 amusing-injury.com block
 amusing-spell.pro block
+amusingarmorycomment.com block
 amusingbase.com block
 amusinghump.com block
 amuzehellman.cfd block
@@ -20708,6 +20709,7 @@ arauancomic.qpon block
 aravynlbydwiq.site block
 arbacindawpate.cyou block
 arbalosspitz.qpon block
+arbattadr.in block
 arbithitemise.top block
 arbitresausage.qpon block
 arblastbhunder.cfd block

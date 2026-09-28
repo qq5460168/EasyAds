@@ -144517,6 +144517,8 @@
 ||tracking-adnet.vivo.com.cn^
 ||union-record.oss-cn-zhangjiakou.aliyuncs.com^
 ||xadsmartget.adgain.cn^
+||amusingarmorycomment.com^
+||arbattadr.in^
 ||greentrafsa.com^
 ||wgwt5p8.com^
 ||wewubuwgz.com^

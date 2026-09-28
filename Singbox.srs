@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-09-27 22:44:30
-# 规则总数: 145592
+# 更新时间: 2026-09-28 02:49:21
+# 规则总数: 145594
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -17242,6 +17242,7 @@ domain: amusgjaczncmg.site, policy: reject
 domain: amusing-branch.pro, policy: reject
 domain: amusing-injury.com, policy: reject
 domain: amusing-spell.pro, policy: reject
+domain: amusingarmorycomment.com, policy: reject
 domain: amusingbase.com, policy: reject
 domain: amusinghump.com, policy: reject
 domain: amuzehellman.cfd, policy: reject
@@ -20708,6 +20709,7 @@ domain: arauancomic.qpon, policy: reject
 domain: aravynlbydwiq.site, policy: reject
 domain: arbacindawpate.cyou, policy: reject
 domain: arbalosspitz.qpon, policy: reject
+domain: arbattadr.in, policy: reject
 domain: arbithitemise.top, policy: reject
 domain: arbitresausage.qpon, policy: reject
 domain: arblastbhunder.cfd, policy: reject

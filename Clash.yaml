@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-09-27 22:44:30
-# 规则总数: 145592
+# 更新时间: 2026-09-28 02:49:21
+# 规则总数: 145594
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -17243,6 +17243,7 @@ payload:
   - 'amusing-branch.pro'
   - 'amusing-injury.com'
   - 'amusing-spell.pro'
+  - 'amusingarmorycomment.com'
   - 'amusingbase.com'
   - 'amusinghump.com'
   - 'amuzehellman.cfd'
@@ -20709,6 +20710,7 @@ payload:
   - 'aravynlbydwiq.site'
   - 'arbacindawpate.cyou'
   - 'arbalosspitz.qpon'
+  - 'arbattadr.in'
   - 'arbithitemise.top'
   - 'arbitresausage.qpon'
   - 'arblastbhunder.cfd'
