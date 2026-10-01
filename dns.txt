@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-10-01 03:21:27.320010
+# Generated on 2026-10-01 10:37:46.201581
 
 ||ad-sign.byteimg.com^
 ||tos.pstatp.com^
@@ -143198,6 +143198,7 @@
 ||ok.8358211.cc^
 ||ommbqw.icu^
 ||op53t.nbganghui.com^
+||optimus-ads-ykx.amap.com^
 ||oqissyeygvnnhigj.ayh3.xyz^
 ||orvexlumin.698518.xyz^
 ||ouj.vtqccm.com^
@@ -143487,7 +143488,6 @@
 ||nj.cschannel.anticheatexpert.com^
 ||oi.rb.qq.com^
 ||openlog.cashcatads.com^
-||optimus-ads-ykx.amap.com^
 ||ossgw.alicdn.com^
 ||p1-ad.adukwai.com^
 ||p1-ff.adkwai.com^
