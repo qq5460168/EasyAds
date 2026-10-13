@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-10-13 15:28:02.645510
+# Generated on 2026-10-13 20:56:03.702173
 
 ||ad-sign.byteimg.com^
 ||tos.pstatp.com^
@@ -144576,7 +144576,41 @@
 ||iefmvk.cn^
 ||vs1.szcu.u3.ucweb.com^
 ||vs2.bjct.u3.ucweb.com^
+||ad.360.cn^
+||ad.360safe.com^
+||adv.360.cn^
+||adpop.360.cn^
+||adlog.360.cn^
+||log.360.cn^
+||stat.360.cn^
+||report.360.cn^
+||upload.360.cn^
+||trace.360.cn^
+||data.360.cn^
+||mcloud.360.cn^
+||cloud.360safe.com^
+||mvconf.cloud.360safe.com^
+||mclean.cloud.360safe.com^
 ||bizhi.360.cn^
+||wallpaper.360.cn^
+||wp.360.cn^
+||pic.bizhi.360.cn^
+||recommend.bizhi.360.cn^
+||pop.360.cn^
+||msg.360.cn^
+||notice.360.cn^
+||push.360.cn^
+||f.360.cn^
+||so.360.cn^
+||sp.360.cn^
+||m.360.cn^
+||mapp.360.cn^
+||appstore.360.cn^
+||app.360.cn^
+||game.360.cn^
+||gamead.360.cn^
+||tuiguang.360.cn^
+||promo.360.cn^
 ||wallpaper.apc.360.cn^
 ||huabao.360.cn^
 ||openbox.mobilem.360.cn^

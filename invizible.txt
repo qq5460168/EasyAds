@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-10-13 15:28:06
-# 规则总数: 145594
+# 更新时间: 2026-10-13 20:56:07
+# 规则总数: 145628
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -12211,7 +12211,9 @@ ad.22betpartners.com block
 ad.24h.com.vn block
 ad.3.cn block
 ad.320320.net block
+ad.360.cn block
 ad.360in.com block
+ad.360safe.com block
 ad.360yield.com block
 ad.363.in block
 ad.3dnews.ru block
@@ -13354,6 +13356,7 @@ adlink-api.huan.tv block
 adlink.shopsafe.co.nz block
 adlive.cn block
 adlocus.com block
+adlog.360.cn block
 adlog.com.com block
 adlog.flurry.com block
 adlog.qingting.fm block
@@ -13750,6 +13753,7 @@ adpointbreakrtb.com block
 adpolestar.net block
 adpone.com block
 adpool.bet block
+adpop.360.cn block
 adpopcorn.com block
 adpostback.headlines.pw block
 adppartner.solutions.adpinfo.com block
@@ -14906,6 +14910,7 @@ adv-front.devpnd.com block
 adv-img.edilportale.com block
 adv-sv-show.focus.cn block
 adv-sv-stat.focus.cn block
+adv.360.cn block
 adv.anhsangvacuocsong.vn block
 adv.api.mucfc.com block
 adv.app.qq.com block
@@ -19385,6 +19390,7 @@ app.12thman.com block
 app.12thmanfoundation.com block
 app.189tutors.com block
 app.2cents.audio block
+app.360.cn block
 app.3987.com block
 app.5miles.us block
 app.8tracks.com block
@@ -20476,6 +20482,7 @@ appsrv.display.io block
 appsrv1.madserving.com block
 appsrv4.madserving.com block
 appstorages.com block
+appstore.360.cn block
 appstore.qzone.qq.com block
 appstoreort-stsdk.vivo.com.cn block
 appsupdate.sinaapp.com block
@@ -32139,6 +32146,7 @@ cloud-m3.plum5parcel.coupons block
 cloud-miner.eu block
 cloud-st1.perk9parcel.coupons block
 cloud-suites.xyz block
+cloud.360safe.com block
 cloud.a5pirbo0rda.ru block
 cloud.arqiva.tv block
 cloud.codenow.cn block
@@ -37976,6 +37984,7 @@ data-track.yingxiong.com block
 data-transfer-srv.starkwind.coupons block
 data-video.71edge.com block
 data.2ask.blue.com.hk block
+data.360.cn block
 data.3975.com block
 data.a.news.aida.de block
 data.ab.qq.com block
@@ -48291,6 +48300,7 @@ f-g-l-j.22yy6.com block
 f-log-at.grammarly.io block
 f-log-test.grammarly.io block
 f-tigers-wheel-apk-br.pages.dev block
+f.360.cn block
 f.520tingshu.com block
 f.8fenxiang.com block
 f.a23.in block
@@ -52856,6 +52866,7 @@ gambogeeche.cyou block
 game-advertising-online.com block
 game-attribute.biligame.com block
 game-res.meizu.com block
+game.360.cn block
 game.9xzj.com block
 game.baichuanhd.cn block
 game.e.kuaishou.com block
@@ -52871,6 +52882,7 @@ game.weibo.cn block
 game.weibo.com block
 game.weixin.qq.com block
 game19.flash-myanmar.com block
+gamead.360.cn block
 gamead.swjoy.com block
 gameads.digyourowngrave.com block
 gameads.io block
@@ -74524,6 +74536,7 @@ log-vietnamplus-vn.cdn.ampproject.org block
 log-yex.youdao.com block
 log.1vn.app block
 log.247post.vn block
+log.360.cn block
 log.51changdu.com block
 log.8zhuayu.cc block
 log.ablyft.com block
@@ -76433,6 +76446,7 @@ m.1768.com block
 m.1919388.net block
 m.1gr.cz block
 m.28487.net block
+m.360.cn block
 m.3987.com block
 m.495495.com block
 m.51xmgys.com block
@@ -77571,6 +77585,7 @@ maplehache.cfd block
 maplehaze.cn block
 maplin.hu block
 maplocatesdksnapshot.d.meituan.net block
+mapp.360.cn block
 mapp.biryanibykilo.com block
 mapp.ewm.co.uk block
 mapp.jysk.dk block
@@ -79592,8 +79607,10 @@ mckbpe.united-arrows.co.jp block
 mckensecuryr.info block
 mckiey.thun.com block
 mckumf5ii4.com block
+mclean.cloud.360safe.com block
 mclick.mobi block
 mclick.simba.taobao.com block
+mcloud.360.cn block
 mclseww.top block
 mcmq.host block
 mcnlpmzrhpvcq.online block
@@ -84127,6 +84144,7 @@ msfvwi.sieuthiyte.com.vn block
 msg-em.hismarttv.com block
 msg-intl.qy.net block
 msg-na.hismarttv.com block
+msg.360.cn block
 msg.71.am block
 msg.c002.ottcn.com block
 msg.ettoday.net block
@@ -84629,6 +84647,7 @@ mvbcsloqebjfv.site block
 mvc.shopjapan.co.jp block
 mvchallenges.s3-website-eu-west-1.amazonaws.com block
 mvcnmtx.top block
+mvconf.cloud.360safe.com block
 mvcxsderxyt.xyz block
 mvdnfedblekcc.store block
 mvdr23.xyz block
@@ -87179,6 +87198,7 @@ nothingelbowsigns.com block
 nothingpetwring.com block
 nothycantyo.com block
 notice-tmo.notice.assurancewireless.com block
+notice.360.cn block
 notice.game.xiaomi.com block
 notice.hoopladigital.com block
 notice.iqiyi.com block
@@ -93660,6 +93680,7 @@ pic.2u.com.cn block
 pic.adver.com.tw block
 pic.aihaogou.com.cn block
 pic.baihuawen.cn block
+pic.bizhi.360.cn block
 pic.by175.com block
 pic.casee.cn block
 pic.cnmo-img.com.cn block
@@ -95200,6 +95221,7 @@ pooveheptinelote.cfd block
 poowanoalee.net block
 pop-ad.pages.dev block
 pop-under.ru block
+pop.360.cn block
 pop.91mangrandi.com block
 pop.carte-gr.total.fr block
 pop.code.mytanwan.com block
@@ -96333,6 +96355,7 @@ promerycergerful.com block
 promisespreepanic.com block
 promo-bc.com block
 promo-libre.ventdoux.coupons block
+promo.360.cn block
 promo.alfaromeo.it block
 promo.aprima.com block
 promo.batesville.com block
@@ -97305,6 +97328,7 @@ push-sdk.net block
 push-sense.com block
 push-subservice.com block
 push.126.net block
+push.360.cn block
 push.5z5zw.com block
 push.adright.co block
 push.air-matters.com block
@@ -100696,6 +100720,7 @@ recognize04.top block
 recoilregionsjonas.com block
 recomendedsite.com block
 recommend-drcn.hms.dbankcloud.cn block
+recommend.bizhi.360.cn block
 recommendationbredshrimp.com block
 recommendationknee.com block
 recommendedcasualtymysterious.com block
@@ -101365,6 +101390,7 @@ report-ps.meettech.net block
 report-stream-55.dev-trace-analyzer.coupons block
 report.1-1.io block
 report.23video.com block
+report.360.cn block
 report.504.su block
 report.apkpure.net block
 report.appmetrica.yandex.net.iberostar.com block
@@ -113330,6 +113356,7 @@ snwuamb.top block
 snwucnb.top block
 snxqmwjwvyvbg.online block
 so-gr3at3.com block
+so.360.cn block
 so.auto999.cn block
 so.blue.ch block
 so.bluecinema.ch block
@@ -114091,6 +114118,7 @@ sozzlypeavies.com block
 sp-app.fixly.pl block
 sp-mms.weather.com block
 sp-wukong-tracker.b-cdn.net block
+sp.360.cn block
 sp.app.com block
 sp.argusleader.com block
 sp.aviasales.com block
@@ -116030,6 +116058,7 @@ stat-y.xywy.com block
 stat-z.xywy.com block
 stat.10jqka.com.cn block
 stat.24liveplus.com block
+stat.360.cn block
 stat.4u.pl block
 stat.5-tv.ru block
 stat.absolutist.com block
@@ -125150,6 +125179,7 @@ trac.oferting.it block
 trac.oferting.net block
 trac.roomster.com block
 traccoon.intellectsoft.net block
+trace.360.cn block
 trace.51jingying.com block
 trace.aqyad.com block
 trace.bluef1re.ru block
@@ -127843,6 +127873,7 @@ tuia.cn block
 tuiaaag.com block
 tuigoo.com block
 tuiguang.178.com block
+tuiguang.360.cn block
 tuiguang.meitu.com block
 tuiguang.yicha.cn block
 tuijian.baidu.com block
@@ -130307,6 +130338,7 @@ upliftsearch.com block
 uplitwickr.com block
 upload-up.qtfm.cn block
 upload-z0.qiniup.com block
+upload.360.cn block
 upload.euleriancdn.net block
 upload.ksapisrv.com block
 upload.luckyorange.net block
@@ -134649,6 +134681,7 @@ wallopackton.life block
 wallowwholike.com block
 wallowwholikedtoc.org block
 wallpaper-1258344696.file.myqcloud.com block
+wallpaper.360.cn block
 wallpaper.apc.360.cn block
 wallpapersfacts.com block
 wallsquillsoutslid.cyou block
@@ -137246,6 +137279,7 @@ wowreality.info block
 wowzazen.cyou block
 wozdcc.vidaxl.at block
 wozlx.cn block
+wp.360.cn block
 wp.brandnewapp.pro block
 wp3advesting.com block
 wp3qhtu5.pro block

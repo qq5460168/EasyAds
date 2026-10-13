@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-10-13 15:28:06
-# 规则总数: 145594
+# 更新时间: 2026-10-13 20:56:07
+# 规则总数: 145628
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -12211,7 +12211,9 @@ domain, ad.22betpartners.com
 domain, ad.24h.com.vn
 domain, ad.3.cn
 domain, ad.320320.net
+domain, ad.360.cn
 domain, ad.360in.com
+domain, ad.360safe.com
 domain, ad.360yield.com
 domain, ad.363.in
 domain, ad.3dnews.ru
@@ -13354,6 +13356,7 @@ domain, adlink-api.huan.tv
 domain, adlink.shopsafe.co.nz
 domain, adlive.cn
 domain, adlocus.com
+domain, adlog.360.cn
 domain, adlog.com.com
 domain, adlog.flurry.com
 domain, adlog.qingting.fm
@@ -13750,6 +13753,7 @@ domain, adpointbreakrtb.com
 domain, adpolestar.net
 domain, adpone.com
 domain, adpool.bet
+domain, adpop.360.cn
 domain, adpopcorn.com
 domain, adpostback.headlines.pw
 domain, adppartner.solutions.adpinfo.com
@@ -14906,6 +14910,7 @@ domain, adv-front.devpnd.com
 domain, adv-img.edilportale.com
 domain, adv-sv-show.focus.cn
 domain, adv-sv-stat.focus.cn
+domain, adv.360.cn
 domain, adv.anhsangvacuocsong.vn
 domain, adv.api.mucfc.com
 domain, adv.app.qq.com
@@ -19385,6 +19390,7 @@ domain, app.12thman.com
 domain, app.12thmanfoundation.com
 domain, app.189tutors.com
 domain, app.2cents.audio
+domain, app.360.cn
 domain, app.3987.com
 domain, app.5miles.us
 domain, app.8tracks.com
@@ -20476,6 +20482,7 @@ domain, appsrv.display.io
 domain, appsrv1.madserving.com
 domain, appsrv4.madserving.com
 domain, appstorages.com
+domain, appstore.360.cn
 domain, appstore.qzone.qq.com
 domain, appstoreort-stsdk.vivo.com.cn
 domain, appsupdate.sinaapp.com
@@ -32139,6 +32146,7 @@ domain, cloud-m3.plum5parcel.coupons
 domain, cloud-miner.eu
 domain, cloud-st1.perk9parcel.coupons
 domain, cloud-suites.xyz
+domain, cloud.360safe.com
 domain, cloud.a5pirbo0rda.ru
 domain, cloud.arqiva.tv
 domain, cloud.codenow.cn
@@ -37976,6 +37984,7 @@ domain, data-track.yingxiong.com
 domain, data-transfer-srv.starkwind.coupons
 domain, data-video.71edge.com
 domain, data.2ask.blue.com.hk
+domain, data.360.cn
 domain, data.3975.com
 domain, data.a.news.aida.de
 domain, data.ab.qq.com
@@ -48291,6 +48300,7 @@ domain, f-g-l-j.22yy6.com
 domain, f-log-at.grammarly.io
 domain, f-log-test.grammarly.io
 domain, f-tigers-wheel-apk-br.pages.dev
+domain, f.360.cn
 domain, f.520tingshu.com
 domain, f.8fenxiang.com
 domain, f.a23.in
@@ -52856,6 +52866,7 @@ domain, gambogeeche.cyou
 domain, game-advertising-online.com
 domain, game-attribute.biligame.com
 domain, game-res.meizu.com
+domain, game.360.cn
 domain, game.9xzj.com
 domain, game.baichuanhd.cn
 domain, game.e.kuaishou.com
@@ -52871,6 +52882,7 @@ domain, game.weibo.cn
 domain, game.weibo.com
 domain, game.weixin.qq.com
 domain, game19.flash-myanmar.com
+domain, gamead.360.cn
 domain, gamead.swjoy.com
 domain, gameads.digyourowngrave.com
 domain, gameads.io
@@ -74524,6 +74536,7 @@ domain, log-vietnamplus-vn.cdn.ampproject.org
 domain, log-yex.youdao.com
 domain, log.1vn.app
 domain, log.247post.vn
+domain, log.360.cn
 domain, log.51changdu.com
 domain, log.8zhuayu.cc
 domain, log.ablyft.com
@@ -76433,6 +76446,7 @@ domain, m.1768.com
 domain, m.1919388.net
 domain, m.1gr.cz
 domain, m.28487.net
+domain, m.360.cn
 domain, m.3987.com
 domain, m.495495.com
 domain, m.51xmgys.com
@@ -77571,6 +77585,7 @@ domain, maplehache.cfd
 domain, maplehaze.cn
 domain, maplin.hu
 domain, maplocatesdksnapshot.d.meituan.net
+domain, mapp.360.cn
 domain, mapp.biryanibykilo.com
 domain, mapp.ewm.co.uk
 domain, mapp.jysk.dk
@@ -79592,8 +79607,10 @@ domain, mckbpe.united-arrows.co.jp
 domain, mckensecuryr.info
 domain, mckiey.thun.com
 domain, mckumf5ii4.com
+domain, mclean.cloud.360safe.com
 domain, mclick.mobi
 domain, mclick.simba.taobao.com
+domain, mcloud.360.cn
 domain, mclseww.top
 domain, mcmq.host
 domain, mcnlpmzrhpvcq.online
@@ -84127,6 +84144,7 @@ domain, msfvwi.sieuthiyte.com.vn
 domain, msg-em.hismarttv.com
 domain, msg-intl.qy.net
 domain, msg-na.hismarttv.com
+domain, msg.360.cn
 domain, msg.71.am
 domain, msg.c002.ottcn.com
 domain, msg.ettoday.net
@@ -84629,6 +84647,7 @@ domain, mvbcsloqebjfv.site
 domain, mvc.shopjapan.co.jp
 domain, mvchallenges.s3-website-eu-west-1.amazonaws.com
 domain, mvcnmtx.top
+domain, mvconf.cloud.360safe.com
 domain, mvcxsderxyt.xyz
 domain, mvdnfedblekcc.store
 domain, mvdr23.xyz
@@ -87179,6 +87198,7 @@ domain, nothingelbowsigns.com
 domain, nothingpetwring.com
 domain, nothycantyo.com
 domain, notice-tmo.notice.assurancewireless.com
+domain, notice.360.cn
 domain, notice.game.xiaomi.com
 domain, notice.hoopladigital.com
 domain, notice.iqiyi.com
@@ -93660,6 +93680,7 @@ domain, pic.2u.com.cn
 domain, pic.adver.com.tw
 domain, pic.aihaogou.com.cn
 domain, pic.baihuawen.cn
+domain, pic.bizhi.360.cn
 domain, pic.by175.com
 domain, pic.casee.cn
 domain, pic.cnmo-img.com.cn
@@ -95200,6 +95221,7 @@ domain, pooveheptinelote.cfd
 domain, poowanoalee.net
 domain, pop-ad.pages.dev
 domain, pop-under.ru
+domain, pop.360.cn
 domain, pop.91mangrandi.com
 domain, pop.carte-gr.total.fr
 domain, pop.code.mytanwan.com
@@ -96333,6 +96355,7 @@ domain, promerycergerful.com
 domain, promisespreepanic.com
 domain, promo-bc.com
 domain, promo-libre.ventdoux.coupons
+domain, promo.360.cn
 domain, promo.alfaromeo.it
 domain, promo.aprima.com
 domain, promo.batesville.com
@@ -97305,6 +97328,7 @@ domain, push-sdk.net
 domain, push-sense.com
 domain, push-subservice.com
 domain, push.126.net
+domain, push.360.cn
 domain, push.5z5zw.com
 domain, push.adright.co
 domain, push.air-matters.com
@@ -100696,6 +100720,7 @@ domain, recognize04.top
 domain, recoilregionsjonas.com
 domain, recomendedsite.com
 domain, recommend-drcn.hms.dbankcloud.cn
+domain, recommend.bizhi.360.cn
 domain, recommendationbredshrimp.com
 domain, recommendationknee.com
 domain, recommendedcasualtymysterious.com
@@ -101365,6 +101390,7 @@ domain, report-ps.meettech.net
 domain, report-stream-55.dev-trace-analyzer.coupons
 domain, report.1-1.io
 domain, report.23video.com
+domain, report.360.cn
 domain, report.504.su
 domain, report.apkpure.net
 domain, report.appmetrica.yandex.net.iberostar.com
@@ -113330,6 +113356,7 @@ domain, snwuamb.top
 domain, snwucnb.top
 domain, snxqmwjwvyvbg.online
 domain, so-gr3at3.com
+domain, so.360.cn
 domain, so.auto999.cn
 domain, so.blue.ch
 domain, so.bluecinema.ch
@@ -114091,6 +114118,7 @@ domain, sozzlypeavies.com
 domain, sp-app.fixly.pl
 domain, sp-mms.weather.com
 domain, sp-wukong-tracker.b-cdn.net
+domain, sp.360.cn
 domain, sp.app.com
 domain, sp.argusleader.com
 domain, sp.aviasales.com
@@ -116030,6 +116058,7 @@ domain, stat-y.xywy.com
 domain, stat-z.xywy.com
 domain, stat.10jqka.com.cn
 domain, stat.24liveplus.com
+domain, stat.360.cn
 domain, stat.4u.pl
 domain, stat.5-tv.ru
 domain, stat.absolutist.com
@@ -125150,6 +125179,7 @@ domain, trac.oferting.it
 domain, trac.oferting.net
 domain, trac.roomster.com
 domain, traccoon.intellectsoft.net
+domain, trace.360.cn
 domain, trace.51jingying.com
 domain, trace.aqyad.com
 domain, trace.bluef1re.ru
@@ -127843,6 +127873,7 @@ domain, tuia.cn
 domain, tuiaaag.com
 domain, tuigoo.com
 domain, tuiguang.178.com
+domain, tuiguang.360.cn
 domain, tuiguang.meitu.com
 domain, tuiguang.yicha.cn
 domain, tuijian.baidu.com
@@ -130307,6 +130338,7 @@ domain, upliftsearch.com
 domain, uplitwickr.com
 domain, upload-up.qtfm.cn
 domain, upload-z0.qiniup.com
+domain, upload.360.cn
 domain, upload.euleriancdn.net
 domain, upload.ksapisrv.com
 domain, upload.luckyorange.net
@@ -134649,6 +134681,7 @@ domain, wallopackton.life
 domain, wallowwholike.com
 domain, wallowwholikedtoc.org
 domain, wallpaper-1258344696.file.myqcloud.com
+domain, wallpaper.360.cn
 domain, wallpaper.apc.360.cn
 domain, wallpapersfacts.com
 domain, wallsquillsoutslid.cyou
@@ -137246,6 +137279,7 @@ domain, wowreality.info
 domain, wowzazen.cyou
 domain, wozdcc.vidaxl.at
 domain, wozlx.cn
+domain, wp.360.cn
 domain, wp.brandnewapp.pro
 domain, wp3advesting.com
 domain, wp3qhtu5.pro
