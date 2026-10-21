@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-10-20 22:52:13
-# 规则总数: 145628
+# 更新时间: 2026-10-21 02:43:15
+# 规则总数: 145629
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -86183,6 +86183,7 @@ domain: nexqit.ext0rttramp1e.ru, policy: reject
 domain: nexstep.zdworks.com, policy: reject
 domain: next-lust.cfd, policy: reject
 domain: next-sail.pro, policy: reject
+domain: nextacdn.top, policy: reject
 domain: nextbeforefollowerskean.com, policy: reject
 domain: nextcps.com, policy: reject
 domain: nextdaymedia-ads.s3.amazonaws.com, policy: reject

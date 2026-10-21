@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-10-21 06:52:10
-# 规则统计: 总计145567条 (IP:146 DOMAIN:0 SUFFIX:145421 KEYWORD:0)
+# 更新时间(北京时间): 2026-10-21 10:43:12
+# 规则统计: 总计145568条 (IP:146 DOMAIN:0 SUFFIX:145422 KEYWORD:0)
 
 # IP规则
 IP-CIDR,10.130.208.223,REJECT,no-resolve
@@ -86139,6 +86139,7 @@ DOMAIN-SUFFIX,nexqit.ext0rttramp1e.ru,REJECT
 DOMAIN-SUFFIX,nexstep.zdworks.com,REJECT
 DOMAIN-SUFFIX,next-lust.cfd,REJECT
 DOMAIN-SUFFIX,next-sail.pro,REJECT
+DOMAIN-SUFFIX,nextacdn.top,REJECT
 DOMAIN-SUFFIX,nextbeforefollowerskean.com,REJECT
 DOMAIN-SUFFIX,nextcps.com,REJECT
 DOMAIN-SUFFIX,nextdaymedia-ads.s3.amazonaws.com,REJECT

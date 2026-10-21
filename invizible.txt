@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-10-20 22:52:13
-# 规则总数: 145628
+# 更新时间: 2026-10-21 02:43:15
+# 规则总数: 145629
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -86183,6 +86183,7 @@ nexqit.ext0rttramp1e.ru block
 nexstep.zdworks.com block
 next-lust.cfd block
 next-sail.pro block
+nextacdn.top block
 nextbeforefollowerskean.com block
 nextcps.com block
 nextdaymedia-ads.s3.amazonaws.com block

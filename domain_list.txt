@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-10-20 22:52:10（北京时间）
-# 共 145564 个域名
+# 生成时间: 2026-10-21 02:43:11（北京时间）
+# 共 145565 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -86135,6 +86135,7 @@ nexqit.ext0rttramp1e.ru
 nexstep.zdworks.com
 next-lust.cfd
 next-sail.pro
+nextacdn.top
 nextbeforefollowerskean.com
 nextcps.com
 nextdaymedia-ads.s3.amazonaws.com

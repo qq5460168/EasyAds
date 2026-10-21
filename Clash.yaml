@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-10-20 22:52:12
-# 规则总数: 145628
+# 更新时间: 2026-10-21 02:43:14
+# 规则总数: 145629
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -86184,6 +86184,7 @@ payload:
   - 'nexstep.zdworks.com'
   - 'next-lust.cfd'
   - 'next-sail.pro'
+  - 'nextacdn.top'
   - 'nextbeforefollowerskean.com'
   - 'nextcps.com'
   - 'nextdaymedia-ads.s3.amazonaws.com'
