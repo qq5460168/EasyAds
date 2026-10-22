@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-10-22 17:03:35
-# 规则统计: 总计145568条 (IP:146 DOMAIN:0 SUFFIX:145422 KEYWORD:0)
+# 更新时间(北京时间): 2026-10-23 00:22:59
+# 规则统计: 总计145575条 (IP:146 DOMAIN:0 SUFFIX:145429 KEYWORD:0)
 
 # IP规则
 IP-CIDR,10.130.208.223,REJECT,no-resolve
@@ -26207,6 +26207,7 @@ DOMAIN-SUFFIX,boomkinloyal.help,REJECT
 DOMAIN-SUFFIX,booneeptou.net,REJECT
 DOMAIN-SUFFIX,boortquaighs.shop,REJECT
 DOMAIN-SUFFIX,booseed.com,REJECT
+DOMAIN-SUFFIX,boost-cmp.hismarttv.com,REJECT
 DOMAIN-SUFFIX,boost-next.co.jp,REJECT
 DOMAIN-SUFFIX,boost.bu1gep2lest.ru,REJECT
 DOMAIN-SUFFIX,boostads.net,REJECT
@@ -63083,6 +63084,7 @@ DOMAIN-SUFFIX,imneinei.com,REJECT
 DOMAIN-SUFFIX,imoodrikauch.net,REJECT
 DOMAIN-SUFFIX,imorajqpyrpdm.site,REJECT
 DOMAIN-SUFFIX,imp-adedge.i-mobile.co.jp,REJECT
+DOMAIN-SUFFIX,imp-cmp.hismarttv.com,REJECT
 DOMAIN-SUFFIX,imp-toutiao-data.37.com.cn,REJECT
 DOMAIN-SUFFIX,imp.accesstra.de,REJECT
 DOMAIN-SUFFIX,imp.ad-plus.cn,REJECT
@@ -74340,6 +74342,7 @@ DOMAIN-SUFFIX,loader.word-grabber.com,REJECT
 DOMAIN-SUFFIX,loader.wort-suchen.de,REJECT
 DOMAIN-SUFFIX,loader.woxikon.de,REJECT
 DOMAIN-SUFFIX,loadercdn.com,REJECT
+DOMAIN-SUFFIX,loading-cmp.hismarttv.com,REJECT
 DOMAIN-SUFFIX,loading-delivery2.com,REJECT
 DOMAIN-SUFFIX,loading.baofeng5.baofeng.net,REJECT
 DOMAIN-SUFFIX,loading321.com,REJECT
@@ -84097,6 +84100,7 @@ DOMAIN-SUFFIX,mseuwbfjrf.com,REJECT
 DOMAIN-SUFFIX,msexpwlqpfcbr.site,REJECT
 DOMAIN-SUFFIX,msffwvyhsapxgw.net,REJECT
 DOMAIN-SUFFIX,msfvwi.sieuthiyte.com.vn,REJECT
+DOMAIN-SUFFIX,msg-cmp.hismarttv.com,REJECT
 DOMAIN-SUFFIX,msg-em.hismarttv.com,REJECT
 DOMAIN-SUFFIX,msg-intl.qy.net,REJECT
 DOMAIN-SUFFIX,msg-na.hismarttv.com,REJECT
@@ -92434,6 +92438,7 @@ DOMAIN-SUFFIX,pasteldrowsyaboriginal.com,REJECT
 DOMAIN-SUFFIX,pastelentirely.com,REJECT
 DOMAIN-SUFFIX,pasteljav128.fun,REJECT
 DOMAIN-SUFFIX,pastelspittle.com,REJECT
+DOMAIN-SUFFIX,paster-cmp.hismarttv.com,REJECT
 DOMAIN-SUFFIX,pastieschechia.cyou,REJECT
 DOMAIN-SUFFIX,pastrevolution.pro,REJECT
 DOMAIN-SUFFIX,pastryhobbled.com,REJECT
@@ -100661,6 +100666,7 @@ DOMAIN-SUFFIX,reclinenumbermen.com,REJECT
 DOMAIN-SUFFIX,reclineonseteducational.com,REJECT
 DOMAIN-SUFFIX,reclinetunepollen.com,REJECT
 DOMAIN-SUFFIX,reclod.com,REJECT
+DOMAIN-SUFFIX,recmd-cmp.hismarttv.com,REJECT
 DOMAIN-SUFFIX,recmd.html5.qq.com,REJECT
 DOMAIN-SUFFIX,recmeeshebsougn.net,REJECT
 DOMAIN-SUFFIX,reco.target2sell.com,REJECT
@@ -101519,6 +101525,7 @@ DOMAIN-SUFFIX,reson.jazzm1s8uid.ru,REJECT
 DOMAIN-SUFFIX,reson8.com,REJECT
 DOMAIN-SUFFIX,resonance.pk,REJECT
 DOMAIN-SUFFIX,resort1266.fun,REJECT
+DOMAIN-SUFFIX,resource-cmp.hismarttv.com,REJECT
 DOMAIN-SUFFIX,resource.ad-scope.com.cn,REJECT
 DOMAIN-SUFFIX,resource.baomihua.com,REJECT
 DOMAIN-SUFFIX,resource.fjhongbo.com,REJECT

@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-10-22 09:03:37
-# 规则总数: 145629
+# 更新时间: 2026-10-22 16:23:01
+# 规则总数: 145636
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -26219,6 +26219,7 @@
 0.0.0.0 booneeptou.net
 0.0.0.0 boortquaighs.shop
 0.0.0.0 booseed.com
+0.0.0.0 boost-cmp.hismarttv.com
 0.0.0.0 boost-next.co.jp
 0.0.0.0 boost.bu1gep2lest.ru
 0.0.0.0 boostads.net
@@ -63112,6 +63113,7 @@
 0.0.0.0 imoodrikauch.net
 0.0.0.0 imorajqpyrpdm.site
 0.0.0.0 imp-adedge.i-mobile.co.jp
+0.0.0.0 imp-cmp.hismarttv.com
 0.0.0.0 imp-toutiao-data.37.com.cn
 0.0.0.0 imp.accesstra.de
 0.0.0.0 imp.ad-plus.cn
@@ -74379,6 +74381,7 @@
 0.0.0.0 loader.wort-suchen.de
 0.0.0.0 loader.woxikon.de
 0.0.0.0 loadercdn.com
+0.0.0.0 loading-cmp.hismarttv.com
 0.0.0.0 loading-delivery2.com
 0.0.0.0 loading.baofeng5.baofeng.net
 0.0.0.0 loading321.com
@@ -84141,6 +84144,7 @@
 0.0.0.0 msexpwlqpfcbr.site
 0.0.0.0 msffwvyhsapxgw.net
 0.0.0.0 msfvwi.sieuthiyte.com.vn
+0.0.0.0 msg-cmp.hismarttv.com
 0.0.0.0 msg-em.hismarttv.com
 0.0.0.0 msg-intl.qy.net
 0.0.0.0 msg-na.hismarttv.com
@@ -92482,6 +92486,7 @@
 0.0.0.0 pastelentirely.com
 0.0.0.0 pasteljav128.fun
 0.0.0.0 pastelspittle.com
+0.0.0.0 paster-cmp.hismarttv.com
 0.0.0.0 pastieschechia.cyou
 0.0.0.0 pastrevolution.pro
 0.0.0.0 pastryhobbled.com
@@ -100712,6 +100717,7 @@
 0.0.0.0 reclineonseteducational.com
 0.0.0.0 reclinetunepollen.com
 0.0.0.0 reclod.com
+0.0.0.0 recmd-cmp.hismarttv.com
 0.0.0.0 recmd.html5.qq.com
 0.0.0.0 recmeeshebsougn.net
 0.0.0.0 reco.target2sell.com
@@ -101569,6 +101575,7 @@
 0.0.0.0 reson8.com
 0.0.0.0 resonance.pk
 0.0.0.0 resort1266.fun
+0.0.0.0 resource-cmp.hismarttv.com
 0.0.0.0 resource.ad-scope.com.cn
 0.0.0.0 resource.baomihua.com
 0.0.0.0 resource.fjhongbo.com

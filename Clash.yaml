@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-10-22 09:03:37
-# 规则总数: 145629
+# 更新时间: 2026-10-22 16:23:01
+# 规则总数: 145636
 
 payload:
   - '-normal-lq.zijieapi.com'
@@ -26220,6 +26220,7 @@ payload:
   - 'booneeptou.net'
   - 'boortquaighs.shop'
   - 'booseed.com'
+  - 'boost-cmp.hismarttv.com'
   - 'boost-next.co.jp'
   - 'boost.bu1gep2lest.ru'
   - 'boostads.net'
@@ -63113,6 +63114,7 @@ payload:
   - 'imoodrikauch.net'
   - 'imorajqpyrpdm.site'
   - 'imp-adedge.i-mobile.co.jp'
+  - 'imp-cmp.hismarttv.com'
   - 'imp-toutiao-data.37.com.cn'
   - 'imp.accesstra.de'
   - 'imp.ad-plus.cn'
@@ -74380,6 +74382,7 @@ payload:
   - 'loader.wort-suchen.de'
   - 'loader.woxikon.de'
   - 'loadercdn.com'
+  - 'loading-cmp.hismarttv.com'
   - 'loading-delivery2.com'
   - 'loading.baofeng5.baofeng.net'
   - 'loading321.com'
@@ -84142,6 +84145,7 @@ payload:
   - 'msexpwlqpfcbr.site'
   - 'msffwvyhsapxgw.net'
   - 'msfvwi.sieuthiyte.com.vn'
+  - 'msg-cmp.hismarttv.com'
   - 'msg-em.hismarttv.com'
   - 'msg-intl.qy.net'
   - 'msg-na.hismarttv.com'
@@ -92483,6 +92487,7 @@ payload:
   - 'pastelentirely.com'
   - 'pasteljav128.fun'
   - 'pastelspittle.com'
+  - 'paster-cmp.hismarttv.com'
   - 'pastieschechia.cyou'
   - 'pastrevolution.pro'
   - 'pastryhobbled.com'
@@ -100713,6 +100718,7 @@ payload:
   - 'reclineonseteducational.com'
   - 'reclinetunepollen.com'
   - 'reclod.com'
+  - 'recmd-cmp.hismarttv.com'
   - 'recmd.html5.qq.com'
   - 'recmeeshebsougn.net'
   - 'reco.target2sell.com'
@@ -101570,6 +101576,7 @@ payload:
   - 'reson8.com'
   - 'resonance.pk'
   - 'resort1266.fun'
+  - 'resource-cmp.hismarttv.com'
   - 'resource.ad-scope.com.cn'
   - 'resource.baomihua.com'
   - 'resource.fjhongbo.com'

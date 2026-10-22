@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-10-22 09:03:35（北京时间）
-# 共 145565 个域名
+# 生成时间: 2026-10-22 16:22:59（北京时间）
+# 共 145572 个域名
 
 -normal-lq.zijieapi.com
 0.myikas.com
@@ -26197,6 +26197,7 @@ boomkinloyal.help
 booneeptou.net
 boortquaighs.shop
 booseed.com
+boost-cmp.hismarttv.com
 boost-next.co.jp
 boost.bu1gep2lest.ru
 boostads.net
@@ -63076,6 +63077,7 @@ imneinei.com
 imoodrikauch.net
 imorajqpyrpdm.site
 imp-adedge.i-mobile.co.jp
+imp-cmp.hismarttv.com
 imp-toutiao-data.37.com.cn
 imp.accesstra.de
 imp.ad-plus.cn
@@ -74335,6 +74337,7 @@ loader.word-grabber.com
 loader.wort-suchen.de
 loader.woxikon.de
 loadercdn.com
+loading-cmp.hismarttv.com
 loading-delivery2.com
 loading.baofeng5.baofeng.net
 loading321.com
@@ -84093,6 +84096,7 @@ mseuwbfjrf.com
 msexpwlqpfcbr.site
 msffwvyhsapxgw.net
 msfvwi.sieuthiyte.com.vn
+msg-cmp.hismarttv.com
 msg-em.hismarttv.com
 msg-intl.qy.net
 msg-na.hismarttv.com
@@ -92430,6 +92434,7 @@ pasteldrowsyaboriginal.com
 pastelentirely.com
 pasteljav128.fun
 pastelspittle.com
+paster-cmp.hismarttv.com
 pastieschechia.cyou
 pastrevolution.pro
 pastryhobbled.com
@@ -100657,6 +100662,7 @@ reclinenumbermen.com
 reclineonseteducational.com
 reclinetunepollen.com
 reclod.com
+recmd-cmp.hismarttv.com
 recmd.html5.qq.com
 recmeeshebsougn.net
 reco.target2sell.com
@@ -101515,6 +101521,7 @@ reson.jazzm1s8uid.ru
 reson8.com
 resonance.pk
 resort1266.fun
+resource-cmp.hismarttv.com
 resource.ad-scope.com.cn
 resource.baomihua.com
 resource.fjhongbo.com

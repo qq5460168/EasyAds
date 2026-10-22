@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-10-22 09:03:37
-# 规则总数: 145629
+# 更新时间: 2026-10-22 16:23:01
+# 规则总数: 145636
 
 -normal-lq.zijieapi.com block
 0.myikas.com block
@@ -26219,6 +26219,7 @@ boomkinloyal.help block
 booneeptou.net block
 boortquaighs.shop block
 booseed.com block
+boost-cmp.hismarttv.com block
 boost-next.co.jp block
 boost.bu1gep2lest.ru block
 boostads.net block
@@ -63112,6 +63113,7 @@ imneinei.com block
 imoodrikauch.net block
 imorajqpyrpdm.site block
 imp-adedge.i-mobile.co.jp block
+imp-cmp.hismarttv.com block
 imp-toutiao-data.37.com.cn block
 imp.accesstra.de block
 imp.ad-plus.cn block
@@ -74379,6 +74381,7 @@ loader.word-grabber.com block
 loader.wort-suchen.de block
 loader.woxikon.de block
 loadercdn.com block
+loading-cmp.hismarttv.com block
 loading-delivery2.com block
 loading.baofeng5.baofeng.net block
 loading321.com block
@@ -84141,6 +84144,7 @@ mseuwbfjrf.com block
 msexpwlqpfcbr.site block
 msffwvyhsapxgw.net block
 msfvwi.sieuthiyte.com.vn block
+msg-cmp.hismarttv.com block
 msg-em.hismarttv.com block
 msg-intl.qy.net block
 msg-na.hismarttv.com block
@@ -92482,6 +92486,7 @@ pasteldrowsyaboriginal.com block
 pastelentirely.com block
 pasteljav128.fun block
 pastelspittle.com block
+paster-cmp.hismarttv.com block
 pastieschechia.cyou block
 pastrevolution.pro block
 pastryhobbled.com block
@@ -100712,6 +100717,7 @@ reclinenumbermen.com block
 reclineonseteducational.com block
 reclinetunepollen.com block
 reclod.com block
+recmd-cmp.hismarttv.com block
 recmd.html5.qq.com block
 recmeeshebsougn.net block
 reco.target2sell.com block
@@ -101569,6 +101575,7 @@ reson.jazzm1s8uid.ru block
 reson8.com block
 resonance.pk block
 resort1266.fun block
+resource-cmp.hismarttv.com block
 resource.ad-scope.com.cn block
 resource.baomihua.com block
 resource.fjhongbo.com block

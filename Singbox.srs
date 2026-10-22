@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-10-22 09:03:37
-# 规则总数: 145629
+# 更新时间: 2026-10-22 16:23:01
+# 规则总数: 145636
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -26219,6 +26219,7 @@ domain: boomkinloyal.help, policy: reject
 domain: booneeptou.net, policy: reject
 domain: boortquaighs.shop, policy: reject
 domain: booseed.com, policy: reject
+domain: boost-cmp.hismarttv.com, policy: reject
 domain: boost-next.co.jp, policy: reject
 domain: boost.bu1gep2lest.ru, policy: reject
 domain: boostads.net, policy: reject
@@ -63112,6 +63113,7 @@ domain: imneinei.com, policy: reject
 domain: imoodrikauch.net, policy: reject
 domain: imorajqpyrpdm.site, policy: reject
 domain: imp-adedge.i-mobile.co.jp, policy: reject
+domain: imp-cmp.hismarttv.com, policy: reject
 domain: imp-toutiao-data.37.com.cn, policy: reject
 domain: imp.accesstra.de, policy: reject
 domain: imp.ad-plus.cn, policy: reject
@@ -74379,6 +74381,7 @@ domain: loader.word-grabber.com, policy: reject
 domain: loader.wort-suchen.de, policy: reject
 domain: loader.woxikon.de, policy: reject
 domain: loadercdn.com, policy: reject
+domain: loading-cmp.hismarttv.com, policy: reject
 domain: loading-delivery2.com, policy: reject
 domain: loading.baofeng5.baofeng.net, policy: reject
 domain: loading321.com, policy: reject
@@ -84141,6 +84144,7 @@ domain: mseuwbfjrf.com, policy: reject
 domain: msexpwlqpfcbr.site, policy: reject
 domain: msffwvyhsapxgw.net, policy: reject
 domain: msfvwi.sieuthiyte.com.vn, policy: reject
+domain: msg-cmp.hismarttv.com, policy: reject
 domain: msg-em.hismarttv.com, policy: reject
 domain: msg-intl.qy.net, policy: reject
 domain: msg-na.hismarttv.com, policy: reject
@@ -92482,6 +92486,7 @@ domain: pasteldrowsyaboriginal.com, policy: reject
 domain: pastelentirely.com, policy: reject
 domain: pasteljav128.fun, policy: reject
 domain: pastelspittle.com, policy: reject
+domain: paster-cmp.hismarttv.com, policy: reject
 domain: pastieschechia.cyou, policy: reject
 domain: pastrevolution.pro, policy: reject
 domain: pastryhobbled.com, policy: reject
@@ -100712,6 +100717,7 @@ domain: reclinenumbermen.com, policy: reject
 domain: reclineonseteducational.com, policy: reject
 domain: reclinetunepollen.com, policy: reject
 domain: reclod.com, policy: reject
+domain: recmd-cmp.hismarttv.com, policy: reject
 domain: recmd.html5.qq.com, policy: reject
 domain: recmeeshebsougn.net, policy: reject
 domain: reco.target2sell.com, policy: reject
@@ -101569,6 +101575,7 @@ domain: reson.jazzm1s8uid.ru, policy: reject
 domain: reson8.com, policy: reject
 domain: resonance.pk, policy: reject
 domain: resort1266.fun, policy: reject
+domain: resource-cmp.hismarttv.com, policy: reject
 domain: resource.ad-scope.com.cn, policy: reject
 domain: resource.baomihua.com, policy: reject
 domain: resource.fjhongbo.com, policy: reject
