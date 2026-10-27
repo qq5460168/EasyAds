@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-10-26 23:30:28
-# 规则总数: 145636
+# 更新时间: 2026-10-27 03:06:21
+# 规则总数: 145637
 
 domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
@@ -106630,6 +106630,7 @@ domain, sdk-report.1rtb.com
 domain, sdk-services.appsflyer.com
 domain, sdk-track.66mobi.com
 domain, sdk.1rtb.net
+domain, sdk.51.la
 domain, sdk.ad.smaato.net
 domain, sdk.adhuanxiao.com
 domain, sdk.adx.adwangmai.com

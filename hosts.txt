@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-10-26 23:30:28
-# 规则总数: 145636
+# 更新时间: 2026-10-27 03:06:20
+# 规则总数: 145637
 
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
@@ -106630,6 +106630,7 @@
 0.0.0.0 sdk-services.appsflyer.com
 0.0.0.0 sdk-track.66mobi.com
 0.0.0.0 sdk.1rtb.net
+0.0.0.0 sdk.51.la
 0.0.0.0 sdk.ad.smaato.net
 0.0.0.0 sdk.adhuanxiao.com
 0.0.0.0 sdk.adx.adwangmai.com

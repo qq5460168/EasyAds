@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-10-26 23:30:27
-# 规则总数: 145636
+# 更新时间: 2026-10-27 03:06:20
+# 规则总数: 145637
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
@@ -106630,6 +106630,7 @@ domain: sdk-report.1rtb.com, policy: reject
 domain: sdk-services.appsflyer.com, policy: reject
 domain: sdk-track.66mobi.com, policy: reject
 domain: sdk.1rtb.net, policy: reject
+domain: sdk.51.la, policy: reject
 domain: sdk.ad.smaato.net, policy: reject
 domain: sdk.adhuanxiao.com, policy: reject
 domain: sdk.adx.adwangmai.com, policy: reject
