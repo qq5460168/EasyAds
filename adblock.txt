@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-10-28 11:18:18
-! 有效规则数量: 160775 条
+! 规则更新时间: 2026-10-28 18:13:47
+! 有效规则数量: 160785 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -14094,44 +14094,44 @@
 127.0.0.1 tao.ad.cn.sz.ad.tengine.ingress.alibabacorp.com.gds.alibabadns.com
 140.82.112.26                 alive.github.com
 20.205.243.168                api.github.com
-140.82.113.22                 api.individual.githubcopilot.com
-185.199.110.133               avatars.githubusercontent.com
-185.199.110.133               avatars0.githubusercontent.com
-185.199.110.133               avatars1.githubusercontent.com
-185.199.110.133               avatars2.githubusercontent.com
-185.199.110.133               avatars3.githubusercontent.com
-185.199.110.133               avatars4.githubusercontent.com
-185.199.110.133               avatars5.githubusercontent.com
-185.199.110.133               camo.githubusercontent.com
-140.82.113.21                 central.github.com
-185.199.110.133               cloud.githubusercontent.com
+140.82.114.22                 api.individual.githubcopilot.com
+185.199.109.133               avatars.githubusercontent.com
+185.199.109.133               avatars0.githubusercontent.com
+185.199.109.133               avatars1.githubusercontent.com
+185.199.109.133               avatars2.githubusercontent.com
+185.199.109.133               avatars3.githubusercontent.com
+185.199.109.133               avatars4.githubusercontent.com
+185.199.109.133               avatars5.githubusercontent.com
+185.199.109.133               camo.githubusercontent.com
+140.82.113.22                 central.github.com
+185.199.109.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
 140.82.113.21                 collector.github.com
-185.199.110.133               desktop.githubusercontent.com
-185.199.110.133               favicons.githubusercontent.com
-159.106.121.75                gist.github.com  # Timeout
-16.15.207.23                  github-cloud.s3.amazonaws.com
-16.15.244.126                 github-com.s3.amazonaws.com
-16.15.237.190                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.207.155                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.213.251                 github-production-user-asset-6210df.s3.amazonaws.com
+185.199.109.133               desktop.githubusercontent.com
+185.199.109.133               favicons.githubusercontent.com
+46.82.174.68                  gist.github.com  # Timeout
+16.15.207.4                   github-cloud.s3.amazonaws.com
+16.15.252.155                 github-com.s3.amazonaws.com
+16.15.255.43                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.229.244                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.163.204                 github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.113.17                 github.community
-185.199.110.215               github.githubassets.com
-118.193.240.41                github.global.ssl.fastly.net  # Timeout
-185.199.109.153               github.io
-185.199.110.133               github.map.fastly.net
-185.199.109.153               githubstatus.com
+140.82.112.17                 github.community
+185.199.111.215               github.githubassets.com
+199.59.148.246                github.global.ssl.fastly.net  # Timeout
+185.199.111.153               github.io
+185.199.109.133               github.map.fastly.net
+185.199.111.153               githubstatus.com
 140.82.112.25                 live.github.com
-185.199.110.133               media.githubusercontent.com
-185.199.110.133               objects.githubusercontent.com
+185.199.109.133               media.githubusercontent.com
+185.199.109.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.110.133               raw.githubusercontent.com
-185.199.110.133               user-images.githubusercontent.com
-150.171.110.98                vscode.dev
-140.82.114.22                 education.github.com
-185.199.110.133               private-user-images.githubusercontent.com
+185.199.109.133               raw.githubusercontent.com
+185.199.109.133               user-images.githubusercontent.com
+150.171.110.100               vscode.dev
+140.82.113.21                 education.github.com
+185.199.109.133               private-user-images.githubusercontent.com
 ||xc.zhongguohao123.com^$important
 ||jtu24k.aoqinglv.cn^$important
 ||i.laifupal.com^$important
@@ -156843,6 +156843,8 @@
 @@||app.bilibili.com^
 @@||app.biligame.com^
 @@||app.market.xiaomi.com^
+@@||app.mi.com^
+@@||app.xiaomi.com^
 @@||app.zhuanzhuan.com^
 @@||appcenter.ms^
 @@||appdl-1-drcn.dbankcdn.com^
@@ -156853,6 +156855,7 @@
 @@||apps.game.qq.com^
 @@||appsec-mobile.meituan.com^
 @@||archive.biliimg.com^
+@@||archive.stardock.com^
 @@||arenascan.com^
 @@||article.zlink.toutiao.com^
 @@||assets-www.xbox.com^
@@ -156995,6 +156998,7 @@
 @@||console.huaweicloud.com^
 @@||contentcenter-vali-drcn.dbankcdn.com^
 @@||coop.voicecloud.cn^
+@@||copilot.tencent.com^
 @@||cos.ap-bangkok.myqcloud.com^
 @@||cos.ap-beijing-1.myqcloud.com^
 @@||cos.ap-beijing-fsi.myqcloud.com^
@@ -157146,6 +157150,8 @@
 @@||fonts.googleapis.com^
 @@||fonts.gstatic.com^
 @@||forum.trae.cn^
+@@||forums.stardock.com^
+@@||forums.stardock.net^
 @@||fourhoi.com^
 @@||framework.cdn-go.cn^
 @@||funimg.pddpic.com^
@@ -157254,6 +157260,7 @@
 @@||iaas.cloud.tencent.com^
 @@||iassapi.cup.com.cn^
 @@||id.163.com^
+@@||identity.stardock.com^
 @@||ifdian.net^
 @@||iframe.arkoselabs.com^
 @@||iknow-pic.cdn.bcebos.com^
@@ -158035,6 +158042,7 @@
 @@||unisdk.update.netease.com^
 @@||unpkg.zhimg.com^
 @@||uop.quark.cn^
+@@||update.appstore.vivo.com.cn^
 @@||update.huorong.cn^
 @@||updateinfo.market.xiaomi.com^
 @@||upload-images.jianshu.io^
@@ -158248,6 +158256,8 @@
 @@||www.siyuan-note.club^
 @@||www.so.com^
 @@||www.spaceship.com^
+@@||www.stardock.com^
+@@||www.stardock.net^
 @@||www.taobao.com^
 @@||www.taptap.cn^
 @@||www.taptap.io^
