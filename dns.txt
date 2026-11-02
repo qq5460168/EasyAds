@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-11-02 11:54:08.644848
+# Generated on 2026-11-02 21:11:57.565882
 
 ||a1.alibabausercontent.com^
 ||aa.birdgesdk.com^
