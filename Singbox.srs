@@ -1,6 +1,7 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-11-08 11:15:34
+# 更新时间: 2026-11-08 19:38:25（北京时间）
 # 规则总数: 145637
+# 注意：本文件为旧版文本格式，sing-box 请使用 Singbox.json
 
 domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
