@@ -1,11 +1,12 @@
 """更新 README.md 中的规则统计区块。
 
 设计要点：
-1. 统计区块用「一行一项」的竖向列表展示（如 `拦截规则数量：160742`），
-   而不是 markdown 表格——旧表格紧贴 `<!-- STATS:BEGIN -->` 注释、中间没有空行，
-   GitHub 会把它整段吞进 HTML 注释块并当纯文本渲染，于是出现满屏 `|` 的效果。
-2. 行间用 `<br>` 换行：纯文本换行会被 GitHub 折叠成一行，`<br>` 能稳定显示成竖排。
-3. 区块前后各留一个空行，确保注释标记不会把后面的 markdown 一起吞掉。
+1. 统计区块放在 ```text 代码块里，一行一项（如 `拦截规则数量: 160742`），
+   和 666 仓库的样式保持一致：等宽显示、右上角带复制按钮。
+   旧版是 markdown 表格，且紧贴 `<!-- STATS:BEGIN -->` 注释、中间没有空行，
+   GitHub 会把它整段吞进 HTML 块并当纯文本渲染，于是出现满屏 `|` 的效果。
+2. 代码块前后各留一个空行，确保注释标记不会把后面的 markdown 一起吞掉。
+3. 代码块内的换行是字面换行，不会被 GitHub 折叠成一行。
 """
 
 import json
@@ -132,17 +133,28 @@ CLIENT_SPECS = [
 
 def build_stats_block(counts: dict) -> str:
     rows = [
-        ("更新时间", f"{beijing_time()}（北京时间）"),
         ("拦截规则数量", counts["adblock"]),
-        ("DNS 拦截规则数量", counts["dns"]),
+        ("DNS拦截规则数量", counts["dns"]),
         ("白名单规则数量", counts["allow"]),
-        ("Hosts 规则数量", counts["hosts"]),
+        ("Hosts规则数量", counts["hosts"]),
     ]
     for label, _, _ in CLIENT_SPECS:
-        rows.append((label, counts[label]))
+        rows.append((label.replace(" 规则数量", "规则数量"), counts[label]))
 
-    body = "<br>\n".join(f"{name}：{value}" for name, value in rows)
-    return f"{STATS_BEGIN}\n\n{body}\n\n{STATS_END}"
+    lines = [
+        STATS_BEGIN,
+        "",
+        "```text",
+        f"更新时间: {beijing_time()}（北京时间）",
+        "",
+    ]
+    lines += [f"{name}: {value}" for name, value in rows]
+    lines += [
+        "```",
+        "",
+        STATS_END,
+    ]
+    return "\n".join(lines)
 
 
 def update_readme(block: str) -> str:
