@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 
 class RuleValidator:
     """规则验证器，用于检查各类规则文件的格式有效性"""
-    
+
     # 各类规则的验证模式
     RULE_PATTERNS: Dict[str, List[Tuple[str, str]]] = {
         # 键: 文件名模式, 值: (规则名称, 验证正则)
@@ -41,7 +41,8 @@ class RuleValidator:
             ("Shadowrocket域名规则", r'^DOMAIN-SUFFIX,([a-zA-Z0-9.-]+\.[a-zA-Z]{2,}),REJECT$'),
             ("注释行", r'^#.*$')
         ],
-        "singbox.txt": [
+        # 实际产物是 Singbox.srs（自定义文本格式），另新增 Singbox.json 标准规则集
+        "Singbox.srs": [
             ("Singbox域名规则", r'^domain: ([a-zA-Z0-9.-]+\.[a-zA-Z]{2,}), policy: reject$'),
             ("注释行", r'^#.*$')
         ],
@@ -49,7 +50,8 @@ class RuleValidator:
             ("Hosts规则", r'^0\.0\.0\.0 ([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})$'),
             ("注释行", r'^#.*$')
         ],
-        "loon-rules.list": [
+        # 实际产物是 loon.list
+        "loon.list": [
             ("Loon IP规则", r'^IP-CIDR,([0-9.]+/[0-9]+),REJECT,no-resolve$'),
             ("Loon域名规则", r'^DOMAIN,([a-zA-Z0-9.-]+\.[a-zA-Z]{2,}),REJECT$'),
             ("Loon域名后缀规则", r'^DOMAIN-SUFFIX,([a-zA-Z0-9.-]+\.[a-zA-Z]{2,}),REJECT$'),
@@ -64,8 +66,9 @@ class RuleValidator:
             ("Invizible规则", r'^([a-zA-Z0-9.-]+\.[a-zA-Z]{2,}) block$'),
             ("注释行", r'^#.*$')
         ],
-        "adclose.txt": [
-            ("Adclose规则", r'^block ([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})$'),
+        # 实际产物是 AdClose.rule，且格式为 "domain, 域名"
+        "AdClose.rule": [
+            ("Adclose规则", r'^domain, ([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})$'),
             ("注释行", r'^#.*$')
         ]
     }
@@ -73,7 +76,7 @@ class RuleValidator:
     def __init__(self, root_dir: Path = Path(".")):
         """
         初始化规则验证器
-        
+
         :param root_dir: 规则文件所在的根目录
         """
         self.root_dir = root_dir
@@ -94,7 +97,7 @@ class RuleValidator:
     def validate_file(self, filename: str) -> Dict:
         """
         验证单个规则文件
-        
+
         :param filename: 文件名
         :return: 验证结果字典
         """
@@ -126,17 +129,17 @@ class RuleValidator:
                     line = line.strip()
                     if not line:  # 跳过空行
                         continue
-                        
+
                     counts["total"] += 1
                     is_valid = False
-                    
+
                     # 检查是否为重复行
                     if line in seen_lines:
                         duplicate_lines.add(line)
                         counts["duplicates"] += 1
                     else:
                         seen_lines.add(line)
-                    
+
                     # 验证规则类型
                     for name, pattern in patterns:
                         if re.match(pattern, line):
@@ -144,7 +147,7 @@ class RuleValidator:
                             counts["rule_types"][name] += 1
                             is_valid = True
                             break
-                    
+
                     if not is_valid:
                         counts["invalid"] += 1
                         invalid_lines.append((line_num, line))
@@ -160,11 +163,11 @@ class RuleValidator:
                 "top_invalid": invalid_lines[:10],  # 只保留前10条无效行
                 "duplicate_examples": list(duplicate_lines)[:5]  # 只保留前5条重复行示例
             }
-            
+
             self.results[filename] = result
             self._log_validation_result(filename, counts, len(invalid_lines))
             return result
-            
+
         except Exception as e:
             error_msg = f"验证文件时出错: {str(e)}"
             logger.error(error_msg, exc_info=True)
@@ -192,7 +195,7 @@ class RuleValidator:
         logger.info("开始批量验证所有规则文件...")
         for filename in self.RULE_PATTERNS.keys():
             self.validate_file(filename)
-        
+
         # 生成汇总报告
         summary = {
             "total_files": len(self.RULE_PATTERNS),
@@ -203,7 +206,7 @@ class RuleValidator:
             "total_duplicates": sum(res["counts"].get("duplicates", 0) for res in self.results.values() if "counts" in res),
             "timestamp": self.get_beijing_time()
         }
-        
+
         logger.info("\n" + "="*50)
         logger.info(f"规则验证汇总报告 ({summary['timestamp']})")
         logger.info("="*50)
@@ -214,19 +217,19 @@ class RuleValidator:
         logger.info(f"无效规则数量: {summary['total_invalid']}")
         logger.info(f"重复规则数量: {summary['total_duplicates']}")
         logger.info("="*50 + "\n")
-        
+
         self.results["summary"] = summary
         return self.results
 
     def export_report(self, output_file: Optional[Path] = None) -> None:
         """
         导出验证报告到文件
-        
+
         :param output_file: 输出文件路径，默认为当前目录的rule_validation_report.txt
         """
         if not output_file:
             output_file = self.root_dir / "rule_validation_report.txt"
-        
+
         try:
             with output_file.open('w', encoding='utf-8') as f:
                 f.write(f"# 规则验证报告\n")
@@ -237,41 +240,41 @@ class RuleValidator:
                 f.write(f"# 规则总量: {self.results['summary']['total_rules']} 条, "
                        f"无效 {self.results['summary']['total_invalid']} 条, "
                        f"重复 {self.results['summary']['total_duplicates']} 条\n\n")
-                
+
                 for filename, result in self.results.items():
                     if filename == "summary":
                         continue
-                    
+
                     f.write(f"## {filename}\n")
                     if "error" in result:
                         f.write(f"- 错误: {result['error']}\n\n")
                         continue
-                    
+
                     counts = result["counts"]
                     f.write(f"- 总规则: {counts['total']} 条\n")
                     f.write(f"- 有效规则: {counts['valid']} 条\n")
                     f.write(f"- 无效规则: {counts['invalid']} 条\n")
                     f.write(f"- 重复规则: {counts['duplicates']} 条\n")
-                    
+
                     f.write("- 规则类型分布:\n")
                     for name, count in counts["rule_types"].items():
                         if count > 0:
                             f.write(f"  - {name}: {count} 条\n")
-                    
+
                     if result["top_invalid"]:
                         f.write("- 无效行示例:\n")
                         for line_num, line in result["top_invalid"][:5]:
                             f.write(f"  - 行 {line_num}: {line}\n")
-                    
+
                     if result["duplicate_examples"]:
                         f.write("- 重复行示例:\n")
                         for line in result["duplicate_examples"][:5]:
                             f.write(f"  - {line}\n")
-                    
+
                     f.write("\n")
-            
+
             logger.info(f"验证报告已导出至: {output_file}")
-        
+
         except Exception as e:
             logger.error(f"导出报告失败: {str(e)}", exc_info=True)
 
@@ -281,21 +284,21 @@ def main():
         # 确定根目录（与其他脚本保持一致）
         script_dir = Path(__file__).parent
         root_dir = script_dir.parent.parent.parent  # 项目根目录
-        
+
         logger.info(f"开始规则验证，根目录: {root_dir.resolve()}")
-        
+
         validator = RuleValidator(root_dir=root_dir)
         validator.validate_all_files()
         validator.export_report()
-        
+
         # 检查是否有严重问题
         summary = validator.results.get("summary", {})
         if summary.get("total_invalid", 0) > 100 or summary.get("invalid_files", 0) > 5:
             logger.error("发现大量无效规则或问题文件，可能需要紧急处理")
             exit(1)
-        
+
         logger.info("规则验证流程完成")
-        
+
     except Exception as e:
         logger.critical(f"规则验证执行失败: {str(e)}", exc_info=True)
         exit(1)
