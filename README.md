@@ -31,6 +31,16 @@
 <div align="center">
 你是第 <a href="https://github.com/qq5460168/EasyAds"><img src="https://profile-counter.glitch.me/qq5460168-EasyAds/count.svg" alt="访客计数" /></a> 位访客
 </div>
+<!-- STATS:BEGIN -->
+| 指标 | 数值 |
+|------|------|
+| 更新时间 | 2026-11-08 19:34:42（北京时间） |
+| 拦截规则数量 | 160779 |
+| DNS 拦截规则数量 | 145599 |
+| 白名单规则数量 | 4034 |
+| Hosts 规则数量 | 145637 |
+<!-- STATS:END -->
+
 <h2 id="a">🎯 规则订阅</h2>
 
 
@@ -46,7 +56,7 @@
 | Clash 规则       | Clash Premium 配置             | [Clash.yaml](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Clash.yaml) |
 | Clash Meta 规则  | Clash Meta/Mihomo 配置         | [adb.mrs](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/adb.mrs) |
 | Quantumult X     | Quantumult X 配置              | [qx.list](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/qx.list)           |
-| SingBox          | SingBox 配置                   | [Singbox.srs](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Singbox.srs)   |
+| SingBox          | SingBox 配置（JSON 规则集）    | [Singbox.json](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Singbox.json)   |
 | Shadowrocket     | Shadowrocket 配置              | [Shadowrocket.conf](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Shadowrocket.conf) |
 | Invizible Pro    | Invizible Pro 配置             | [invizible.txt](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/invizible.txt) |
 | AdClose          | AdClose 配置                   | [AdClose.rule](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/AdClose.rule)   |
@@ -73,7 +83,7 @@
   - [Quantumult X（qx.list）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/qx.list)
   - [Shadowrocket（Shadowrocket.conf）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Shadowrocket.conf)
   - [AdClose（AdClose.rule）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/AdClose.rule)
-  - [Singbox SRS（Singbox.srs）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Singbox.srs)
+  - [SingBox（Singbox.json，sing-box 规则集）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Singbox.json)
   - [Invizible Pro（invizible.txt）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/invizible.txt)
   - [Clash（Clash.yaml）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Clash.yaml)
   - [Clash Meta（adb.mrs）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/adb.mrs)
@@ -85,7 +95,7 @@
 
 - [AdBlock Tester](https://adblock-tester.com)
 - [Block Ads! Adblock test](https://blockads.fivefilters.org/)
-- [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
+- [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html)
 
 <h2 id="d">💬 完善项目</h2>
 

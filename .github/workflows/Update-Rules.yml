@@ -11,6 +11,10 @@ on:
       - 'data/mod/**'
       - 'requirements.txt'
 
+concurrency:
+  group: update-rules
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -31,19 +35,7 @@ jobs:
           echo "branch=$DEFAULT_BRANCH" >> $GITHUB_OUTPUT
           echo "Detected default branch: $DEFAULT_BRANCH"
 
-      - name: Check for file changes
-        id: changes
-        uses: tj-actions/changed-files@v42
-        with:
-          files: |
-            data/python/utils/**
-            data/python/rules_generator/**
-            data/source/**
-            data/mod/**
-            requirements.txt
-
       - name: Set up Python
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
@@ -51,7 +43,6 @@ jobs:
           cache-dependency-path: 'requirements.txt'
 
       - name: Install dependencies with retry
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           python -m pip install --upgrade pip
           for i in {1..3}; do
@@ -60,7 +51,6 @@ jobs:
           pip list | grep -E 'requests|pytz' || { echo "Critical dependencies missing"; exit 1; }
 
       - name: Debug file structure
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           echo "Current directory: $(pwd)"
           ls -la data/python/utils/
@@ -69,7 +59,6 @@ jobs:
 
       # 数据准备阶段（确保依赖文件生成）
       - name: Download Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           DL_SCRIPT="data/python/utils/dl.py"
           if [ ! -f "$DL_SCRIPT" ]; then
@@ -84,7 +73,6 @@ jobs:
           fi
 
       - name: Merge Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           MERGE_SCRIPT="data/python/utils/merge.py"
           if [ ! -f "$MERGE_SCRIPT" ]; then
@@ -102,7 +90,6 @@ jobs:
 
       # 规则生成阶段（修复依赖顺序：先DNS后过滤广告）
       - name: Generate DNS Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           DNS_SCRIPT="data/python/rules_generator/filter-dns.py"
           if [ ! -f "$DNS_SCRIPT" ]; then
@@ -118,7 +105,6 @@ jobs:
           echo "dns.txt lines: $(wc -l dns.txt | awk '{print $1}')"
 
       - name: Filter Ad Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           FILTER_AD_SCRIPT="data/python/utils/filter-ad.py"
           if [ ! -f "$FILTER_AD_SCRIPT" ]; then
@@ -133,7 +119,6 @@ jobs:
           fi
 
       - name: Generate Domain List
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           DOMAIN_SCRIPT="data/python/rules_generator/domain_list.py"
           if [ ! -f "$DOMAIN_SCRIPT" ]; then
@@ -144,7 +129,6 @@ jobs:
 
       # 客户端规则生成
       - name: Generate Quantumult X Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           QX_SCRIPT="data/python/rules_generator/qx.py"
           if [ ! -f "$QX_SCRIPT" ]; then
@@ -154,7 +138,6 @@ jobs:
           python "$QX_SCRIPT"
 
       - name: Generate Loon Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           LOON_SCRIPT="data/python/rules_generator/loon.py"
           if [ ! -f "$LOON_SCRIPT" ]; then
@@ -164,14 +147,12 @@ jobs:
           python "$LOON_SCRIPT"
 
       - name: Cache mihomo binary
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         uses: actions/cache@v4
         with:
           path: ~/.cache/mihomo
           key: mihomo-bin-${{ env.MIHOMO_VERSION }}
 
       - name: Generate Mihomo Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           MIHOMO_SCRIPT="data/python/rules_generator/mihomo.py"
           if [ ! -f "$MIHOMO_SCRIPT" ]; then
@@ -181,7 +162,6 @@ jobs:
           python "$MIHOMO_SCRIPT"
 
       - name: Generate Clash Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           CLASH_SCRIPT="data/python/rules_generator/clash.py"
           if [ ! -f "$CLASH_SCRIPT" ]; then
@@ -191,7 +171,6 @@ jobs:
           python "$CLASH_SCRIPT"
 
       - name: Generate Shadowrocket Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           SHADOWROCKET_SCRIPT="data/python/rules_generator/shadowrocket.py"
           if [ ! -f "$SHADOWROCKET_SCRIPT" ]; then
@@ -201,7 +180,6 @@ jobs:
           python "$SHADOWROCKET_SCRIPT"
 
       - name: Generate Singbox Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           SINGBOX_SCRIPT="data/python/rules_generator/singbox.py"
           if [ ! -f "$SINGBOX_SCRIPT" ]; then
@@ -211,7 +189,6 @@ jobs:
           python "$SINGBOX_SCRIPT"
 
       - name: Generate Invizible Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           INVISIBLE_SCRIPT="data/python/rules_generator/invizible.py"
           if [ ! -f "$INVISIBLE_SCRIPT" ]; then
@@ -221,7 +198,6 @@ jobs:
           python "$INVISIBLE_SCRIPT"
 
       - name: Generate Hosts Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           HOSTS_SCRIPT="data/python/rules_generator/hosts.py"
           if [ ! -f "$HOSTS_SCRIPT" ]; then
@@ -231,7 +207,6 @@ jobs:
           python "$HOSTS_SCRIPT"
 
       - name: Generate Adclose Rules
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           ADCLOSE_SCRIPT="data/python/rules_generator/adclose.py"
           if [ ! -f "$ADCLOSE_SCRIPT" ]; then
@@ -242,17 +217,16 @@ jobs:
 
       # 元数据更新
       - name: Update Title & README
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           TITLE_SCRIPT="data/python/utils/title.py"
           README_SCRIPT="data/python/utils/clean-readme.py"
-          
+
           if [ ! -f "$TITLE_SCRIPT" ]; then
             echo "::error::$TITLE_SCRIPT not found"
             exit 1
           fi
           python "$TITLE_SCRIPT"
-          
+
           if [ ! -f "$README_SCRIPT" ]; then
             echo "::error::$README_SCRIPT not found"
             exit 1
@@ -261,13 +235,12 @@ jobs:
 
       # 提交与推送
       - name: Commit and Push Changes
-        if: steps.changes.outputs.any_changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add --all
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" || { echo "No changes to commit"; exit 0; }
-          
+
           # 重试推送逻辑
           for i in {1..5}; do
             git pull --rebase origin ${{ steps.branch.outputs.branch }} && \
@@ -281,6 +254,7 @@ jobs:
 
       # 清理工作流记录
       - name: Cleanup old workflow runs
+        continue-on-error: true
         if: always()
         uses: Mattraks/delete-workflow-runs@main
         with:
