@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-11-08 19:38:26
-! 有效规则数量: 4034 条
+! 规则更新时间: 2026-11-08 20:18:21
+! 有效规则数量: 4031 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -3172,7 +3172,6 @@
 @@||browser.events.data.microsoft.com^
 @@||www.chiphell.com^$important
 @@||allawntech.com^$important
-@@||statics.123pan.com^ 
 @@||www.game2.cn^
 @@||passport.game2.cn^
 @@||g2.cn^
@@ -3408,7 +3407,6 @@
 @@||vod-settings.bytedanceapi.com^$app=com.phoenix.read
 @@||backupapi.lkong.com^$important
 @@||api.live.bilibili.com^$important
-@@||m..bilibili.com^$important
 @@||www.bilibili.com^$important
 @@||ime-store-cdn.gtimg.com^$important
 @@||console.bce.baidu.com^$domain=console.bce.baidu.com
@@ -3703,7 +3701,6 @@
 @@||tobapplog.ctobsnssdk.com^$important
 @@||mssdk.volces.com^$important
 @@||openmonitor.alipay-eco.com^$important
-@@||haohuo.jinritemai.com^ 
 @@||cvws.icloud-content.com.cn^$important
 @@||cvws.icloud-content.com^$important
 @@||albert.apple.com^$important

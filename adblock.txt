@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-11-08 19:38:26
-! 有效规则数量: 160779 条
+! 规则更新时间: 2026-11-08 20:18:21
+! 有效规则数量: 160742 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -1808,46 +1808,46 @@
 ||vlion.cn^
 ||yfanads.com^
 ||zhangyuyidong.cn^
-140.82.113.25                 alive.github.com
+140.82.113.26                 alive.github.com
 20.205.243.168                api.github.com
-140.82.112.22                 api.individual.githubcopilot.com
-185.199.109.133               avatars.githubusercontent.com
-185.199.109.133               avatars0.githubusercontent.com
-185.199.109.133               avatars1.githubusercontent.com
-185.199.109.133               avatars2.githubusercontent.com
-185.199.109.133               avatars3.githubusercontent.com
-185.199.109.133               avatars4.githubusercontent.com
-185.199.109.133               avatars5.githubusercontent.com
-185.199.109.133               camo.githubusercontent.com
-140.82.113.21                 central.github.com
-185.199.109.133               cloud.githubusercontent.com
+140.82.114.22                 api.individual.githubcopilot.com
+185.199.110.133               avatars.githubusercontent.com
+185.199.110.133               avatars0.githubusercontent.com
+185.199.110.133               avatars1.githubusercontent.com
+185.199.110.133               avatars2.githubusercontent.com
+185.199.110.133               avatars3.githubusercontent.com
+185.199.110.133               avatars4.githubusercontent.com
+185.199.110.133               avatars5.githubusercontent.com
+185.199.110.133               camo.githubusercontent.com
+140.82.112.22                 central.github.com
+185.199.110.133               cloud.githubusercontent.com
 20.205.243.165                codeload.github.com
 140.82.112.21                 collector.github.com
-185.199.109.133               desktop.githubusercontent.com
-185.199.109.133               favicons.githubusercontent.com
-78.16.49.15                   gist.github.com  # Timeout
-16.15.253.59                  github-cloud.s3.amazonaws.com
-16.15.236.249                 github-com.s3.amazonaws.com
-16.15.255.45                  github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.255.11                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.253.50                  github-production-user-asset-6210df.s3.amazonaws.com
+185.199.110.133               desktop.githubusercontent.com
+185.199.110.133               favicons.githubusercontent.com
+159.106.121.75                gist.github.com  # Timeout
+52.216.57.138                 github-cloud.s3.amazonaws.com
+52.217.122.66                 github-com.s3.amazonaws.com
+16.15.245.85                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.157.186                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.213.23                  github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.114.17                 github.community
+140.82.112.18                 github.community
 185.199.110.215               github.githubassets.com
-140.248.165.194               github.global.ssl.fastly.net
-185.199.111.153               github.io
-185.199.109.133               github.map.fastly.net
-185.199.111.153               githubstatus.com
-140.82.114.26                 live.github.com
-185.199.109.133               media.githubusercontent.com
-185.199.109.133               objects.githubusercontent.com
+185.60.218.50                 github.global.ssl.fastly.net
+185.199.109.153               github.io
+185.199.110.133               github.map.fastly.net
+185.199.109.153               githubstatus.com
+140.82.113.26                 live.github.com
+185.199.110.133               media.githubusercontent.com
+185.199.110.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.109.133               raw.githubusercontent.com
-185.199.109.133               user-images.githubusercontent.com
-150.171.110.70                vscode.dev
-140.82.113.22                 education.github.com
-185.199.109.133               private-user-images.githubusercontent.com
+185.199.110.133               raw.githubusercontent.com
+185.199.110.133               user-images.githubusercontent.com
+150.171.110.101               vscode.dev
+140.82.114.22                 education.github.com
+185.199.110.133               private-user-images.githubusercontent.com
 ||vs1.szcu.u3.ucweb.com^
 ||vs2.bjct.u3.ucweb.com^
 ||vs2.bjct.u3.ucweb.com^$important
@@ -3159,12 +3159,11 @@
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s1.2mdn.net
 0.0.0.0 grpc.biliapi.net
-0.0.0.0 g1.tagtic.cn 
-0.0.0.0 img.adnyg.com 
-0.0.0.0 img.adnyg.com.w.kunlungr.com 
-0.0.0.0 log.tagtic.cn 
-0.0.0.0 pgdt.ugdtimg.com 
-0.0.0.0 sdownload.stargame.com 
+0.0.0.0 img.adnyg.com
+0.0.0.0 img.adnyg.com.w.kunlungr.com
+0.0.0.0 log.tagtic.cn
+0.0.0.0 pgdt.ugdtimg.com
+0.0.0.0 sdownload.stargame.com
 0.0.0.0 alogsus.umengcloud.com
 0.0.0.0 cfg.flurry.com
 0.0.0.0 103.107.217.2
@@ -3372,8 +3371,6 @@
 0.0.0.0 iadctest.qwapi.com
 0.0.0.0 iadworkbench.apple.com
 0.0.0.0 img-c.heytapimage.com
-0.0.0.0 img.adnyg.com
-0.0.0.0 img.adnyg.com.w.kunlungr.com
 0.0.0.0 imtmp.net
 0.0.0.0 irc.qubiankeji.com
 0.0.0.0 iyfbodn.com
@@ -3395,7 +3392,6 @@
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.byteoversea.com
 0.0.0.0 log.fc.yahoo.com
-0.0.0.0 log.tagtic.cn
 0.0.0.0 log.vcgame.cn
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logservice.hicloud.com
@@ -3438,7 +3434,6 @@
 0.0.0.0 sdk-cache.video.ptqy.gitv.tv
 0.0.0.0 sdk.hzsanjiaomao.com
 0.0.0.0 sdktmp.hubcloud.com.cn
-0.0.0.0 sdownload.stargame.com
 0.0.0.0 search.ixigua.com
 0.0.0.0 search3-search.ixigua.com
 0.0.0.0 search5-search-hl.ixigua.com
@@ -3496,7 +3491,6 @@
 0.0.0.0 api.device.skysrt.com
 0.0.0.0 push.skysrt.com
 0.0.0.0 irs01.com
-0.0.0.0 api.upgrade.skysrt.com  
 0.0.0.0 pfg.coocaa.wasu.tv
 0.0.0.0 data-hoisin.coocaa.wasu.tv
 0.0.0.0 api-upgrade.coocaa.wasu.tv
@@ -7053,7 +7047,6 @@
 0.0.0.0 pg-ad-b1.ws.126.net
 0.0.0.0 pg-ad-b2.ws.126.net
 0.0.0.0 pgdt.gtimg.cn
-0.0.0.0 pgdt.ugdtimg.com
 0.0.0.0 pic.jd-bbs.com
 0.0.0.0 pingfore.qq.com
 0.0.0.0 pingjs.qq.com
@@ -7753,7 +7746,7 @@
 0.0.0.0 umid.orion.meizu.com
 0.0.0.0 upush.res.meizu.com
 0.0.0.0 uxip.meizu.com
-0.0.0.0 mz-api.smzdm.com 
+0.0.0.0 mz-api.smzdm.com
 192.0.80.242 0.gravatar.com
 192.0.80.242 1.gravatar.com
 192.0.80.242 2.gravatar.com
@@ -7842,7 +7835,6 @@
 64.233.188.188 mtalk.google.com
 0.0.0.0 music.httpdns.c.163.com
 0.0.0.0 myphonenumbers-pa.googleapis.com
-0.0.0.0 mz-api.smzdm.com
 185.199.110.133 objects.githubusercontent.com
 0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 ogads-pa.googleapis.com
@@ -135747,7 +135739,6 @@
 ||tnc16-normal-us-ttp.capcutapi.us^
 ||tnc16-useast1a.isnssdk.com^
 ||tnc3-aliec2.zijieapi.com^
-||tnc3-bjlgy.snssdk.^
 ||tncpzu.marelbo.com^
 ||tnegqr.bohme.com^
 ||tnhcsf.holzkern.com^
@@ -144399,7 +144390,6 @@
 ||zzaoea.costacrociere.it^
 ||zzhc.vnet.cn^
 ||zzqyxd.smartpozyczka.pl^
-||zzsqqx.shopjapan.co.^
 ||ad-sign.byteimg.com^
 ||tos.pstatp.com^
 ||video-cn.snssdk.com^
@@ -144729,7 +144719,6 @@
 ||mdrecv.app.cntvwb.cn^
 ||sdapprecv.app.cntvwb.cn^
 ||vdapprecv.app.cntvwb.cn^
-||-normal-lq.zijieapi.com^
 ||xiaoqiang^
 ||mg.5pk^
 ||msga.71.am^
@@ -151687,7 +151676,7 @@
 127.0.0.1 searchads.apple.com
 127.0.0.1 ads-drcn.platform.hihonorcloud.com
 127.0.0.1 metrics-ad-drcn.dt.hihonorcloud.com
-127.0.0.1 installer-drcn.hispace.hihonorcloud.com 
+127.0.0.1 installer-drcn.hispace.hihonorcloud.com
 127.0.0.1 api-game.meizu.com
 127.0.0.1 dw-reader.meizu.com
 127.0.0.1 reader-res.mzres.com
@@ -156049,7 +156038,7 @@
 ||adn.insight.ucweb.com^
 ||sdkupgrade.insight.ucweb.com^
 ||track.ucdns.uc.cn^
-||meituanwang.metaaircraftcarrier.com^  
+||meituanwang.metaaircraftcarrier.com^
 ||media.mobpartner.mobi^
 ||ads2.mediaarmor.com^
 ||cdn.nearbyad.com^
@@ -156593,29 +156582,6 @@
 ||zpm-platform.cdnjtzy.com^
 ||httpdns.kwd.inkuai.com^
 ||zt-sup.kwd.inkuai.com^
-||q.yunduanzi365.cn^  
-||yzgdc.cc^  
-||taoguaji.com^  
-||rangpurart.com^  
-||qiniu.gdjuwang.com^  
-||qianduoduo.metaaircraftcarrier.com^  
-||proesh.com^  
-||only4gurus.com^  
-||moneyds.cn^  
-||mm03.cc^  
-||last30geng20.top^  
-||kjzb.last30geng389.top^  
-||kandian.wkandian.com^  
-||k999.cc^  
-||jygj99128.com^  
-||jq-ww.com^  
-||ggzuhao.com^  
-||gamew4.cclakj.cn^  
-||a.tikotkn.com^  
-||830sp.com^  
-||785008.com^  
-||778538.com^  
-||49789c.com^  
 ||pow.wandx5.cn^
 ||qw.wandx5.cn^
 ||jibh.zhangxy2.cn^
@@ -159917,7 +159883,6 @@
 @@||browser.events.data.microsoft.com^
 @@||www.chiphell.com^$important
 @@||allawntech.com^$important
-@@||statics.123pan.com^ 
 @@||www.game2.cn^
 @@||passport.game2.cn^
 @@||g2.cn^
@@ -160153,7 +160118,6 @@
 @@||vod-settings.bytedanceapi.com^$app=com.phoenix.read
 @@||backupapi.lkong.com^$important
 @@||api.live.bilibili.com^$important
-@@||m..bilibili.com^$important
 @@||www.bilibili.com^$important
 @@||ime-store-cdn.gtimg.com^$important
 @@||console.bce.baidu.com^$domain=console.bce.baidu.com
@@ -160448,7 +160412,6 @@
 @@||tobapplog.ctobsnssdk.com^$important
 @@||mssdk.volces.com^$important
 @@||openmonitor.alipay-eco.com^$important
-@@||haohuo.jinritemai.com^ 
 @@||cvws.icloud-content.com.cn^$important
 @@||cvws.icloud-content.com^$important
 @@||albert.apple.com^$important

@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-11-08 19:38:23（北京时间）
+# Generated on 2026-11-08 20:18:18（北京时间）
 
 ||a1.alibabausercontent.com^
 ||aa.birdgesdk.com^
@@ -129724,7 +129724,6 @@
 ||tnc16-normal-us-ttp.capcutapi.us^
 ||tnc16-useast1a.isnssdk.com^
 ||tnc3-aliec2.zijieapi.com^
-||tnc3-bjlgy.snssdk.^
 ||tncpzu.marelbo.com^
 ||tnegqr.bohme.com^
 ||tnhcsf.holzkern.com^
@@ -138376,7 +138375,6 @@
 ||zzaoea.costacrociere.it^
 ||zzhc.vnet.cn^
 ||zzqyxd.smartpozyczka.pl^
-||zzsqqx.shopjapan.co.^
 ||ad-sign.byteimg.com^
 ||tos.pstatp.com^
 ||video-cn.snssdk.com^
@@ -138706,7 +138704,6 @@
 ||mdrecv.app.cntvwb.cn^
 ||sdapprecv.app.cntvwb.cn^
 ||vdapprecv.app.cntvwb.cn^
-||-normal-lq.zijieapi.com^
 ||xiaoqiang^
 ||mg.5pk^
 ||msga.71.am^
@@ -145444,29 +145441,6 @@
 ||zpm-platform.cdnjtzy.com^
 ||httpdns.kwd.inkuai.com^
 ||zt-sup.kwd.inkuai.com^
-||q.yunduanzi365.cn^
-||yzgdc.cc^
-||taoguaji.com^
-||rangpurart.com^
-||qiniu.gdjuwang.com^
-||qianduoduo.metaaircraftcarrier.com^
-||proesh.com^
-||only4gurus.com^
-||moneyds.cn^
-||mm03.cc^
-||last30geng20.top^
-||kjzb.last30geng389.top^
-||kandian.wkandian.com^
-||k999.cc^
-||jygj99128.com^
-||jq-ww.com^
-||ggzuhao.com^
-||gamew4.cclakj.cn^
-||a.tikotkn.com^
-||830sp.com^
-||785008.com^
-||778538.com^
-||49789c.com^
 ||pow.wandx5.cn^
 ||qw.wandx5.cn^
 ||jibh.zhangxy2.cn^

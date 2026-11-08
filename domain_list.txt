@@ -1,8 +1,7 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-11-08 19:38:23（北京时间）
-# 共 145573 个域名
+# 生成时间: 2026-11-08 20:18:18（北京时间）
+# 共 145570 个域名
 
--normal-lq.zijieapi.com
 0.myikas.com
 0.net.easyjet.com
 0.r.msn.com
@@ -123213,7 +123212,6 @@ tnc3-alisc1.zijieapi.com
 tnc3-alisc1.zijieapi.com.queniuyk.com
 tnc3-alisc2.zijieapi.com
 tnc3-bjlgy.bytedance.com
-tnc3-bjlgy.snssdk.
 tnc3-bjlgy.snssdk.com
 tnc3-bjlgy.toutiaoapi.com
 tnc3-bjlgy.zijieapi
@@ -145551,7 +145549,6 @@ zzqyxd.smartpozyczka.pl
 zzrazrolqazkb.top
 zzrcz.com
 zzrjdp.xyz
-zzsqqx.shopjapan.co.
 zzsx8.com
 zztfly.com
 zztxr.cn

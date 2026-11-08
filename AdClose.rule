@@ -1,8 +1,7 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-11-08 19:38:26（北京时间）
-# 规则总数: 145637
+# 更新时间: 2026-11-08 20:18:21（北京时间）
+# 规则总数: 145634
 
-domain, -normal-lq.zijieapi.com
 domain, 0.myikas.com
 domain, 0.net.easyjet.com
 domain, 0.r.msn.com
@@ -123270,7 +123269,6 @@ domain, tnc3-alisc1.zijieapi.com
 domain, tnc3-alisc1.zijieapi.com.queniuyk.com
 domain, tnc3-alisc2.zijieapi.com
 domain, tnc3-bjlgy.bytedance.com
-domain, tnc3-bjlgy.snssdk.
 domain, tnc3-bjlgy.snssdk.com
 domain, tnc3-bjlgy.toutiaoapi.com
 domain, tnc3-bjlgy.zijieapi
@@ -145615,7 +145613,6 @@ domain, zzqyxd.smartpozyczka.pl
 domain, zzrazrolqazkb.top
 domain, zzrcz.com
 domain, zzrjdp.xyz
-domain, zzsqqx.shopjapan.co.
 domain, zzsx8.com
 domain, zztfly.com
 domain, zztxr.cn

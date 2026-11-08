@@ -1,8 +1,7 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-11-08 19:38:25（北京时间）
-# 规则总数: 145637
+# 更新时间: 2026-11-08 20:18:21（北京时间）
+# 规则总数: 145634
 
--normal-lq.zijieapi.com block
 0.myikas.com block
 0.net.easyjet.com block
 0.r.msn.com block
@@ -123270,7 +123269,6 @@ tnc3-alisc1.zijieapi.com block
 tnc3-alisc1.zijieapi.com.queniuyk.com block
 tnc3-alisc2.zijieapi.com block
 tnc3-bjlgy.bytedance.com block
-tnc3-bjlgy.snssdk. block
 tnc3-bjlgy.snssdk.com block
 tnc3-bjlgy.toutiaoapi.com block
 tnc3-bjlgy.zijieapi block
@@ -145615,7 +145613,6 @@ zzqyxd.smartpozyczka.pl block
 zzrazrolqazkb.top block
 zzrcz.com block
 zzrjdp.xyz block
-zzsqqx.shopjapan.co. block
 zzsx8.com block
 zztfly.com block
 zztxr.cn block

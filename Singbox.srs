@@ -1,9 +1,8 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-11-08 19:38:25（北京时间）
-# 规则总数: 145637
+# 更新时间: 2026-11-08 20:18:21（北京时间）
+# 规则总数: 145634
 # 注意：本文件为旧版文本格式，sing-box 请使用 Singbox.json
 
-domain: -normal-lq.zijieapi.com, policy: reject
 domain: 0.myikas.com, policy: reject
 domain: 0.net.easyjet.com, policy: reject
 domain: 0.r.msn.com, policy: reject
@@ -123271,7 +123270,6 @@ domain: tnc3-alisc1.zijieapi.com, policy: reject
 domain: tnc3-alisc1.zijieapi.com.queniuyk.com, policy: reject
 domain: tnc3-alisc2.zijieapi.com, policy: reject
 domain: tnc3-bjlgy.bytedance.com, policy: reject
-domain: tnc3-bjlgy.snssdk., policy: reject
 domain: tnc3-bjlgy.snssdk.com, policy: reject
 domain: tnc3-bjlgy.toutiaoapi.com, policy: reject
 domain: tnc3-bjlgy.zijieapi, policy: reject
@@ -145616,7 +145614,6 @@ domain: zzqyxd.smartpozyczka.pl, policy: reject
 domain: zzrazrolqazkb.top, policy: reject
 domain: zzrcz.com, policy: reject
 domain: zzrjdp.xyz, policy: reject
-domain: zzsqqx.shopjapan.co., policy: reject
 domain: zzsx8.com, policy: reject
 domain: zztfly.com, policy: reject
 domain: zztxr.cn, policy: reject

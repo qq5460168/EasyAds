@@ -1,8 +1,7 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-11-08 19:38:26（北京时间）
-# 规则总数: 145637
+# 更新时间: 2026-11-08 20:18:21（北京时间）
+# 规则总数: 145634
 
-0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.myikas.com
 0.0.0.0 0.net.easyjet.com
 0.0.0.0 0.r.msn.com
@@ -123270,7 +123269,6 @@
 0.0.0.0 tnc3-alisc1.zijieapi.com.queniuyk.com
 0.0.0.0 tnc3-alisc2.zijieapi.com
 0.0.0.0 tnc3-bjlgy.bytedance.com
-0.0.0.0 tnc3-bjlgy.snssdk.
 0.0.0.0 tnc3-bjlgy.snssdk.com
 0.0.0.0 tnc3-bjlgy.toutiaoapi.com
 0.0.0.0 tnc3-bjlgy.zijieapi
@@ -145615,7 +145613,6 @@
 0.0.0.0 zzrazrolqazkb.top
 0.0.0.0 zzrcz.com
 0.0.0.0 zzrjdp.xyz
-0.0.0.0 zzsqqx.shopjapan.co.
 0.0.0.0 zzsx8.com
 0.0.0.0 zztfly.com
 0.0.0.0 zztxr.cn

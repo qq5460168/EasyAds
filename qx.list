@@ -1,5 +1,5 @@
 # Quantumult X 规则 - 自动生成
-# 更新时间: 2026-11-08 19:38:23（北京时间）
+# 更新时间: 2026-11-08 20:18:19（北京时间）
 
 DOMAIN,a1.alibabausercontent.com,reject
 DOMAIN,aa.birdgesdk.com,reject
@@ -129667,7 +129667,6 @@ DOMAIN,tnc16-alisg.isnssdk.com,reject
 DOMAIN,tnc16-normal-us-ttp.capcutapi.us,reject
 DOMAIN,tnc16-useast1a.isnssdk.com,reject
 DOMAIN,tnc3-aliec2.zijieapi.com,reject
-DOMAIN,tnc3-bjlgy.snssdk.,reject
 DOMAIN,tncpzu.marelbo.com,reject
 DOMAIN,tnegqr.bohme.com,reject
 DOMAIN,tnhcsf.holzkern.com,reject
@@ -138314,7 +138313,6 @@ DOMAIN,zz.shat1.com,reject
 DOMAIN,zzaoea.costacrociere.it,reject
 DOMAIN,zzhc.vnet.cn,reject
 DOMAIN,zzqyxd.smartpozyczka.pl,reject
-DOMAIN,zzsqqx.shopjapan.co.,reject
 DOMAIN,ad-sign.byteimg.com,reject
 DOMAIN,tos.pstatp.com,reject
 DOMAIN,video-cn.snssdk.com,reject
@@ -138644,7 +138642,6 @@ DOMAIN,mishop.pandora.xiaomi.com,reject
 DOMAIN,mdrecv.app.cntvwb.cn,reject
 DOMAIN,sdapprecv.app.cntvwb.cn,reject
 DOMAIN,vdapprecv.app.cntvwb.cn,reject
-DOMAIN,-normal-lq.zijieapi.com,reject
 DOMAIN,xiaoqiang,reject
 DOMAIN,mg.5pk,reject
 DOMAIN,msga.71.am,reject
@@ -145370,29 +145367,6 @@ DOMAIN,walle.bayescom.com,reject
 DOMAIN,zpm-platform.cdnjtzy.com,reject
 DOMAIN,httpdns.kwd.inkuai.com,reject
 DOMAIN,zt-sup.kwd.inkuai.com,reject
-DOMAIN,q.yunduanzi365.cn,reject
-DOMAIN,yzgdc.cc,reject
-DOMAIN,taoguaji.com,reject
-DOMAIN,rangpurart.com,reject
-DOMAIN,qiniu.gdjuwang.com,reject
-DOMAIN,qianduoduo.metaaircraftcarrier.com,reject
-DOMAIN,proesh.com,reject
-DOMAIN,only4gurus.com,reject
-DOMAIN,moneyds.cn,reject
-DOMAIN,mm03.cc,reject
-DOMAIN,last30geng20.top,reject
-DOMAIN,kjzb.last30geng389.top,reject
-DOMAIN,kandian.wkandian.com,reject
-DOMAIN,k999.cc,reject
-DOMAIN,jygj99128.com,reject
-DOMAIN,jq-ww.com,reject
-DOMAIN,ggzuhao.com,reject
-DOMAIN,gamew4.cclakj.cn,reject
-DOMAIN,a.tikotkn.com,reject
-DOMAIN,830sp.com,reject
-DOMAIN,785008.com,reject
-DOMAIN,778538.com,reject
-DOMAIN,49789c.com,reject
 DOMAIN,pow.wandx5.cn,reject
 DOMAIN,qw.wandx5.cn,reject
 DOMAIN,jibh.zhangxy2.cn,reject

@@ -1,9 +1,8 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-11-08 19:38:25（北京时间）
-# 规则总数: 145637
+# 更新时间: 2026-11-08 20:18:20（北京时间）
+# 规则总数: 145634
 
 payload:
-  - '-normal-lq.zijieapi.com'
   - '0.myikas.com'
   - '0.net.easyjet.com'
   - '0.r.msn.com'
@@ -123271,7 +123270,6 @@ payload:
   - 'tnc3-alisc1.zijieapi.com.queniuyk.com'
   - 'tnc3-alisc2.zijieapi.com'
   - 'tnc3-bjlgy.bytedance.com'
-  - 'tnc3-bjlgy.snssdk.'
   - 'tnc3-bjlgy.snssdk.com'
   - 'tnc3-bjlgy.toutiaoapi.com'
   - 'tnc3-bjlgy.zijieapi'
@@ -145616,7 +145614,6 @@ payload:
   - 'zzrazrolqazkb.top'
   - 'zzrcz.com'
   - 'zzrjdp.xyz'
-  - 'zzsqqx.shopjapan.co.'
   - 'zzsx8.com'
   - 'zztfly.com'
   - 'zztxr.cn'
