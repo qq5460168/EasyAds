@@ -192,11 +192,14 @@ def main():
         script_dir = Path(__file__).resolve().parent
         project_root = script_dir.parent.parent.parent
 
+        cache_env = os.environ.get('MIHOMO_CACHE_DIR')
+        cache_default = str(Path.home() / ".cache" / "mihomo")
+
         config = {
             "input": project_root / "adblock-filtered.txt",
             "temp": Path(tempfile.gettempdir()) / "mihomo_temp.txt",
             "output": project_root / "adb.mrs",
-            "cache_dir": Path(os.environ.get('MIHOMO_CACHE_DIR', str(Path.home() / ".cache" / "mihomo")),
+            "cache_dir": Path(cache_env if cache_env else cache_default)
         }
 
         log("=" * 50)
