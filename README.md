@@ -31,14 +31,22 @@
 <div align="center">
 你是第 <a href="https://github.com/qq5460168/EasyAds"><img src="https://profile-counter.glitch.me/qq5460168-EasyAds/count.svg" alt="访客计数" /></a> 位访客
 </div>
+
 <!-- STATS:BEGIN -->
-| 指标 | 数值 |
-|------|------|
-| 更新时间 | 2026-11-08 20:18:22（北京时间） |
-| 拦截规则数量 | 160742 |
-| DNS 拦截规则数量 | 145573 |
-| 白名单规则数量 | 4031 |
-| Hosts 规则数量 | 145634 |
+
+更新时间：2026-11-08 21:21:16（北京时间）<br>
+拦截规则数量：160742<br>
+DNS 拦截规则数量：145573<br>
+白名单规则数量：4031<br>
+Hosts 规则数量：145634<br>
+Quantumult X 规则数量：145499<br>
+Clash 规则数量：145634<br>
+Clash Meta 规则数量：145573<br>
+Shadowrocket 规则数量：145634<br>
+Singbox 规则数量：145634<br>
+Invizible Pro 规则数量：145634<br>
+AdClose 规则数量：145634
+
 <!-- STATS:END -->
 
 <h2 id="a">🎯 规则订阅</h2>
