@@ -59,16 +59,16 @@
 
 - 广告拦截规则  
   - [规则（GitHub）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/adblock.txt)
-  - [规则（国内加速）](https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/adblock.txt)
+  - [规则（国内加速）](https://ghfast.top/https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/adblock.txt)
 - DNS 拦截规则  
   - [DNS 规则（GitHub）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/dns.txt)
-  - [DNS 规则（国内加速）](https://ghp.ci/https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/dns.txt)
+  - [DNS 规则（国内加速）](https://ghfast.top/https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/dns.txt)
 - 白名单  
   - [白名单（GitHub）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/allow.txt)
-  - [白名单（国内加速）](https://ghp.ci/https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/allow.txt)
+  - [白名单（国内加速）](https://ghfast.top/https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/allow.txt)
 - Hosts 规则  
   - [Hosts（GitHub）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/hosts.txt)
-  - [Hosts（国内加速）](https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/hosts.txt)
+  - [Hosts（国内加速）](https://ghfast.top/https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/hosts.txt)
 - 专用客户端规则  
   - [Quantumult X（qx.list）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/qx.list)
   - [Shadowrocket（Shadowrocket.conf）](https://raw.githubusercontent.com/qq5460168/EasyAds/refs/heads/main/Shadowrocket.conf)
