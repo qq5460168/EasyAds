@@ -1,6 +1,7 @@
 import re
 import os
 import shutil
+import sys
 from pathlib import Path
 from datetime import datetime
 
@@ -30,13 +31,39 @@ def log(message: str):
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"[{timestamp}] [MERGE] {message}")
 
-def clean_rules(content: str, pattern: re.Pattern) -> str:
+DOMAIN_RE = re.compile(r'^(?:@@)?\|\|([^^/$]+)\^')
+
+def is_valid_domain(domain: str) -> bool:
+    """域名形状检查：拒绝以 - 或 . 开头/结尾、以及含连续点的条目。
+
+    上游规则里存在 ||-normal-lq.zijieapi.com^、||tnc3-bjlgy.snssdk.^ 这类
+    非法域名，直接进入 hosts/domain_list 会让下游客户端解析失败。
+    """
+    if not domain:
+        return False
+    if domain[0] in '-.' or domain[-1] in '-.':
+        return False
+    if '..' in domain:
+        return False
+    return True
+
+def clean_rules(content: str, pattern: re.Pattern, check_domain: bool = False) -> str:
     """清理规则内容，保留有效规则"""
     content = re.sub(r'^[!#].*$\n?', '', content, flags=re.MULTILINE)  # 移除注释
-    valid_lines = [
-        line for line in content.splitlines()
-        if line.strip() and pattern.search(line.strip())
-    ]
+    valid_lines = []
+    dropped = 0
+    for line in content.splitlines():
+        stripped = line.strip()
+        if not stripped or not pattern.search(stripped):
+            continue
+        if check_domain:
+            m = DOMAIN_RE.match(stripped)
+            if m and not is_valid_domain(m.group(1)):
+                dropped += 1
+                continue
+        valid_lines.append(stripped)
+    if check_domain and dropped:
+        log(f"已丢弃 {dropped} 条非法域名规则")
     return '\n'.join(valid_lines)
 
 def extract_allow_rules_from_block(content: str) -> str:
@@ -52,7 +79,7 @@ def deduplicate_file(filepath: Path):
     if not filepath.exists():
         log(f"去重失败：文件不存在 {filepath}")
         return
-    
+
     with open(filepath, 'r+', encoding='utf-8') as f:
         seen = set()
         unique_lines = []
@@ -78,13 +105,13 @@ def main():
         # 确保临时目录存在
         if not TMP_DIR.exists():
             log(f"错误：临时目录不存在 {TMP_DIR}，请先运行dl.py生成规则")
-            return
+            sys.exit(1)
 
         # 1. 查找adblock规则文件（兼容dl.py的命名：rules*.txt和adblock*.txt）
         adblock_files = list(TMP_DIR.glob("adblock*.txt")) + list(TMP_DIR.glob("rules*.txt"))
         if not adblock_files:
             log(f"错误：临时目录中未找到adblock*.txt或rules*.txt（{TMP_DIR}）")
-            return  # 不再直接终止，让后续验证步骤处理
+            sys.exit(1)
         log(f"找到 {len(adblock_files)} 个拦截规则文件")
 
         # 2. 合并adblock规则
@@ -99,8 +126,8 @@ def main():
         with open(combined_adblock, 'r', encoding='utf-8', errors='ignore') as f:
             block_content = f.read()
         extracted_allow = extract_allow_rules_from_block(block_content)
-        cleaned_block = clean_rules(block_content, BLOCK_PATTERN)
-        
+        cleaned_block = clean_rules(block_content, BLOCK_PATTERN, check_domain=True)
+
         cleaned_block_path = TMP_DIR / "cleaned_adblock.txt"
         with open(cleaned_block_path, 'w', encoding='utf-8') as f:
             f.write(cleaned_block)
@@ -122,7 +149,7 @@ def main():
             log("警告：未找到allow*.txt，仅使用从黑名单提取的白名单规则")
 
         # 5. 清理白名单
-        cleaned_allow = clean_rules(combined_allow_content, ALLOW_PATTERN)
+        cleaned_allow = clean_rules(combined_allow_content, ALLOW_PATTERN, check_domain=True)
         cleaned_allow_path = TMP_DIR / "cleaned_allow.txt"
         with open(cleaned_allow_path, 'w', encoding='utf-8') as f:
             f.write(cleaned_allow)
@@ -152,9 +179,9 @@ def main():
 
     except Exception as e:
         log(f"处理失败：{str(e)}")
-        # 即使出错，也生成空文件避免验证步骤报错
-        (TARGET_DIR / "adblock.txt").touch()
-        (TARGET_DIR / "allow.txt").touch()
+        # 失败时必须让步骤失败：早前这里会 touch 出空文件让流水线继续，
+        # 结果是把空仓库规则提交上去，比直接失败更糟
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
