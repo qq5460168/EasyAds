@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-11-12 09:45:57（北京时间）
+# Generated on 2026-11-12 20:01:43（北京时间）
 
 ||a1.alibabausercontent.com^
 ||aa.birdgesdk.com^
@@ -143901,6 +143901,8 @@
 ||zc2t.jiejie51-tueo219.vip^
 ||ztstn.020kqy.com^
 ||zz101.ufueng.cn^
+||f7qh.top^
+||xn--jc2a749bpa.com^
 ||sdk.51.la^
 ||nextacdn.top^
 ||amusingarmorycomment.com^

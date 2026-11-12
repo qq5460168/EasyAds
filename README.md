@@ -35,19 +35,19 @@
 <!-- STATS:BEGIN -->
 
 ```text
-更新时间: 2026-11-12 09:46:00（北京时间）
+更新时间: 2026-11-12 20:01:47（北京时间）
 
-拦截规则数量: 160747
-DNS拦截规则数量: 145573
-白名单规则数量: 4036
-Hosts规则数量: 145634
-Quantumult X规则数量: 145499
-Clash规则数量: 145634
-Clash Meta规则数量: 145573
-Shadowrocket规则数量: 145634
-Singbox规则数量: 145634
-Invizible Pro规则数量: 145634
-AdClose规则数量: 145634
+拦截规则数量: 160753
+DNS拦截规则数量: 145575
+白名单规则数量: 4040
+Hosts规则数量: 145636
+Quantumult X规则数量: 145501
+Clash规则数量: 145636
+Clash Meta规则数量: 145575
+Shadowrocket规则数量: 145636
+Singbox规则数量: 145636
+Invizible Pro规则数量: 145636
+AdClose规则数量: 145636
 ```
 
 <!-- STATS:END -->

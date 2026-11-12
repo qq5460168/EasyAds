@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-11-12 09:45:59（北京时间）
-# 规则总数: 145634
+# 更新时间: 2026-11-12 20:01:46（北京时间）
+# 规则总数: 145636
 
 0.myikas.com block
 0.net.easyjet.com block
@@ -48458,6 +48458,7 @@ f793.inc.com block
 f7dcc97ce6.com block
 f7eiavl95.com block
 f7nm8f7u.mi5tpath.ru block
+f7qh.top block
 f7r.cn block
 f7tkpjw6v.com block
 f7ugx6b863.com block
@@ -140940,6 +140941,7 @@ xn--bqro42frpg5up.cn block
 xn--czru2dx3eszw3lat53b.com block
 xn--gov-x68dy61b.shop block
 xn--h6qpop2cq9nl9c.pages.dev block
+xn--jc2a749bpa.com block
 xn--jor0b302fdhgwnccw8g.com block
 xn--jvrp4x1zyfta.net block
 xn--m7r781dz66a.cn block

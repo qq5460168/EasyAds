@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-11-12 09:46:00
-! 有效规则数量: 4036 条
+! 规则更新时间: 2026-11-12 20:01:47
+! 有效规则数量: 4040 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -2336,6 +2336,7 @@
 @@||dcloud.net.cn^
 @@||ddyunbo.com^
 @@||detail.zol.com.cn^
+@@||dev.mi.com^
 @@||dev.miuiflash.com^
 @@||developer.extscreen.com^
 @@||devuploads.com^
@@ -2462,6 +2463,7 @@
 @@||hsr.hoyoverse.com^
 @@||hub.docker.com^
 @@||hub5idx.v6.shub.sandai.net^
+@@||hyperos.developer.xiaomi.com^
 @@||i.dell.com^
 @@||i.imgur.com^
 @@||i.mcmod.cn^
@@ -2502,6 +2504,7 @@
 @@||imgessl.kugou.com^
 @@||inporn.com^
 @@||intro.limestart.cn^
+@@||iot.mi.com^
 @@||ip*.ahcdn.com^
 @@||iptn.m3pd.com^
 @@||ipv6.ping0.cc^
@@ -2618,6 +2621,7 @@
 @@||member.jiaoyimao.com^
 @@||members.bitcomet.com^
 @@||mgbsdk.matrix.netease.com^
+@@||mimo.mi.com^
 @@||mip.xiachufang.com^
 @@||mirrors.huaweicloud.com^
 @@||missav.ai^

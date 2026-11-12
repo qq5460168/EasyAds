@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-11-12 09:46:00（北京时间）
-# 规则总数: 145634
+# 更新时间: 2026-11-12 20:01:47（北京时间）
+# 规则总数: 145636
 
 0.0.0.0 0.myikas.com
 0.0.0.0 0.net.easyjet.com
@@ -48458,6 +48458,7 @@
 0.0.0.0 f7dcc97ce6.com
 0.0.0.0 f7eiavl95.com
 0.0.0.0 f7nm8f7u.mi5tpath.ru
+0.0.0.0 f7qh.top
 0.0.0.0 f7r.cn
 0.0.0.0 f7tkpjw6v.com
 0.0.0.0 f7ugx6b863.com
@@ -140940,6 +140941,7 @@
 0.0.0.0 xn--czru2dx3eszw3lat53b.com
 0.0.0.0 xn--gov-x68dy61b.shop
 0.0.0.0 xn--h6qpop2cq9nl9c.pages.dev
+0.0.0.0 xn--jc2a749bpa.com
 0.0.0.0 xn--jor0b302fdhgwnccw8g.com
 0.0.0.0 xn--jvrp4x1zyfta.net
 0.0.0.0 xn--m7r781dz66a.cn

@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-11-12 09:45:57（北京时间）
-# 共 145570 个域名
+# 生成时间: 2026-11-12 20:01:43（北京时间）
+# 共 145572 个域名
 
 0.myikas.com
 0.net.easyjet.com
@@ -48427,6 +48427,7 @@ f793.inc.com
 f7dcc97ce6.com
 f7eiavl95.com
 f7nm8f7u.mi5tpath.ru
+f7qh.top
 f7r.cn
 f7tkpjw6v.com
 f7ugx6b863.com
@@ -140877,6 +140878,7 @@ xn--bqro42frpg5up.cn
 xn--czru2dx3eszw3lat53b.com
 xn--gov-x68dy61b.shop
 xn--h6qpop2cq9nl9c.pages.dev
+xn--jc2a749bpa.com
 xn--jor0b302fdhgwnccw8g.com
 xn--jvrp4x1zyfta.net
 xn--m7r781dz66a.cn
