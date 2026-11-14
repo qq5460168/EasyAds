@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-11-14 19:07:43（北京时间）
-# 规则总数: 145636
+# 更新时间: 2026-11-15 01:31:46（北京时间）
+# 规则总数: 145641
 
 0.myikas.com block
 0.net.easyjet.com block
@@ -13897,6 +13897,7 @@ ads-union.jd.com block
 ads-video-1251524319.cos.ap-shanghai.myqcloud.com block
 ads-video-al.xhscdn.com block
 ads-video-qc.xhscdn.com block
+ads-vp5.xhscdn.com block
 ads-yallo-production.imgix.net block
 ads.123net.jp block
 ads.1thegioi.vn block
@@ -31933,6 +31934,7 @@ client-sdk.hackle.io block
 client-telemetry-preauth.hingeprod.net block
 client-telemetry.hingeprod.net block
 client-telemetry.roblox.com block
+client-upload.cn-shanghai.log.aliyuncs.com block
 client.88tours.com block
 client.botchk.net block
 client.perimeterx.net block
@@ -42862,6 +42864,7 @@ dtzcucxegdlqi.website block
 dtzoenoduqopn.space block
 dtzrrz.green-japan.com block
 dtzvavrnbzemd.space block
+du-app.cn-hangzhou.log.aliyuncs.com block
 du.jd.com block
 du002iv2rxh4h.cloudfront.net block
 du01z5hhojprz.cloudfront.net block
@@ -108701,6 +108704,8 @@ shiftrro.com block
 shigao.icu block
 shigl.top block
 shigongjishu.cn block
+shihuo-new.log.shihuocdn.cn block
+shihuo.log.shihuocdn.cn block
 shiitehunyak.cfd block
 shijitiankai.cn block
 shijixinrui.cn block

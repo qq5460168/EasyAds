@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-11-14 19:07:43（北京时间）
-# 规则总数: 145636
+# 更新时间: 2026-11-15 01:31:46（北京时间）
+# 规则总数: 145641
 
 0.0.0.0 0.myikas.com
 0.0.0.0 0.net.easyjet.com
@@ -13897,6 +13897,7 @@
 0.0.0.0 ads-video-1251524319.cos.ap-shanghai.myqcloud.com
 0.0.0.0 ads-video-al.xhscdn.com
 0.0.0.0 ads-video-qc.xhscdn.com
+0.0.0.0 ads-vp5.xhscdn.com
 0.0.0.0 ads-yallo-production.imgix.net
 0.0.0.0 ads.123net.jp
 0.0.0.0 ads.1thegioi.vn
@@ -31933,6 +31934,7 @@
 0.0.0.0 client-telemetry-preauth.hingeprod.net
 0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 client-telemetry.roblox.com
+0.0.0.0 client-upload.cn-shanghai.log.aliyuncs.com
 0.0.0.0 client.88tours.com
 0.0.0.0 client.botchk.net
 0.0.0.0 client.perimeterx.net
@@ -42862,6 +42864,7 @@
 0.0.0.0 dtzoenoduqopn.space
 0.0.0.0 dtzrrz.green-japan.com
 0.0.0.0 dtzvavrnbzemd.space
+0.0.0.0 du-app.cn-hangzhou.log.aliyuncs.com
 0.0.0.0 du.jd.com
 0.0.0.0 du002iv2rxh4h.cloudfront.net
 0.0.0.0 du01z5hhojprz.cloudfront.net
@@ -108701,6 +108704,8 @@
 0.0.0.0 shigao.icu
 0.0.0.0 shigl.top
 0.0.0.0 shigongjishu.cn
+0.0.0.0 shihuo-new.log.shihuocdn.cn
+0.0.0.0 shihuo.log.shihuocdn.cn
 0.0.0.0 shiitehunyak.cfd
 0.0.0.0 shijitiankai.cn
 0.0.0.0 shijixinrui.cn

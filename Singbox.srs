@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-11-14 19:07:42（北京时间）
-# 规则总数: 145636
+# 更新时间: 2026-11-15 01:31:46（北京时间）
+# 规则总数: 145641
 # 注意：本文件为旧版文本格式，sing-box 请使用 Singbox.json
 
 domain: 0.myikas.com, policy: reject
@@ -13898,6 +13898,7 @@ domain: ads-union.jd.com, policy: reject
 domain: ads-video-1251524319.cos.ap-shanghai.myqcloud.com, policy: reject
 domain: ads-video-al.xhscdn.com, policy: reject
 domain: ads-video-qc.xhscdn.com, policy: reject
+domain: ads-vp5.xhscdn.com, policy: reject
 domain: ads-yallo-production.imgix.net, policy: reject
 domain: ads.123net.jp, policy: reject
 domain: ads.1thegioi.vn, policy: reject
@@ -31934,6 +31935,7 @@ domain: client-sdk.hackle.io, policy: reject
 domain: client-telemetry-preauth.hingeprod.net, policy: reject
 domain: client-telemetry.hingeprod.net, policy: reject
 domain: client-telemetry.roblox.com, policy: reject
+domain: client-upload.cn-shanghai.log.aliyuncs.com, policy: reject
 domain: client.88tours.com, policy: reject
 domain: client.botchk.net, policy: reject
 domain: client.perimeterx.net, policy: reject
@@ -42863,6 +42865,7 @@ domain: dtzcucxegdlqi.website, policy: reject
 domain: dtzoenoduqopn.space, policy: reject
 domain: dtzrrz.green-japan.com, policy: reject
 domain: dtzvavrnbzemd.space, policy: reject
+domain: du-app.cn-hangzhou.log.aliyuncs.com, policy: reject
 domain: du.jd.com, policy: reject
 domain: du002iv2rxh4h.cloudfront.net, policy: reject
 domain: du01z5hhojprz.cloudfront.net, policy: reject
@@ -108702,6 +108705,8 @@ domain: shiftrro.com, policy: reject
 domain: shigao.icu, policy: reject
 domain: shigl.top, policy: reject
 domain: shigongjishu.cn, policy: reject
+domain: shihuo-new.log.shihuocdn.cn, policy: reject
+domain: shihuo.log.shihuocdn.cn, policy: reject
 domain: shiitehunyak.cfd, policy: reject
 domain: shijitiankai.cn, policy: reject
 domain: shijixinrui.cn, policy: reject

@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-11-14 19:07:42（北京时间）
-# 规则总数: 145636
+# 更新时间: 2026-11-15 01:31:45（北京时间）
+# 规则总数: 145641
 
 payload:
   - '0.myikas.com'
@@ -13898,6 +13898,7 @@ payload:
   - 'ads-video-1251524319.cos.ap-shanghai.myqcloud.com'
   - 'ads-video-al.xhscdn.com'
   - 'ads-video-qc.xhscdn.com'
+  - 'ads-vp5.xhscdn.com'
   - 'ads-yallo-production.imgix.net'
   - 'ads.123net.jp'
   - 'ads.1thegioi.vn'
@@ -31934,6 +31935,7 @@ payload:
   - 'client-telemetry-preauth.hingeprod.net'
   - 'client-telemetry.hingeprod.net'
   - 'client-telemetry.roblox.com'
+  - 'client-upload.cn-shanghai.log.aliyuncs.com'
   - 'client.88tours.com'
   - 'client.botchk.net'
   - 'client.perimeterx.net'
@@ -42863,6 +42865,7 @@ payload:
   - 'dtzoenoduqopn.space'
   - 'dtzrrz.green-japan.com'
   - 'dtzvavrnbzemd.space'
+  - 'du-app.cn-hangzhou.log.aliyuncs.com'
   - 'du.jd.com'
   - 'du002iv2rxh4h.cloudfront.net'
   - 'du01z5hhojprz.cloudfront.net'
@@ -108702,6 +108705,8 @@ payload:
   - 'shigao.icu'
   - 'shigl.top'
   - 'shigongjishu.cn'
+  - 'shihuo-new.log.shihuocdn.cn'
+  - 'shihuo.log.shihuocdn.cn'
   - 'shiitehunyak.cfd'
   - 'shijitiankai.cn'
   - 'shijixinrui.cn'

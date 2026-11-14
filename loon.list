@@ -1,6 +1,6 @@
 # Loon规则由GOODBYEADS生成
-# 更新时间(北京时间): 2026-11-14 19:07:40
-# 规则统计: 总计145575条 (IP:146 DOMAIN:0 SUFFIX:145429 KEYWORD:0)
+# 更新时间(北京时间): 2026-11-15 01:31:43
+# 规则统计: 总计145580条 (IP:146 DOMAIN:0 SUFFIX:145434 KEYWORD:0)
 
 # IP规则
 IP-CIDR,10.130.208.223,REJECT,no-resolve
@@ -13889,6 +13889,7 @@ DOMAIN-SUFFIX,ads-union.jd.com,REJECT
 DOMAIN-SUFFIX,ads-video-1251524319.cos.ap-shanghai.myqcloud.com,REJECT
 DOMAIN-SUFFIX,ads-video-al.xhscdn.com,REJECT
 DOMAIN-SUFFIX,ads-video-qc.xhscdn.com,REJECT
+DOMAIN-SUFFIX,ads-vp5.xhscdn.com,REJECT
 DOMAIN-SUFFIX,ads-yallo-production.imgix.net,REJECT
 DOMAIN-SUFFIX,ads.123net.jp,REJECT
 DOMAIN-SUFFIX,ads.1thegioi.vn,REJECT
@@ -31917,6 +31918,7 @@ DOMAIN-SUFFIX,client-sdk.hackle.io,REJECT
 DOMAIN-SUFFIX,client-telemetry-preauth.hingeprod.net,REJECT
 DOMAIN-SUFFIX,client-telemetry.hingeprod.net,REJECT
 DOMAIN-SUFFIX,client-telemetry.roblox.com,REJECT
+DOMAIN-SUFFIX,client-upload.cn-shanghai.log.aliyuncs.com,REJECT
 DOMAIN-SUFFIX,client.88tours.com,REJECT
 DOMAIN-SUFFIX,client.botchk.net,REJECT
 DOMAIN-SUFFIX,client.perimeterx.net,REJECT
@@ -42846,6 +42848,7 @@ DOMAIN-SUFFIX,dtzcucxegdlqi.website,REJECT
 DOMAIN-SUFFIX,dtzoenoduqopn.space,REJECT
 DOMAIN-SUFFIX,dtzrrz.green-japan.com,REJECT
 DOMAIN-SUFFIX,dtzvavrnbzemd.space,REJECT
+DOMAIN-SUFFIX,du-app.cn-hangzhou.log.aliyuncs.com,REJECT
 DOMAIN-SUFFIX,du.jd.com,REJECT
 DOMAIN-SUFFIX,du002iv2rxh4h.cloudfront.net,REJECT
 DOMAIN-SUFFIX,du01z5hhojprz.cloudfront.net,REJECT
@@ -108650,6 +108653,8 @@ DOMAIN-SUFFIX,shiftrro.com,REJECT
 DOMAIN-SUFFIX,shigao.icu,REJECT
 DOMAIN-SUFFIX,shigl.top,REJECT
 DOMAIN-SUFFIX,shigongjishu.cn,REJECT
+DOMAIN-SUFFIX,shihuo-new.log.shihuocdn.cn,REJECT
+DOMAIN-SUFFIX,shihuo.log.shihuocdn.cn,REJECT
 DOMAIN-SUFFIX,shiitehunyak.cfd,REJECT
 DOMAIN-SUFFIX,shijitiankai.cn,REJECT
 DOMAIN-SUFFIX,shijixinrui.cn,REJECT

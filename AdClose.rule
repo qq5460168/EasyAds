@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-11-14 19:07:43（北京时间）
-# 规则总数: 145636
+# 更新时间: 2026-11-15 01:31:46（北京时间）
+# 规则总数: 145641
 
 domain, 0.myikas.com
 domain, 0.net.easyjet.com
@@ -13897,6 +13897,7 @@ domain, ads-union.jd.com
 domain, ads-video-1251524319.cos.ap-shanghai.myqcloud.com
 domain, ads-video-al.xhscdn.com
 domain, ads-video-qc.xhscdn.com
+domain, ads-vp5.xhscdn.com
 domain, ads-yallo-production.imgix.net
 domain, ads.123net.jp
 domain, ads.1thegioi.vn
@@ -31933,6 +31934,7 @@ domain, client-sdk.hackle.io
 domain, client-telemetry-preauth.hingeprod.net
 domain, client-telemetry.hingeprod.net
 domain, client-telemetry.roblox.com
+domain, client-upload.cn-shanghai.log.aliyuncs.com
 domain, client.88tours.com
 domain, client.botchk.net
 domain, client.perimeterx.net
@@ -42862,6 +42864,7 @@ domain, dtzcucxegdlqi.website
 domain, dtzoenoduqopn.space
 domain, dtzrrz.green-japan.com
 domain, dtzvavrnbzemd.space
+domain, du-app.cn-hangzhou.log.aliyuncs.com
 domain, du.jd.com
 domain, du002iv2rxh4h.cloudfront.net
 domain, du01z5hhojprz.cloudfront.net
@@ -108701,6 +108704,8 @@ domain, shiftrro.com
 domain, shigao.icu
 domain, shigl.top
 domain, shigongjishu.cn
+domain, shihuo-new.log.shihuocdn.cn
+domain, shihuo.log.shihuocdn.cn
 domain, shiitehunyak.cfd
 domain, shijitiankai.cn
 domain, shijixinrui.cn
