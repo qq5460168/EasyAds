@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-11-15 12:02:32
-! 有效规则数量: 4040 条
+! 规则更新时间: 2026-11-15 23:09:25
+! 有效规则数量: 4039 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -1465,8 +1465,6 @@
 @@||p26-sign.toutiaoimg.com^
 @@||p6-shortvideo-sign.toutiaoimg.com^
 @@||d.toutiao.com^
-@@||open.snssdk.com^
-@@||www.toutiao.com^
 @@||m.toutiao.com^
 @@||sf1-cdn-tos.toutiaostatic.com^
 @@||sf3-cdn-tos.toutiaostatic.com^
@@ -2013,6 +2011,7 @@
 @@||umengjmacs.m.taobao.com^
 @@||www.bqgyy.com^
 @@||mssdk3-normal-lf.zijieapi.com^
+@@||www.toutiao.com^
 @@||app.toutiao.com^
 @@||lf3-short.ibytedapm.com^
 @@||ttwid.bytedance.com^
