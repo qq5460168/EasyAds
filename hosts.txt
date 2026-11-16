@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-11-16 12:01:21（北京时间）
-# 规则总数: 145641
+# 更新时间: 2026-11-17 01:43:45（北京时间）
+# 规则总数: 145649
 
 0.0.0.0 0.myikas.com
 0.0.0.0 0.net.easyjet.com
@@ -15138,6 +15138,7 @@
 0.0.0.0 adx.ads.oppomobile.com
 0.0.0.0 adx.adwangmai.com
 0.0.0.0 adx.adxglobal.com
+0.0.0.0 adx.anythinktech.com
 0.0.0.0 adx.appsdk.com.cn
 0.0.0.0 adx.baolongan.vn
 0.0.0.0 adx.chinmedia.vn
@@ -24991,6 +24992,7 @@
 0.0.0.0 bid.glass
 0.0.0.0 bid.mbidtg.com
 0.0.0.0 bid.onclcktg.com
+0.0.0.0 bid.shanghailingye.cn
 0.0.0.0 bidarblam.com
 0.0.0.0 bidberry.net
 0.0.0.0 bidbrain.app
@@ -32401,6 +32403,7 @@
 0.0.0.0 cmyiojnzfirqc.website
 0.0.0.0 cmyweexqchdwlh.com
 0.0.0.0 cmzaly.gebrueder-goetz.de
+0.0.0.0 cn-api-sec.anythinktech.com
 0.0.0.0 cn-api.anythinktech.com
 0.0.0.0 cn-beijing.log.aliyuncs.com
 0.0.0.0 cn-da.anythinktech.com
@@ -37589,6 +37592,7 @@
 0.0.0.0 da.qiyukf.com
 0.0.0.0 da.rabobank.nl
 0.0.0.0 da.rus-atlas.ru
+0.0.0.0 da.statisticslinks.com
 0.0.0.0 da.zilovaro.ru
 0.0.0.0 da00ebe35b.88ddebd3d3.com
 0.0.0.0 da1b39e06f.cccc5a2b7f.com
@@ -46860,8 +46864,10 @@
 0.0.0.0 erreoawajurdj.space
 0.0.0.0 erriteolycook.qpon
 0.0.0.0 errlog.umeng.com
+0.0.0.0 errlogos.umeng.com
 0.0.0.0 errnewlog.umeng.com
 0.0.0.0 errnewlog.umeng.com.lan
+0.0.0.0 errnewlogos.umeng.com
 0.0.0.0 errnotice.oss-cn-shenzhen.aliyuncs.com
 0.0.0.0 error-analytics-production.shopifysvc.com
 0.0.0.0 error-analytics-sessions-production.shopifysvc.com
@@ -115101,6 +115107,7 @@
 0.0.0.0 ssaiwvjpyevjq.site
 0.0.0.0 ssajebtiagency.it.com
 0.0.0.0 ssancib.top
+0.0.0.0 ssapi.anythinktech.com
 0.0.0.0 ssasa.dvclw.cn
 0.0.0.0 ssb.ah499.com
 0.0.0.0 ssblepbnncttn.site
@@ -122987,6 +122994,7 @@
 0.0.0.0 tk.santevet.es
 0.0.0.0 tk.santevet.it
 0.0.0.0 tk.speedway.fr
+0.0.0.0 tk.statisticslinks.com
 0.0.0.0 tk.svsound.com
 0.0.0.0 tk.teleshopping.fr
 0.0.0.0 tk.tikamoon.at

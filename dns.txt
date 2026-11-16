@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-11-16 12:01:18（北京时间）
+# Generated on 2026-11-17 01:43:42（北京时间）
 
 ||a1.alibabausercontent.com^
 ||aa.birdgesdk.com^
@@ -1169,6 +1169,7 @@
 ||adx-saas.advlion.com^
 ||adx-strategy-api-cn.statisticslinks.com^
 ||adx.ads.oppomobile.com^
+||adx.anythinktech.com^
 ||adx.appsdk.com.cn^
 ||adx.sogaha.cn^
 ||adx.tuia.cn^
@@ -1185,6 +1186,7 @@
 ||alicoccdnct-xn.inter.71edge.com^
 ||alltbcsp2p.baidu.com^
 ||alog.umeng.com^
+||alogsus.umeng.com^
 ||alogus.umeng.com^
 ||an.facebook.com^
 ||analysis.chatglm.cn^
@@ -1246,6 +1248,7 @@
 ||beizi.biz^
 ||bgg.baidu.com^
 ||bianxian.com^
+||bid.shanghailingye.cn^
 ||biz.weibo.com^
 ||bj.ad.track.66mobi.com^
 ||boost-cmp.hismarttv.com^
@@ -1283,6 +1286,8 @@
 ||client-upload.cn-shanghai.log.aliyuncs.com^
 ||clog.miguvideo.com^
 ||cloooud.com^
+||cn-api-sec.anythinktech.com^
+||cn-tk.anythinktech.com^
 ||cnlogs.umeng.com^
 ||cnlogs.umengcloud.com^
 ||cnzz.com^
@@ -1298,6 +1303,7 @@
 ||d.applovin.com^
 ||d.applvn.com^
 ||da.anythinktech.com^
+||da.statisticslinks.com^
 ||data-sdk-uuid-log.d.meituan.net^
 ||data.ads.oppomobile.com^
 ||data.chsmarttv.com^
@@ -1321,6 +1327,9 @@
 ||edge.ads.twitch.tv^
 ||engine.dcad01.com^
 ||entry.baidu.com^
+||errlog.umeng.com^
+||errlogos.umeng.com^
+||errnewlogos.umeng.com^
 ||et-eus.w.inmobi.com^
 ||event.tradplusad.com^
 ||events-drcn.op.dbankcloud.cn^
@@ -1639,6 +1648,7 @@
 ||smetrics.samsung.com^
 ||sms.ads.oppomobile.com^
 ||sngmta.qq.com^
+||ssapi.anythinktech.com^
 ||ssp.cloooud.com^
 ||staging-notify.sec.miui.com^
 ||stat.dongqiudi.com^
@@ -1677,6 +1687,7 @@
 ||test.e.ad.xiaomi.com^
 ||tj.b.qq.com^
 ||tj.video.qq.com^
+||tk.statisticslinks.com^
 ||tmfmazu-wangka.m.qq.com^
 ||tmfmazu.m.qq.com^
 ||tmfsdk.m.qq.com^
@@ -144714,7 +144725,6 @@
 ||polaris3-normal-lf.zijieapi.com^
 ||polaris3-normal-hl.zijieapi.com^
 ||ar.umeng.com^
-||errlog.umeng.com^
 ||sec.umeng.com^
 ||sss.umeng.com^
 ||ulogs.umengcloud.com.gds.alibabadns.com^
@@ -144726,7 +144736,6 @@
 ||alogsus.umengcloud.com^
 ||oc.umeng.com^
 ||alogs.umeng.com^
-||alogsus.umeng.com^
 ||ocx.umeng.com^
 ||ouplog.umeng.com^
 ||track.xiachufang.com^
@@ -145440,7 +145449,6 @@
 ||gamew4.cclakj.cn^
 ||asdqfdfb.www71685a.com^
 ||a.tikotkn.com^
-||cn-tk.anythinktech.com^
 ||pitk.birdgesdk.com^
 ||adx.zuoyebang.com^
 ||raddus.bayescom.com^

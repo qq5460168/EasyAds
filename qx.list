@@ -1,5 +1,5 @@
 # Quantumult X 规则 - 自动生成
-# 更新时间: 2026-11-16 12:01:18（北京时间）
+# 更新时间: 2026-11-17 01:43:42（北京时间）
 
 DOMAIN,a1.alibabausercontent.com,reject
 DOMAIN,aa.birdgesdk.com,reject
@@ -1150,6 +1150,7 @@ DOMAIN,adx-os.bridgeoos.com,reject
 DOMAIN,adx-saas.advlion.com,reject
 DOMAIN,adx-strategy-api-cn.statisticslinks.com,reject
 DOMAIN,adx.ads.oppomobile.com,reject
+DOMAIN,adx.anythinktech.com,reject
 DOMAIN,adx.appsdk.com.cn,reject
 DOMAIN,adx.sogaha.cn,reject
 DOMAIN,adx.tuia.cn,reject
@@ -1166,6 +1167,7 @@ DOMAIN,alicoccdncnc-xn.inter.71edge.com,reject
 DOMAIN,alicoccdnct-xn.inter.71edge.com,reject
 DOMAIN,alltbcsp2p.baidu.com,reject
 DOMAIN,alog.umeng.com,reject
+DOMAIN,alogsus.umeng.com,reject
 DOMAIN,alogus.umeng.com,reject
 DOMAIN,an.facebook.com,reject
 DOMAIN,analysis.chatglm.cn,reject
@@ -1226,6 +1228,7 @@ DOMAIN,beacons.gvt2.com,reject
 DOMAIN,beizi.biz,reject
 DOMAIN,bgg.baidu.com,reject
 DOMAIN,bianxian.com,reject
+DOMAIN,bid.shanghailingye.cn,reject
 DOMAIN,biz.weibo.com,reject
 DOMAIN,bj.ad.track.66mobi.com,reject
 DOMAIN,boost-cmp.hismarttv.com,reject
@@ -1262,6 +1265,8 @@ DOMAIN,click4.chinaliftoff.io,reject
 DOMAIN,client-upload.cn-shanghai.log.aliyuncs.com,reject
 DOMAIN,clog.miguvideo.com,reject
 DOMAIN,cloooud.com,reject
+DOMAIN,cn-api-sec.anythinktech.com,reject
+DOMAIN,cn-tk.anythinktech.com,reject
 DOMAIN,cnlogs.umeng.com,reject
 DOMAIN,cnlogs.umengcloud.com,reject
 DOMAIN,cnzz.com,reject
@@ -1276,6 +1281,7 @@ DOMAIN,crashlyticsreports-pa.googleapis.com,reject
 DOMAIN,d.applovin.com,reject
 DOMAIN,d.applvn.com,reject
 DOMAIN,da.anythinktech.com,reject
+DOMAIN,da.statisticslinks.com,reject
 DOMAIN,data-sdk-uuid-log.d.meituan.net,reject
 DOMAIN,data.ads.oppomobile.com,reject
 DOMAIN,data.chsmarttv.com,reject
@@ -1299,6 +1305,9 @@ DOMAIN,e.ad.xiaomi.com,reject
 DOMAIN,edge.ads.twitch.tv,reject
 DOMAIN,engine.dcad01.com,reject
 DOMAIN,entry.baidu.com,reject
+DOMAIN,errlog.umeng.com,reject
+DOMAIN,errlogos.umeng.com,reject
+DOMAIN,errnewlogos.umeng.com,reject
 DOMAIN,et-eus.w.inmobi.com,reject
 DOMAIN,event.tradplusad.com,reject
 DOMAIN,events-drcn.op.dbankcloud.cn,reject
@@ -1614,6 +1623,7 @@ DOMAIN,smartad.10010.com,reject
 DOMAIN,smetrics.samsung.com,reject
 DOMAIN,sms.ads.oppomobile.com,reject
 DOMAIN,sngmta.qq.com,reject
+DOMAIN,ssapi.anythinktech.com,reject
 DOMAIN,ssp.cloooud.com,reject
 DOMAIN,staging-notify.sec.miui.com,reject
 DOMAIN,stat.dongqiudi.com,reject
@@ -1652,6 +1662,7 @@ DOMAIN,test.ad.xiaomi.com,reject
 DOMAIN,test.e.ad.xiaomi.com,reject
 DOMAIN,tj.b.qq.com,reject
 DOMAIN,tj.video.qq.com,reject
+DOMAIN,tk.statisticslinks.com,reject
 DOMAIN,tmfmazu-wangka.m.qq.com,reject
 DOMAIN,tmfmazu.m.qq.com,reject
 DOMAIN,tmfsdk.m.qq.com,reject
@@ -144641,7 +144652,6 @@ DOMAIN,ma5-normal-lq.zijieapi.com,reject
 DOMAIN,polaris3-normal-lf.zijieapi.com,reject
 DOMAIN,polaris3-normal-hl.zijieapi.com,reject
 DOMAIN,ar.umeng.com,reject
-DOMAIN,errlog.umeng.com,reject
 DOMAIN,sec.umeng.com,reject
 DOMAIN,sss.umeng.com,reject
 DOMAIN,ulogs.umengcloud.com.gds.alibabadns.com,reject
@@ -144653,7 +144663,6 @@ DOMAIN,alogs.umengcloud.com,reject
 DOMAIN,alogsus.umengcloud.com,reject
 DOMAIN,oc.umeng.com,reject
 DOMAIN,alogs.umeng.com,reject
-DOMAIN,alogsus.umeng.com,reject
 DOMAIN,ocx.umeng.com,reject
 DOMAIN,ouplog.umeng.com,reject
 DOMAIN,track.xiachufang.com,reject
@@ -145366,7 +145375,6 @@ DOMAIN,kandian.wkandian.com,reject
 DOMAIN,gamew4.cclakj.cn,reject
 DOMAIN,asdqfdfb.www71685a.com,reject
 DOMAIN,a.tikotkn.com,reject
-DOMAIN,cn-tk.anythinktech.com,reject
 DOMAIN,pitk.birdgesdk.com,reject
 DOMAIN,adx.zuoyebang.com,reject
 DOMAIN,raddus.bayescom.com,reject

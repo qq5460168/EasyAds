@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-11-16 12:01:20（北京时间）
-# 规则总数: 145641
+# 更新时间: 2026-11-17 01:43:45（北京时间）
+# 规则总数: 145649
 
 0.myikas.com block
 0.net.easyjet.com block
@@ -15138,6 +15138,7 @@ adx.ads.heytapmobi.com block
 adx.ads.oppomobile.com block
 adx.adwangmai.com block
 adx.adxglobal.com block
+adx.anythinktech.com block
 adx.appsdk.com.cn block
 adx.baolongan.vn block
 adx.chinmedia.vn block
@@ -24991,6 +24992,7 @@ bid.adbiding.com block
 bid.glass block
 bid.mbidtg.com block
 bid.onclcktg.com block
+bid.shanghailingye.cn block
 bidarblam.com block
 bidberry.net block
 bidbrain.app block
@@ -32401,6 +32403,7 @@ cmxfbwwuwdyjq.site block
 cmyiojnzfirqc.website block
 cmyweexqchdwlh.com block
 cmzaly.gebrueder-goetz.de block
+cn-api-sec.anythinktech.com block
 cn-api.anythinktech.com block
 cn-beijing.log.aliyuncs.com block
 cn-da.anythinktech.com block
@@ -37589,6 +37592,7 @@ da.netease.com block
 da.qiyukf.com block
 da.rabobank.nl block
 da.rus-atlas.ru block
+da.statisticslinks.com block
 da.zilovaro.ru block
 da00ebe35b.88ddebd3d3.com block
 da1b39e06f.cccc5a2b7f.com block
@@ -46860,8 +46864,10 @@ errdom.oss-cn-heyuan.aliyuncs.com block
 erreoawajurdj.space block
 erriteolycook.qpon block
 errlog.umeng.com block
+errlogos.umeng.com block
 errnewlog.umeng.com block
 errnewlog.umeng.com.lan block
+errnewlogos.umeng.com block
 errnotice.oss-cn-shenzhen.aliyuncs.com block
 error-analytics-production.shopifysvc.com block
 error-analytics-sessions-production.shopifysvc.com block
@@ -115101,6 +115107,7 @@ ssagntroplexa.com block
 ssaiwvjpyevjq.site block
 ssajebtiagency.it.com block
 ssancib.top block
+ssapi.anythinktech.com block
 ssasa.dvclw.cn block
 ssb.ah499.com block
 ssblepbnncttn.site block
@@ -122987,6 +122994,7 @@ tk.santevet.de block
 tk.santevet.es block
 tk.santevet.it block
 tk.speedway.fr block
+tk.statisticslinks.com block
 tk.svsound.com block
 tk.teleshopping.fr block
 tk.tikamoon.at block

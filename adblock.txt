@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 规则更新时间: 2026-11-16 12:01:21
-! 有效规则数量: 160757 条
+! 规则更新时间: 2026-11-17 01:43:46
+! 有效规则数量: 160765 条
 ! 项目地址: https://github.com/qq5460168/EasyAds
 ! 请不要删除此头部，用于规则识别和更新
 
@@ -1184,6 +1184,7 @@
 ||adx-saas.advlion.com^
 ||adx-strategy-api-cn.statisticslinks.com^
 ||adx.ads.oppomobile.com^
+||adx.anythinktech.com^
 ||adx.appsdk.com.cn^
 ||adx.sogaha.cn^
 ||adx.tuia.cn^
@@ -1200,6 +1201,7 @@
 ||alicoccdnct-xn.inter.71edge.com^
 ||alltbcsp2p.baidu.com^
 ||alog.umeng.com^
+||alogsus.umeng.com^
 ||alogus.umeng.com^
 ||an.facebook.com^
 ||analysis.chatglm.cn^
@@ -1261,6 +1263,7 @@
 ||beizi.biz^
 ||bgg.baidu.com^
 ||bianxian.com^
+||bid.shanghailingye.cn^
 ||biz.weibo.com^
 ||bj.ad.track.66mobi.com^
 ||boost-cmp.hismarttv.com^
@@ -1298,6 +1301,8 @@
 ||client-upload.cn-shanghai.log.aliyuncs.com^
 ||clog.miguvideo.com^
 ||cloooud.com^
+||cn-api-sec.anythinktech.com^
+||cn-tk.anythinktech.com^
 ||cnlogs.umeng.com^
 ||cnlogs.umengcloud.com^
 ||cnzz.com^
@@ -1313,6 +1318,7 @@
 ||d.applovin.com^
 ||d.applvn.com^
 ||da.anythinktech.com^
+||da.statisticslinks.com^
 ||data-sdk-uuid-log.d.meituan.net^
 ||data.ads.oppomobile.com^
 ||data.chsmarttv.com^
@@ -1336,6 +1342,9 @@
 ||edge.ads.twitch.tv^
 ||engine.dcad01.com^
 ||entry.baidu.com^
+||errlog.umeng.com^
+||errlogos.umeng.com^
+||errnewlogos.umeng.com^
 ||et-eus.w.inmobi.com^
 ||event.tradplusad.com^
 ||events-drcn.op.dbankcloud.cn^
@@ -1654,6 +1663,7 @@
 ||smetrics.samsung.com^
 ||sms.ads.oppomobile.com^
 ||sngmta.qq.com^
+||ssapi.anythinktech.com^
 ||ssp.cloooud.com^
 ||staging-notify.sec.miui.com^
 ||stat.dongqiudi.com^
@@ -1692,6 +1702,7 @@
 ||test.e.ad.xiaomi.com^
 ||tj.b.qq.com^
 ||tj.video.qq.com^
+||tk.statisticslinks.com^
 ||tmfmazu-wangka.m.qq.com^
 ||tmfmazu.m.qq.com^
 ||tmfsdk.m.qq.com^
@@ -1806,46 +1817,46 @@
 ||vlion.cn^
 ||yfanads.com^
 ||zhangyuyidong.cn^
-140.82.113.25                 alive.github.com
+140.82.113.26                 alive.github.com
 20.205.243.168                api.github.com
-140.82.114.21                 api.individual.githubcopilot.com
-185.199.111.133               avatars.githubusercontent.com
-185.199.111.133               avatars0.githubusercontent.com
-185.199.111.133               avatars1.githubusercontent.com
-185.199.111.133               avatars2.githubusercontent.com
-185.199.111.133               avatars3.githubusercontent.com
-185.199.111.133               avatars4.githubusercontent.com
-185.199.111.133               avatars5.githubusercontent.com
-185.199.111.133               camo.githubusercontent.com
+140.82.113.22                 api.individual.githubcopilot.com
+185.199.110.133               avatars.githubusercontent.com
+185.199.110.133               avatars0.githubusercontent.com
+185.199.110.133               avatars1.githubusercontent.com
+185.199.110.133               avatars2.githubusercontent.com
+185.199.110.133               avatars3.githubusercontent.com
+185.199.110.133               avatars4.githubusercontent.com
+185.199.110.133               avatars5.githubusercontent.com
+185.199.110.133               camo.githubusercontent.com
 140.82.112.22                 central.github.com
-185.199.111.133               cloud.githubusercontent.com
-57.155.223.241                codeload.github.com
-140.82.112.22                 collector.github.com
-185.199.111.133               desktop.githubusercontent.com
-185.199.111.133               favicons.githubusercontent.com
-57.155.223.240                gist.github.com
-52.216.246.56                 github-cloud.s3.amazonaws.com
-16.15.183.116                 github-com.s3.amazonaws.com
-16.15.244.101                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.32.202                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.207.103                 github-production-user-asset-6210df.s3.amazonaws.com
+185.199.110.133               cloud.githubusercontent.com
+20.6.7.16                     codeload.github.com
+140.82.112.21                 collector.github.com
+185.199.110.133               desktop.githubusercontent.com
+185.199.110.133               favicons.githubusercontent.com
+20.6.7.17                     gist.github.com
+52.216.48.10                  github-cloud.s3.amazonaws.com
+54.231.132.82                 github-com.s3.amazonaws.com
+54.231.194.98                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.137.210                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.135.2                  github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
-20.205.243.166                github.com
-140.82.113.17                 github.community
-185.199.109.215               github.githubassets.com
-140.248.165.194               github.global.ssl.fastly.net
+57.155.223.240                github.com
+140.82.112.18                 github.community
+185.199.111.215               github.githubassets.com
+104.244.43.248                github.global.ssl.fastly.net
 185.199.109.153               github.io
-185.199.111.133               github.map.fastly.net
+185.199.110.133               github.map.fastly.net
 185.199.109.153               githubstatus.com
-140.82.114.25                 live.github.com
-185.199.111.133               media.githubusercontent.com
-185.199.111.133               objects.githubusercontent.com
+140.82.112.26                 live.github.com
+185.199.110.133               media.githubusercontent.com
+185.199.110.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.111.133               raw.githubusercontent.com
-185.199.111.133               user-images.githubusercontent.com
-150.171.110.101               vscode.dev
-140.82.113.21                 education.github.com
-185.199.111.133               private-user-images.githubusercontent.com
+185.199.110.133               raw.githubusercontent.com
+185.199.110.133               user-images.githubusercontent.com
+150.171.110.98                vscode.dev
+140.82.114.21                 education.github.com
+185.199.110.133               private-user-images.githubusercontent.com
 ||vs1.szcu.u3.ucweb.com^
 ||vs2.bjct.u3.ucweb.com^
 ||vs2.bjct.u3.ucweb.com^$important
@@ -155829,7 +155840,6 @@
 ||polaris3-normal-lf.zijieapi.com^
 ||polaris3-normal-hl.zijieapi.com^
 ||ar.umeng.com^
-||errlog.umeng.com^
 ||sec.umeng.com^
 ||sss.umeng.com^
 ||ulogs.umengcloud.com.gds.alibabadns.com^
@@ -155841,7 +155851,6 @@
 ||alogsus.umengcloud.com^
 ||oc.umeng.com^
 ||alogs.umeng.com^
-||alogsus.umeng.com^
 ||ocx.umeng.com^
 ||ouplog.umeng.com^
 ||track.xiachufang.com^
@@ -156581,7 +156590,6 @@
 ||gamew4.cclakj.cn^
 ||asdqfdfb.www71685a.com^
 ||a.tikotkn.com^
-||cn-tk.anythinktech.com^
 ||pitk.birdgesdk.com^
 ||adx.zuoyebang.com^
 ||raddus.bayescom.com^

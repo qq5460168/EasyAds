@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-11-16 12:01:20（北京时间）
-# 规则总数: 145641
+# 更新时间: 2026-11-17 01:43:44（北京时间）
+# 规则总数: 145649
 
 payload:
   - '0.myikas.com'
@@ -15139,6 +15139,7 @@ payload:
   - 'adx.ads.oppomobile.com'
   - 'adx.adwangmai.com'
   - 'adx.adxglobal.com'
+  - 'adx.anythinktech.com'
   - 'adx.appsdk.com.cn'
   - 'adx.baolongan.vn'
   - 'adx.chinmedia.vn'
@@ -24992,6 +24993,7 @@ payload:
   - 'bid.glass'
   - 'bid.mbidtg.com'
   - 'bid.onclcktg.com'
+  - 'bid.shanghailingye.cn'
   - 'bidarblam.com'
   - 'bidberry.net'
   - 'bidbrain.app'
@@ -32402,6 +32404,7 @@ payload:
   - 'cmyiojnzfirqc.website'
   - 'cmyweexqchdwlh.com'
   - 'cmzaly.gebrueder-goetz.de'
+  - 'cn-api-sec.anythinktech.com'
   - 'cn-api.anythinktech.com'
   - 'cn-beijing.log.aliyuncs.com'
   - 'cn-da.anythinktech.com'
@@ -37590,6 +37593,7 @@ payload:
   - 'da.qiyukf.com'
   - 'da.rabobank.nl'
   - 'da.rus-atlas.ru'
+  - 'da.statisticslinks.com'
   - 'da.zilovaro.ru'
   - 'da00ebe35b.88ddebd3d3.com'
   - 'da1b39e06f.cccc5a2b7f.com'
@@ -46861,8 +46865,10 @@ payload:
   - 'erreoawajurdj.space'
   - 'erriteolycook.qpon'
   - 'errlog.umeng.com'
+  - 'errlogos.umeng.com'
   - 'errnewlog.umeng.com'
   - 'errnewlog.umeng.com.lan'
+  - 'errnewlogos.umeng.com'
   - 'errnotice.oss-cn-shenzhen.aliyuncs.com'
   - 'error-analytics-production.shopifysvc.com'
   - 'error-analytics-sessions-production.shopifysvc.com'
@@ -115102,6 +115108,7 @@ payload:
   - 'ssaiwvjpyevjq.site'
   - 'ssajebtiagency.it.com'
   - 'ssancib.top'
+  - 'ssapi.anythinktech.com'
   - 'ssasa.dvclw.cn'
   - 'ssb.ah499.com'
   - 'ssblepbnncttn.site'
@@ -122988,6 +122995,7 @@ payload:
   - 'tk.santevet.es'
   - 'tk.santevet.it'
   - 'tk.speedway.fr'
+  - 'tk.statisticslinks.com'
   - 'tk.svsound.com'
   - 'tk.teleshopping.fr'
   - 'tk.tikamoon.at'

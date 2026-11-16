@@ -1,6 +1,6 @@
 # EasyAds 纯域名列表
-# 生成时间: 2026-11-16 12:01:18（北京时间）
-# 共 145577 个域名
+# 生成时间: 2026-11-17 01:43:42（北京时间）
+# 共 145585 个域名
 
 0.myikas.com
 0.net.easyjet.com
@@ -15118,6 +15118,7 @@ adx.ads.heytapmobi.com
 adx.ads.oppomobile.com
 adx.adwangmai.com
 adx.adxglobal.com
+adx.anythinktech.com
 adx.appsdk.com.cn
 adx.baolongan.vn
 adx.chinmedia.vn
@@ -24970,6 +24971,7 @@ bid.adbiding.com
 bid.glass
 bid.mbidtg.com
 bid.onclcktg.com
+bid.shanghailingye.cn
 bidarblam.com
 bidberry.net
 bidbrain.app
@@ -32375,6 +32377,7 @@ cmxfbwwuwdyjq.site
 cmyiojnzfirqc.website
 cmyweexqchdwlh.com
 cmzaly.gebrueder-goetz.de
+cn-api-sec.anythinktech.com
 cn-api.anythinktech.com
 cn-beijing.log.aliyuncs.com
 cn-da.anythinktech.com
@@ -37563,6 +37566,7 @@ da.netease.com
 da.qiyukf.com
 da.rabobank.nl
 da.rus-atlas.ru
+da.statisticslinks.com
 da.zilovaro.ru
 da00ebe35b.88ddebd3d3.com
 da1b39e06f.cccc5a2b7f.com
@@ -46830,8 +46834,10 @@ errdom.oss-cn-heyuan.aliyuncs.com
 erreoawajurdj.space
 erriteolycook.qpon
 errlog.umeng.com
+errlogos.umeng.com
 errnewlog.umeng.com
 errnewlog.umeng.com.lan
+errnewlogos.umeng.com
 errnotice.oss-cn-shenzhen.aliyuncs.com
 error-analytics-production.shopifysvc.com
 error-analytics-sessions-production.shopifysvc.com
@@ -115045,6 +115051,7 @@ ssagntroplexa.com
 ssaiwvjpyevjq.site
 ssajebtiagency.it.com
 ssancib.top
+ssapi.anythinktech.com
 ssasa.dvclw.cn
 ssb.ah499.com
 ssblepbnncttn.site
@@ -122930,6 +122937,7 @@ tk.santevet.de
 tk.santevet.es
 tk.santevet.it
 tk.speedway.fr
+tk.statisticslinks.com
 tk.svsound.com
 tk.teleshopping.fr
 tk.tikamoon.at

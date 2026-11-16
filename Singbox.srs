@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-11-16 12:01:20（北京时间）
-# 规则总数: 145641
+# 更新时间: 2026-11-17 01:43:45（北京时间）
+# 规则总数: 145649
 # 注意：本文件为旧版文本格式，sing-box 请使用 Singbox.json
 
 domain: 0.myikas.com, policy: reject
@@ -15139,6 +15139,7 @@ domain: adx.ads.heytapmobi.com, policy: reject
 domain: adx.ads.oppomobile.com, policy: reject
 domain: adx.adwangmai.com, policy: reject
 domain: adx.adxglobal.com, policy: reject
+domain: adx.anythinktech.com, policy: reject
 domain: adx.appsdk.com.cn, policy: reject
 domain: adx.baolongan.vn, policy: reject
 domain: adx.chinmedia.vn, policy: reject
@@ -24992,6 +24993,7 @@ domain: bid.adbiding.com, policy: reject
 domain: bid.glass, policy: reject
 domain: bid.mbidtg.com, policy: reject
 domain: bid.onclcktg.com, policy: reject
+domain: bid.shanghailingye.cn, policy: reject
 domain: bidarblam.com, policy: reject
 domain: bidberry.net, policy: reject
 domain: bidbrain.app, policy: reject
@@ -32402,6 +32404,7 @@ domain: cmxfbwwuwdyjq.site, policy: reject
 domain: cmyiojnzfirqc.website, policy: reject
 domain: cmyweexqchdwlh.com, policy: reject
 domain: cmzaly.gebrueder-goetz.de, policy: reject
+domain: cn-api-sec.anythinktech.com, policy: reject
 domain: cn-api.anythinktech.com, policy: reject
 domain: cn-beijing.log.aliyuncs.com, policy: reject
 domain: cn-da.anythinktech.com, policy: reject
@@ -37590,6 +37593,7 @@ domain: da.netease.com, policy: reject
 domain: da.qiyukf.com, policy: reject
 domain: da.rabobank.nl, policy: reject
 domain: da.rus-atlas.ru, policy: reject
+domain: da.statisticslinks.com, policy: reject
 domain: da.zilovaro.ru, policy: reject
 domain: da00ebe35b.88ddebd3d3.com, policy: reject
 domain: da1b39e06f.cccc5a2b7f.com, policy: reject
@@ -46861,8 +46865,10 @@ domain: errdom.oss-cn-heyuan.aliyuncs.com, policy: reject
 domain: erreoawajurdj.space, policy: reject
 domain: erriteolycook.qpon, policy: reject
 domain: errlog.umeng.com, policy: reject
+domain: errlogos.umeng.com, policy: reject
 domain: errnewlog.umeng.com, policy: reject
 domain: errnewlog.umeng.com.lan, policy: reject
+domain: errnewlogos.umeng.com, policy: reject
 domain: errnotice.oss-cn-shenzhen.aliyuncs.com, policy: reject
 domain: error-analytics-production.shopifysvc.com, policy: reject
 domain: error-analytics-sessions-production.shopifysvc.com, policy: reject
@@ -115102,6 +115108,7 @@ domain: ssagntroplexa.com, policy: reject
 domain: ssaiwvjpyevjq.site, policy: reject
 domain: ssajebtiagency.it.com, policy: reject
 domain: ssancib.top, policy: reject
+domain: ssapi.anythinktech.com, policy: reject
 domain: ssasa.dvclw.cn, policy: reject
 domain: ssb.ah499.com, policy: reject
 domain: ssblepbnncttn.site, policy: reject
@@ -122988,6 +122995,7 @@ domain: tk.santevet.de, policy: reject
 domain: tk.santevet.es, policy: reject
 domain: tk.santevet.it, policy: reject
 domain: tk.speedway.fr, policy: reject
+domain: tk.statisticslinks.com, policy: reject
 domain: tk.svsound.com, policy: reject
 domain: tk.teleshopping.fr, policy: reject
 domain: tk.tikamoon.at, policy: reject

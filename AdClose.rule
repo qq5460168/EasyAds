@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-11-16 12:01:21（北京时间）
-# 规则总数: 145641
+# 更新时间: 2026-11-17 01:43:45（北京时间）
+# 规则总数: 145649
 
 domain, 0.myikas.com
 domain, 0.net.easyjet.com
@@ -15138,6 +15138,7 @@ domain, adx.ads.heytapmobi.com
 domain, adx.ads.oppomobile.com
 domain, adx.adwangmai.com
 domain, adx.adxglobal.com
+domain, adx.anythinktech.com
 domain, adx.appsdk.com.cn
 domain, adx.baolongan.vn
 domain, adx.chinmedia.vn
@@ -24991,6 +24992,7 @@ domain, bid.adbiding.com
 domain, bid.glass
 domain, bid.mbidtg.com
 domain, bid.onclcktg.com
+domain, bid.shanghailingye.cn
 domain, bidarblam.com
 domain, bidberry.net
 domain, bidbrain.app
@@ -32401,6 +32403,7 @@ domain, cmxfbwwuwdyjq.site
 domain, cmyiojnzfirqc.website
 domain, cmyweexqchdwlh.com
 domain, cmzaly.gebrueder-goetz.de
+domain, cn-api-sec.anythinktech.com
 domain, cn-api.anythinktech.com
 domain, cn-beijing.log.aliyuncs.com
 domain, cn-da.anythinktech.com
@@ -37589,6 +37592,7 @@ domain, da.netease.com
 domain, da.qiyukf.com
 domain, da.rabobank.nl
 domain, da.rus-atlas.ru
+domain, da.statisticslinks.com
 domain, da.zilovaro.ru
 domain, da00ebe35b.88ddebd3d3.com
 domain, da1b39e06f.cccc5a2b7f.com
@@ -46860,8 +46864,10 @@ domain, errdom.oss-cn-heyuan.aliyuncs.com
 domain, erreoawajurdj.space
 domain, erriteolycook.qpon
 domain, errlog.umeng.com
+domain, errlogos.umeng.com
 domain, errnewlog.umeng.com
 domain, errnewlog.umeng.com.lan
+domain, errnewlogos.umeng.com
 domain, errnotice.oss-cn-shenzhen.aliyuncs.com
 domain, error-analytics-production.shopifysvc.com
 domain, error-analytics-sessions-production.shopifysvc.com
@@ -115101,6 +115107,7 @@ domain, ssagntroplexa.com
 domain, ssaiwvjpyevjq.site
 domain, ssajebtiagency.it.com
 domain, ssancib.top
+domain, ssapi.anythinktech.com
 domain, ssasa.dvclw.cn
 domain, ssb.ah499.com
 domain, ssblepbnncttn.site
@@ -122987,6 +122994,7 @@ domain, tk.santevet.de
 domain, tk.santevet.es
 domain, tk.santevet.it
 domain, tk.speedway.fr
+domain, tk.statisticslinks.com
 domain, tk.svsound.com
 domain, tk.teleshopping.fr
 domain, tk.tikamoon.at
