@@ -1,6 +1,6 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-11-17 10:43:45（北京时间）
-# 规则总数: 145649
+# 更新时间: 2026-11-17 20:39:46（北京时间）
+# 规则总数: 145651
 
 domain, 0.myikas.com
 domain, 0.net.easyjet.com
@@ -32180,6 +32180,7 @@ domain, cloudcode-53295434.com
 domain, cloudconf.fengkongcloud.com
 domain, clouderrorreporting.googleapis.com
 domain, cloudflare.st
+domain, cloudflareinsights.com
 domain, cloudflrcdn.com
 domain, cloudford.grayford.in.net
 domain, cloudformix.net
@@ -130800,6 +130801,7 @@ domain, usneaers.cfd
 domain, usnihqekssbkq.space
 domain, usninchopas.cyou
 domain, usninleed.cfd
+domain, usnorbert.com
 domain, usnvuj.skillfactory.ru
 domain, usonar.jp
 domain, usouokopeukasrs.org

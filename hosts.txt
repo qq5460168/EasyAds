@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-11-17 10:43:45（北京时间）
-# 规则总数: 145649
+# 更新时间: 2026-11-17 20:39:46（北京时间）
+# 规则总数: 145651
 
 0.0.0.0 0.myikas.com
 0.0.0.0 0.net.easyjet.com
@@ -32180,6 +32180,7 @@
 0.0.0.0 cloudconf.fengkongcloud.com
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 cloudflare.st
+0.0.0.0 cloudflareinsights.com
 0.0.0.0 cloudflrcdn.com
 0.0.0.0 cloudford.grayford.in.net
 0.0.0.0 cloudformix.net
@@ -130800,6 +130801,7 @@
 0.0.0.0 usnihqekssbkq.space
 0.0.0.0 usninchopas.cyou
 0.0.0.0 usninleed.cfd
+0.0.0.0 usnorbert.com
 0.0.0.0 usnvuj.skillfactory.ru
 0.0.0.0 usonar.jp
 0.0.0.0 usouokopeukasrs.org

@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-11-17 10:43:45（北京时间）
-# 规则总数: 145649
+# 更新时间: 2026-11-17 20:39:45（北京时间）
+# 规则总数: 145651
 # 注意：本文件为旧版文本格式，sing-box 请使用 Singbox.json
 
 domain: 0.myikas.com, policy: reject
@@ -32181,6 +32181,7 @@ domain: cloudcode-53295434.com, policy: reject
 domain: cloudconf.fengkongcloud.com, policy: reject
 domain: clouderrorreporting.googleapis.com, policy: reject
 domain: cloudflare.st, policy: reject
+domain: cloudflareinsights.com, policy: reject
 domain: cloudflrcdn.com, policy: reject
 domain: cloudford.grayford.in.net, policy: reject
 domain: cloudformix.net, policy: reject
@@ -130801,6 +130802,7 @@ domain: usneaers.cfd, policy: reject
 domain: usnihqekssbkq.space, policy: reject
 domain: usninchopas.cyou, policy: reject
 domain: usninleed.cfd, policy: reject
+domain: usnorbert.com, policy: reject
 domain: usnvuj.skillfactory.ru, policy: reject
 domain: usonar.jp, policy: reject
 domain: usouokopeukasrs.org, policy: reject

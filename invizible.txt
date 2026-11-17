@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-11-17 10:43:45（北京时间）
-# 规则总数: 145649
+# 更新时间: 2026-11-17 20:39:46（北京时间）
+# 规则总数: 145651
 
 0.myikas.com block
 0.net.easyjet.com block
@@ -32180,6 +32180,7 @@ cloudcode-53295434.com block
 cloudconf.fengkongcloud.com block
 clouderrorreporting.googleapis.com block
 cloudflare.st block
+cloudflareinsights.com block
 cloudflrcdn.com block
 cloudford.grayford.in.net block
 cloudformix.net block
@@ -130800,6 +130801,7 @@ usneaers.cfd block
 usnihqekssbkq.space block
 usninchopas.cyou block
 usninleed.cfd block
+usnorbert.com block
 usnvuj.skillfactory.ru block
 usonar.jp block
 usouokopeukasrs.org block

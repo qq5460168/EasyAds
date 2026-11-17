@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-11-17 10:43:44（北京时间）
-# 规则总数: 145649
+# 更新时间: 2026-11-17 20:39:45（北京时间）
+# 规则总数: 145651
 
 payload:
   - '0.myikas.com'
@@ -32181,6 +32181,7 @@ payload:
   - 'cloudconf.fengkongcloud.com'
   - 'clouderrorreporting.googleapis.com'
   - 'cloudflare.st'
+  - 'cloudflareinsights.com'
   - 'cloudflrcdn.com'
   - 'cloudford.grayford.in.net'
   - 'cloudformix.net'
@@ -130801,6 +130802,7 @@ payload:
   - 'usnihqekssbkq.space'
   - 'usninchopas.cyou'
   - 'usninleed.cfd'
+  - 'usnorbert.com'
   - 'usnvuj.skillfactory.ru'
   - 'usonar.jp'
   - 'usouokopeukasrs.org'
