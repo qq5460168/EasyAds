@@ -1,5 +1,5 @@
 # DNS rules extracted from adblock.txt
-# Generated on 2026-11-20 13:02:29（北京时间）
+# Generated on 2026-11-21 00:33:11（北京时间）
 
 ||ad.360.cn^
 ||ad.jia.360.cn^
