@@ -1,6 +1,6 @@
 # Clash规则 - 自动生成
-# 更新时间: 2026-11-25 11:17:08（北京时间）
-# 规则总数: 145651
+# 更新时间: 2026-11-25 21:46:47（北京时间）
+# 规则总数: 145652
 
 payload:
   - '0.myikas.com'
@@ -473,7 +473,6 @@ payload:
   - '1.hao123.com'
   - '1.hnyouneng.com'
   - '1.hslyqs.com'
-  - '1.huanle739.cc'
   - '1.i1766.com'
   - '1.i999d.cn'
   - '1.iqeq.com.cn'
@@ -1711,6 +1710,7 @@ payload:
   - '2551910ed4.com'
   - '2560.fd.mobile.tv.sms13.de'
   - '25662zubo23739.com'
+  - '256kpdz.com'
   - '256ppp.com'
   - '25801.pro'
   - '25871.pink'
@@ -41674,7 +41674,6 @@ payload:
   - 'dns.wechat.com'
   - 'dns.weibo.cn'
   - 'dns.weixin.qq.com'
-  - 'dns.weixin.qq.com.cn'
   - 'dns05.com'
   - 'dns2.q2cdn.com'
   - 'dns2.titannetwork.cn'
@@ -61152,6 +61151,7 @@ payload:
   - 'i0k.cn'
   - 'i0y0i9vz0.com'
   - 'i1.bra9lupt5ev.ru'
+  - 'i1.go2yd.com'
   - 'i10.mayoblast.com'
   - 'i11.mayoblast.com'
   - 'i1236.net'
@@ -121143,6 +121143,7 @@ payload:
   - 'tb104x.corp.youdao.com'
   - 'tb1mdkeni.com'
   - 'tb4gv2cp5z.com'
+  - 'tb6999.com'
   - 'tba.smrtp.link'
   - 'tbao684tryo.com'
   - 'tbaocdn.com'

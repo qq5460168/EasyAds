@@ -1,5 +1,5 @@
 # Quantumult X 规则 - 自动生成
-# 更新时间: 2026-11-25 11:17:06（北京时间）
+# 更新时间: 2026-11-25 21:46:45（北京时间）
 
 DOMAIN,ad.360.cn,reject
 DOMAIN,ad.jia.360.cn,reject
@@ -56,8 +56,6 @@ DOMAIN,xp.apple.com,reject
 DOMAIN,yyapp-httpdns.gslb.yy.com,reject
 DOMAIN,union-httpdns.gslb.yy.com,reject
 DOMAIN,dns2.q2cdn.com,reject
-DOMAIN,dns.weixin.qq.com,reject
-DOMAIN,dns.weixin.qq.com.cn,reject
 DOMAIN,httpdns.kg.qq.com,reject
 DOMAIN,httpdns.browser.miui.com,reject
 DOMAIN,resolver.msg.xiaomi.net,reject
@@ -679,6 +677,7 @@ DOMAIN,xsweb.gdt.qq.com,reject
 DOMAIN,as.yyymvp.com,reject
 DOMAIN,aedns.weixin.qq.com,reject
 DOMAIN,udns.weixin.qq.com,reject
+DOMAIN,dns.weixin.qq.com,reject
 DOMAIN,oth.eve.mdt.qq.com,reject
 DOMAIN,oth.eve.qq.com,reject
 DOMAIN,wxsnsdythumb.wxs.qq.com,reject
@@ -949,7 +948,6 @@ DOMAIN,apd-vodp2plogin.teg.tencent-cloud.net,reject
 DOMAIN,log.tpns.tencent.com,reject
 DOMAIN,adcdn6.tencentmusic.com,reject
 DOMAIN,tencent-dtv.m.cn.miaozhen.com,reject
-DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,reject
 DOMAIN,adlog.qingting.fm,reject
 DOMAIN,ad-cdn.qtfm.cn,reject
 DOMAIN,api-zhibo.qtfm.cn,reject
@@ -1533,6 +1531,10 @@ DOMAIN,shturl.cc,reject
 DOMAIN,loanlink.cn,reject
 DOMAIN,push.jiguang.cn,reject
 DOMAIN,tracking.umeng.com,reject
+DOMAIN,i1.go2yd.com,reject
+DOMAIN,022022.cc,reject
+DOMAIN,tb6999.com,reject
+DOMAIN,256kpdz.com,reject
 DOMAIN,k3l.cn,reject
 DOMAIN,vip.k3l.cn,reject
 DOMAIN,vip.7j0.cn,reject
@@ -3594,6 +3596,7 @@ DOMAIN,agn.aty.sohu.com,reject
 DOMAIN,umengacs.m.taobao.com,reject
 DOMAIN,adsmind.gdtimg.com,reject
 DOMAIN,aegis.qq.com,reject
+DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,reject
 DOMAIN,apd-pcdnwxstat.teg.tencent-cloud.net,reject
 DOMAIN,beaconcdn.qq.com,reject
 DOMAIN,c.gj.qq.com,reject
@@ -16876,7 +16879,6 @@ DOMAIN,02085170.xyz,reject
 DOMAIN,020kqy.com,reject
 DOMAIN,0213499675.com,reject
 DOMAIN,0214217ebc.com,reject
-DOMAIN,022022.cc,reject
 DOMAIN,02228640b9.com,reject
 DOMAIN,02352754.com,reject
 DOMAIN,024e3caef2.com,reject

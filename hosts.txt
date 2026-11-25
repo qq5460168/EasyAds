@@ -1,6 +1,6 @@
 # Hosts规则 - 自动生成
-# 更新时间: 2026-11-25 11:17:09（北京时间）
-# 规则总数: 145651
+# 更新时间: 2026-11-25 21:46:48（北京时间）
+# 规则总数: 145652
 
 0.0.0.0 0.myikas.com
 0.0.0.0 0.net.easyjet.com
@@ -472,7 +472,6 @@
 0.0.0.0 1.hao123.com
 0.0.0.0 1.hnyouneng.com
 0.0.0.0 1.hslyqs.com
-0.0.0.0 1.huanle739.cc
 0.0.0.0 1.i1766.com
 0.0.0.0 1.i999d.cn
 0.0.0.0 1.iqeq.com.cn
@@ -1710,6 +1709,7 @@
 0.0.0.0 2551910ed4.com
 0.0.0.0 2560.fd.mobile.tv.sms13.de
 0.0.0.0 25662zubo23739.com
+0.0.0.0 256kpdz.com
 0.0.0.0 256ppp.com
 0.0.0.0 25801.pro
 0.0.0.0 25871.pink
@@ -41673,7 +41673,6 @@
 0.0.0.0 dns.wechat.com
 0.0.0.0 dns.weibo.cn
 0.0.0.0 dns.weixin.qq.com
-0.0.0.0 dns.weixin.qq.com.cn
 0.0.0.0 dns05.com
 0.0.0.0 dns2.q2cdn.com
 0.0.0.0 dns2.titannetwork.cn
@@ -61151,6 +61150,7 @@
 0.0.0.0 i0k.cn
 0.0.0.0 i0y0i9vz0.com
 0.0.0.0 i1.bra9lupt5ev.ru
+0.0.0.0 i1.go2yd.com
 0.0.0.0 i10.mayoblast.com
 0.0.0.0 i11.mayoblast.com
 0.0.0.0 i1236.net
@@ -121142,6 +121142,7 @@
 0.0.0.0 tb104x.corp.youdao.com
 0.0.0.0 tb1mdkeni.com
 0.0.0.0 tb4gv2cp5z.com
+0.0.0.0 tb6999.com
 0.0.0.0 tba.smrtp.link
 0.0.0.0 tbao684tryo.com
 0.0.0.0 tbaocdn.com

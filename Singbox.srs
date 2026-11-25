@@ -1,6 +1,6 @@
 # Singbox规则 - 自动生成
-# 更新时间: 2026-11-25 11:17:09（北京时间）
-# 规则总数: 145651
+# 更新时间: 2026-11-25 21:46:48（北京时间）
+# 规则总数: 145652
 # 注意：本文件为旧版文本格式，sing-box 请使用 Singbox.json
 
 domain: 0.myikas.com, policy: reject
@@ -473,7 +473,6 @@ domain: 1.gunsuo.com, policy: reject
 domain: 1.hao123.com, policy: reject
 domain: 1.hnyouneng.com, policy: reject
 domain: 1.hslyqs.com, policy: reject
-domain: 1.huanle739.cc, policy: reject
 domain: 1.i1766.com, policy: reject
 domain: 1.i999d.cn, policy: reject
 domain: 1.iqeq.com.cn, policy: reject
@@ -1711,6 +1710,7 @@ domain: 254a.com, policy: reject
 domain: 2551910ed4.com, policy: reject
 domain: 2560.fd.mobile.tv.sms13.de, policy: reject
 domain: 25662zubo23739.com, policy: reject
+domain: 256kpdz.com, policy: reject
 domain: 256ppp.com, policy: reject
 domain: 25801.pro, policy: reject
 domain: 25871.pink, policy: reject
@@ -41674,7 +41674,6 @@ domain: dns.qq.com, policy: reject
 domain: dns.wechat.com, policy: reject
 domain: dns.weibo.cn, policy: reject
 domain: dns.weixin.qq.com, policy: reject
-domain: dns.weixin.qq.com.cn, policy: reject
 domain: dns05.com, policy: reject
 domain: dns2.q2cdn.com, policy: reject
 domain: dns2.titannetwork.cn, policy: reject
@@ -61152,6 +61151,7 @@ domain: i.zhuoyaju.com, policy: reject
 domain: i0k.cn, policy: reject
 domain: i0y0i9vz0.com, policy: reject
 domain: i1.bra9lupt5ev.ru, policy: reject
+domain: i1.go2yd.com, policy: reject
 domain: i10.mayoblast.com, policy: reject
 domain: i11.mayoblast.com, policy: reject
 domain: i1236.net, policy: reject
@@ -121143,6 +121143,7 @@ domain: tb060x.corp.youdao.com, policy: reject
 domain: tb104x.corp.youdao.com, policy: reject
 domain: tb1mdkeni.com, policy: reject
 domain: tb4gv2cp5z.com, policy: reject
+domain: tb6999.com, policy: reject
 domain: tba.smrtp.link, policy: reject
 domain: tbao684tryo.com, policy: reject
 domain: tbaocdn.com, policy: reject

@@ -1,6 +1,6 @@
 # Invizible规则 - 自动生成
-# 更新时间: 2026-11-25 11:17:09（北京时间）
-# 规则总数: 145651
+# 更新时间: 2026-11-25 21:46:48（北京时间）
+# 规则总数: 145652
 
 0.myikas.com block
 0.net.easyjet.com block
@@ -472,7 +472,6 @@
 1.hao123.com block
 1.hnyouneng.com block
 1.hslyqs.com block
-1.huanle739.cc block
 1.i1766.com block
 1.i999d.cn block
 1.iqeq.com.cn block
@@ -1710,6 +1709,7 @@
 2551910ed4.com block
 2560.fd.mobile.tv.sms13.de block
 25662zubo23739.com block
+256kpdz.com block
 256ppp.com block
 25801.pro block
 25871.pink block
@@ -41673,7 +41673,6 @@ dns.qq.com block
 dns.wechat.com block
 dns.weibo.cn block
 dns.weixin.qq.com block
-dns.weixin.qq.com.cn block
 dns05.com block
 dns2.q2cdn.com block
 dns2.titannetwork.cn block
@@ -61151,6 +61150,7 @@ i.zhuoyaju.com block
 i0k.cn block
 i0y0i9vz0.com block
 i1.bra9lupt5ev.ru block
+i1.go2yd.com block
 i10.mayoblast.com block
 i11.mayoblast.com block
 i1236.net block
@@ -121142,6 +121142,7 @@ tb060x.corp.youdao.com block
 tb104x.corp.youdao.com block
 tb1mdkeni.com block
 tb4gv2cp5z.com block
+tb6999.com block
 tba.smrtp.link block
 tbao684tryo.com block
 tbaocdn.com block
