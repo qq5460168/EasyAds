@@ -1,5 +1,5 @@
 # Adclose规则 - 自动生成
-# 更新时间: 2026-11-27 21:22:09（北京时间）
+# 更新时间: 2026-11-28 07:52:00（北京时间）
 # 规则总数: 145652
 
 domain, 0.myikas.com
@@ -6480,7 +6480,6 @@ domain, HG321.CC
 domain, I9z.cn
 domain, IMTY.US
 domain, JK98.CC
-domain, Media.net
 domain, a-ads.com
 domain, a-api.skz.dev
 domain, a-counter.kiev.ua
@@ -79985,6 +79984,7 @@ domain, media.ignitium.com
 domain, media.jointreport-switch.com
 domain, media.leahy-ifp.com
 domain, media.mobpartner.mobi
+domain, media.net
 domain, media.netpositive.hu
 domain, media.netrefer.com
 domain, media.olmiweb.com
